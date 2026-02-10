@@ -20,6 +20,8 @@ console.log('[DEBUG] game.js: data.js loaded successfully')
 
 const { Theme, Font } = require('./js/theme')
 const { roundRect, inRect } = require('./js/utils')
+const { State, loadProgress, saveProgress } = require('./js/state')
+const { LayoutConfig, calculateLayout } = require('./js/layout')
 
 // ===============================================================
 // HAPTIC FEEDBACK (vibration only, no audio files needed)
@@ -68,126 +70,13 @@ const ctx = canvas.getContext('2d')
 // LAYOUT ENGINE (Dynamic, shrink-wraps to content)
 // ===============================================================
 
-const LayoutConfig = {
-  headerHeight: 44,
-  clueBarHeight: 52,
-  keyboardHeight: 200,
-  gridPadding: 20
-}
-
-/**
- * Calculate layout for rows × cols grid
- * Shrink-wraps to content, centered in game area
- */
-function calculateLayout(rows, cols) {
-  const headerH = LayoutConfig.headerHeight
-  const clueH = LayoutConfig.clueBarHeight
-  const keyboardH = LayoutConfig.keyboardHeight
-  const padding = LayoutConfig.gridPadding
-  
-  const gameBoardTop = SAFE_TOP + headerH
-  const gameBoardBottom = H - HOME_INDICATOR - keyboardH - clueH
-  const gameBoardHeight = gameBoardBottom - gameBoardTop
-  const gameBoardWidth = W
-  
-  const border = Theme.gridBorderWidth
-  const gap = Theme.gridGap
-  
-  // Max available space (90vw, with padding)
-  const maxWidth = Math.min(gameBoardWidth - padding * 2, W * 0.9)
-  const maxHeight = gameBoardHeight - padding * 2
-  
-  // Calculate cell size to fit both dimensions
-  const maxCellByWidth = (maxWidth - 2 * border - (cols - 1) * gap) / cols
-  const maxCellByHeight = (maxHeight - 2 * border - (rows - 1) * gap) / rows
-  
-  // Enforce min/max cell size
-  const minCellSize = 40
-  const maxCellSize = 80
-  const cellSize = Math.floor(Math.min(
-    Math.max(minCellSize, Math.min(maxCellByWidth, maxCellByHeight)),
-    maxCellSize
-  ))
-  
-  // Calculate actual grid dimensions (shrink-wrap)
-  const gridWidth = cols * cellSize + (cols - 1) * gap + 2 * border
-  const gridHeight = rows * cellSize + (rows - 1) * gap + 2 * border
-  
-  // Center grid in game board area
-  const gridX = Math.floor((gameBoardWidth - gridWidth) / 2)
-  const gridY = gameBoardTop + Math.floor((gameBoardHeight - gridHeight) / 2)
-  
-  return {
-    headerY: SAFE_TOP,
-    headerH,
-    gameBoardTop,
-    gameBoardBottom,
-    gameBoardHeight,
-    gridX,
-    gridY,
-    gridWidth,
-    gridHeight,
-    rows,
-    cols,
-    cellSize,
-    border,
-    gap,
-    innerX: gridX + border,
-    innerY: gridY + border,
-    clueY: H - HOME_INDICATOR - keyboardH - clueH,
-    clueH,
-    keyboardY: H - HOME_INDICATOR - keyboardH,
-    keyboardH,
-    homeIndicatorH: HOME_INDICATOR
-  }
-}
-
 // ===============================================================
 // GAME STATE
 // ===============================================================
 
-const State = {
-  screen: 'menu',
-  level: 'elementary',
-  puzzleIndex: 0,
-  puzzle: null,
-  grid: null,
-  activeRow: 0,
-  activeCol: 0,
-  direction: 'across',
-  score: 0,
-  hints: 5,
-  completed: {},
-  lang: 'en',
-  startTime: 0,
-  layout: null
-}
-
 // ===============================================================
 // STORAGE
 // ===============================================================
-
-function loadProgress() {
-  try {
-    const data = wx.getStorageSync('crossword_v5')
-    if (data) {
-      const parsed = JSON.parse(data)
-      State.score = parsed.score || 0
-      State.hints = parsed.hints ?? 5
-      State.completed = parsed.completed || {}
-      State.lang = parsed.lang || 'en'
-    }
-  } catch (e) {}
-}
-
-function saveProgress() {
-  wx.setStorageSync('crossword_v5', JSON.stringify({
-    score: State.score,
-    hints: State.hints,
-    completed: State.completed,
-    lang: State.lang
-  }))
-}
 
 // ===============================================================
 // PUZZLE LOGIC
@@ -325,7 +214,7 @@ function initPuzzle(level, index) {
     }
   }
   
-  State.layout = calculateLayout(rows, cols)
+  State.layout = calculateLayout(rows, cols, { W, H, SAFE_TOP, HOME_INDICATOR, Theme })
   
   // Smart direction for initial cell
   const hasAcross = cellHasDirection(State.activeRow, State.activeCol, 'across')
