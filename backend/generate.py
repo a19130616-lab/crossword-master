@@ -18,7 +18,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate crossword puzzles")
     parser.add_argument("--size", type=int, default=5, help="Grid size")
     parser.add_argument("--count", type=int, default=5, help="Number of puzzles")
-    parser.add_argument("--output", type=str, default=str(ROOT / "backend" / "puzzles"), help="Output directory")
+    parser.add_argument("--output", type=str, default=str(ROOT / "miniprogram" / "puzzles"), help="Output directory")
     args = parser.parse_args()
 
     out_dir = Path(args.output)
