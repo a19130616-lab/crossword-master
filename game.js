@@ -18,6 +18,9 @@ console.log('[DEBUG] game.js: About to require data.js')
 const { LEVELS, PUZZLES } = require('./data.js')
 console.log('[DEBUG] game.js: data.js loaded successfully')
 
+const { Theme, Font } = require('./js/theme')
+const { roundRect, inRect } = require('./js/utils')
+
 // ===============================================================
 // HAPTIC FEEDBACK (vibration only, no audio files needed)
 // ===============================================================
@@ -60,51 +63,6 @@ const ctx = canvas.getContext('2d')
 // ===============================================================
 // DESIGN TOKENS
 // ===============================================================
-
-const Theme = {
-  bg: '#F8F8F8',
-  surface: '#FFFFFF',
-  
-  // Grid - Gap border technique with visual separation
-  gridOuterBorder: '#000000',
-  gridLineColor: '#555555',
-  gridBorderWidth: 4,
-  gridGap: 1,
-  
-  cellBg: '#FFFFFF',
-  cellBlack: '#000000',
-  cellActive: '#FFD700',
-  cellActiveWord: '#FFF9C4',
-  
-  text: '#000000',
-  textSecondary: '#333333',
-  textTertiary: '#666666',
-  textOnDark: '#FFFFFF',
-  
-  blue: '#1976D2',
-  green: '#388E3C',
-  orange: '#F57C00',
-  
-  clueBarBg: '#EEEEEE',
-  clueBarBorder: '#CCCCCC',
-  
-  keyBg: '#FFFFFF',
-  keyPressed: '#BDBDBD',
-  keySpecial: '#9E9E9E',
-  keyboardBg: '#D1D3D9',
-  keyShadow: 'rgba(0,0,0,0.3)'
-}
-
-const Font = {
-  title: 'bold 24px -apple-system, sans-serif',
-  headline: '600 17px -apple-system, sans-serif',
-  body: '400 16px -apple-system, sans-serif',
-  subhead: '400 14px -apple-system, sans-serif',
-  caption: '400 12px -apple-system, sans-serif',
-  key: '500 22px -apple-system, sans-serif',
-  gridLetter: (s) => `bold ${Math.floor(s * 0.55)}px Arial, sans-serif`,
-  gridNumber: () => '400 10px Arial, sans-serif'
-}
 
 // ===============================================================
 // LAYOUT ENGINE (Dynamic, shrink-wraps to content)
@@ -743,19 +701,7 @@ const Keyboard = {
 // RENDERING
 // ===============================================================
 
-function roundRect(ctx, x, y, w, h, r) {
-  ctx.beginPath()
-  ctx.moveTo(x + r, y)
-  ctx.lineTo(x + w - r, y)
-  ctx.quadraticCurveTo(x + w, y, x + w, y + r)
-  ctx.lineTo(x + w, y + h - r)
-  ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h)
-  ctx.lineTo(x + r, y + h)
-  ctx.quadraticCurveTo(x, y + h, x, y + h - r)
-  ctx.lineTo(x, y + r)
-  ctx.quadraticCurveTo(x, y, x + r, y)
-  ctx.closePath()
-}
+// roundRect moved to js/utils.js
 
 function render() {
   ctx.fillStyle = Theme.bg
@@ -1169,9 +1115,7 @@ const UI = {
   completeMenuBtn: null
 }
 
-function inRect(x, y, rect) {
-  return rect && x >= rect.x && x <= rect.x + rect.w && y >= rect.y && y <= rect.y + rect.h
-}
+// inRect moved to js/utils.js
 
 function handleTouch(x, y) {
   switch (State.screen) {
