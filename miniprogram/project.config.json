@@ -9,5 +9,6 @@
   },
   "compileType": "game",
   "appid": "wx3c539952f8f9349d",
-  "projectname": "crossword-master"
+  "projectname": "crossword-master",
+  "miniprogramRoot": "./"
 }
