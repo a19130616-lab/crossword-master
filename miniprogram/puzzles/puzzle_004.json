@@ -1,0 +1,120 @@
+{
+  "id": "puzzle_004",
+  "title": "Generated Puzzle",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "h",
+      "i",
+      "p",
+      null
+    ],
+    [
+      "h",
+      "u",
+      "m",
+      "a",
+      "n"
+    ],
+    [
+      "i",
+      "m",
+      "a",
+      "g",
+      "e"
+    ],
+    [
+      "p",
+      "a",
+      "g",
+      "e",
+      "s"
+    ],
+    [
+      null,
+      "n",
+      "e",
+      "s",
+      "t"
+    ]
+  ],
+  "prefilled": [],
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 7,
+        "row": 3,
+        "col": 0,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 8,
+        "row": 4,
+        "col": 1,
+        "text": "",
+        "textZh": ""
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "text": "",
+        "textZh": ""
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "text": "",
+        "textZh": ""
+      }
+    ]
+  }
+}
