@@ -71,7 +71,7 @@ function renderMenu(ctx, deps) {
 }
 
 function renderLevels(ctx, deps) {
-  const { LEVELS, PUZZLES, Theme, Font, W, SAFE_TOP, UI } = deps
+  const { State, DIFFICULTIES, Theme, Font, W, SAFE_TOP, UI } = deps
 
   ctx.fillStyle = Theme.blue
   ctx.font = Font.subhead
@@ -81,7 +81,7 @@ function renderLevels(ctx, deps) {
   ctx.fillStyle = Theme.text
   ctx.font = Font.headline
   ctx.textAlign = 'center'
-  ctx.fillText('Select Level', W / 2, SAFE_TOP + 30)
+  ctx.fillText('Select Difficulty', W / 2, SAFE_TOP + 30)
 
   UI.backBtn = { x: 0, y: SAFE_TOP, w: 80, h: 44 }
   UI.levelBtns = []
@@ -90,38 +90,33 @@ function renderLevels(ctx, deps) {
   const cardH = 64
   const gap = 12
 
-  Object.entries(LEVELS).forEach(([key, level], i) => {
+  DIFFICULTIES.forEach((level, i) => {
     const y = startY + i * (cardH + gap)
-    const hasPuzzles = PUZZLES[key]?.length > 0
 
     ctx.fillStyle = Theme.surface
     roundRect(ctx, 16, y, W - 32, cardH, 12)
     ctx.fill()
 
-    ctx.font = '22px sans-serif'
-    ctx.textAlign = 'left'
-    ctx.fillText(level.icon, 32, y + 40)
-
-    ctx.fillStyle = hasPuzzles ? Theme.text : Theme.textTertiary
+    ctx.fillStyle = Theme.text
     ctx.font = Font.headline
-    ctx.fillText(level.name, 64, y + 28)
+    ctx.textAlign = 'left'
+    ctx.fillText(level.name, 32, y + 28)
 
     ctx.fillStyle = Theme.textTertiary
     ctx.font = Font.caption
-    ctx.fillText(hasPuzzles ? `${PUZZLES[key].length} puzzles` : 'Coming soon', 64, y + 48)
+    ctx.fillText(State.difficulty === level.key ? 'Selected' : 'Tap to choose', 32, y + 48)
 
-    if (hasPuzzles) {
-      ctx.fillStyle = Theme.textTertiary
-      ctx.font = Font.subhead
-      ctx.textAlign = 'right'
-      ctx.fillText('›', W - 32, y + 38)
-      UI.levelBtns.push({ key, x: 16, y, w: W - 32, h: cardH })
-    }
+    ctx.fillStyle = Theme.textTertiary
+    ctx.font = Font.subhead
+    ctx.textAlign = 'right'
+    ctx.fillText('›', W - 32, y + 38)
+
+    UI.levelBtns.push({ key: level.key, x: 16, y, w: W - 32, h: cardH })
   })
 }
 
 function renderPuzzles(ctx, deps) {
-  const { State, LEVELS, PUZZLES, Theme, Font, W, SAFE_TOP, UI } = deps
+  const { State, Theme, Font, W, SAFE_TOP, UI } = deps
 
   ctx.fillStyle = Theme.blue
   ctx.font = Font.subhead
@@ -131,23 +126,20 @@ function renderPuzzles(ctx, deps) {
   ctx.fillStyle = Theme.text
   ctx.font = Font.headline
   ctx.textAlign = 'center'
-  ctx.fillText(LEVELS[State.level].name, W / 2, SAFE_TOP + 30)
+  ctx.fillText('Select Puzzle', W / 2, SAFE_TOP + 30)
 
   UI.backBtn = { x: 0, y: SAFE_TOP, w: 80, h: 44 }
   UI.puzzleBtns = []
 
-  const list = PUZZLES[State.level] || []
+  const list = State.puzzlesIndex || []
   const startY = SAFE_TOP + 60
   const cardH = 72
   const gap = 12
 
   list.forEach((p, i) => {
     const y = startY + i * (cardH + gap)
-    const key = `${State.level}_${i}`
+    const key = p.id || `puzzle_${i + 1}`
     const done = State.completed[key]
-
-    const rows = p.solution.length
-    const cols = p.solution[0]?.length || 0
 
     ctx.fillStyle = Theme.surface
     roundRect(ctx, 16, y, W - 32, cardH, 12)
@@ -162,14 +154,10 @@ function renderPuzzles(ctx, deps) {
     ctx.fillStyle = done ? Theme.green : Theme.blue
     ctx.font = Font.headline
     ctx.textAlign = 'left'
-    ctx.fillText(`#${p.id}`, 32, y + 28)
+    ctx.fillText(`#${i + 1}`, 32, y + 28)
 
     ctx.fillStyle = Theme.text
-    ctx.fillText(p.title, 64, y + 28)
-
-    ctx.fillStyle = Theme.textTertiary
-    ctx.font = Font.caption
-    ctx.fillText(`${cols}×${rows}`, 64, y + 50)
+    ctx.fillText(p.title || `Puzzle ${i + 1}`, 64, y + 28)
 
     if (done) {
       ctx.fillStyle = Theme.green
@@ -317,9 +305,11 @@ function renderPlay(ctx, deps) {
     ctx.textAlign = 'left'
     ctx.fillText(`${clue.num} ${State.direction.toUpperCase()}`, 16, L.clueY + 18)
 
+    const clueText = clue.clue ? (State.lang === 'en' ? clue.clue.en : clue.clue.zh) : (State.lang === 'en' ? clue.text : clue.textZh)
+
     ctx.fillStyle = Theme.text
     ctx.font = Font.body
-    ctx.fillText(State.lang === 'en' ? clue.text : clue.textZh, 16, L.clueY + 38)
+    ctx.fillText(clueText || '', 16, L.clueY + 38)
   } else {
     ctx.fillStyle = Theme.textTertiary
     ctx.font = Font.body

@@ -1,7 +1,7 @@
 // Core gameplay logic for Crossword Master
 
 function createEngine(deps) {
-  const { State, PUZZLES, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics } = deps
+  const { State, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics } = deps
 
   function calculateBoundingBox(solution) {
     let minRow = Infinity, maxRow = -1
@@ -39,7 +39,8 @@ function createEngine(deps) {
       trimmedSolution.push(row)
     }
 
-    const trimmedPrefilled = puzzleData.prefilled
+    const prefilledList = Array.isArray(puzzleData.prefilled) ? puzzleData.prefilled : []
+    const trimmedPrefilled = prefilledList
       .filter(([r, c]) => r >= minRow && r <= maxRow && c >= minCol && c <= maxCol)
       .map(([r, c]) => [r - minRow, c - minCol])
 
@@ -75,28 +76,31 @@ function createEngine(deps) {
     return cells
   }
 
-  function initPuzzle(level, index) {
-    const rawPuzzleData = PUZZLES[level]?.[index]
-    if (!rawPuzzleData) return false
-
-    const puzzleData = trimGrid(rawPuzzleData)
+  function initPuzzle(puzzleData, index) {
     if (!puzzleData) return false
 
-    State.level = level
-    State.puzzleIndex = index
-    State.puzzle = puzzleData
+    const prefilledByDifficulty = (!Array.isArray(puzzleData.prefilled) && puzzleData.prefilled) ? puzzleData.prefilled : null
+    const prefilledList = prefilledByDifficulty ? (prefilledByDifficulty[State.difficulty] || []) : (puzzleData.prefilled || [])
 
-    const { rows, cols } = puzzleData
+    const puzzleDataWithPrefilled = { ...puzzleData, prefilled: prefilledList }
+    const trimmed = trimGrid(puzzleDataWithPrefilled)
+    if (!trimmed) return false
+
+    State.puzzleIndex = index
+    State.puzzleId = puzzleData.id || null
+    State.puzzle = trimmed
+
+    const { rows, cols } = trimmed
     State.grid = []
 
     for (let r = 0; r < rows; r++) {
       State.grid[r] = []
       for (let c = 0; c < cols; c++) {
-        const answer = puzzleData.solution[r]?.[c]
+        const answer = trimmed.solution[r]?.[c]
         if (answer === null || answer === undefined) {
           State.grid[r][c] = { r, c, val: null, answer: null, isBlack: true, status: 'black', clueRefs: [] }
         } else {
-          const isPrefilled = puzzleData.prefilled.some(p => p[0] === r && p[1] === c)
+          const isPrefilled = trimmed.prefilled.some(p => p[0] === r && p[1] === c)
           State.grid[r][c] = {
             r, c,
             val: isPrefilled ? answer : '',
@@ -109,13 +113,13 @@ function createEngine(deps) {
       }
     }
 
-    for (const clue of puzzleData.clues.across) {
+    for (const clue of trimmed.clues.across) {
       const cells = getWordCellsStatic(State.grid, rows, cols, clue.row, clue.col, 'across')
       for (const [r, c] of cells) {
         if (State.grid[r]?.[c]) State.grid[r][c].clueRefs.push(`${clue.num}A`)
       }
     }
-    for (const clue of puzzleData.clues.down) {
+    for (const clue of trimmed.clues.down) {
       const cells = getWordCellsStatic(State.grid, rows, cols, clue.row, clue.col, 'down')
       for (const [r, c] of cells) {
         if (State.grid[r]?.[c]) State.grid[r][c].clueRefs.push(`${clue.num}D`)
@@ -350,7 +354,8 @@ function createEngine(deps) {
     const points = 100 + bonus
 
     State.score += points
-    State.completed[`${State.level}_${State.puzzleIndex}`] = { time: elapsed, score: points }
+    const completedKey = State.puzzleId || `puzzle_${(State.puzzleIndex + 1).toString().padStart(3, '0')}`
+    State.completed[completedKey] = { time: elapsed, score: points }
     saveProgress()
 
     try { wx.vibrateLong() } catch (e) {}

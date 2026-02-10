@@ -6,77 +6,91 @@
   "solution": [
     [
       null,
+      "n",
+      "i",
+      "b",
+      null
+    ],
+    [
+      "n",
       "a",
-      "g",
+      "m",
       "e",
       "d"
     ],
     [
-      "a",
-      "l",
       "i",
-      "v",
+      "m",
+      "a",
+      "g",
       "e"
     ],
     [
+      "b",
+      "e",
       "g",
       "i",
-      "v",
-      "e",
       "n"
     ],
     [
-      "e",
-      "v",
-      "e",
-      "n",
-      "t"
-    ],
-    [
+      null,
       "d",
       "e",
       "n",
-      "t",
-      null
+      "t"
     ]
   ],
-  "prefilled": [],
+  "prefilled": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  },
   "clues": {
     "across": [
       {
         "num": 1,
         "row": 0,
         "col": 1,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 6,
         "row": 2,
         "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 7,
         "row": 3,
         "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 8,
         "row": 4,
-        "col": 0,
-        "text": "",
-        "textZh": ""
+        "col": 1,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       }
     ],
     "down": [
@@ -84,36 +98,46 @@
         "num": 1,
         "row": 0,
         "col": 1,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 2,
         "row": 0,
         "col": 2,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 3,
         "row": 0,
         "col": 3,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "text": "",
-        "textZh": ""
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
-        "text": "",
-        "textZh": ""
+        "col": 4,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       }
     ]
   }

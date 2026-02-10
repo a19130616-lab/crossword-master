@@ -5,115 +5,139 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "p",
-      "l",
+      "c",
       "a",
-      "n"
-    ],
-    [
-      "p",
-      "i",
-      "a",
-      "n",
-      "o"
-    ],
-    [
-      "l",
-      "a",
-      "t",
-      "i",
-      "n"
-    ],
-    [
-      "a",
-      "n",
-      "i",
       "m",
+      "e",
+      null
+    ],
+    [
+      "a",
+      "b",
+      "o",
+      "v",
       "e"
     ],
     [
-      "n",
+      "m",
       "o",
-      "n",
+      "r",
+      "a",
+      "l"
+    ],
+    [
       "e",
-      null
+      "v",
+      "a",
+      "n",
+      "s"
+    ],
+    [
+      null,
+      "e",
+      "l",
+      "s",
+      "e"
     ]
   ],
-  "prefilled": [],
+  "prefilled": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  },
   "clues": {
     "across": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "text": "",
-        "textZh": ""
+        "col": 0,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 5,
         "row": 1,
         "col": 0,
-        "text": "",
-        "textZh": ""
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 7,
-        "row": 3,
+        "row": 2,
         "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 8,
-        "row": 4,
+        "row": 3,
         "col": 0,
-        "text": "",
-        "textZh": ""
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "text": "",
-        "textZh": ""
+        "col": 0,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 2,
-        "text": "",
-        "textZh": ""
+        "col": 1,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
-        "text": "",
-        "textZh": ""
+        "col": 2,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
         "num": 4,
         "row": 0,
-        "col": 4,
-        "text": "",
-        "textZh": ""
+        "col": 3,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 0,
-        "text": "",
-        "textZh": ""
+        "col": 4,
+        "clue": {
+          "en": "",
+          "zh": ""
+        }
       }
     ]
   }

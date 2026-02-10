@@ -91,8 +91,10 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
             "num": w["num"],
             "row": w["row"],
             "col": w["col"],
-            "text": clue_text,
-            "textZh": ""
+            "clue": {
+                "en": clue_text,
+                "zh": ""
+            }
         })
 
     puzzle = {
@@ -101,7 +103,11 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
         "rows": rows,
         "cols": cols,
         "solution": to_solution_grid(grid),
-        "prefilled": [],
+        "prefilled": {
+            "easy": [],
+            "medium": [],
+            "hard": []
+        },
         "clues": clues
     }
     return puzzle
