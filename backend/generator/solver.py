@@ -72,8 +72,18 @@ def build_tries(words):
     return tries
 
 
-def parse_grid(template):
-    return [list(row) for row in template]
+def parse_grid(template, size=None):
+    rows = [list(row) for row in template]
+    max_len = max((len(r) for r in rows), default=0)
+    target = size or max(len(rows), max_len)
+    # pad rows to target
+    for r in rows:
+        if len(r) < target:
+            r.extend(['#'] * (target - len(r)))
+    # pad missing rows
+    while len(rows) < target:
+        rows.append(['#'] * target)
+    return rows
 
 
 def run_length(grid, r, c, dr, dc):
@@ -225,7 +235,7 @@ def validate_full_grid(grid):
     return True
 
 
-def solve(grid, slots, tries, max_nodes=200000, allow_reuse=False):
+def solve(grid, slots, tries, max_nodes=200000, allow_reuse=False, used_global=None):
     used = set()
     nodes = 0
 
@@ -237,6 +247,8 @@ def solve(grid, slots, tries, max_nodes=200000, allow_reuse=False):
         words = trie.search_pattern(pattern)
         if not allow_reuse:
             words = [w for w in words if w not in used]
+        if used_global:
+            words = [w for w in words if w not in used_global]
         random.shuffle(words)
         if len(words) > 500:
             words = words[:500]
@@ -289,10 +301,14 @@ def print_grid(grid):
         print("".join(row))
 
 
-def generate_one(templates, tries, size, max_attempts=200):
+def slot_word(grid, slot):
+    return "".join(grid[r][c] for r, c in slot["positions"])
+
+
+def generate_one(templates, tries, size, used_global=None, max_attempts=200):
     for _ in range(max_attempts):
         template = random.choice(templates)
-        grid = parse_grid(template)
+        grid = parse_grid(template, size=size)
         sanitize_grid(grid)
         if not is_connected(grid):
             continue
@@ -309,8 +325,13 @@ def generate_one(templates, tries, size, max_attempts=200):
                 continue
 
         allow_reuse = (size == 5)
-        ok = solve(grid, slots, tries, allow_reuse=allow_reuse)
+        ok = solve(grid, slots, tries, allow_reuse=allow_reuse, used_global=used_global)
         if ok and validate_full_grid(grid):
+            if used_global is not None:
+                puzzle_words = {slot_word(grid, s) for s in slots}
+                if puzzle_words & used_global:
+                    continue
+                used_global.update(puzzle_words)
             return grid
     return None
 
@@ -338,8 +359,9 @@ def main():
     if count is None:
         count = 5 if args.size == 5 else 1
 
+    used_global = set()
     for i in range(count):
-        grid = generate_one(templates, tries, args.size)
+        grid = generate_one(templates, tries, args.size, used_global=used_global)
         if not grid:
             raise SystemExit("Failed to generate a valid grid")
         print_grid(grid)
