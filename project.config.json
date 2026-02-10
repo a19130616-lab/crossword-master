@@ -1,0 +1,13 @@
+{
+  "description": "CrossWord Master - English Crossword Puzzle Game",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "game",
+  "appid": "wx3c539952f8f9349d",
+  "projectname": "crossword-master"
+}
