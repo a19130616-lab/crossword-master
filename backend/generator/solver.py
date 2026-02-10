@@ -89,12 +89,10 @@ def run_length(grid, r, c, dr, dc):
 
 
 def cell_word_lengths(grid, r, c):
-    # across length
     cc = c
     while cc > 0 and grid[r][cc - 1] != '#':
         cc -= 1
     across = run_length(grid, r, cc, 0, 1)
-    # down length
     rr = r
     while rr > 0 and grid[rr - 1][c] != '#':
         rr -= 1
@@ -103,7 +101,6 @@ def cell_word_lengths(grid, r, c):
 
 
 def sanitize_grid(grid):
-    """Turn any non-intersecting white cells into black cells."""
     changed = True
     while changed:
         changed = False
@@ -205,6 +202,16 @@ def undo_changes(grid, changes):
         grid[r][c] = '.'
 
 
+def count_whites(grid):
+    return sum(1 for row in grid for ch in row if ch != '#')
+
+
+def count_words_by_dir(slots):
+    across = sum(1 for s in slots if s["dir"] == "across")
+    down = sum(1 for s in slots if s["dir"] == "down")
+    return across, down
+
+
 def validate_full_grid(grid):
     rows = len(grid)
     cols = len(grid[0]) if rows else 0
@@ -218,8 +225,9 @@ def validate_full_grid(grid):
     return True
 
 
-def solve(grid, slots, tries):
+def solve(grid, slots, tries, max_nodes=200000, allow_reuse=False):
     used = set()
+    nodes = 0
 
     def candidates_for(slot):
         trie = tries.get(slot["length"])
@@ -227,11 +235,18 @@ def solve(grid, slots, tries):
             return []
         pattern = get_pattern(grid, slot)
         words = trie.search_pattern(pattern)
-        words = [w for w in words if w not in used]
+        if not allow_reuse:
+            words = [w for w in words if w not in used]
         random.shuffle(words)
+        if len(words) > 500:
+            words = words[:500]
         return words
 
     def backtrack(remaining):
+        nonlocal nodes
+        nodes += 1
+        if nodes > max_nodes:
+            return False
         if not remaining:
             return True
 
@@ -255,10 +270,12 @@ def solve(grid, slots, tries):
             changes = place_word(grid, slot, w)
             if changes is None:
                 continue
-            used.add(w)
+            if not allow_reuse:
+                used.add(w)
             if backtrack(remaining):
                 return True
-            used.remove(w)
+            if not allow_reuse:
+                used.remove(w)
             undo_changes(grid, changes)
 
         remaining.insert(best_idx, slot)
@@ -272,17 +289,27 @@ def print_grid(grid):
         print("".join(row))
 
 
-def generate_one(templates, tries, max_attempts=50):
+def generate_one(templates, tries, size, max_attempts=200):
     for _ in range(max_attempts):
         template = random.choice(templates)
         grid = parse_grid(template)
         sanitize_grid(grid)
         if not is_connected(grid):
             continue
+
         slots = extract_slots(grid)
-        if not slots:
-            continue
-        ok = solve(grid, slots, tries)
+        across, down = count_words_by_dir(slots)
+        total_cells = len(grid) * len(grid[0])
+        white_ratio = count_whites(grid) / total_cells
+
+        if size == 5:
+            if white_ratio < 0.85:
+                continue
+            if across < 4 or down < 4:
+                continue
+
+        allow_reuse = (size == 5)
+        ok = solve(grid, slots, tries, allow_reuse=allow_reuse)
         if ok and validate_full_grid(grid):
             return grid
     return None
@@ -311,18 +338,13 @@ def main():
     if count is None:
         count = 5 if args.size == 5 else 1
 
-    generated = 0
     for i in range(count):
-        grid = generate_one(templates, tries)
+        grid = generate_one(templates, tries, args.size)
         if not grid:
             raise SystemExit("Failed to generate a valid grid")
         print_grid(grid)
-        generated += 1
         if i < count - 1:
             print("")
-
-    if generated != count:
-        raise SystemExit("Failed to generate requested number of grids")
 
 
 if __name__ == "__main__":
