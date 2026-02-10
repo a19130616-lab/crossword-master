@@ -73,8 +73,70 @@ def build_tries(words):
 
 
 def parse_grid(template):
-    grid = [list(row) for row in template]
+    return [list(row) for row in template]
+
+
+def run_length(grid, r, c, dr, dc):
+    rows = len(grid)
+    cols = len(grid[0]) if rows else 0
+    length = 0
+    rr, cc = r, c
+    while 0 <= rr < rows and 0 <= cc < cols and grid[rr][cc] != '#':
+        length += 1
+        rr += dr
+        cc += dc
+    return length
+
+
+def cell_word_lengths(grid, r, c):
+    # across length
+    cc = c
+    while cc > 0 and grid[r][cc - 1] != '#':
+        cc -= 1
+    across = run_length(grid, r, cc, 0, 1)
+    # down length
+    rr = r
+    while rr > 0 and grid[rr - 1][c] != '#':
+        rr -= 1
+    down = run_length(grid, rr, c, 1, 0)
+    return across, down
+
+
+def sanitize_grid(grid):
+    """Turn any non-intersecting white cells into black cells."""
+    changed = True
+    while changed:
+        changed = False
+        rows = len(grid)
+        cols = len(grid[0]) if rows else 0
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == '#':
+                    continue
+                across, down = cell_word_lengths(grid, r, c)
+                if across < 3 or down < 3:
+                    grid[r][c] = '#'
+                    changed = True
     return grid
+
+
+def is_connected(grid):
+    rows = len(grid)
+    cols = len(grid[0]) if rows else 0
+    whites = [(r, c) for r in range(rows) for c in range(cols) if grid[r][c] != '#']
+    if not whites:
+        return False
+    stack = [whites[0]]
+    seen = set(stack)
+    while stack:
+        r, c = stack.pop()
+        for dr, dc in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+            rr, cc = r + dr, c + dc
+            if 0 <= rr < rows and 0 <= cc < cols and grid[rr][cc] != '#':
+                if (rr, cc) not in seen:
+                    seen.add((rr, cc))
+                    stack.append((rr, cc))
+    return len(seen) == len(whites)
 
 
 def extract_slots(grid):
@@ -132,7 +194,6 @@ def place_word(grid, slot, word):
             grid[r][c] = ch
             changes.append((r, c))
         elif cur != ch:
-            # conflict
             for rr, cc in changes:
                 grid[rr][cc] = '.'
             return None
@@ -142,6 +203,19 @@ def place_word(grid, slot, word):
 def undo_changes(grid, changes):
     for r, c in changes:
         grid[r][c] = '.'
+
+
+def validate_full_grid(grid):
+    rows = len(grid)
+    cols = len(grid[0]) if rows else 0
+    for r in range(rows):
+        for c in range(cols):
+            if grid[r][c] == '#':
+                continue
+            across, down = cell_word_lengths(grid, r, c)
+            if across < 3 or down < 3:
+                return False
+    return True
 
 
 def solve(grid, slots, tries):
@@ -161,7 +235,6 @@ def solve(grid, slots, tries):
         if not remaining:
             return True
 
-        # MRV: choose slot with fewest candidates
         best_idx = None
         best_cands = None
         best_count = None
@@ -199,29 +272,57 @@ def print_grid(grid):
         print("".join(row))
 
 
+def generate_one(templates, tries, max_attempts=50):
+    for _ in range(max_attempts):
+        template = random.choice(templates)
+        grid = parse_grid(template)
+        sanitize_grid(grid)
+        if not is_connected(grid):
+            continue
+        slots = extract_slots(grid)
+        if not slots:
+            continue
+        ok = solve(grid, slots, tries)
+        if ok and validate_full_grid(grid):
+            return grid
+    return None
+
+
 def main():
     parser = argparse.ArgumentParser(description="Crossword solver")
     parser.add_argument("--size", type=int, default=5, help="Grid size (e.g., 5, 7, 10)")
-    parser.add_argument("--template", type=int, default=0, help="Template index")
+    parser.add_argument("--template", type=int, default=None, help="Template index (optional)")
+    parser.add_argument("--count", type=int, default=None, help="How many grids to generate")
     args = parser.parse_args()
 
     templates = get_templates(args.size)
     if not templates:
         raise SystemExit(f"No templates found for size {args.size}")
-    if args.template < 0 or args.template >= len(templates):
-        raise SystemExit(f"Template index out of range (0..{len(templates)-1})")
+
+    if args.template is not None:
+        if args.template < 0 or args.template >= len(templates):
+            raise SystemExit(f"Template index out of range (0..{len(templates)-1})")
+        templates = [templates[args.template]]
 
     words = load_dictionary()
     tries = build_tries(words)
 
-    grid = parse_grid(templates[args.template])
-    slots = extract_slots(grid)
+    count = args.count
+    if count is None:
+        count = 5 if args.size == 5 else 1
 
-    ok = solve(grid, slots, tries)
-    if not ok:
-        raise SystemExit("Failed to solve grid")
+    generated = 0
+    for i in range(count):
+        grid = generate_one(templates, tries)
+        if not grid:
+            raise SystemExit("Failed to generate a valid grid")
+        print_grid(grid)
+        generated += 1
+        if i < count - 1:
+            print("")
 
-    print_grid(grid)
+    if generated != count:
+        raise SystemExit("Failed to generate requested number of grids")
 
 
 if __name__ == "__main__":
