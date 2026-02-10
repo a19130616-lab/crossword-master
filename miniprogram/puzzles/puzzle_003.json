@@ -1,43 +1,43 @@
 {
   "id": "puzzle_003",
-  "title": "Generated Puzzle",
+  "title": "Puzzle 3",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
+      null,
+      "p",
       "l",
       "a",
-      "c",
+      "n"
+    ],
+    [
+      "p",
+      "i",
+      "a",
+      "n",
+      "o"
+    ],
+    [
+      "l",
+      "a",
+      "t",
+      "i",
+      "n"
+    ],
+    [
+      "a",
+      "n",
+      "i",
+      "m",
+      "e"
+    ],
+    [
+      "n",
+      "o",
+      "n",
       "e",
       null
-    ],
-    [
-      "a",
-      "m",
-      "o",
-      "n",
-      "g"
-    ],
-    [
-      "c",
-      "o",
-      "s",
-      "t",
-      "a"
-    ],
-    [
-      "e",
-      "n",
-      "t",
-      "e",
-      "r"
-    ],
-    [
-      null,
-      "g",
-      "a",
-      "r",
-      "b"
     ]
   ],
   "prefilled": [],
@@ -46,7 +46,7 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "text": "",
         "textZh": ""
       },
@@ -58,23 +58,23 @@
         "textZh": ""
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 2,
         "col": 0,
         "text": "",
         "textZh": ""
       },
       {
-        "num": 8,
+        "num": 7,
         "row": 3,
         "col": 0,
         "text": "",
         "textZh": ""
       },
       {
-        "num": 9,
+        "num": 8,
         "row": 4,
-        "col": 1,
+        "col": 0,
         "text": "",
         "textZh": ""
       }
@@ -83,35 +83,35 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "text": "",
         "textZh": ""
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "text": "",
         "textZh": ""
       },
       {
         "num": 3,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "text": "",
         "textZh": ""
       },
       {
         "num": 4,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "text": "",
         "textZh": ""
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "text": "",
         "textZh": ""
       }

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "puzzle_001",
+    "title": "Puzzle 1",
+    "file": "puzzles/puzzle_001.json"
+  },
+  {
+    "id": "puzzle_002",
+    "title": "Puzzle 2",
+    "file": "puzzles/puzzle_002.json"
+  },
+  {
+    "id": "puzzle_003",
+    "title": "Puzzle 3",
+    "file": "puzzles/puzzle_003.json"
+  },
+  {
+    "id": "puzzle_004",
+    "title": "Puzzle 4",
+    "file": "puzzles/puzzle_004.json"
+  },
+  {
+    "id": "puzzle_005",
+    "title": "Puzzle 5",
+    "file": "puzzles/puzzle_005.json"
+  }
+]

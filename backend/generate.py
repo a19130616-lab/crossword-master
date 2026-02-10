@@ -32,14 +32,23 @@ def main():
     tries = build_tries(words)
 
     used_global = set()
+    manifest = []
     for i in range(args.count):
         grid = generate_one(templates, tries, args.size, used_global=used_global)
         if not grid:
             raise SystemExit("Failed to generate a valid grid")
         puzzle_id = f"puzzle_{i+1:03d}"
-        puzzle = build_puzzle(grid, puzzle_id)
+        puzzle = build_puzzle(grid, puzzle_id, title=f"Puzzle {i+1}")
         out_path = out_dir / f"{puzzle_id}.json"
         out_path.write_text(json.dumps(puzzle, ensure_ascii=False, indent=2), encoding="utf-8")
+        manifest.append({
+            "id": puzzle_id,
+            "title": f"Puzzle {i+1}",
+            "file": f"puzzles/{puzzle_id}.json"
+        })
+
+    index_path = out_dir / "index.json"
+    index_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"Generated {args.count} puzzles to {out_dir}")
 
