@@ -5,91 +5,130 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "n",
-      "i",
+      "a",
       "b",
+      "l",
+      "e",
       null
     ],
     [
-      "n",
+      "b",
+      "r",
+      "o",
       "a",
-      "m",
-      "e",
       "d"
     ],
     [
-      "i",
-      "m",
-      "a",
+      "l",
+      "o",
+      "d",
       "g",
       "e"
     ],
     [
-      "b",
       "e",
+      "a",
       "g",
-      "i",
-      "n"
+      "l",
+      "e"
     ],
     [
       null,
       "d",
       "e",
-      "n",
-      "t"
+      "e",
+      "p"
     ]
   ],
   "prefilled": {
-    "easy": [],
-    "medium": [],
-    "hard": []
+    "easy": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        0
+      ]
+    ]
   },
   "clues": {
     "across": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ABLE",
+          "zh": "ABLE"
         }
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "",
-          "zh": ""
+          "en": "BROAD",
+          "zh": "BROAD"
         }
       },
       {
         "num": 7,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "LODGE",
+          "zh": "LODGE"
         }
       },
       {
         "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "EAGLE",
+          "zh": "EAGLE"
+        }
+      },
+      {
+        "num": 9,
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "DEEP",
+          "zh": "DEEP"
         }
       }
     ],
@@ -97,46 +136,46 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ABLE",
+          "zh": "ABLE"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "BROAD",
+          "zh": "BROAD"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "LODGE",
+          "zh": "LODGE"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "EAGLE",
+          "zh": "EAGLE"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "DEEP",
+          "zh": "DEEP"
         }
       }
     ]

@@ -1,6 +1,7 @@
 """Build puzzle JSON from a solved crossword grid."""
 
 import json
+import random
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -85,29 +86,46 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
     clues = {"across": [], "down": []}
 
     for w in words:
-        entry = words_dict.get(w["answer"].lower(), {})
+        key = w["answer"].lower()
+        entry = words_dict.get(key, {})
         clue_text = entry.get("clues", {}).get("easy", "") if entry else ""
+        if not clue_text:
+            clue_text = key.upper()
         clues[w["dir"]].append({
             "num": w["num"],
             "row": w["row"],
             "col": w["col"],
             "clue": {
                 "en": clue_text,
-                "zh": ""
+                "zh": clue_text
             }
         })
+
+    solution = to_solution_grid(grid)
+    white_cells = [(r, c) for r in range(rows) for c in range(cols) if solution[r][c] is not None]
+    random.shuffle(white_cells)
+
+    def pick(n):
+        return white_cells[:n]
+
+    total_white = len(white_cells)
+    easy_n = max(1, int(total_white * 0.25))
+    med_n = max(1, int(total_white * 0.15))
+    hard_n = max(1, int(total_white * 0.08))
+
+    prefilled = {
+        "easy": pick(easy_n),
+        "medium": pick(med_n),
+        "hard": pick(hard_n)
+    }
 
     puzzle = {
         "id": puzzle_id,
         "title": title,
         "rows": rows,
         "cols": cols,
-        "solution": to_solution_grid(grid),
-        "prefilled": {
-            "easy": [],
-            "medium": [],
-            "hard": []
-        },
+        "solution": solution,
+        "prefilled": prefilled,
         "clues": clues
     }
     return puzzle

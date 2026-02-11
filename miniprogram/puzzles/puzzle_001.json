@@ -5,55 +5,94 @@
   "cols": 5,
   "solution": [
     [
+      null,
       "a",
-      "b",
-      "l",
-      "e",
-      null
-    ],
-    [
-      "b",
-      "l",
+      "c",
       "i",
-      "n",
       "d"
     ],
     [
+      "a",
       "l",
-      "i",
+      "o",
       "n",
-      "d",
+      "e"
+    ],
+    [
+      "c",
+      "o",
+      "s",
+      "t",
       "a"
     ],
     [
       "e",
       "n",
-      "d",
+      "t",
       "e",
-      "d"
+      "r"
     ],
     [
       null,
-      "d",
+      "e",
       "a",
-      "d",
+      "r",
       null
     ]
   ],
   "prefilled": {
-    "easy": [],
-    "medium": [],
-    "hard": []
+    "easy": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        2
+      ]
+    ]
   },
   "clues": {
     "across": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ACID",
+          "zh": "ACID"
         }
       },
       {
@@ -61,35 +100,35 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ALONE",
+          "zh": "ALONE"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "COSTA",
+          "zh": "COSTA"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ENTER",
+          "zh": "ENTER"
         }
       },
       {
         "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "",
-          "zh": ""
-        }
-      },
-      {
-        "num": 9,
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "EAR",
+          "zh": "EAR"
         }
       }
     ],
@@ -97,46 +136,46 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ALONE",
+          "zh": "ALONE"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "COSTA",
+          "zh": "COSTA"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "INTER",
+          "zh": "INTER"
         }
       },
       {
         "num": 4,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "DEAR",
+          "zh": "DEAR"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "",
-          "zh": ""
+          "en": "ACE",
+          "zh": "ACE"
         }
       }
     ]
