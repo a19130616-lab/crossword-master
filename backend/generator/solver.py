@@ -61,7 +61,7 @@ def load_dictionary():
     if not DICT_PATH.exists():
         raise FileNotFoundError(f"Dictionary not found: {DICT_PATH}")
     data = json.loads(DICT_PATH.read_text(encoding="utf-8"))
-    words = list(data.get("words", {}).keys())
+    words = [w.upper() for w in data.get("words", {}).keys()]
     return words
 
 

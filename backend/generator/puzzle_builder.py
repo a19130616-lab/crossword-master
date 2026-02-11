@@ -18,7 +18,7 @@ def is_black(cell):
 
 
 def to_solution_grid(grid):
-    return [[None if is_black(ch) else ch for ch in row] for row in grid]
+    return [[None if is_black(ch) else str(ch).upper() for ch in row] for row in grid]
 
 
 def extract_words(grid, min_len=3):
@@ -54,7 +54,7 @@ def extract_words(grid, min_len=3):
                         "dir": "across",
                         "row": r,
                         "col": c,
-                        "answer": "".join(letters)
+                        "answer": "".join(letters).upper()
                     })
 
             if starts_down:
@@ -69,7 +69,7 @@ def extract_words(grid, min_len=3):
                         "dir": "down",
                         "row": r,
                         "col": c,
-                        "answer": "".join(letters)
+                        "answer": "".join(letters).upper()
                     })
 
             num += 1
@@ -90,7 +90,7 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
         entry = words_dict.get(key, {})
         clue_text = entry.get("clues", {}).get("easy", "") if entry else ""
         if not clue_text:
-            clue_text = key.upper()
+            raise ValueError(f"Missing clue for word: {w['answer']}")
         clues[w["dir"]].append({
             "num": w["num"],
             "row": w["row"],

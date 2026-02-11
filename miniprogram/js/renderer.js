@@ -243,7 +243,7 @@ function renderPlay(ctx, deps) {
         ctx.font = Font.gridLetter(L.cellSize)
         ctx.textAlign = 'center'
         ctx.textBaseline = 'middle'
-        ctx.fillText(cell.val, cellX + L.cellSize / 2, cellY + L.cellSize / 2 + 2)
+        ctx.fillText(String(cell.val).toUpperCase(), cellX + L.cellSize / 2, cellY + L.cellSize / 2 + 2)
       }
     }
   }
