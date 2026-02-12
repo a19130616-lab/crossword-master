@@ -1,0 +1,774 @@
+{
+  "THE": {
+    "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+    "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
+  },
+  "AND": {
+    "en": "In rhythm, the second half of a divided beat.",
+    "zh": "在节奏上，后半部分是分开的节拍。"
+  },
+  "THAT": {
+    "en": "Something being indicated that is there; one of those.",
+    "zh": "表明某物存在；其中之一。"
+  },
+  "THIS": {
+    "en": "Something being indicated that is here; one of these.",
+    "zh": "这里有一些指示；其中之一。"
+  },
+  "WITH": {
+    "en": "Along, together with others, in a group, etc.",
+    "zh": "一起、与他人一起、在一个团体中等等。"
+  },
+  "YOU": {
+    "en": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+    "zh": "使用代词“you”来称呼（一个人）（过去，尤其是使用“you”而不是“thou”，因为“you”被认为更正式）。"
+  },
+  "NOT": {
+    "en": "A unary operation on logical values that changes true to false, and false to true.",
+    "zh": "对逻辑值进行一元运算，将 true 更改为 false，将 false 更改为 true。"
+  },
+  "ARE": {
+    "en": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+    "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
+  },
+  "FROM": {
+    "en": "Used to indicate source or provenance.",
+    "zh": "用于表示来源或出处。"
+  },
+  "ALL": {
+    "en": "(with a possessive pronoun) Everything that one is capable of.",
+    "zh": "（用所有格代词）一个人能够做的一切。"
+  },
+  "HAVE": {
+    "en": "A wealthy or privileged person.",
+    "zh": "富有或有特权的人。"
+  },
+  "NEW": {
+    "en": "Things that are new.",
+    "zh": "新的东西。"
+  },
+  "MORE": {
+    "en": "To a greater degree or extent.",
+    "zh": "在更大的程度上或程度。"
+  },
+  "WILL": {
+    "en": "(now uncommon or literary) To wish, desire (something).",
+    "zh": "（现在不常见或文学）希望，渴望（某事）。"
+  },
+  "HOME": {
+    "en": "A dwelling.",
+    "zh": "一个住宅。"
+  },
+  "CAN": {
+    "en": "(auxiliary verb, defective) To know how to; to be able to.",
+    "zh": "（助动词，有缺陷的）知道如何；能够。"
+  },
+  "ABOUT": {
+    "en": "Moving around; astir.",
+    "zh": "四处走动；搅拌。"
+  },
+  "PAGE": {
+    "en": "One of the many pieces of paper bound together within a book or similar document.",
+    "zh": "一本书或类似文档中装订在一起的多张纸中的一张。"
+  },
+  "HAS": {
+    "en": "To possess, own.",
+    "zh": "占有，拥有。"
+  },
+  "FREE": {
+    "en": "Free transfer",
+    "zh": "免费接送"
+  },
+  "BUT": {
+    "en": "An instance or example of using the word \"but\".",
+    "zh": "使用“但是”一词的实例或例子。"
+  },
+  "ONE": {
+    "en": "The digit or figure 1.",
+    "zh": "数字或数字 1。"
+  },
+  "OTHER": {
+    "en": "An other, another (person, etc), more often rendered as another.",
+    "zh": "另一个，另一个（人等），更多时候被译为另一个。"
+  },
+  "TIME": {
+    "en": "The inevitable progression into the future with the passing of present and past events.",
+    "zh": "随着现在和过去事件的过去，不可避免地走向未来。"
+  },
+  "THEY": {
+    "en": "(the third-person plural) A group of people, animals, plants or objects previously mentioned.",
+    "zh": "（第三人称复数）前面提到的一群人、动物、植物或物体。"
+  },
+  "SITE": {
+    "en": "Sorrow, grief.",
+    "zh": "悲伤，悲伤。"
+  },
+  "MAY": {
+    "en": "To be strong; to have power (over).",
+    "zh": "要坚强；拥有（超过）权力。"
+  },
+  "WHAT": {
+    "en": "(Singlish) Used to contradict an underlying assumption held by the interlocutor.",
+    "zh": "（新加坡式英语）用于反驳对话者所持有的基本假设。"
+  },
+  "WHICH": {
+    "en": "(interrogative) What one or ones (of those mentioned or implied).",
+    "zh": "（疑问）（提到或暗示的）一个或多个。"
+  },
+  "NEWS": {
+    "en": "New information of interest.",
+    "zh": "感兴趣的新信息。"
+  },
+  "OUT": {
+    "en": "A means of exit, escape, reprieve, etc.",
+    "zh": "退出、逃脱、缓刑等的手段。"
+  },
+  "USE": {
+    "en": "The act of using.",
+    "zh": "使用的行为。"
+  },
+  "ANY": {
+    "en": "To even the slightest extent, at all.",
+    "zh": "即使是最轻微的程度。"
+  },
+  "THERE": {
+    "en": "That place.",
+    "zh": "那个地方。"
+  },
+  "SEE": {
+    "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+    "zh": "（静态）用眼睛或仿佛通过视觉来感知或检测。"
+  },
+  "ONLY": {
+    "en": "An only child.",
+    "zh": "是独生子。"
+  },
+  "HIS": {
+    "en": "Honorific alternative letter-case form of his, sometimes used when referring to God or another important figure who is understood from context.",
+    "zh": "他的敬语替代字母大小写形式，有时在指代上帝或其他从上下文中理解的重要人物时使用。"
+  },
+  "WHEN": {
+    "en": "The time at which something happens.",
+    "zh": "某事发生的时间。"
+  },
+  "HERE": {
+    "en": "(abstract) This place; this location.",
+    "zh": "（摘要）这个地方；这个位置。"
+  },
+  "WHO": {
+    "en": "A person under discussion; a question of which person.",
+    "zh": "正在讨论的人；是哪个人的问题。"
+  },
+  "WEB": {
+    "en": "The World Wide Web.",
+    "zh": "万维网。"
+  },
+  "ALSO": {
+    "en": "(focus) In addition; besides; as well; further; too.",
+    "zh": "（重点）此外；除了;以及；更远;也。"
+  },
+  "NOW": {
+    "en": "The present time.",
+    "zh": "现在的时间。"
+  },
+  "HELP": {
+    "en": "Action given to provide assistance; aid.",
+    "zh": "为提供援助而采取的行动；援助。"
+  },
+  "GET": {
+    "en": "Offspring.",
+    "zh": "后代。"
+  },
+  "VIEW": {
+    "en": "(physical) Visual perception.",
+    "zh": "（物理）视觉感知。"
+  },
+  "FIRST": {
+    "en": "The person or thing in the first position.",
+    "zh": "处于第一位的人或物。"
+  },
+  "BEEN": {
+    "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+    "zh": "一种飞行昆虫，属于膜翅目 Apoidea 总科 Anthophila 分支，以其有组织的社会（尽管只有少数拥有这样的社会）而闻名，用于收集花粉和（在某些物种中）生产蜡和蜂蜜。"
+  },
+  "WOULD": {
+    "en": "Something that would happen, or would be the case, under different circumstances; a potentiality.",
+    "zh": "在不同情况下会发生或将会发生的事情；一种潜力。"
+  },
+  "HOW": {
+    "en": "The means by which something is accomplished.",
+    "zh": "完成某事的手段。"
+  },
+  "WERE": {
+    "en": "A man, a husband",
+    "zh": "一个男人，一个丈夫"
+  },
+  "SOME": {
+    "en": "Of a measurement: approximately, roughly.",
+    "zh": "测量的：大约，粗略。"
+  },
+  "THESE": {
+    "en": "The thing, item, etc. being indicated.",
+    "zh": "所指示的事物、物品等。"
+  },
+  "CLICK": {
+    "en": "A brief, sharp, not particularly loud, relatively high-pitched sound produced by the impact of something small and hard against something hard, such as by the operation of a switch, a lock or a latch, or a finger pressed against the thumb and then released to strike the hand.",
+    "zh": "一种短促、尖锐、不是特别响亮、相对高亢的声音，由小而硬的物体撞击坚硬的物体而产生，例如通过操作开关、锁或闩锁，或者手指压在拇指上然后松开以敲击手。"
+  },
+  "ITS": {
+    "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+    "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+  },
+  "LIKE": {
+    "en": "(usually in the plural) Something that a person likes (prefers).",
+    "zh": "（通常为复数）一个人喜欢（喜欢）的东西。"
+  },
+  "THAN": {
+    "en": "At that time; then.",
+    "zh": "当时;然后。"
+  },
+  "FIND": {
+    "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+    "zh": "任何发现的东西（通常是有价值的），如考古遗址上的物品或有才华的人。"
+  },
+  "PRICE": {
+    "en": "The cost required to gain possession of something.",
+    "zh": "获得某物的所有权所需的成本。"
+  },
+  "DATE": {
+    "en": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.",
+    "zh": "枣椰树（Phoenix dactylifera）的果实，有点像橄榄的形状，含有柔软、甜的果肉，并包裹着坚硬的果仁。"
+  },
+  "BACK": {
+    "en": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+    "zh": "身体的后部，特别是颈部和脊柱末端之间、与胸部和腹部相对的部分。"
+  },
+  "TOP": {
+    "en": "The highest or uppermost part of something.",
+    "zh": "某物的最高或最上面的部分。"
+  },
+  "HAD": {
+    "en": "To possess, own.",
+    "zh": "占有，拥有。"
+  },
+  "LIST": {
+    "en": "A strip of fabric, especially from the edge of a piece of cloth.",
+    "zh": "一块布，特指一块布边缘的布条。"
+  },
+  "NAME": {
+    "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+    "zh": "任何表示特定人、地点、类别或事物的名词词或短语。"
+  },
+  "JUST": {
+    "en": "Factually right, correct; factual.",
+    "zh": "事实正确，正确；事实。"
+  },
+  "OVER": {
+    "en": "A set of six legal balls bowled.",
+    "zh": "一组六个合法球被投出。"
+  },
+  "STATE": {
+    "en": "A condition; a set of circumstances applying at any given time.",
+    "zh": "一个条件；在任何给定时间适用的一组情况。"
+  },
+  "YEAR": {
+    "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+    "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
+  },
+  "DAY": {
+    "en": "Any period of 24 hours.",
+    "zh": "任意 24 小时期间。"
+  },
+  "INTO": {
+    "en": "To or towards the inside of.",
+    "zh": "向或朝向...的内部。"
+  },
+  "EMAIL": {
+    "en": "A system for transferring messages from one computer to another, usually through a network.",
+    "zh": "通常通过网络将消息从一台计算机传输到另一台计算机的系统。"
+  },
+  "TWO": {
+    "en": "The digit/figure 2.",
+    "zh": "数字/数字 2."
+  },
+  "WORLD": {
+    "en": "(with \"the\") Human collective existence; existence in general.",
+    "zh": "（与“the”）人类集体存在；普遍存在。"
+  },
+  "NEXT": {
+    "en": "The one that follows after this one.",
+    "zh": "继这一篇之后的一篇。"
+  },
+  "USED": {
+    "en": "To utilize or employ.",
+    "zh": "利用或雇用。"
+  },
+  "WORK": {
+    "en": "(heading) Employment.",
+    "zh": "（标题）就业。"
+  },
+  "LAST": {
+    "en": "Final, ultimate, coming after all others of its kind.",
+    "zh": "最终的、最终的、排在所有同类之后的。"
+  },
+  "MOST": {
+    "en": "The greatest amount.",
+    "zh": "最大的金额。"
+  },
+  "MUSIC": {
+    "en": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+    "zh": "一系列按时间组织起来的声音，通常利用旋律、和声、节奏等来传达一种情绪。"
+  },
+  "BUY": {
+    "en": "Something which is bought; a purchase.",
+    "zh": "买来的东西；购买。"
+  },
+  "DATA": {
+    "en": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+    "zh": "（复数：数据）记录者（一个人或设备）和阅读器（另一个人或设备）都可以理解的尺度上的某种测量。尺度是任意定义的，例如从1到10按个位​​，1到100按0.1，或者简单地是真或假、开或关、是、否或也许等等。"
+  },
+  "MAKE": {
+    "en": "Brand or kind; model.",
+    "zh": "品牌或种类；模型。"
+  },
+  "THEM": {
+    "en": "(plural) Those ones.",
+    "zh": "（复数）那些。"
+  },
+  "POST": {
+    "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+    "zh": "从地面伸出的长销钉或木板；栅栏柱；一根灯柱。"
+  },
+  "HER": {
+    "en": "A female person or animal.",
+    "zh": "女性或动物。"
+  },
+  "CITY": {
+    "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+    "zh": "一个比城镇还大的大型定居点；有时根据地点有具体的法律定义。"
+  },
+  "ADD": {
+    "en": "An act or instance of adding.",
+    "zh": "添加的行为或实例。"
+  },
+  "SUCH": {
+    "en": "Something being indicated that is similar to something else.",
+    "zh": "所指示的事物与其他事物相似。"
+  },
+  "AFTER": {
+    "en": "Later; second (of two); next, following, subsequent",
+    "zh": "之后;第二个（共两个）；下一个，接着，接下来的"
+  },
+  "BEST": {
+    "en": "The supreme effort one can make, or has made.",
+    "zh": "一个人可以做出或已经做出的最大努力。"
+  },
+  "THEN": {
+    "en": "Used in comparisons, to introduce the basis of comparison.",
+    "zh": "用于比较，介绍比较的基础。"
+  },
+  "JAN": {
+    "en": "(Muslim demonology) A genie and descendant of the jann, normally invisible to the human eye, but who may also appear in animal or human form, equivalent to demons in Jewish demonology.",
+    "zh": "（穆斯林恶魔学）精灵和詹恩的后裔，通常肉眼看不见，但也可能以动物或人类形式出现，相当于犹太恶魔学中的恶魔。"
+  },
+  "GOOD": {
+    "en": "(of people)",
+    "zh": "（人的）"
+  },
+  "VIDEO": {
+    "en": "Television, television show, movie.",
+    "zh": "电视，电视剧，电影。"
+  },
+  "WELL": {
+    "en": "In good health.",
+    "zh": "身体健康。"
+  },
+  "WHERE": {
+    "en": "The place in which something happens.",
+    "zh": "某事发生的地方。"
+  },
+  "INFO": {
+    "en": "Information.",
+    "zh": "信息。"
+  },
+  "BOOKS": {
+    "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+    "zh": "装订在一起并在一个边缘铰接的一组纸张的集合，其中包含印刷或书面材料、图片等。"
+  },
+  "HIGH": {
+    "en": "A high point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven.",
+    "zh": "字面上或象征上的高点或位置；高处；优越的地区；高度；天空；天堂。"
+  },
+  "EACH": {
+    "en": "(operations) An individual item: the least quantitative unit in a grouping.",
+    "zh": "（操作）单个项目：分组中的最小数量单位。"
+  },
+  "LINKS": {
+    "en": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+    "zh": "电子文档中的某些文本或图形可以被激活以显示另一个文档或触发操作。"
+  },
+  "SHE": {
+    "en": "A female.",
+    "zh": "一名女性。"
+  },
+  "YEARS": {
+    "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+    "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
+  },
+  "ORDER": {
+    "en": "Arrangement, disposition, or sequence.",
+    "zh": "安排、处置或顺序。"
+  },
+  "VERY": {
+    "en": "True, real, actual.",
+    "zh": "真实、真实、实在。"
+  },
+  "BOOK": {
+    "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+    "zh": "装订在一起并在一个边缘铰接的一组纸张的集合，其中包含印刷或书面材料、图片等。"
+  },
+  "ITEMS": {
+    "en": "A distinct physical object.",
+    "zh": "一个独特的物理对象。"
+  },
+  "READ": {
+    "en": "A reading or an act of reading, especially an actor's part of a play.",
+    "zh": "阅读或阅读的行为，尤指戏剧中演员的部分。"
+  },
+  "GROUP": {
+    "en": "A number of things or persons being in some relation to one another.",
+    "zh": "许多事物或人彼此之间存在某种关系。"
+  },
+  "SEX": {
+    "en": "A category into which sexually-reproducing organisms are divided on the basis of their reproductive roles in their species.",
+    "zh": "有性生殖生物根据其在物种中的生殖作用划分的类别。"
+  },
+  "NEED": {
+    "en": "A requirement for something; something needed.",
+    "zh": "对某事的要求；需要一些东西。"
+  },
+  "MANY": {
+    "en": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
+    "zh": "众多；一个伟大的聚合体；一大群人；普遍性；普通群体。"
+  },
+  "USER": {
+    "en": "One who uses or makes use of something, a consumer/client or an express or implied licensee (free user) or a trespasser.",
+    "zh": "使用或利用某物的人、消费者/客户、明示或暗示的被许可人（免费用户）或侵入者。"
+  },
+  "SAID": {
+    "en": "Mentioned earlier; aforesaid.",
+    "zh": "前面提到过；前述。"
+  },
+  "DOES": {
+    "en": "(auxiliary) A syntactic marker.",
+    "zh": "（辅助）句法标记。"
+  },
+  "SET": {
+    "en": "To put (something) down, to rest.",
+    "zh": "放下（某物），休息。"
+  },
+  "UNDER": {
+    "en": "Being lower; being beneath something.",
+    "zh": "较低；在某物之下。"
+  },
+  "MAIL": {
+    "en": "A bag or wallet.",
+    "zh": "一个包或钱包。"
+  },
+  "FULL": {
+    "en": "Containing the maximum possible amount that can fit in the space available.",
+    "zh": "包含可容纳在可用空间中的最大可能数量。"
+  },
+  "MAP": {
+    "en": "A visual representation of an area, whether real or imaginary.",
+    "zh": "一个区域的视觉表示，无论是真实的还是想象的。"
+  },
+  "LIFE": {
+    "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+    "zh": "生物体死亡前的状态，以新陈代谢和繁殖等生物过程为特征，并将其与无生命物体区分开来；活着和活着的状态。"
+  },
+  "KNOW": {
+    "en": "Knowledge; the state of knowing.",
+    "zh": "知识;知道的状态。"
+  },
+  "GAMES": {
+    "en": "A playful or competitive activity.",
+    "zh": "一种有趣的或竞争性的活动。"
+  },
+  "WAY": {
+    "en": "(heading) To do with a place or places.",
+    "zh": "（标题）与一个或多个地方有关。"
+  },
+  "DAYS": {
+    "en": "Any period of 24 hours.",
+    "zh": "任意 24 小时期间。"
+  },
+  "PART": {
+    "en": "A portion; a component.",
+    "zh": "一部分；一个组件。"
+  },
+  "COULD": {
+    "en": "(auxiliary verb, defective) To know how to; to be able to.",
+    "zh": "（助动词，有缺陷的）知道如何；能够。"
+  },
+  "GREAT": {
+    "en": "A person of major significance, accomplishment or acclaim.",
+    "zh": "具有重大意义、成就或赞誉的人。"
+  },
+  "HOTEL": {
+    "en": "A large town house or mansion; a grand private residence, especially in France.",
+    "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
+  },
+  "REAL": {
+    "en": "A commodity; see realty.",
+    "zh": "商品；见房地产。"
+  },
+  "ITEM": {
+    "en": "A distinct physical object.",
+    "zh": "一个独特的物理对象。"
+  },
+  "MUST": {
+    "en": "Something that is mandatory or required.",
+    "zh": "强制或要求的东西。"
+  },
+  "STORE": {
+    "en": "A place where items may be accumulated or routinely kept.",
+    "zh": "可以积累或定期保存物品的地方。"
+  },
+  "MADE": {
+    "en": "A grub or maggot.",
+    "zh": "蛆或蛆。"
+  },
+  "OFF": {
+    "en": "(usually in phrases such as 'from the off', 'at the off', etc.) Beginning; starting point.",
+    "zh": "（通常用“from the off”、“at the off”等短语） 开始；起点。"
+  },
+  "LINE": {
+    "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+    "zh": "通过两个或多个点的路径（比较“线段”）；连续的标记，包括用钢笔做的标记；任何路径，无论是弯的还是直的。"
+  },
+  "TERMS": {
+    "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+    "zh": "限制事物范围的事物；限制，极端，界线，界线。"
+  },
+  "DID": {
+    "en": "(auxiliary) A syntactic marker.",
+    "zh": "（辅助）句法标记。"
+  },
+  "SEND": {
+    "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
+    "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
+  },
+  "RIGHT": {
+    "en": "Straight, not bent.",
+    "zh": "直，不弯。"
+  },
+  "TYPE": {
+    "en": "A grouping based on shared characteristics; a class.",
+    "zh": "基于共同特征的分组；一堂课。"
+  },
+  "LOCAL": {
+    "en": "A person who lives near a given place.",
+    "zh": "住在某个地方附近的人。"
+  },
+  "THOSE": {
+    "en": "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+    "zh": "（指示性）从上下文中指示或理解的事物、人、想法、质量、事件、动作或时间，特别是如果在地理上、时间上或精神上比指定为“这个”的人更遥远，或者表达区别。"
+  },
+  "USING": {
+    "en": "To utilize or employ.",
+    "zh": "利用或雇用。"
+  },
+  "CAR": {
+    "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+    "zh": "一种独立移动的轮式车辆，至少有三个轮子，机械驱动，由驾驶员驾驶，主要用于个人交通。"
+  },
+  "TAKE": {
+    "en": "The or an act of taking.",
+    "zh": "采取或采取的行为。"
+  },
+  "AREA": {
+    "en": "A measure of the extent of a surface; it is measured in square units.",
+    "zh": "表面范围的测量；它以平方单位测量。"
+  },
+  "WANT": {
+    "en": "A desire, wish, longing.",
+    "zh": "一种愿望、愿望、渴望。"
+  },
+  "PHONE": {
+    "en": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+    "zh": "一种用于远距离实时传输对话和其他声音的设备，现在通常是一个小型便携式设备，也能够运行软件等。"
+  },
+  "FORUM": {
+    "en": "A place for discussion.",
+    "zh": "一个讨论的地方。"
+  },
+  "LONG": {
+    "en": "A long vowel.",
+    "zh": "一个长元音。"
+  },
+  "BASED": {
+    "en": "To give as its foundation or starting point; to lay the foundation of.",
+    "zh": "以给予为基础或起点；奠定基础。"
+  },
+  "CODE": {
+    "en": "A short symbol, often with little relation to the item it represents.",
+    "zh": "一个简短的符号，通常与其代表的项目关系不大。"
+  },
+  "SHOW": {
+    "en": "A play, dance, or other entertainment.",
+    "zh": "戏剧、舞蹈或其他娱乐活动。"
+  },
+  "EVEN": {
+    "en": "(diminutive) An even number.",
+    "zh": "（小数）偶数。"
+  },
+  "BLACK": {
+    "en": "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+    "zh": "在没有光的情况下以及没有光被反射而是被吸收时感知的颜色/颜色。"
+  },
+  "CHECK": {
+    "en": "A situation in which the king is directly threatened by an opposing piece.",
+    "zh": "国王受到对方棋子直接威胁的情况。"
+  },
+  "INDEX": {
+    "en": "An alphabetical listing of items and their location.",
+    "zh": "按字母顺序排列的项目及其位置列表。"
+  },
+  "BEING": {
+    "en": "A living creature.",
+    "zh": "一个活物。"
+  },
+  "WOMEN": {
+    "en": "An adult female human.",
+    "zh": "成年女性人类。"
+  },
+  "MUCH": {
+    "en": "Large, great.",
+    "zh": "很大，很棒。"
+  },
+  "SIGN": {
+    "en": "(sometimes also used uncountably) A visible indication.",
+    "zh": "（有时也用于不可数）可见的指示。"
+  },
+  "FILE": {
+    "en": "A collection of papers collated and archived together.",
+    "zh": "整理并归档在一起的论文集。"
+  },
+  "LINK": {
+    "en": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+    "zh": "电子文档中的某些文本或图形可以被激活以显示另一个文档或触发操作。"
+  },
+  "OPEN": {
+    "en": "Not closed",
+    "zh": "未关闭"
+  },
+  "TODAY": {
+    "en": "A current day or date.",
+    "zh": "当前日期或日期。"
+  },
+  "SOUTH": {
+    "en": "One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map, abbreviated as S.",
+    "zh": "四个主要罗盘点之一，具体为 180°，指向南极，在地图上通常向下，缩写为 S。"
+  },
+  "CASE": {
+    "en": "An actual event, situation, or fact.",
+    "zh": "实际事件、情况或事实。"
+  },
+  "SAME": {
+    "en": "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+    "zh": "没有不同或其他；不是另一个或其他人；就自我而言没有不同；相同；完全相同的。"
+  },
+  "PAGES": {
+    "en": "One of the many pieces of paper bound together within a book or similar document.",
+    "zh": "一本书或类似文档中装订在一起的多张纸中的一张。"
+  },
+  "OWN": {
+    "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+    "zh": "属于；拥有；适当的。通常将所有格限定词标记为反身，指回从句或句子的主语。"
+  },
+  "FOUND": {
+    "en": "To encounter or discover by accident; to happen upon.",
+    "zh": "偶然遇见或发现；发生在。"
+  },
+  "HOUSE": {
+    "en": "A structure built or serving as an abode of human beings.",
+    "zh": "建造或用作人类住所的建筑物。"
+  },
+  "BOTH": {
+    "en": "Each of the two, or of the two kinds.",
+    "zh": "两者中的每一种，或两种中的一种。"
+  },
+  "PHOTO": {
+    "en": "A photograph.",
+    "zh": "一张照片。"
+  },
+  "GAME": {
+    "en": "A playful or competitive activity.",
+    "zh": "一种有趣的或竞争性的活动。"
+  },
+  "POWER": {
+    "en": "Ability to do or undergo something.",
+    "zh": "做某事或经历某事的能力。"
+  },
+  "WHILE": {
+    "en": "An uncertain duration of time, a period of time.",
+    "zh": "一段不确定的时间，一段时间。"
+  },
+  "CARE": {
+    "en": "Grief, sorrow.",
+    "zh": "悲伤，悲伤。"
+  },
+  "DOWN": {
+    "en": "A negative aspect; a downer.",
+    "zh": "消极的一面；令人沮丧的人。"
+  },
+  "THREE": {
+    "en": "The digit/figure 3.",
+    "zh": "数字/数字 3."
+  },
+  "TOTAL": {
+    "en": "An amount obtained by the addition of smaller amounts.",
+    "zh": "通过添加较小的量而获得的量。"
+  },
+  "PLACE": {
+    "en": "(physical) An area; somewhere within an area.",
+    "zh": "（物理）一个区域；某个区域内的某处。"
+  },
+  "END": {
+    "en": "The terminal point of something in space or time.",
+    "zh": "空间或时间中某物的终点。"
+  },
+  "HIM": {
+    "en": "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.",
+    "zh": "他的敬语替代字母大小写形式，有时在指代上帝或其他根据上下文理解的重要人物时使用。"
+  },
+  "PER": {
+    "en": "For each.",
+    "zh": "对于每一个。"
+  },
+  "THINK": {
+    "en": "An act of thinking; consideration (of something).",
+    "zh": "一种思考的行为；考虑（某事）。"
+  },
+  "NORTH": {
+    "en": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+    "zh": "四个主要罗盘点之一，特别是 0°，指向北极，通常在地图上向上，缩写为 N。"
+  },
+  "POSTS": {
+    "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+    "zh": "从地面伸出的长销钉或木板；栅栏柱；一根灯柱。"
+  },
+  "BIG": {
+    "en": "Someone or something that is large in stature",
+    "zh": "身材高大的某人或某物"
+  },
+  "MEDIA": {
+    "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+    "zh": "血管或淋巴管壁的中间层，由结缔组织和肌肉组织组成。"
+  },
+  "LAW": {
+    "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+    "zh": "由立法和司法当局在社区中制定的具有约束力的规则和条例、习俗和标准的体系。"
+  }
+}

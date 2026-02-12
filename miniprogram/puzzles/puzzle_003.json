@@ -5,38 +5,38 @@
   "cols": 5,
   "solution": [
     [
-      "h",
-      "e",
-      "a",
-      "p",
+      null,
+      "B",
+      "I",
+      "G",
       null
     ],
     [
-      "e",
-      "q",
-      "u",
-      "a",
-      "l"
+      "O",
+      "O",
+      null,
+      "R",
+      "A"
     ],
     [
-      "a",
-      "u",
-      "d",
-      "i",
-      "o"
+      "W",
+      "O",
+      "M",
+      "E",
+      "N"
     ],
     [
-      "p",
-      "a",
-      "i",
-      "n",
-      "t"
+      "N",
+      "K",
+      null,
+      "A",
+      "Y"
     ],
     [
       null,
-      "l",
-      "o",
-      "t",
+      "S",
+      "E",
+      "T",
       null
     ]
   ],
@@ -44,43 +44,35 @@
     "easy": [
       [
         1,
-        1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        4
+        3
       ],
       [
         0,
-        0
+        2
       ],
       [
-        2,
-        0
+        0,
+        3
+      ],
+      [
+        0,
+        1
       ]
     ],
     "medium": [
       [
         1,
-        1
+        3
       ],
       [
-        2,
+        0,
         2
-      ],
-      [
-        2,
-        4
       ]
     ],
     "hard": [
       [
         1,
-        1
+        3
       ]
     ]
   },
@@ -89,37 +81,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "HEAP",
-          "zh": "HEAP"
+          "en": "Someone or something that is large in stature",
+          "zh": "身材高大的某人或某物"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "EQUAL",
-          "zh": "EQUAL"
-        }
-      },
-      {
-        "num": 7,
+        "num": 6,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "AUDIO",
-          "zh": "AUDIO"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "PAINT",
-          "zh": "PAINT"
+          "en": "An adult female human.",
+          "zh": "成年女性人类。"
         }
       },
       {
@@ -127,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "LOT",
-          "zh": "LOT"
+          "en": "To put (something) down, to rest.",
+          "zh": "放下（某物），休息。"
         }
       }
     ],
@@ -136,46 +110,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "HEAP",
-          "zh": "HEAP"
+          "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+          "zh": "装订在一起并在一个边缘铰接的一组纸张的集合，其中包含印刷或书面材料、图片等。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "EQUAL",
-          "zh": "EQUAL"
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "具有重大意义、成就或赞誉的人。"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 2,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "AUDIO",
-          "zh": "AUDIO"
+          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "zh": "属于；拥有；适当的。通常将所有格限定词标记为反身，指回从句或句子的主语。"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "PAINT",
-          "zh": "PAINT"
-        }
-      },
-      {
-        "num": 6,
+        "num": 5,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "LOT",
-          "zh": "LOT"
+          "en": "To even the slightest extent, at all.",
+          "zh": "即使是最轻微的程度。"
         }
       }
     ]

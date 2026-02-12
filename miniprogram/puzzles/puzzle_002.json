@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      "a",
-      "b",
-      "l",
-      "e",
-      null
-    ],
-    [
-      "b",
-      "r",
-      "o",
-      "a",
-      "d"
-    ],
-    [
-      "l",
-      "o",
-      "d",
-      "g",
-      "e"
-    ],
-    [
-      "e",
-      "a",
-      "g",
-      "l",
-      "e"
-    ],
-    [
       null,
-      "d",
-      "e",
-      "e",
-      "p"
+      "S",
+      "H",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      null,
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      null,
+      "L"
+    ],
+    [
+      "W",
+      "E",
+      "L",
+      "L",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        0
+        3,
+        2
+      ],
+      [
+        1,
+        2
       ],
       [
         3,
-        3
-      ],
-      [
-        4,
         1
       ],
       [
-        2,
-        3
+        0,
+        2
       ],
       [
-        4,
-        2
+        2,
+        4
       ]
     ],
     "medium": [
       [
-        0,
-        0
+        3,
+        2
+      ],
+      [
+        1,
+        2
       ],
       [
         3,
-        3
-      ],
-      [
-        4,
         1
       ]
     ],
     "hard": [
       [
-        0,
-        0
+        3,
+        2
       ]
     ]
   },
@@ -89,19 +89,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "ABLE",
-          "zh": "ABLE"
+          "en": "A play, dance, or other entertainment.",
+          "zh": "戏剧、舞蹈或其他娱乐活动。"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "BROAD",
-          "zh": "BROAD"
+          "en": "The digit or figure 1.",
+          "zh": "数字或数字 1。"
         }
       },
       {
@@ -109,73 +109,73 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "LODGE",
-          "zh": "LODGE"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "EAGLE",
-          "zh": "EAGLE"
+          "en": "A large town house or mansion; a grand private residence, especially in France.",
+          "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "DEEP",
-          "zh": "DEEP"
+          "en": "The digit or figure 1.",
+          "zh": "数字或数字 1。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "In good health.",
+          "zh": "身体健康。"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "ABLE",
-          "zh": "ABLE"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "BROAD",
-          "zh": "BROAD"
+          "en": "A large town house or mansion; a grand private residence, especially in France.",
+          "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "LODGE",
-          "zh": "LODGE"
+          "en": "The digit or figure 1.",
+          "zh": "数字或数字 1。"
         }
       },
       {
         "num": 4,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "EAGLE",
-          "zh": "EAGLE"
+          "en": "In good health.",
+          "zh": "身体健康。"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "DEEP",
-          "zh": "DEEP"
+          "en": "A play, dance, or other entertainment.",
+          "zh": "戏剧、舞蹈或其他娱乐活动。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "数字或数字 1。"
         }
       }
     ]

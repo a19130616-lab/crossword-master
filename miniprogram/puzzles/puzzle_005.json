@@ -5,130 +5,95 @@
   "cols": 5,
   "solution": [
     [
-      "m",
-      "i",
-      "l",
-      "d",
-      null
-    ],
-    [
-      "i",
-      "d",
-      "e",
-      "a",
-      "l"
-    ],
-    [
-      "l",
-      "e",
-      "a",
-      "v",
-      "e"
-    ],
-    [
-      "d",
-      "a",
-      "v",
-      "i",
-      "d"
-    ],
-    [
+      "N",
       null,
-      "l",
-      "e",
-      "d",
-      null
+      null,
+      null,
+      "O"
+    ],
+    [
+      "O",
+      "T",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      null,
+      "E",
+      null,
+      "D"
+    ],
+    [
+      "T",
+      "H",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "H",
+      null,
+      null,
+      null,
+      "R"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        2,
+        2
+      ],
+      [
+        3,
         0
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        0,
-        1
       ],
       [
         0,
         0
       ],
       [
-        1,
-        3
+        3,
+        4
       ]
     ],
     "medium": [
       [
-        1,
+        2,
+        2
+      ],
+      [
+        3,
         0
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        0,
-        1
       ]
     ],
     "hard": [
       [
-        1,
-        0
+        2,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
+        "num": 3,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "MILD",
-          "zh": "MILD"
+          "en": "An other, another (person, etc), more often rendered as another.",
+          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "IDEAL",
-          "zh": "IDEAL"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "LEAVE",
-          "zh": "LEAVE"
-        }
-      },
-      {
-        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "DAVID",
-          "zh": "DAVID"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "LED",
-          "zh": "LED"
+          "en": "The digit/figure 3.",
+          "zh": "数字/数字 3."
         }
       }
     ],
@@ -138,44 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "MILD",
-          "zh": "MILD"
+          "en": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+          "zh": "四个主要罗盘点之一，特别是 0°，指向北极，通常在地图上向上，缩写为 N。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "IDEAL",
-          "zh": "IDEAL"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "LEAVE",
-          "zh": "LEAVE"
+          "en": "Arrangement, disposition, or sequence.",
+          "zh": "安排、处置或顺序。"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "DAVID",
-          "zh": "DAVID"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "LED",
-          "zh": "LED"
+          "en": "A female person or animal.",
+          "zh": "女性或动物。"
         }
       }
     ]

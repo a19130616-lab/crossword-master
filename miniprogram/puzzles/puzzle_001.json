@@ -6,81 +6,73 @@
   "solution": [
     [
       null,
-      "a",
-      "c",
-      "i",
-      "d"
+      "W",
+      "E",
+      "B",
+      null
     ],
     [
-      "a",
-      "l",
-      "o",
-      "n",
-      "e"
+      "O",
+      "H",
+      null,
+      "A",
+      "I"
     ],
     [
-      "c",
-      "o",
-      "s",
-      "t",
-      "a"
+      "F",
+      "I",
+      "R",
+      "S",
+      "T"
     ],
     [
-      "e",
-      "n",
-      "t",
-      "e",
-      "r"
+      "F",
+      "C",
+      null,
+      "E",
+      "S"
     ],
     [
       null,
-      "e",
-      "a",
-      "r",
+      "H",
+      "A",
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        2
-      ],
-      [
-        1,
+        0,
         1
       ],
       [
-        0,
-        2
-      ],
-      [
-        3,
+        4,
         3
       ],
       [
-        1,
-        0
+        4,
+        2
+      ],
+      [
+        2,
+        4
       ]
     ],
     "medium": [
       [
-        2,
-        2
-      ],
-      [
-        1,
+        0,
         1
       ],
       [
-        0,
-        2
+        4,
+        3
       ]
     ],
     "hard": [
       [
-        2,
-        2
+        0,
+        1
       ]
     ]
   },
@@ -91,17 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "ACID",
-          "zh": "ACID"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "ALONE",
-          "zh": "ALONE"
+          "en": "The World Wide Web.",
+          "zh": "万维网。"
         }
       },
       {
@@ -109,26 +92,17 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "COSTA",
-          "zh": "COSTA"
+          "en": "The person or thing in the first position.",
+          "zh": "处于第一位的人或物。"
         }
       },
       {
-        "num": 7,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "ENTER",
-          "zh": "ENTER"
-        }
-      },
-      {
-        "num": 8,
+        "num": 9,
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "EAR",
-          "zh": "EAR"
+          "en": "To possess, own.",
+          "zh": "占有，拥有。"
         }
       }
     ],
@@ -138,44 +112,35 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "ALONE",
-          "zh": "ALONE"
+          "en": "(interrogative) What one or ones (of those mentioned or implied).",
+          "zh": "（疑问）（提到或暗示的）一个或多个。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "COSTA",
-          "zh": "COSTA"
+          "en": "To give as its foundation or starting point; to lay the foundation of.",
+          "zh": "以给予为基础或起点；奠定基础。"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "INTER",
-          "zh": "INTER"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "DEAR",
-          "zh": "DEAR"
+          "en": "(usually in phrases such as 'from the off', 'at the off', etc.) Beginning; starting point.",
+          "zh": "（通常用“from the off”、“at the off”等短语） 开始；起点。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "ACE",
-          "zh": "ACE"
+          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
         }
       }
     ]

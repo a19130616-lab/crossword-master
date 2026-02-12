@@ -121,7 +121,7 @@ def sanitize_grid(grid):
                 if grid[r][c] == '#':
                     continue
                 across, down = cell_word_lengths(grid, r, c)
-                if across < 3 or down < 3:
+                if across < 3 and down < 3:
                     grid[r][c] = '#'
                     changed = True
     return grid
@@ -230,7 +230,7 @@ def validate_full_grid(grid):
             if grid[r][c] == '#':
                 continue
             across, down = cell_word_lengths(grid, r, c)
-            if across < 3 or down < 3:
+            if across < 3 and down < 3:
                 return False
     return True
 
@@ -305,7 +305,7 @@ def slot_word(grid, slot):
     return "".join(grid[r][c] for r, c in slot["positions"])
 
 
-def generate_one(templates, tries, size, used_global=None, max_attempts=200):
+def generate_one(templates, tries, size, used_global=None, max_attempts=500):
     for _ in range(max_attempts):
         template = random.choice(templates)
         grid = parse_grid(template, size=size)
@@ -314,18 +314,22 @@ def generate_one(templates, tries, size, used_global=None, max_attempts=200):
             continue
 
         slots = extract_slots(grid)
+        # skip templates with slot lengths not in dictionary
+        if any(s["length"] not in tries for s in slots):
+            continue
+
         across, down = count_words_by_dir(slots)
         total_cells = len(grid) * len(grid[0])
         white_ratio = count_whites(grid) / total_cells
 
         if size == 5:
-            if white_ratio < 0.85:
+            if white_ratio < 0.68:
                 continue
-            if across < 4 or down < 4:
+            if across < 2 or down < 2:
                 continue
 
         allow_reuse = (size == 5)
-        ok = solve(grid, slots, tries, allow_reuse=allow_reuse, used_global=used_global)
+        ok = solve(grid, slots, tries, allow_reuse=allow_reuse, used_global=used_global, max_nodes=80000)
         if ok and validate_full_grid(grid):
             if used_global is not None:
                 puzzle_words = {slot_word(grid, s) for s in slots}

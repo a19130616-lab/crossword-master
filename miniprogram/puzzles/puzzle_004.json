@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "g",
-      "l",
-      "e",
-      "n"
-    ],
-    [
-      "g",
-      "r",
-      "o",
-      "v",
-      "e"
-    ],
-    [
-      "l",
-      "o",
-      "v",
-      "e",
-      "s"
-    ],
-    [
-      "e",
-      "v",
-      "e",
-      "n",
-      "t"
-    ],
-    [
-      "n",
-      "e",
-      "s",
-      "t",
+      "G",
+      "A",
+      "M",
+      "E",
       null
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      null,
+      "C"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "E",
+      null,
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      null,
+      "C",
+      "A",
+      "S",
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        3,
+        3
+      ],
+      [
+        0,
         1
       ],
       [
-        2,
-        4
-      ],
-      [
         1,
-        4
+        0
       ],
       [
         3,
         4
       ],
       [
-        1,
+        2,
         1
       ]
     ],
     "medium": [
       [
-        4,
+        3,
+        3
+      ],
+      [
+        0,
         1
       ],
       [
-        2,
-        4
-      ],
-      [
         1,
-        4
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        1
+        3,
+        3
       ]
     ]
   },
@@ -89,19 +89,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "GLEN",
-          "zh": "GLEN"
+          "en": "A playful or competitive activity.",
+          "zh": "一种有趣的或竞争性的活动。"
         }
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "GROVE",
-          "zh": "GROVE"
+          "en": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
         }
       },
       {
@@ -109,26 +109,26 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "LOVES",
-          "zh": "LOVES"
-        }
-      },
-      {
-        "num": 7,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "EVENT",
-          "zh": "EVENT"
+          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+          "zh": "血管或淋巴管壁的中间层，由结缔组织和肌肉组织组成。"
         }
       },
       {
         "num": 8,
-        "row": 4,
-        "col": 0,
+        "row": 3,
+        "col": 2,
         "clue": {
-          "en": "NEST",
-          "zh": "NEST"
+          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "An actual event, situation, or fact.",
+          "zh": "实际事件、情况或事实。"
         }
       }
     ],
@@ -136,46 +136,46 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "GROVE",
-          "zh": "GROVE"
+          "en": "A playful or competitive activity.",
+          "zh": "一种有趣的或竞争性的活动。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "LOVES",
-          "zh": "LOVES"
+          "en": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "EVENT",
-          "zh": "EVENT"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "NEST",
-          "zh": "NEST"
+          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+          "zh": "血管或淋巴管壁的中间层，由结缔组织和肌肉组织组成。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "GLEN",
-          "zh": "GLEN"
+          "en": "An actual event, situation, or fact.",
+          "zh": "实际事件、情况或事实。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
         }
       }
     ]

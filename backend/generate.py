@@ -31,10 +31,15 @@ def main():
     words = load_dictionary()
     tries = build_tries(words)
 
-    used_global = set()
+    used_global = None
     manifest = []
     for i in range(args.count):
-        grid = generate_one(templates, tries, args.size, used_global=used_global)
+        grid = None
+        # Try multiple templates; skip if unsolved quickly
+        for _ in range(200):
+            grid = generate_one(templates, tries, args.size, used_global=used_global, max_attempts=10)
+            if grid:
+                break
         if not grid:
             raise SystemExit("Failed to generate a valid grid")
         puzzle_id = f"puzzle_{i+1:03d}"

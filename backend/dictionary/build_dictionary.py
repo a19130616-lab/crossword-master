@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[2]
 WORD_DB_PATH = ROOT / "scripts" / "lib" / "word_db.js"
 WORDLIST_PATH = ROOT / "scripts" / "wordlist.txt"
 OUTPUT_PATH = Path(__file__).parent / "word_dictionary.json"
+ENRICHED_PATH = ROOT / "backend" / "scripts" / "enriched_words.json"
 
 EXCLUDED_WORDS = {
     "sex", "god", "shit", "fuck", "cunt", "dick", "bitch", "nazi", "fag", "damn", "hell", "satan"
@@ -46,6 +47,9 @@ def extract_js_block(src: str, name: str) -> str:
 
 def js_to_json(js_text: str) -> str:
     js_text = strip_js_comments(js_text)
+    # quote unquoted keys (e.g., en: "...")
+    js_text = re.sub(r"([\{,]\s*)([A-Za-z0-9_]+)\s*:", r"\1\"\2\":", js_text)
+    js_text = js_text.replace('\\"', '"')
     js_text = re.sub(r",\s*([\]}])", r"\1", js_text)
     js_text = re.sub(r"'", '"', js_text)
     return js_text
@@ -96,34 +100,67 @@ def main():
 
     dictionary = {
         "metadata": {
-            "word_count": 0
+            "word_count": 0,
+            "source": "enriched_words.json" if ENRICHED_PATH.exists() else "CLUE_BANK"
         },
         "words": {}
     }
 
-    for w in wordlist:
-        if not (3 <= len(w) <= 10):
-            continue
-        if not re.fullmatch(r"[a-z]+", w):
-            continue
-        if w in EXCLUDED_WORDS:
-            continue
+    # Primary source: enriched JSON
+    if ENRICHED_PATH.exists():
+        enriched = json.loads(ENRICHED_PATH.read_text(encoding="utf-8"))
+        for raw_word, clue_obj in (enriched or {}).items():
+            w = raw_word.strip().lower()
+            if not (3 <= len(w) <= 10):
+                continue
+            if not re.fullmatch(r"[a-z]+", w):
+                continue
+            if w in EXCLUDED_WORDS:
+                continue
 
-        rank = rank_map.get(w)
-        if rank is None or rank > 3000:
-            continue
+            rank = rank_map.get(w, 1)
+            en = (clue_obj or {}).get("en", "") if isinstance(clue_obj, dict) else ""
+            zh = (clue_obj or {}).get("zh", "") if isinstance(clue_obj, dict) else ""
+            if not en and not zh:
+                continue
 
-        clue_text = clue_bank.get(w, "") if isinstance(clue_bank, dict) else ""
-
-        dictionary["words"][w] = {
-            "length": len(w),
-            "rank": rank,
-            "clues": {
-                "easy": clue_text,
-                "medium": clue_text,
-                "hard": clue_text
+            key = w.upper()
+            dictionary["words"][key] = {
+                "length": len(w),
+                "rank": rank,
+                "clues": {
+                    "easy": {"en": en, "zh": zh},
+                    "medium": {"en": en, "zh": zh},
+                    "hard": {"en": en, "zh": zh}
+                }
             }
-        }
+    else:
+        # Fallback: CLUE_BANK
+        for raw_word, clue_obj in (clue_bank or {}).items():
+            w = raw_word.strip().lower()
+            if not (3 <= len(w) <= 10):
+                continue
+            if not re.fullmatch(r"[a-z]+", w):
+                continue
+            if w in EXCLUDED_WORDS:
+                continue
+
+            rank = rank_map.get(w, 1)
+            en = (clue_obj or {}).get("en", "") if isinstance(clue_obj, dict) else ""
+            zh = (clue_obj or {}).get("zh", "") if isinstance(clue_obj, dict) else ""
+            if not en and not zh:
+                continue
+
+            key = w.upper()
+            dictionary["words"][key] = {
+                "length": len(w),
+                "rank": rank,
+                "clues": {
+                    "easy": {"en": en, "zh": zh},
+                    "medium": {"en": en, "zh": zh},
+                    "hard": {"en": en, "zh": zh}
+                }
+            }
 
     dictionary["metadata"]["word_count"] = len(dictionary["words"])
 
