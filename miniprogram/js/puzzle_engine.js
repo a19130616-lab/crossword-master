@@ -228,6 +228,10 @@ function createEngine(deps) {
     if (isSameCell) {
       if (hasAcross && hasDown) {
         State.direction = State.direction === 'across' ? 'down' : 'across'
+      } else if (hasAcross) {
+        State.direction = 'across'
+      } else if (hasDown) {
+        State.direction = 'down'
       }
     } else {
       State.activeRow = r
@@ -294,7 +298,7 @@ function createEngine(deps) {
     }
 
     const upper = letter.toUpperCase()
-    console.log(`[INPUT] ${upper} at [${State.activeRow},${State.activeCol}] match=${cell.answer === upper}`)
+    console.log(`[INPUT] ${upper} at [${State.activeRow},${State.activeCol}] expected=${cell.answer} match=${cell.answer === upper}`)
 
     try { wx.vibrateShort({ type: 'light' }) } catch (e) {}
     Haptics.tap()

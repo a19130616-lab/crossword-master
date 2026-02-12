@@ -310,17 +310,21 @@ function renderPlay(ctx, deps) {
     ctx.fillStyle = Theme.text
     ctx.font = Font.body
     ctx.textAlign = 'left'
-    const maxWidth = W - 32 - 60
+    const maxWidth = W - 32
     const lineHeight = 18
     const lines = wrapText(ctx, clueText || '', maxWidth)
     for (let i = 0; i < lines.length && i < 3; i++) {
       ctx.fillText(lines[i], 16, L.clueY + 40 + i * lineHeight)
     }
   } else {
-    ctx.fillStyle = Theme.textTertiary
-    ctx.font = Font.body
-    ctx.textAlign = 'left'
-    ctx.fillText('Tap a cell to see clue', 16, L.clueY + 45)
+    // If an active word exists but clue lookup failed, avoid showing the helper text
+    const fallback = (State.grid && !State.grid[State.activeRow]?.[State.activeCol]?.isBlack)
+    if (!fallback) {
+      ctx.fillStyle = Theme.textTertiary
+      ctx.font = Font.body
+      ctx.textAlign = 'left'
+      ctx.fillText('Tap a cell to see clue', 16, L.clueY + 45)
+    }
   }
 
   ctx.fillStyle = Theme.orange
@@ -422,18 +426,41 @@ function renderComplete(ctx, deps) {
 
 function wrapText(ctx, text, maxWidth) {
   if (!text) return []
-  const words = text.split(' ')
   const lines = []
   let line = ''
-  for (const w of words) {
-    const test = line ? line + ' ' + w : w
-    if (ctx.measureText(test).width > maxWidth && line) {
-      lines.push(line)
-      line = w
-    } else {
+
+  // Split by spaces; for long tokens, fall back to per-char wrapping
+  const tokens = text.split(' ')
+  for (const token of tokens) {
+    const test = line ? line + ' ' + token : token
+    if (ctx.measureText(test).width <= maxWidth) {
       line = test
+      continue
+    }
+
+    if (line) {
+      lines.push(line)
+      line = ''
+    }
+
+    // If token itself is too long, wrap by characters
+    if (ctx.measureText(token).width > maxWidth) {
+      let part = ''
+      for (const ch of token) {
+        const t = part + ch
+        if (ctx.measureText(t).width > maxWidth && part) {
+          lines.push(part)
+          part = ch
+        } else {
+          part = t
+        }
+      }
+      line = part
+    } else {
+      line = token
     }
   }
+
   if (line) lines.push(line)
   return lines
 }
