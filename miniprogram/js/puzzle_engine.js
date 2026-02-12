@@ -233,10 +233,10 @@ function createEngine(deps) {
       State.activeRow = r
       State.activeCol = c
 
-      if (hasDown && !hasAcross) {
-        State.direction = 'down'
-      } else if (hasAcross && !hasDown) {
+      if (hasAcross) {
         State.direction = 'across'
+      } else if (hasDown) {
+        State.direction = 'down'
       }
     }
   }
@@ -293,10 +293,13 @@ function createEngine(deps) {
       return
     }
 
+    const upper = letter.toUpperCase()
+    console.log(`[INPUT] ${upper} at [${State.activeRow},${State.activeCol}] match=${cell.answer === upper}`)
+
     try { wx.vibrateShort({ type: 'light' }) } catch (e) {}
     Haptics.tap()
 
-    cell.val = letter.toUpperCase()
+    cell.val = upper
     cell.status = 'filled'
     moveToNextCell()
     checkWinCondition()

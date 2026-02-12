@@ -309,12 +309,18 @@ function renderPlay(ctx, deps) {
 
     ctx.fillStyle = Theme.text
     ctx.font = Font.body
-    ctx.fillText(clueText || '', 16, L.clueY + 38)
+    ctx.textAlign = 'left'
+    const maxWidth = W - 32 - 60
+    const lineHeight = 18
+    const lines = wrapText(ctx, clueText || '', maxWidth)
+    for (let i = 0; i < lines.length && i < 3; i++) {
+      ctx.fillText(lines[i], 16, L.clueY + 40 + i * lineHeight)
+    }
   } else {
     ctx.fillStyle = Theme.textTertiary
     ctx.font = Font.body
     ctx.textAlign = 'left'
-    ctx.fillText('Tap a cell to see clue', 16, L.clueY + 30)
+    ctx.fillText('Tap a cell to see clue', 16, L.clueY + 45)
   }
 
   ctx.fillStyle = Theme.orange
@@ -412,6 +418,24 @@ function renderComplete(ctx, deps) {
   ctx.fillText('Back to Menu', W / 2, menuY + 30)
 
   UI.completeMenuBtn = { x: 16, y: menuY, w: W - 32, h: 48 }
+}
+
+function wrapText(ctx, text, maxWidth) {
+  if (!text) return []
+  const words = text.split(' ')
+  const lines = []
+  let line = ''
+  for (const w of words) {
+    const test = line ? line + ' ' + w : w
+    if (ctx.measureText(test).width > maxWidth && line) {
+      lines.push(line)
+      line = w
+    } else {
+      line = test
+    }
+  }
+  if (line) lines.push(line)
+  return lines
 }
 
 module.exports = { render, renderMenu, renderLevels, renderPuzzles, renderPlay, renderComplete, drawKeyboard }
