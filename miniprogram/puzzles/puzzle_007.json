@@ -1,0 +1,139 @@
+{
+  "id": "puzzle_007",
+  "title": "Puzzle 7",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "T",
+      null,
+      null,
+      null,
+      "L"
+    ],
+    [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "O",
+      "U",
+      null,
+      "E",
+      "V"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "L"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A structure built or serving as an abode of human beings.",
+          "zh": "建造或用作人类住所的建筑物。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A condition; a set of circumstances applying at any given time.",
+          "zh": "一个条件；在任何给定时间适用的一组情况。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+          "zh": "（指示性）从上下文中指示或理解的事物、人、想法、质量、事件、动作或时间，特别是如果在地理上、时间上或精神上比指定为“这个”的人更遥远，或者表达区别。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A tool for finding whether a surface is __, or for creating a horizontal or vertical line of reference.",
+          "zh": "用于确定表面是否水平或创建水平或垂直参考线的工具。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A means of exit, escape, reprieve, etc.",
+          "zh": "退出、逃脱、缓刑等的手段。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放下（某物），休息。"
+        }
+      }
+    ]
+  }
+}

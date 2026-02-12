@@ -23,5 +23,30 @@
     "id": "puzzle_005",
     "title": "Puzzle 5",
     "file": "puzzles/puzzle_005.json"
+  },
+  {
+    "id": "puzzle_006",
+    "title": "Puzzle 6",
+    "file": "puzzles/puzzle_006.json"
+  },
+  {
+    "id": "puzzle_007",
+    "title": "Puzzle 7",
+    "file": "puzzles/puzzle_007.json"
+  },
+  {
+    "id": "puzzle_008",
+    "title": "Puzzle 8",
+    "file": "puzzles/puzzle_008.json"
+  },
+  {
+    "id": "puzzle_009",
+    "title": "Puzzle 9",
+    "file": "puzzles/puzzle_009.json"
+  },
+  {
+    "id": "puzzle_010",
+    "title": "Puzzle 10",
+    "file": "puzzles/puzzle_010.json"
   }
 ]

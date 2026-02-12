@@ -5,74 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "W",
       "E",
-      "B",
+      "L",
+      "S",
+      "E",
       null
     ],
     [
+      "L",
       "O",
-      "H",
+      "T",
       null,
-      "A",
-      "I"
-    ],
-    [
-      "F",
-      "I",
-      "R",
-      "S",
-      "T"
-    ],
-    [
-      "F",
-      "C",
-      null,
-      "E",
       "S"
     ],
     [
+      "S",
+      "T",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "E",
       null,
-      "H",
-      "A",
-      "D",
-      null
+      "R",
+      "U",
+      "N"
+    ],
+    [
+      null,
+      "S",
+      "E",
+      "N",
+      "D"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        1
+        4,
+        4
       ],
       [
         4,
         3
       ],
       [
-        4,
-        2
+        3,
+        0
+      ],
+      [
+        1,
+        0
       ],
       [
         2,
-        4
+        3
       ]
     ],
     "medium": [
       [
-        0,
-        1
+        4,
+        4
       ],
       [
         4,
         3
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        0,
-        1
+        4,
+        4
       ]
     ]
   },
@@ -81,10 +89,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "The World Wide Web.",
-          "zh": "万维网。"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "（仅与不定代词或疑问代词一起使用）其他；除了前面提到的项目之外。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "数量大或数量大；很大。"
         }
       },
       {
@@ -92,8 +109,17 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "The person or thing in the first position.",
-          "zh": "处于第一位的人或物。"
+          "en": "A place where items may be accumulated or routinely kept.",
+          "zh": "可以积累或定期保存物品的地方。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "To __.",
+          "zh": "跑。"
         }
       },
       {
@@ -101,8 +127,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "To possess, own.",
-          "zh": "占有，拥有。"
+          "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
+          "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
         }
       }
     ],
@@ -110,28 +136,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "(interrogative) What one or ones (of those mentioned or implied).",
-          "zh": "（疑问）（提到或暗示的）一个或多个。"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "（仅与不定代词或疑问代词一起使用）其他；除了前面提到的项目之外。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "To give as its foundation or starting point; to lay the foundation of.",
-          "zh": "以给予为基础或起点；奠定基础。"
+          "en": "A large quantity or number; a great deal.",
+          "zh": "数量大或数量大；很大。"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "(usually in phrases such as 'from the off', 'at the off', etc.) Beginning; starting point.",
-          "zh": "（通常用“from the off”、“at the off”等短语） 开始；起点。"
+          "en": "A place where items may be accumulated or routinely kept.",
+          "zh": "可以积累或定期保存物品的地方。"
         }
       },
       {
@@ -139,8 +165,17 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+          "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
+          "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To __.",
+          "zh": "跑。"
         }
       }
     ]

@@ -1,0 +1,148 @@
+{
+  "id": "puzzle_008",
+  "title": "Puzzle 8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "F",
+      "A",
+      "R",
+      null
+    ],
+    [
+      "A",
+      "R",
+      null,
+      "A",
+      "U"
+    ],
+    [
+      "L",
+      "O",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "L",
+      "N",
+      null,
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "T",
+      "H",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Distant; remote in space.",
+          "zh": "遥远;遥远的太空。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "An act or instance of lending, an act or instance of granting something for temporary use.",
+          "zh": "借贷的行为或实例，授予某物临时使用的行为或实例。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more o__r such comparatives.",
+          "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The foremost side of something or the end that faces the direction it normally moves.",
+          "zh": "某物的最前面或面向其正常移动方向的一端。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A line or series of mountains, buildings, etc.",
+          "zh": "一行或一系列的山脉、建筑物等。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "（用所有格代词）一个人能够做的一切。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用的行为。"
+        }
+      }
+    ]
+  }
+}

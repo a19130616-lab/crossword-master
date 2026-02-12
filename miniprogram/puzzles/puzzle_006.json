@@ -1,0 +1,130 @@
+{
+  "id": "puzzle_006",
+  "title": "Puzzle 6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "P",
+      null,
+      null,
+      null,
+      "C"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      null,
+      "A",
+      null,
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "D",
+      "S"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "S"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A person who lives near a given place.",
+          "zh": "住在某个地方附近的人。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A playing card.",
+          "zh": "一张扑克牌。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(physical) An area; somewhere within an area.",
+          "zh": "（物理）一个区域；某个区域内的某处。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A group, collection, category or set sharing characteristics or attributes.",
+          "zh": "共享特征或属性的群体、集合、类别或集合。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "一种独立移动的轮式车辆，至少有三个轮子，机械驱动，由驾驶员驾驶，主要用于个人交通。"
+        }
+      }
+    ]
+  }
+}

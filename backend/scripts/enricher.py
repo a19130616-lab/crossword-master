@@ -39,11 +39,22 @@ class WordEnricher:
                 except Exception as e:
                     print(f"Error translating definition for {word}: {e}")
             if definition and translation:
+                censored_en = self.censor_word(definition, word)
+                censored_zh = self.censor_word(translation, word)
                 enriched_bank[word] = {
-                    "en": definition,
-                    "zh": translation
+                    "en": censored_en,
+                    "zh": censored_zh
                 }
-            time.sleep(1)
+            time.sleep(0.5)
+        return enriched_bank
+
+    def censor_word(self, text, word):
+        if not text:
+            return text
+        # Replace word occurrences (case-insensitive) with __
+        import re
+        pattern = re.compile(re.escape(word), re.IGNORECASE)
+        return pattern.sub("__", text)
         return enriched_bank
 
 

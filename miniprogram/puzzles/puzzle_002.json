@@ -5,177 +5,124 @@
   "cols": 5,
   "solution": [
     [
-      null,
       "S",
-      "H",
-      "O",
-      "W"
+      null,
+      null,
+      null,
+      "L"
     ],
     [
-      "S",
-      null,
-      "O",
-      "N",
+      "T",
+      "R",
+      "A",
+      "D",
       "E"
     ],
     [
-      "H",
       "O",
+      null,
+      "R",
+      null,
+      "A"
+    ],
+    [
+      "R",
+      "A",
       "T",
       "E",
-      "L"
+      "S"
     ],
     [
-      "O",
-      "N",
       "E",
       null,
-      "L"
-    ],
-    [
-      "W",
-      "E",
-      "L",
-      "L",
-      null
+      null,
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        2
+        2,
+        4
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        1
       ],
       [
         1,
         2
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        2,
-        4
       ]
     ],
     "medium": [
       [
-        3,
-        2
+        2,
+        4
       ],
       [
-        1,
-        2
-      ],
-      [
-        3,
-        1
+        2,
+        0
       ]
     ],
     "hard": [
       [
-        3,
-        2
+        2,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A play, dance, or other entertainment.",
-          "zh": "戏剧、舞蹈或其他娱乐活动。"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "数字或数字 1。"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A large town house or mansion; a grand private residence, especially in France.",
-          "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
+          "en": "Buying and selling of goods and services on a market.",
+          "zh": "在市场上购买和销售商品和服务。"
         }
       },
       {
-        "num": 9,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "数字或数字 1。"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "In good health.",
-          "zh": "身体健康。"
+          "en": "The worth of something; value.",
+          "zh": "某物的价值；价值。"
         }
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A large town house or mansion; a grand private residence, especially in France.",
-          "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
+          "en": "A place where items may be accumulated or routinely kept.",
+          "zh": "可以积累或定期保存物品的地方。"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "数字或数字 1。"
+          "en": "Something of the smallest possible extent; an indivisible unit.",
+          "zh": "尽可能最小的范围；一个不可分割的单位。"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "In good health.",
-          "zh": "身体健康。"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A play, dance, or other entertainment.",
-          "zh": "戏剧、舞蹈或其他娱乐活动。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "数字或数字 1。"
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "以影响感官和情感的方式有意识地产生或安排声音、颜色、形式、运动或其他元素，通常特别是在图形或塑料介质中产生美感。"
         }
       }
     ]

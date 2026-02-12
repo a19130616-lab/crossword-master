@@ -5,11 +5,25 @@
   "cols": 5,
   "solution": [
     [
-      "N",
+      "Y",
       null,
       null,
       null,
-      "O"
+      "S"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "H",
+      "U",
+      null,
+      "S",
+      "A"
     ],
     [
       "O",
@@ -19,59 +33,45 @@
       "R"
     ],
     [
-      "R",
-      null,
-      "E",
-      null,
-      "D"
-    ],
-    [
-      "T",
-      "H",
-      "R",
-      "E",
-      "E"
-    ],
-    [
-      "H",
+      "O",
       null,
       null,
       null,
-      "R"
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
+        3,
         2
       ],
       [
-        3,
+        1,
         0
       ],
       [
         0,
-        0
+        4
       ],
       [
-        3,
+        2,
         4
       ]
     ],
     "medium": [
       [
-        2,
+        3,
         2
       ],
       [
-        3,
+        1,
         0
       ]
     ],
     "hard": [
       [
-        2,
+        3,
         2
       ]
     ]
@@ -83,17 +83,17 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An other, another (person, etc), more often rendered as another.",
-          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
+          "en": "Moving around; astir.",
+          "zh": "四处走动；搅拌。"
         }
       },
       {
-        "num": 5,
+        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The digit/figure 3.",
-          "zh": "数字/数字 3."
+          "en": "An __, an__ (person, etc), more often rendered as an__.",
+          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
         }
       }
     ],
@@ -103,8 +103,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
-          "zh": "四个主要罗盘点之一，特别是 0°，指向北极，通常在地图上向上，缩写为 N。"
+          "en": "A rough, coarse, loud or uncouth person; yokel; lout.",
+          "zh": "粗鲁、粗鲁、大声或粗鲁的人；乡巴佬；粗鲁。"
         }
       },
       {
@@ -112,17 +112,26 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "Arrangement, disposition, or sequence.",
-          "zh": "安排、处置或顺序。"
+          "en": "The beginning of an activity.",
+          "zh": "活动的开始。"
         }
       },
       {
         "num": 4,
         "row": 1,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A female person or animal.",
-          "zh": "女性或动物。"
+          "en": "An instance or example of using the word \"__\".",
+          "zh": "使用“但是”一词的实例或例子。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用的行为。"
         }
       }
     ]
