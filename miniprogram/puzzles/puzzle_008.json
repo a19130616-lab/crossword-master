@@ -1,78 +1,78 @@
 {
   "id": "puzzle_008",
-  "title": "Puzzle 8",
+  "title": "Easy #8",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
       null,
-      "F",
       "A",
       "R",
+      "E",
       null
     ],
     [
       "A",
-      "R",
+      "B",
       null,
-      "A",
-      "U"
+      "N",
+      "W"
     ],
     [
-      "L",
+      "S",
       "O",
-      "A",
-      "N",
-      "S"
+      "U",
+      "T",
+      "H"
     ],
     [
-      "L",
-      "N",
+      "K",
+      "U",
       null,
-      "G",
-      "E"
+      "R",
+      "Y"
     ],
     [
       null,
       "T",
-      "H",
-      "E",
+      "R",
+      "Y",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        3,
+        1
+      ],
+      [
         2,
         3
       ],
       [
-        3,
+        2,
         0
       ],
       [
         1,
         1
-      ],
-      [
-        2,
-        0
       ]
     ],
     "medium": [
       [
-        2,
-        3
+        3,
+        1
       ],
       [
-        3,
-        0
+        2,
+        3
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        3,
+        1
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Distant; remote in space.",
-          "zh": "遥远;遥远的太空。"
+          "en": "An accepted (but deprecated and r__ly used) SI unit of __a equal to 100 squ__ metres, or a former unit of approximately the same extent. Symbol: a.",
+          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "An act or instance of lending, an act or instance of granting something for temporary use.",
-          "zh": "借贷的行为或实例，授予某物临时使用的行为或实例。"
+          "en": "One of the four major compass points, specifically 180°, directed toward the __ Pole, and conventionally downwards on a map, abbreviated as S.",
+          "zh": "四个主要罗盘点之一，具体为 180°，指向南极，在地图上通常向下，缩写为 S。"
         }
       },
       {
@@ -101,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more o__r such comparatives.",
-          "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
+          "en": "An attempt.",
+          "zh": "一次尝试。"
         }
       }
     ],
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The foremost side of something or the end that faces the direction it normally moves.",
-          "zh": "某物的最前面或面向其正常移动方向的一端。"
+          "en": "Moving around; astir.",
+          "zh": "四处走动；搅拌。"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A line or series of mountains, buildings, etc.",
-          "zh": "一行或一系列的山脉、建筑物等。"
+          "en": "The act of entering.",
+          "zh": "进入的行为。"
         }
       },
       {
@@ -130,8 +130,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(with a possessive pronoun) Everything that one is capable of.",
-          "zh": "（用所有格代词）一个人能够做的一切。"
+          "en": "An act or instance of __ing.",
+          "zh": "询问的行为或实例。"
         }
       },
       {
@@ -139,10 +139,12 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
+          "en": "Reason",
+          "zh": "原因"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

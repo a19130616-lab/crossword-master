@@ -327,9 +327,20 @@ def generate_one(templates, tries, size, used_global=None, max_attempts=500):
                 continue
             if across < 2 or down < 2:
                 continue
+        elif size == 7:
+            if white_ratio < 0.60:
+                continue
+            if across < 3 or down < 3:
+                continue
+        elif size == 9:
+            if white_ratio < 0.55:
+                continue
+            if across < 4 or down < 4:
+                continue
 
-        allow_reuse = (size == 5)
-        ok = solve(grid, slots, tries, allow_reuse=allow_reuse, used_global=used_global, max_nodes=80000)
+        allow_reuse = (size <= 5)
+        node_limit = 80000 if size <= 5 else 200000
+        ok = solve(grid, slots, tries, allow_reuse=allow_reuse, used_global=used_global, max_nodes=node_limit)
         if ok and validate_full_grid(grid):
             if used_global is not None:
                 puzzle_words = {slot_word(grid, s) for s in slots}

@@ -1,130 +1,185 @@
 {
   "id": "puzzle_002",
-  "title": "Puzzle 2",
+  "title": "Easy #2",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "S",
       null,
-      null,
-      null,
-      "L"
-    ],
-    [
-      "T",
-      "R",
+      "P",
+      "L",
       "A",
-      "D",
-      "E"
+      "Y"
     ],
     [
+      "A",
+      null,
+      "A",
+      "G",
+      "O"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      null,
+      "K"
+    ],
+    [
+      "Y",
       "O",
-      null,
       "R",
-      null,
-      "A"
-    ],
-    [
-      "R",
-      "A",
-      "T",
-      "E",
-      "S"
-    ],
-    [
-      "E",
-      null,
-      null,
-      null,
-      "T"
+      "K",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        4
+        4,
+        1
       ],
       [
         2,
         0
       ],
       [
-        1,
-        1
+        0,
+        2
       ],
       [
-        1,
-        2
+        2,
+        4
+      ],
+      [
+        0,
+        1
       ]
     ],
     "medium": [
       [
-        2,
-        4
+        4,
+        1
       ],
       [
         2,
         0
+      ],
+      [
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        2,
-        4
+        4,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "Buying and selling of goods and services on a market.",
-          "zh": "在市场上购买和销售商品和服务。"
+          "en": "Activity for amusement only, especially among the young.",
+          "zh": "仅供娱乐的活动，尤其是年轻人。"
         }
       },
       {
-        "num": 5,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "走了；过去了；消失了；通过了；去世了。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+          "zh": "在室温和压力下为透明液体的物质（分子式为 H2O）；它以雨的形式自然存在，存在于河流、湖泊和海洋中；它的固态形式是冰，气态形式是蒸汽。"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The worth of something; value.",
-          "zh": "某物的价值；价值。"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
+          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A place where items may be accumulated or routinely kept.",
-          "zh": "可以积累或定期保存物品的地方。"
+          "en": "Near the end of a period of time.",
+          "zh": "一段时间即将结束。"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Something of the smallest possible extent; an indivisible unit.",
-          "zh": "尽可能最小的范围；一个不可分割的单位。"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "以影响感官和情感的方式有意识地产生或安排声音、颜色、形式、运动或其他元素，通常特别是在图形或塑料介质中产生美感。"
+          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
+          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To depart; to go to another place.",
+          "zh": "离开；去另一个地方。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "走了；过去了；消失了；通过了；去世了。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

@@ -1,99 +1,108 @@
 {
   "id": "puzzle_006",
-  "title": "Puzzle 6",
+  "title": "Easy #6",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
+      null,
       "P",
-      null,
-      null,
-      null,
-      "C"
-    ],
-    [
-      "L",
-      "O",
-      "C",
       "A",
-      "L"
+      "Y",
+      null
     ],
     [
       "A",
-      null,
       "A",
       null,
-      "A"
-    ],
-    [
-      "C",
-      "A",
-      "R",
-      "D",
-      "S"
-    ],
-    [
       "E",
+      "I"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "T",
       null,
-      null,
-      null,
+      "R",
       "S"
+    ],
+    [
+      null,
+      "Y",
+      "E",
+      "S",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        4
-      ],
-      [
         1,
         0
       ],
       [
-        3,
+        0,
+        1
+      ],
+      [
+        2,
         3
       ],
       [
-        3,
-        1
+        4,
+        2
       ]
     ],
     "medium": [
       [
-        0,
-        4
-      ],
-      [
         1,
         0
+      ],
+      [
+        0,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        4
+        1,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A person who lives near a given place.",
-          "zh": "住在某个地方附近的人。"
+          "en": "Money given in return for work; salary or wages.",
+          "zh": "作为工作回报而给予的金钱；工资或工资。"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A playing card.",
-          "zh": "一张扑克牌。"
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "具有重大意义、成就或赞誉的人。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
+          "zh": "肯定的表达；表示同意或接受的答案。"
         }
       }
     ],
@@ -101,30 +110,41 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "(physical) An area; somewhere within an area.",
-          "zh": "（物理）一个区域；某个区域内的某处。"
+          "en": "A person or group of people constituting a particular side in a contract or legal action.",
+          "zh": "构成合同或法律诉讼中特定一方的个人或团体。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A group, collection, category or set sharing characteristics or attributes.",
-          "zh": "共享特征或属性的群体、集合、类别或集合。"
+          "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+          "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
-          "zh": "一种独立移动的轮式车辆，至少有三个轮子，机械驱动，由驾驶员驾驶，主要用于个人交通。"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "走了；过去了；消失了；通过了；去世了。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

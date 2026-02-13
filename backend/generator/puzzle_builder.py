@@ -86,18 +86,18 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
     clues = {"across": [], "down": []}
 
     for w in words:
-        key = w["answer"].lower()
+        key = w["answer"].upper()
         entry = words_dict.get(key, {})
-        clue_text = entry.get("clues", {}).get("easy", "") if entry else ""
-        if not clue_text:
+        clue_obj = entry.get("clues", {}).get("easy", {}) if entry else {}
+        if not clue_obj:
             raise ValueError(f"Missing clue for word: {w['answer']}")
         clues[w["dir"]].append({
             "num": w["num"],
             "row": w["row"],
             "col": w["col"],
             "clue": {
-                "en": clue_text,
-                "zh": clue_text
+                "en": clue_obj.get("en", "") if isinstance(clue_obj, dict) else str(clue_obj),
+                "zh": clue_obj.get("zh", "") if isinstance(clue_obj, dict) else str(clue_obj),
             }
         })
 

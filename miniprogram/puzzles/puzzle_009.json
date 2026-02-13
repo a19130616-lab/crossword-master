@@ -1,85 +1,77 @@
 {
   "id": "puzzle_009",
-  "title": "Puzzle 9",
+  "title": "Easy #9",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "S",
-      "A",
-      "L",
+      null,
+      "Y",
       "E",
+      "S",
       null
     ],
     [
+      "I",
       "A",
-      "G",
-      "O",
       null,
-      "B"
+      "P",
+      "K"
     ],
     [
-      "L",
-      "O",
-      "C",
-      "A",
-      "L"
-    ],
-    [
+      "T",
+      "H",
+      "R",
       "E",
+      "E"
+    ],
+    [
+      "S",
+      "O",
       null,
-      "A",
-      "G",
-      "O"
+      "E",
+      "Y"
     ],
     [
       null,
-      "B",
-      "L",
       "O",
-      "G"
+      "L",
+      "D",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        3,
         1
       ],
       [
-        0,
-        1
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        0,
-        0
+        4,
+        2
       ],
       [
         2,
         2
-      ]
-    ],
-    "medium": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        1
       ],
       [
         1,
         0
       ]
     ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        2
+      ]
+    ],
     "hard": [
       [
-        1,
+        3,
         1
       ]
     ]
@@ -89,19 +81,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A hall.",
-          "zh": "一个大厅。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
+          "zh": "肯定的表达；表示同意或接受的答案。"
         }
       },
       {
@@ -109,17 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A person who lives near a given place.",
-          "zh": "住在某个地方附近的人。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "The digit/figure 3.",
+          "zh": "数字/数字 3."
         }
       },
       {
@@ -127,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "A website that allows users to reflect, share opinions, and discuss various topics in the form of an online journal, sometimes letting readers comment on their posts. Most __s are written in a slightly informal tone (personal journals, news, businesses, etc.)",
-          "zh": "一个允许用户以在线日记的形式反思、分享观点和讨论各种主题的网站，有时还让读者对他们的帖子发表评论。大多数博客都是以稍微非正式的语气撰写的（个人日记、新闻、商业等）"
+          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
+          "zh": "（仅适用于不变的复数形式）年老的人；老众生；老一代人作为一个群体。"
         }
       }
     ],
@@ -136,28 +110,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A hall.",
-          "zh": "一个大厅。"
+          "en": "A rough, coarse, loud or uncouth person; yokel; lout.",
+          "zh": "粗鲁、粗鲁、大声或粗鲁的人；乡巴佬；粗鲁。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "The state of moving quickly or the capacity for rapid motion; rapidity.",
+          "zh": "快速移动的状态或快速移动的能力；速度。"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 2,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A person who lives near a given place.",
-          "zh": "住在某个地方附近的人。"
+          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
         }
       },
       {
@@ -165,19 +139,12 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A website that allows users to reflect, share opinions, and discuss various topics in the form of an online journal, sometimes letting readers comment on their posts. Most __s are written in a slightly informal tone (personal journals, news, businesses, etc.)",
-          "zh": "一个允许用户以在线日记的形式反思、分享观点和讨论各种主题的网站，有时还让读者对他们的帖子发表评论。大多数博客都是以稍微非正式的语气撰写的（个人日记、新闻、商业等）"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "An object designed to open and close a lock.",
+          "zh": "设计用于打开和关闭锁的对象。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

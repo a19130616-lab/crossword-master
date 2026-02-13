@@ -1,86 +1,86 @@
 {
   "id": "puzzle_001",
-  "title": "Puzzle 1",
+  "title": "Easy #1",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "E",
+      null,
+      "A",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      "P",
+      null,
+      "A",
+      "G",
+      "O"
+    ],
+    [
       "L",
-      "S",
+      "A",
+      "T",
       "E",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      null,
+      "K"
+    ],
+    [
+      "Y",
+      "O",
+      "R",
+      "K",
       null
-    ],
-    [
-      "L",
-      "O",
-      "T",
-      null,
-      "S"
-    ],
-    [
-      "S",
-      "T",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "E",
-      null,
-      "R",
-      "U",
-      "N"
-    ],
-    [
-      null,
-      "S",
-      "E",
-      "N",
-      "D"
     ]
   ],
   "prefilled": {
     "easy": [
-      [
-        4,
-        4
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        3,
-        0
-      ],
       [
         1,
         0
       ],
       [
         2,
-        3
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        2
       ]
     ],
     "medium": [
       [
-        4,
+        1,
+        0
+      ],
+      [
+        2,
         4
       ],
       [
-        4,
-        3
-      ],
-      [
         3,
-        0
+        1
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        1,
+        0
       ]
     ]
   },
@@ -89,95 +89,97 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
-          "zh": "（仅与不定代词或疑问代词一起使用）其他；除了前面提到的项目之外。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A large quantity or number; a great deal.",
-          "zh": "数量大或数量大；很大。"
+          "en": "To depart; to go to another place.",
+          "zh": "离开；去另一个地方。"
         }
       },
       {
         "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "A place where items may be accumulated or routinely kept.",
-          "zh": "可以积累或定期保存物品的地方。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "To __.",
-          "zh": "跑。"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
-          "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
-          "zh": "（仅与不定代词或疑问代词一起使用）其他；除了前面提到的项目之外。"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A large quantity or number; a great deal.",
-          "zh": "数量大或数量大；很大。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A place where items may be accumulated or routinely kept.",
-          "zh": "可以积累或定期保存物品的地方。"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
-          "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "走了；过去了；消失了；通过了；去世了。"
         }
       },
       {
         "num": 7,
         "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Near the end of a period of time.",
+          "zh": "一段时间即将结束。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
+          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+          "zh": "在室温和压力下为透明液体的物质（分子式为 H2O）；它以雨的形式自然存在，存在于河流、湖泊和海洋中；它的固态形式是冰，气态形式是蒸汽。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
         "col": 3,
         "clue": {
-          "en": "To __.",
-          "zh": "跑。"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
+          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Activity for amusement only, especially among the young.",
+          "zh": "仅供娱乐的活动，尤其是年轻人。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "走了；过去了；消失了；通过了；去世了。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

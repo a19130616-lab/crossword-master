@@ -1,99 +1,134 @@
 {
   "id": "puzzle_007",
-  "title": "Puzzle 7",
+  "title": "Easy #7",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
       "T",
-      null,
-      null,
-      null,
-      "L"
+      "H",
+      "I",
+      "S",
+      null
     ],
     [
       "H",
-      "O",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      "O",
-      "U",
-      null,
-      "E",
-      "V"
-    ],
-    [
-      "S",
-      "T",
       "A",
-      "T",
+      "S",
+      null,
+      "N"
+    ],
+    [
+      "I",
+      "S",
+      "S",
+      "U",
       "E"
     ],
     [
+      "S",
+      null,
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "N",
       "E",
-      null,
-      null,
-      null,
-      "L"
+      "E",
+      "D"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
-        4
+        3
+      ],
+      [
+        4,
+        1
       ],
       [
         1,
-        0
+        1
       ],
       [
         2,
-        0
+        1
       ],
       [
-        3,
-        1
+        0,
+        0
       ]
     ],
     "medium": [
       [
         2,
-        4
+        3
+      ],
+      [
+        4,
+        1
       ],
       [
         1,
-        0
+        1
       ]
     ],
     "hard": [
       [
         2,
-        4
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Something being indicated that is here; one of these.",
+          "zh": "这里有一些指示；其中之一。"
+        }
+      },
+      {
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A structure built or serving as an abode of human beings.",
-          "zh": "建造或用作人类住所的建筑物。"
+          "en": "To possess, own.",
+          "zh": "占有，拥有。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "流动或出来、流出的动作或实例，特别是："
         }
       },
       {
         "num": 8,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A condition; a set of circumstances applying at any given time.",
-          "zh": "一个条件；在任何给定时间适用的一组情况。"
+          "en": "The act of using.",
+          "zh": "使用的行为。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A requirement for something; something __ed.",
+          "zh": "对某事的要求；需要一些东西。"
         }
       }
     ],
@@ -103,37 +138,48 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
-          "zh": "（指示性）从上下文中指示或理解的事物、人、想法、质量、事件、动作或时间，特别是如果在地理上、时间上或精神上比指定为“这个”的人更遥远，或者表达区别。"
+          "en": "Something being indicated that is here; one of these.",
+          "zh": "这里有一些指示；其中之一。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A tool for finding whether a surface is __, or for creating a horizontal or vertical line of reference.",
-          "zh": "用于确定表面是否水平或创建水平或垂直参考线的工具。"
+          "en": "To possess, own.",
+          "zh": "占有，拥有。"
         }
       },
       {
-        "num": 4,
-        "row": 1,
-        "col": 1,
+        "num": 3,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "A means of exit, escape, reprieve, etc.",
-          "zh": "退出、逃脱、缓刑等的手段。"
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "流动或出来、流出的动作或实例，特别是："
         }
       },
       {
         "num": 5,
         "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A requirement for something; something __ed.",
+          "zh": "对某事的要求；需要一些东西。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放下（某物），休息。"
+          "en": "The act of using.",
+          "zh": "使用的行为。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

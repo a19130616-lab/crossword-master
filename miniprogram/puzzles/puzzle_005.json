@@ -1,29 +1,22 @@
 {
   "id": "puzzle_005",
-  "title": "Puzzle 5",
+  "title": "Easy #5",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "Y",
       null,
-      null,
-      null,
-      "S"
-    ],
-    [
-      "A",
       "B",
       "O",
-      "U",
-      "T"
+      "T",
+      "H"
     ],
     [
-      "H",
-      "U",
+      "C",
       null,
-      "S",
-      "A"
+      "T",
+      "H",
+      "E"
     ],
     [
       "O",
@@ -33,107 +26,160 @@
       "R"
     ],
     [
-      "O",
+      "S",
+      "H",
+      "E",
       null,
-      null,
-      null,
-      "T"
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "M",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         3,
-        2
-      ],
-      [
-        1,
-        0
+        1
       ],
       [
         0,
-        4
+        2
       ],
       [
         2,
-        4
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "medium": [
       [
         3,
+        1
+      ],
+      [
+        0,
         2
       ],
       [
-        1,
-        0
+        2,
+        3
       ]
     ],
     "hard": [
       [
         3,
-        2
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "Moving around; astir.",
-          "zh": "四处走动；搅拌。"
+          "en": "Each of the two, or of the two kinds.",
+          "zh": "两者中的每一种，或两种中的一种。"
         }
       },
       {
-        "num": 8,
-        "row": 3,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more o__r such comparatives.",
+          "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 0,
         "clue": {
           "en": "An __, an__ (person, etc), more often rendered as an__.",
           "zh": "另一个，另一个（人等），更多时候被译为另一个。"
         }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A female.",
+          "zh": "一名女性。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+          "zh": "限制事物范围的事物；限制，极端，界线，界线。"
+        }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A rough, coarse, loud or uncouth person; yokel; lout.",
-          "zh": "粗鲁、粗鲁、大声或粗鲁的人；乡巴佬；粗鲁。"
+          "en": "An __, an__ (person, etc), more often rendered as an__.",
+          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The beginning of an activity.",
-          "zh": "活动的开始。"
+          "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more o__r such comparatives.",
+          "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 1,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "An instance or example of using the word \"__\".",
-          "zh": "使用“但是”一词的实例或例子。"
+          "en": "(abstract) This place; this location.",
+          "zh": "（摘要）这个地方；这个位置。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
+          "en": "To incur a charge of; to require payment of a (specified) price.",
+          "zh": "收取费用；要求支付（指定的）价格。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more o__r such comparatives.",
+          "zh": "与比较级或 more 和动词短语一起使用，与一个或多个其他此类比较级建立关联。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

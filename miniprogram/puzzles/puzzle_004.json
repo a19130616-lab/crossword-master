@@ -1,86 +1,78 @@
 {
   "id": "puzzle_004",
-  "title": "Puzzle 4",
+  "title": "Easy #4",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "T",
-      "R",
-      "U",
-      "E",
+      null,
+      "S",
+      "A",
+      "N",
       null
     ],
     [
-      "R",
-      "U",
-      "N",
+      "A",
+      "O",
       null,
+      "E",
       "A"
     ],
     [
+      "R",
       "U",
-      "N",
-      "T",
-      "I",
-      "L"
-    ],
-    [
+      "L",
       "E",
-      null,
-      "I",
-      "T",
       "S"
     ],
     [
+      "E",
+      "T",
       null,
+      "D",
+      "K"
+    ],
+    [
+      null,
+      "H",
       "A",
-      "L",
       "S",
-      "O"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        2,
+        3,
         3
       ],
       [
-        1,
+        2,
         1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        4
       ]
     ],
     "medium": [
       [
-        1,
-        4
+        3,
+        3
       ],
       [
         2,
-        4
-      ],
-      [
-        4,
-        4
+        1
       ]
     ],
     "hard": [
       [
-        1,
-        4
+        3,
+        3
       ]
     ]
   },
@@ -89,19 +81,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The state of being in alignment.",
-          "zh": "对齐的状态。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "To __.",
-          "zh": "跑。"
+          "en": "A letter of the Archaic Greek alphabet (uppercase Ϻ, lowercase ϻ) that came after pi and before qoppa.",
+          "zh": "古希腊字母表中的一个字母（大写 Ϻ，小写 ϻ），位于 pi 之后、qoppa 之前。"
         }
       },
       {
@@ -109,17 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "Up to the time of (something happening).",
-          "zh": "直到（某事发生）的时间为止。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+          "en": "A regulation, law, guideline.",
+          "zh": "法规、法律、指南。"
         }
       },
       {
@@ -127,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "(focus) In addition; besides; as well; further; too.",
-          "zh": "（重点）此外；除了;以及；更远;也。"
+          "en": "To possess, own.",
+          "zh": "占有，拥有。"
         }
       }
     ],
@@ -136,28 +110,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The state of being in alignment.",
-          "zh": "对齐的状态。"
+          "en": "One of the four major compass points, specifically 180°, directed toward the __ Pole, and conventionally downwards on a map, abbreviated as S.",
+          "zh": "四个主要罗盘点之一，具体为 180°，指向南极，在地图上通常向下，缩写为 S。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "To __.",
-          "zh": "跑。"
+          "en": "Of necessity; necessarily; indispensably; used with an auxiliary verb (often must), and equivalent to \"of need\".",
+          "zh": "必然的；一定;不可或缺的；与助动词（通常是must）一起使用，相当于“of need”。"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 2,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "Up to the time of (something happening).",
-          "zh": "直到（某事发生）的时间为止。"
+          "en": "An accepted (but deprecated and r__ly used) SI unit of __a equal to 100 squ__ metres, or a former unit of approximately the same extent. Symbol: a.",
+          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
         }
       },
       {
@@ -165,19 +139,12 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "(focus) In addition; besides; as well; further; too.",
-          "zh": "（重点）此外；除了;以及；更远;也。"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+          "en": "An act or instance of __ing.",
+          "zh": "询问的行为或实例。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }

@@ -1,78 +1,78 @@
 {
   "id": "puzzle_003",
-  "title": "Puzzle 3",
+  "title": "Easy #3",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
-      "G",
+      "M",
       null,
       null,
       null,
-      "N"
+      "S"
     ],
     [
-      "I",
-      "S",
-      "S",
+      "A",
+      "B",
+      "O",
       "U",
-      "E"
+      "T"
     ],
     [
-      "F",
+      "J",
+      "U",
       null,
-      "H",
-      null,
-      "V"
+      "S",
+      "A"
     ],
     [
+      "O",
       "T",
       "H",
       "E",
-      "R",
-      "E"
+      "R"
     ],
     [
-      "S",
+      "R",
       null,
       null,
       null,
-      "R"
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        1
-      ],
-      [
-        2,
-        0
+        1,
+        3
       ],
       [
         1,
         2
       ],
       [
-        1,
-        4
-      ]
-    ],
-    "medium": [
-      [
         3,
         1
       ],
       [
-        2,
+        4,
         0
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
       ]
     ],
     "hard": [
       [
-        3,
-        1
+        1,
+        3
       ]
     ]
   },
@@ -83,17 +83,17 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "流动或出来、流出的动作或实例，特别是："
+          "en": "Moving around; astir.",
+          "zh": "四处走动；搅拌。"
         }
       },
       {
-        "num": 5,
+        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "That place.",
-          "zh": "那个地方。"
+          "en": "An __, an__ (person, etc), more often rendered as an__.",
+          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
         }
       }
     ],
@@ -103,8 +103,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Something given to another voluntarily, without charge.",
-          "zh": "自愿无偿给予他人的东西。"
+          "en": "A military rank between captain and lieutenant colonel.",
+          "zh": "军衔介于上尉和中校之间。"
         }
       },
       {
@@ -112,19 +112,30 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "At no time; on no occasion; in no circumstance.",
-          "zh": "任何时候；在任何情况下；在任何情况下。"
+          "en": "The beginning of an activity.",
+          "zh": "活动的开始。"
         }
       },
       {
         "num": 4,
         "row": 1,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A female.",
-          "zh": "一名女性。"
+          "en": "An instance or example of using the word \"__\".",
+          "zh": "使用“但是”一词的实例或例子。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用的行为。"
         }
       }
     ]
-  }
+  },
+  "difficulty": "easy",
+  "gridSize": 5
 }
