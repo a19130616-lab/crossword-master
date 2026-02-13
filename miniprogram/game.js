@@ -53,7 +53,7 @@ function handleTouch(x, y) {
       break
     case 'levels':
       if (inRect(x, y, UI.backBtn)) State.screen = 'menu'
-      else for (const btn of UI.levelBtns) if (inRect(x, y, btn)) { State.difficulty = btn.key; saveProgress(); State.screen = 'puzzles'; break }
+      else for (const btn of UI.levelBtns) if (inRect(x, y, btn)) { State.difficulty = btn.key; saveProgress(); State.puzzleScrollY = 0; State.screen = 'puzzles'; break }
       break
     case 'puzzles':
       if (inRect(x, y, UI.backBtn)) State.screen = 'levels'
@@ -88,7 +88,34 @@ function handleTouch(x, y) {
   }
 }
 
-wx.onTouchEnd(e => { const t = e.changedTouches[0]; if (t) handleTouch(t.clientX, t.clientY) })
+wx.onTouchEnd(e => {
+  const t = e.changedTouches[0]
+  if (!t) return
+  if (didScroll) { didScroll = false; return }
+  handleTouch(t.clientX, t.clientY)
+})
+
+let touchStartY = 0
+let touchStartScrollY = 0
+let didScroll = false
+
+wx.onTouchStart(e => {
+  const t = e.touches[0]
+  if (t && State.screen === 'puzzles') {
+    touchStartY = t.clientY
+    touchStartScrollY = State.puzzleScrollY || 0
+    didScroll = false
+  }
+})
+
+wx.onTouchMove(e => {
+  const t = e.touches[0]
+  if (t && State.screen === 'puzzles') {
+    const dy = touchStartY - t.clientY
+    if (Math.abs(dy) > 5) didScroll = true
+    State.puzzleScrollY = Math.max(0, touchStartScrollY + dy)
+  }
+})
 
 function loop() {
   render(ctx, { State, Theme, Font, W, H, SAFE_TOP, DIFFICULTIES, UI, Keyboard: engine.Keyboard, getWordCells: engine.getWordCells, getCellNumber: engine.getCellNumber, getCurrentClue: engine.getCurrentClue })

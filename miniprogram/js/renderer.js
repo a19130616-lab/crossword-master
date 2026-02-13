@@ -131,15 +131,20 @@ function renderPuzzles(ctx, deps) {
   UI.backBtn = { x: 0, y: SAFE_TOP, w: 80, h: 44 }
   UI.puzzleBtns = []
 
-  const list = State.puzzlesIndex || []
+  const allList = State.puzzlesIndex || []
+  const filtered = allList.filter(p => p.difficulty === State.difficulty)
   const startY = SAFE_TOP + 60
   const cardH = 72
   const gap = 12
+  const scrollY = State.puzzleScrollY || 0
 
-  list.forEach((p, i) => {
-    const y = startY + i * (cardH + gap)
-    const key = p.id || `puzzle_${i + 1}`
+  filtered.forEach((p, i) => {
+    const globalIdx = allList.indexOf(p)
+    const y = startY + i * (cardH + gap) - scrollY
+    const key = p.id || `puzzle_${globalIdx + 1}`
     const done = State.completed[key]
+
+    if (y + cardH < SAFE_TOP || y > deps.H) return
 
     ctx.fillStyle = Theme.surface
     roundRect(ctx, 16, y, W - 32, cardH, 12)
@@ -173,7 +178,7 @@ function renderPuzzles(ctx, deps) {
       ctx.fillText('›', W - 32, y + 38)
     }
 
-    UI.puzzleBtns.push({ idx: i, x: 16, y, w: W - 32, h: cardH })
+    UI.puzzleBtns.push({ idx: globalIdx, x: 16, y, w: W - 32, h: cardH })
   })
 }
 

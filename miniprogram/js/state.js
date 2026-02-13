@@ -16,7 +16,8 @@ const State = {
   completed: {},
   lang: 'en',
   startTime: 0,
-  layout: null
+  layout: null,
+  puzzleScrollY: 0
 }
 
 function loadProgress() {
