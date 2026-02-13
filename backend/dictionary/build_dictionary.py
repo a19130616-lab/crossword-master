@@ -162,6 +162,16 @@ def main():
                 }
             }
 
+    # Deduplicate plurals: if both WORD and WORDS exist, keep only WORD
+    all_keys = set(dictionary["words"].keys())
+    plurals_removed = []
+    for key in list(all_keys):
+        if key.endswith("S") and key[:-1] in all_keys:
+            del dictionary["words"][key]
+            plurals_removed.append(key)
+    if plurals_removed:
+        print(f"Removed {len(plurals_removed)} plural duplicates")
+
     dictionary["metadata"]["word_count"] = len(dictionary["words"])
 
     OUTPUT_PATH.write_text(json.dumps(dictionary, ensure_ascii=False, indent=2), encoding="utf-8")

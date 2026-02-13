@@ -1,0 +1,371 @@
+{
+  "id": "puzzle_029",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "P",
+      null,
+      null,
+      null,
+      "R",
+      null,
+      null,
+      "P"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "T",
+      null,
+      "E",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      null,
+      "R",
+      "I",
+      "P",
+      "E",
+      null,
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "A",
+      "T",
+      "O",
+      "R",
+      null,
+      "V"
+    ],
+    [
+      "U",
+      null,
+      "H",
+      "I",
+      null,
+      "R",
+      "S",
+      null,
+      "I"
+    ],
+    [
+      "A",
+      null,
+      "I",
+      "N",
+      "S",
+      "T",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "B",
+      null,
+      "N",
+      "I",
+      "N",
+      "E",
+      null,
+      "W",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "N",
+      null,
+      "R",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "G",
+      null,
+      null,
+      null,
+      "Y",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        7,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        8
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "In the International System of Units, the derived unit of electrical potential and electromotive force (__age); the potential difference across a conductor when a current of one ampere uses one watt of power. Symbol: V",
+          "zh": "国际单位制中电势和电动势（电压）的派生单位；当一安培的电流使用一瓦的功率时导体两端的电势差。符号：V"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "随时发生，在一个时间跨度内甚至只发生一次。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A fruit or vegetable which has __ned.",
+          "zh": "已经成熟的水果或蔬菜。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "One who, or that which, locates.",
+          "zh": "一个谁，或者那个，定位。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
+          "zh": "代替某物（通常前面提到过）；作为替代品或替代品。"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The digit or figure 9.",
+          "zh": "数字或数字 9。"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(of an object taller than its width and depth) An inclination away from the vertical.",
+          "zh": "（高于其宽度和深度的物体）偏离垂直方向的倾斜。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "To bring up to maturity, as offspring; to educate; to instruct; to foster.",
+          "zh": "作为后代，抚养成熟；教育；指示；培养。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal.",
+          "zh": "一种球类运动，两队球员骑在马背上，使用长柄木槌将球沿着地面推入对手的球门。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Someone or something that reports.",
+          "zh": "报告的某人或某事。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "One who, or that which, provides a service, commodity, or the means for subsistence.",
+          "zh": "提供服务、商品或生存资料的人或事物。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A personal possession such as jewellery, of relatively great monetary value; — usually used in plural form.",
+          "zh": "具有相对较高货币价值的个人财产，例如珠宝； - 通常以复数形式使用。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To practice an ability.",
+          "zh": "去练习一种能力。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
+          "zh": "具有规则格律和固定韵律的诗歌形式。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "The plant Smilax __, a liana of much of eastern Asia.",
+          "zh": "菝葜植物，东亚大部分地区的藤本植物。"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To depart; to go to another place.",
+          "zh": "离开；去另一个地方。"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

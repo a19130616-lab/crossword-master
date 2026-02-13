@@ -1,0 +1,433 @@
+{
+  "id": "puzzle_024",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "L",
+      "I",
+      "B",
+      null,
+      null,
+      null,
+      "H"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      null,
+      "I",
+      "M",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      null,
+      "L",
+      "I"
+    ],
+    [
+      "F",
+      "G",
+      null,
+      "A",
+      "D",
+      "S",
+      null,
+      "A",
+      "G"
+    ],
+    [
+      "L",
+      "I",
+      "F",
+      "T",
+      null,
+      "T",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "O",
+      "C",
+      null,
+      "I",
+      "D",
+      "E",
+      null,
+      "I",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      null,
+      "N",
+      "E",
+      "R",
+      "V",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "G",
+      "N",
+      null,
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "L",
+      null,
+      null,
+      null,
+      "Y",
+      "E",
+      "N",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        7
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "__eral",
+          "zh": "自由派"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A wing or winglike structure.",
+          "zh": "翼或翼状结构。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "真实物体的光学或其他表示；图形；一张照片。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "一种戏剧作品，结合了戏剧、音乐、歌曲，有时还有舞蹈。"
+        }
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Advertisement.",
+          "zh": "广告。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An act of __ing or raising.",
+          "zh": "举起或举起的动作。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "__nology",
+          "zh": "技术"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
+          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
+          "zh": "一束神经元及其结缔组织鞘、血管和淋巴管。"
+        }
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To form a line; to fall into line.",
+          "zh": "形成一条线；排队。"
+        }
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "以影响感官和情感的方式有意识地产生或安排声音、颜色、形式、运动或其他元素，通常特别是在图形或塑料介质中产生美感。"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "自 1871 年以来的日本货币单位（符号：日元），分为 100 仙。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "外套的宽松部分；宽松的衣服下半部分；裙子；围裙。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
+          "zh": "脊索动物门鸟纲的成员，其特征是温血动物，具有通常能够飞行的羽毛和翅膀，并且产卵。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The distance from the base of something to the top.",
+          "zh": "从某物的底部到顶部的距离。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "In agreement with the principles of logic.",
+          "zh": "符合逻辑原理。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Someone who has control over something or someone.",
+          "zh": "控制某事或某人的人。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A large body of ice which flows under its own mass, usually downhill.",
+          "zh": "在自身质量下流动的大冰体，通常是下坡的。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "摄取；被摄入。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A design involving flowers",
+          "zh": "涉及花卉的设计"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "To disallow or reject.",
+          "zh": "表示不允许或拒绝。"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "用于运载货物或人员的有盖车辆，通常形状大致为长方体，比汽车更长、更高，但比卡车/卡车小。"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

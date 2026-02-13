@@ -1,0 +1,425 @@
+{
+  "id": "puzzle_025",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "C",
+      null,
+      null,
+      null,
+      null,
+      "S",
+      null,
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "S",
+      "T",
+      "A",
+      null,
+      "P",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "R",
+      "E",
+      null,
+      "S",
+      "C",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      null,
+      "S",
+      "A",
+      null,
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      "F",
+      "A",
+      "U",
+      "L",
+      "T",
+      null,
+      "G"
+    ],
+    [
+      "N",
+      "A",
+      null,
+      "R",
+      "M",
+      null,
+      "R",
+      "A",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "I",
+      "U",
+      null
+    ],
+    [
+      "N",
+      "E",
+      "O",
+      null,
+      "D",
+      "E",
+      "P",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      null,
+      "N",
+      null,
+      null,
+      null,
+      null,
+      "O",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A rib.",
+          "zh": "一根肋骨。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "房屋周围使用的宽而扁平的容器，特别是用于烹饪。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A ladder; a series of steps; a means of ascending.",
+          "zh": "一个梯子；一系列步骤；一种提升的手段。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A message transmitted by __egraph.",
+          "zh": "通过电报传送的消息。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A defect; something that detracts from perfection.",
+          "zh": "缺陷；有损完美的东西。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "一束光或辐射。"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "协调意见、声明或行动；一致或一致；变得团结或一致；同意。"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
+          "zh": "科幻小说的新人；对该类型非常陌生且缺乏经验的粉丝；初学者。"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The vertical distance below a surface; the degree to which something is deep",
+          "zh": "表面以下的垂直距离；某事物的深度"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The central part of fruit, containing the kernels or seeds.",
+          "zh": "水果的中心部分，含有果仁或种子。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "靠近矿泉或温泉的疗养胜地。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The impetus behind all motion and all activity.",
+          "zh": "所有运动和所有活动背后的动力。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "One individual's personality, character, demeanor, or disposition.",
+          "zh": "一个人的个性、性格、举止或性格。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "通过信仰来验证；推测；假设是真的，尤其是在没有证据的情况下"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A wing or winglike structure.",
+          "zh": "翼或翼状结构。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Diameter of the bore of a firearm, typi__ly measured between opposite lands.",
+          "zh": "枪支枪膛的直径，通常在相对的陆地之间测量。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "One who pays a fee (rent) in return for the use of land, buildings, or other property owned by others.",
+          "zh": "支付费用（租金）以换取他人拥有的土地、建筑物或其他财产的使用的人。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An accepted (but deprecated and r__ly used) SI unit of __a equal to 100 squ__ metres, or a former unit of approximately the same extent. Symbol: a.",
+          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A journey; an excursion or jaunt",
+          "zh": "一次旅行；短途旅行或短途旅行"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "An __mobile.",
+          "zh": "一辆汽车。"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Heroin",
+          "zh": "海洛因"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

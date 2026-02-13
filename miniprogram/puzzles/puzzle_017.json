@@ -1,0 +1,277 @@
+{
+  "id": "puzzle_017",
+  "title": "Medium #7",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "N",
+      "O",
+      "T",
+      null,
+      "T"
+    ],
+    [
+      "I",
+      "M",
+      "A",
+      "G",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      null,
+      "A",
+      "V",
+      null,
+      "N",
+      "Y",
+      "C"
+    ],
+    [
+      "B",
+      "R",
+      null,
+      null,
+      null,
+      "L",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "T",
+      null,
+      "W",
+      "O",
+      null
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "W",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      null,
+      "P",
+      "A",
+      "N",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A unary operation on logical values that changes true to false, and false to true.",
+          "zh": "对逻辑值进行一元运算，将 true 更改为 false，将 false 更改为 true。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+          "zh": "将读者插入一个有人物或名人的小说场景的短篇小说或提示。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Nice",
+          "zh": "好的"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "做了某事，做了一件事。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To display, to have somebody see (something).",
+          "zh": "展示、让某人看到（某物）。"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "房屋周围使用的宽而扁平的容器，特别是用于烹饪。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "__igation. Often used attributively, as in __ beacon.",
+          "zh": "导航。经常用作定语，如导航信标。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
+          "zh": "一种具有延展性、延展性、耐腐蚀的金属元素，原子序数为 50，符号为 Sn。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "__nology",
+          "zh": "技术"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "一种正式、有节奏的步行方式，特别是士兵、乐队和仪式中使用的。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "最初，杜邦公司对聚酰胺的商品名是聚酰胺，这是一种共聚物，其分子由交替键合在一起的二胺和二羧酸单体组成；现在普遍用于这种类型的聚合物。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Something from which other things extend; a foundation.",
+          "zh": "其他事物延伸出来的东西；一个基础。"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The highest or uppermost part of something.",
+          "zh": "某物的最高或最上面的部分。"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "征服、击败。"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

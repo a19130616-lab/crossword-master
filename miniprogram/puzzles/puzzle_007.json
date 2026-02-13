@@ -5,130 +5,95 @@
   "cols": 5,
   "solution": [
     [
-      "T",
-      "H",
-      "I",
       "S",
-      null
+      null,
+      null,
+      null,
+      "B"
     ],
     [
       "H",
+      "E",
+      "L",
+      "L",
+      "O"
+    ],
+    [
       "A",
-      "S",
       null,
-      "N"
+      "O",
+      null,
+      "A"
     ],
     [
-      "I",
-      "S",
-      "S",
-      "U",
-      "E"
-    ],
-    [
-      "S",
-      null,
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "N",
+      "P",
+      "O",
+      "W",
       "E",
+      "R"
+    ],
+    [
       "E",
+      null,
+      null,
+      null,
       "D"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
-      ],
-      [
         4,
-        1
-      ],
-      [
-        1,
-        1
+        0
       ],
       [
         2,
-        1
+        4
       ],
       [
-        0,
-        0
+        2,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "medium": [
       [
-        2,
-        3
-      ],
-      [
         4,
-        1
+        0
       ],
       [
-        1,
-        1
+        2,
+        4
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        4,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "Something being indicated that is here; one of these.",
-          "zh": "这里有一些指示；其中之一。"
-        }
-      },
-      {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To possess, own.",
-          "zh": "占有，拥有。"
+          "en": "\"__!\" or an equivalent greeting.",
+          "zh": "“你好！”或同等的问候语。"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "流动或出来、流出的动作或实例，特别是："
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "A requirement for something; something __ed.",
-          "zh": "对某事的要求；需要一些东西。"
+          "en": "Ability to do or undergo something.",
+          "zh": "做某事或经历某事的能力。"
         }
       }
     ],
@@ -138,44 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Something being indicated that is here; one of these.",
-          "zh": "这里有一些指示；其中之一。"
+          "en": "The status or condition of something",
+          "zh": "某事物的状态或状况"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "To possess, own.",
-          "zh": "占有，拥有。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "流动或出来、流出的动作或实例，特别是："
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "A requirement for something; something __ed.",
-          "zh": "对某事的要求；需要一些东西。"
+          "en": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+          "zh": "任何材料的相对长、宽、薄的一块，通常是木材或类似材料，通常用于建筑或家具制造。"
         }
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 3,
+        "num": 4,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
+          "en": "Something that is __; a __ point.",
+          "zh": "低的东西；一个低点。"
         }
       }
     ]

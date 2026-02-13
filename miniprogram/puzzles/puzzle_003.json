@@ -5,95 +5,130 @@
   "cols": 5,
   "solution": [
     [
-      "M",
+      "S",
+      "T",
+      "A",
+      "Y",
+      null
+    ],
+    [
+      "W",
+      "E",
+      "B",
       null,
-      null,
-      null,
-      "S"
+      "M"
     ],
     [
       "A",
+      "D",
+      "O",
       "B",
-      "O",
-      "U",
-      "T"
+      "E"
     ],
     [
-      "J",
-      "U",
+      "P",
       null,
-      "S",
-      "A"
-    ],
-    [
-      "O",
-      "T",
-      "H",
-      "E",
+      "V",
+      "A",
       "R"
     ],
     [
+      null,
+      "M",
+      "E",
       "R",
-      null,
-      null,
-      null,
-      "T"
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        3
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        3,
+        0,
         1
       ],
       [
-        4,
+        0,
+        2
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
         0
       ]
     ],
     "medium": [
       [
-        1,
-        3
+        0,
+        1
       ],
       [
-        1,
+        0,
         2
+      ],
+      [
+        0,
+        0
       ]
     ],
     "hard": [
       [
-        1,
-        3
+        0,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "在一个地方持续或度过一段时间；无限期居住；寄居。"
+        }
+      },
+      {
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Moving around; astir.",
-          "zh": "四处走动；搅拌。"
+          "en": "The World Wide __.",
+          "zh": "万维网。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "An unburnt brick dried in the sun.",
+          "zh": "未烧完的砖在阳光下晒干。"
         }
       },
       {
         "num": 8,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An __, an__ (person, etc), more often rendered as an__.",
-          "zh": "另一个，另一个（人等），更多时候被译为另一个。"
+          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
+          "zh": "交流电路中的电功率单位，等于 1 伏特产生 1 安培电流时消耗的功率。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A body of standing water, such as a lake or a pond. More specifically, it can refer to a lake that is broad in relation to its depth. Also included in place names such as Winder__.",
+          "zh": "静止的水体，例如湖泊或池塘。更具体地说，它可以指相对深度而言较宽的湖泊。也包含在温德米尔等地名中。"
         }
       }
     ],
@@ -103,35 +138,44 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A military rank between captain and lieutenant colonel.",
-          "zh": "军衔介于上尉和中校之间。"
+          "en": "To exchange or give (something) in an exchange (for something else).",
+          "zh": "交换或给予（某物）以交换（换取其他东西）。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "The beginning of an activity.",
-          "zh": "活动的开始。"
+          "en": "A __dy boy.",
+          "zh": "一个泰迪男孩。"
         }
       },
       {
-        "num": 4,
-        "row": 1,
-        "col": 1,
+        "num": 3,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "An instance or example of using the word \"__\".",
-          "zh": "使用“但是”一词的实例或例子。"
+          "en": "Heaven.",
+          "zh": "天堂。"
         }
       },
       {
         "num": 5,
         "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A body of standing water, such as a lake or a pond. More specifically, it can refer to a lake that is broad in relation to its depth. Also included in place names such as Winder__.",
+          "zh": "静止的水体，例如湖泊或池塘。更具体地说，它可以指相对深度而言较宽的湖泊。也包含在温德米尔等地名中。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
+          "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+          "zh": "固体，或多或少刚性的金属或木材物体，具有小于其长度的均匀横截面。"
         }
       }
     ]

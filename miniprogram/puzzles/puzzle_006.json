@@ -6,73 +6,73 @@
   "solution": [
     [
       null,
-      "P",
-      "A",
-      "Y",
+      "M",
+      "I",
+      "X",
       null
     ],
     [
-      "A",
-      "A",
+      "D",
+      "I",
       null,
       "E",
-      "I"
+      "E"
     ],
     [
+      "A",
+      "N",
       "G",
       "R",
-      "E",
-      "A",
-      "T"
+      "Y"
     ],
     [
+      "N",
+      "U",
+      null,
       "O",
-      "T",
-      null,
-      "R",
-      "S"
+      "E"
     ],
     [
       null,
-      "Y",
-      "E",
       "S",
+      "O",
+      "X",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        0
+        3,
+        3
       ],
       [
         0,
+        3
+      ],
+      [
+        3,
         1
       ],
       [
         2,
         3
-      ],
-      [
-        4,
-        2
       ]
     ],
     "medium": [
       [
-        1,
-        0
+        3,
+        3
       ],
       [
         0,
-        1
+        3
       ]
     ],
     "hard": [
       [
-        1,
-        0
+        3,
+        3
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Money given in return for work; salary or wages.",
-          "zh": "作为工作回报而给予的金钱；工资或工资。"
+          "en": "To stir together.",
+          "zh": "搅拌在一起。"
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A person of major significance, accomplishment or acclaim.",
-          "zh": "具有重大意义、成就或赞誉的人。"
+          "en": "Displaying or feeling anger.",
+          "zh": "表现出或感到愤怒。"
         }
       },
       {
@@ -101,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
-          "zh": "肯定的表达；表示同意或接受的答案。"
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "脚部的针织或机织覆盖物。"
         }
       }
     ],
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A person or group of people constituting a particular side in a contract or legal action.",
-          "zh": "构成合同或法律诉讼中特定一方的个人或团体。"
+          "en": "The __ sign (−).",
+          "zh": "减号 (−)。"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
-          "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
+          "en": "A photocopy.",
+          "zh": "复印件。"
         }
       },
       {
@@ -130,8 +130,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
+          "zh": "类似于“大师”或“父亲”的荣誉称号，用于过去的历史和传奇人物。"
         }
       },
       {
@@ -139,8 +139,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "动物观察的器官（通过光感知周围环境）。"
         }
       }
     ]

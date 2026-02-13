@@ -1,0 +1,259 @@
+{
+  "id": "puzzle_019",
+  "title": "Medium #9",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "B",
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "D"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "A",
+      "D",
+      "D",
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "S",
+      null,
+      "O",
+      "A",
+      "K"
+    ],
+    [
+      "D",
+      null,
+      "T",
+      "I",
+      "P",
+      null,
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "C",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      "P"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To restore to a former place, position, condition, etc.; to put back",
+          "zh": "恢复到以前的地点、位置、状况等；放回去"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "An act or instance of __ing.",
+          "zh": "添加的行为或实例。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Advertisement.",
+          "zh": "广告。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "一种落叶树，具有独特的深裂叶、橡子和特别坚固的木材，通常产于英格兰和北美洲东北部，属于栎属。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The __ of the external ear.",
+          "zh": "外耳的尖端。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An __type.",
+          "zh": "电版。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Wide in extent or scope.",
+          "zh": "范围或范围广泛。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
+          "zh": "（仅适用于不变的复数形式）年老的人；老众生；老一代人作为一个群体。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The top surface of a desk.",
+          "zh": "桌子的顶面。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A soft moist mixture, in particular:",
+          "zh": "柔软湿润的混合物，特别是："
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "zh": "选择建立关系（孩子、继承人、朋友、公民等）"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冷冻（固体）形式的水。"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

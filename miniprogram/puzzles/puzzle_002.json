@@ -5,81 +5,81 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "P",
-      "L",
-      "A",
-      "Y"
-    ],
-    [
-      "A",
-      null,
-      "A",
-      "G",
-      "O"
-    ],
-    [
-      "W",
-      "A",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      "A",
-      "G",
-      "E",
-      null,
-      "K"
-    ],
-    [
-      "Y",
-      "O",
+      "I",
       "R",
-      "K",
+      "O",
+      "N",
       null
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      null,
+      "U"
+    ],
+    [
+      "L",
+      "Y",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      null,
+      "O",
+      "I",
+      "L"
+    ],
+    [
+      null,
+      "O",
+      "N",
+      "L",
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        2,
         1
       ],
       [
-        2,
-        0
+        3,
+        2
+      ],
+      [
+        3,
+        3
       ],
       [
         0,
         2
       ],
       [
-        2,
+        4,
         4
-      ],
-      [
-        0,
-        1
       ]
     ],
     "medium": [
       [
-        4,
+        2,
         1
       ],
       [
-        2,
-        0
+        3,
+        2
       ],
       [
-        0,
-        2
+        3,
+        3
       ]
     ],
     "hard": [
       [
-        4,
+        2,
         1
       ]
     ]
@@ -89,93 +89,93 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "Activity for amusement only, especially among the young.",
-          "zh": "仅供娱乐的活动，尤其是年轻人。"
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "一种常见的廉价金属，未变色时呈银灰色，会生锈，被磁铁吸引，用于炼钢。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A letter of the Archaic Greek alphabet (uppercase Ϻ, lowercase ϻ) that came after pi and before qoppa.",
+          "zh": "古希腊字母表中的一个字母（大写 Ϻ，小写 ϻ），位于 pi 之后、qoppa 之前。"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
-          "zh": "在室温和压力下为透明液体的物质（分子式为 H2O）；它以雨的形式自然存在，存在于河流、湖泊和海洋中；它的固态形式是冰，气态形式是蒸汽。"
+          "en": "To rest in a horizontal position on a surface.",
+          "zh": "水平放置在表面上。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Liquid fat.",
+          "zh": "液体脂肪。"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
-          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+          "en": "An __ child.",
+          "zh": "是独生子。"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "建筑物的侧翼，特别是在通过桥墩与中殿分开的教堂中。"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Near the end of a period of time.",
-          "zh": "一段时间即将结束。"
+          "en": "A beam of light or radiation.",
+          "zh": "一束光或辐射。"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
-          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+          "en": "A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.",
+          "zh": "一种单子叶植物（Allium cepa），与大蒜相似，用作蔬菜和香料。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "To depart; to go to another place.",
-          "zh": "离开；去另一个地方。"
+          "en": "Ugliness.",
+          "zh": "丑陋。"
         }
       },
       {
-        "num": 8,
+        "num": 7,
         "row": 2,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "Nothing; zero.",
+          "zh": "没有什么;零。"
         }
       }
     ]

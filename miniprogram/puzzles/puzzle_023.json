@@ -1,0 +1,425 @@
+{
+  "id": "puzzle_023",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "B",
+      null,
+      null,
+      null,
+      null,
+      "I",
+      null,
+      "A"
+    ],
+    [
+      "O",
+      "A",
+      "S",
+      "I",
+      "S",
+      null,
+      "D",
+      "O",
+      "G"
+    ],
+    [
+      null,
+      "S",
+      "K",
+      null,
+      "C",
+      "L",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      null,
+      "A",
+      "A",
+      null,
+      "K",
+      "E"
+    ],
+    [
+      "L",
+      null,
+      "P",
+      "A",
+      "N",
+      "T",
+      "S",
+      null,
+      "E"
+    ],
+    [
+      "U",
+      "L",
+      null,
+      "P",
+      "N",
+      null,
+      "P",
+      "A",
+      "D"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "R",
+      "E",
+      null,
+      "A",
+      "R",
+      null
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      null,
+      "R",
+      "A",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      null,
+      "V",
+      null,
+      null,
+      null,
+      null,
+      "H",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        5,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A spring of fresh water, surrounded by a fertile region of vegetation, in a desert.",
+          "zh": "沙漠中的一处淡水泉水，周围环绕着肥沃的植被。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+          "zh": "一种哺乳动物，犬科动物（Canisamilis）或犬狼疮（Canislupusfamilias），已被驯化数千年，由于人类繁殖而具有高度可变的外观。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+          "zh": "全范围；极限之间的距离；尤其;两个物体最近的表面之间的距离，或墙壁之间的空间。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The twenty-third letter of Classical and Modern Greek and the twenty-fifth letter of Old and Ancient Greek.",
+          "zh": "古典和现代希腊语的第二十三个字母以及古希腊语和古希腊语的第二十五个字母。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(Manchester) An outer garment that covers the body from the waist downwards, covering each leg separately, usually as far as the ankles; trousers.",
+          "zh": "（曼彻斯特）从腰部以下覆盖身体的外衣，分别覆盖每条腿，通常一直到脚踝；裤子。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A flattened mass of anything soft, to sit or lie on.",
+          "zh": "任何柔软的东西的扁平物体，可以坐或躺。"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+          "zh": "一种；一种文体类别或类别，尤其是文学或其他艺术品的文体类别或类别。"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The state of being __lated, detached, or separated.",
+          "zh": "孤立、分离或分离的状态。"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A large plot of land used for raising cattle, sheep or other livestock.",
+          "zh": "用于饲养牛、羊或其他牲畜的大片土地。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A low spectrum of sound tones.",
+          "zh": "低频谱的音调。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
+          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "协调意见、声明或行动；一致或一致；变得团结或一致；同意。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A leaping, jumping or __ping movement.",
+          "zh": "跳跃、跳跃或跳绳的动作。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A device which scans documents in order to convert them to a digital medium.",
+          "zh": "扫描文档以将其转换为数字介质的设备。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "一种落叶树，具有独特的深裂叶、橡子和特别坚固的木材，通常产于英格兰和北美洲东北部，属于栎属。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A staff, particularly one of an Indian kind.",
+          "zh": "工作人员，尤其是印度人。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Anything that plugs into something.",
+          "zh": "任何插入某物的东西。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The fourth month of the Gregorian calendar, following March and preceding May. Abbreviation: __ or __.",
+          "zh": "公历的第四个月，三月之后、五月之前。缩写：__ 或 __."
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+          "zh": "伸展时从拇指到小指末端的距离；九英寸；八分之一英寻"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
+          "zh": "同性恋女性，主要或完全被其他女性性或浪漫吸引的女性。"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "An inverted U shape.",
+          "zh": "呈倒U形。"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A __ice.",
+          "zh": "一个新手。"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

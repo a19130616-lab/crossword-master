@@ -1,0 +1,259 @@
+{
+  "id": "puzzle_016",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "S",
+      null,
+      null,
+      "P",
+      null,
+      null,
+      "W"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "R",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      null,
+      "D",
+      "E",
+      "N",
+      null,
+      "I"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      null,
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "T",
+      null,
+      "P",
+      "P",
+      "M",
+      null,
+      "T"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "N"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A device that charges or recharges",
+          "zh": "充电或再充电的设备"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A small cavern or hollow place in the side of a hill, or among rocks; especially, a cave used by a wild animal for shelter or concealment.",
+          "zh": "山坡上或岩石间的小洞穴或凹处；特别是野生动物用来庇护或隐藏的洞穴。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(focus) Likewise.",
+          "zh": "（焦点）同样。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "A means of exit, escape, reprieve, etc.",
+          "zh": "退出、逃脱、缓刑等的手段。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(initialism) (common) Parts per million. (10000 __ = 1%)",
+          "zh": "（缩写）（常用）百万分之一。 （10000 __ = 1%）"
+        }
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The greatest or utmost point, degree or condition.",
+          "zh": "最大或极点、程度或状况。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The act of __ing or dispersing.",
+          "zh": "分散或驱散的行为。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Before (something significant).",
+          "zh": "之前（一些重要的事情）。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To form letters, words or symbols on a surface in order to communicate.",
+          "zh": "在表面上形成字母、单词或符号以进行交流。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "zh": "选择建立关系（孩子、继承人、朋友、公民等）"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A brief reflection or maxim; a pithy saying.",
+          "zh": "简短的反思或格言；一句精辟的话。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "某事物的优点，尤其是与它的缺点（缺点）相比时。"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

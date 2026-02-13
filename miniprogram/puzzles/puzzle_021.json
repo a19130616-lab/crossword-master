@@ -1,0 +1,425 @@
+{
+  "id": "puzzle_021",
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "G",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      null,
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "P",
+      "H",
+      "A",
+      null,
+      "P",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "E",
+      "L",
+      null,
+      "L",
+      "O",
+      "T",
+      "U",
+      "S"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      null,
+      "R",
+      "I",
+      null,
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "S",
+      "M",
+      "E",
+      "L",
+      "L",
+      null,
+      "L"
+    ],
+    [
+      "S",
+      "U",
+      null,
+      "I",
+      "A",
+      null,
+      "O",
+      "F",
+      "F"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "N",
+      "D",
+      null,
+      "S",
+      "I",
+      null
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      null,
+      "Y",
+      "I",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "P",
+      null,
+      "C",
+      null,
+      null,
+      null,
+      null,
+      "L",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The name of the first letter of the Greek __bet (Α,  α), followed by beta. In the Latin __bet it is the predecessor to A.",
+          "zh": "名称采用希腊字母表的第一个字母（α、α），后面是 beta。在拉丁字母中，它是 A 的前身。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "用于烹饪食物的平底容器（通常是金属）。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A kind of aquatic plant, genus Nelumbo in the family Nelumbonaceae.",
+          "zh": "莲科莲属的一种水生植物。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "羚羊属的一种大羚羊，原产于非洲，有弯曲的角。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+          "zh": "一种愉快或不愉快的感觉，通过吸入携带空气中物质分子的空气（或者，对于呼吸水的动物，水）来检测。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "(usually in phrases such as 'from the __', 'at the __', etc.) Beginning; starting point.",
+          "zh": "（通常用“from the __”、“at the __”等短语） 开始；起点。"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Amount of money spent (during a period); expenditure.",
+          "zh": "花费的金额（在一段时间内）；支出。"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A practitioner or supporter of an ism",
+          "zh": "某种主义的实践者或支持者"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To pay, give in payment; repay, recompense; reward; requite.",
+          "zh": "付款，付款；偿还，报答；报酬;报答。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
+          "zh": "僻静而狭窄的山谷，尤其是有河流穿过的山谷；山谷；山之间的洼地。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的;合适的;适合或已安装；适合。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "(reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject",
+          "zh": "（反身代词）它；作为动词或介词的宾语的事物，也作为主语出现"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A positive quantity.",
+          "zh": "正数。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "zh": "在某个特定时间之前，无论是过去、现在还是将来；到这个时候；之前。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A means of exit, escape, reprieve, etc.",
+          "zh": "退出、逃脱、缓刑等的手段。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Liquid fat.",
+          "zh": "液体脂肪。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Someone who likes to talk about other people's private or personal business.",
+          "zh": "喜欢谈论别人的私人或个人事务的人。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+          "zh": "等于六十秒（一小时的六十分之一）的时间单位。"
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+          "zh": "由于不幸或未知的情况、事件或原因，导致某人不再拥有或无法拥有（某物）。"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "与重力方向相反的方向。"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To occupy fully, to take up all of.",
+          "zh": "完全占据，占据全部。"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Alternative form of __.",
+          "zh": "等的替代形式"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

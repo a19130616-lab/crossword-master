@@ -1,0 +1,250 @@
+{
+  "id": "puzzle_012",
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "R",
+      null,
+      "F",
+      null,
+      null,
+      "W"
+    ],
+    [
+      "B",
+      "E",
+      "C",
+      "A",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "S",
+      "E",
+      "C",
+      null,
+      "T",
+      "R"
+    ],
+    [
+      "B",
+      "C",
+      null,
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "U",
+      null,
+      "O",
+      "N",
+      "E",
+      null
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "R",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "T",
+      null,
+      null,
+      "Y",
+      null,
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "For the reason (that).",
+          "zh": "因为这个原因（那个）。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "__ond, 1/60 of a minute.",
+          "zh": "第二，1/60 分钟。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To become sleepy or weary.",
+          "zh": "变得困倦或疲倦。"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "数字或数字 1。"
+        }
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Having much learning, knowledgeable, erudite; highly educated.",
+          "zh": "博学多才，学识渊博，博学多才；受过高等教育。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An act or episode of rescuing, saving.",
+          "zh": "营救、拯救的行为或情节。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A trading establishment, especially set up by merchants working in a foreign country.",
+          "zh": "贸易机构，特别是由在外国工作的商人设立的。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A man, a husband",
+          "zh": "一个男人，一个丈夫"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A paved part of road, usually in a village or a town.",
+          "zh": "道路的一部分，通常位于村庄或城镇。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A (usually) metal fastener consisting of a cylindrical body that is threaded, with a larger head on one end. It can be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.",
+          "zh": "一种（通常）金属紧固件，由带螺纹的圆柱体组成，一端有一个较大的头部。它可以插入无螺纹孔直至头部，然后用螺母在另一端拧上螺纹；重型机械螺丝。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "旅行者可以购买住宿、食物和饮料的任何场所。"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

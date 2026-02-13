@@ -5,45 +5,49 @@
   "cols": 5,
   "solution": [
     [
+      "S",
       null,
-      "A",
-      "W",
-      "A",
-      "Y"
+      null,
+      null,
+      "S"
     ],
     [
       "P",
-      null,
       "A",
-      "G",
-      "O"
+      "N",
+      "I",
+      "C"
     ],
     [
+      "A",
       "L",
-      "A",
-      "T",
-      "E",
-      "R"
+      null,
+      "C",
+      "A"
     ],
     [
+      "C",
       "A",
-      "G",
+      "M",
+      "E",
+      "L"
+    ],
+    [
       "E",
       null,
-      "K"
-    ],
-    [
-      "Y",
-      "O",
-      "R",
-      "K",
-      null
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        0,
+        4
+      ],
+      [
+        4,
         0
       ],
       [
@@ -51,131 +55,83 @@
         4
       ],
       [
-        3,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        1,
-        2
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        1,
-        0
-      ],
-      [
-        2,
+        0,
         4
       ],
       [
-        3,
-        1
+        4,
+        0
       ]
     ],
     "hard": [
       [
-        1,
-        0
+        0,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "To depart; to go to another place.",
-          "zh": "离开；去另一个地方。"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Near the end of a period of time.",
-          "zh": "一段时间即将结束。"
+          "en": "Overpowering fright, often affecting groups of people or animals.",
+          "zh": "压倒性的恐惧，常常影响人群或动物。"
         }
       },
       {
-        "num": 9,
+        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
-          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+          "en": "A beast of burden, much used in desert areas, of the genus __us.",
+          "zh": "骆驼属驮兽，多用于沙漠地区。"
         }
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
-          "zh": "在室温和压力下为透明液体的物质（分子式为 H2O）；它以雨的形式自然存在，存在于河流、湖泊和海洋中；它的固态形式是冰，气态形式是蒸汽。"
+          "en": "(heading) Of time.",
+          "zh": "（标题）时间。"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+          "en": "A ladder; a series of steps; a means of ascending.",
+          "zh": "一个梯子；一系列步骤；一种提升的手段。"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "To bowl a __er at a batsman, especially to get a batsman out in this way.",
-          "zh": "将约克人投向击球手，尤其是用这种方式将击球手赶出局。"
+          "en": "A wing or winglike structure.",
+          "zh": "翼或翼状结构。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "Activity for amusement only, especially among the young.",
-          "zh": "仅供娱乐的活动，尤其是年轻人。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "走了；过去了；消失了；通过了；去世了。"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冷冻（固体）形式的水。"
         }
       }
     ]

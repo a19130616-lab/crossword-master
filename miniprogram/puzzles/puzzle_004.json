@@ -5,104 +5,95 @@
   "cols": 5,
   "solution": [
     [
-      null,
       "S",
-      "A",
-      "N",
-      null
-    ],
-    [
-      "A",
-      "O",
       null,
-      "E",
-      "A"
-    ],
-    [
-      "R",
-      "U",
-      "L",
-      "E",
-      "S"
-    ],
-    [
-      "E",
-      "T",
       null,
-      "D",
-      "K"
+      null,
+      "P"
     ],
     [
-      null,
+      "C",
       "H",
+      "O",
+      "I",
+      "R"
+    ],
+    [
       "A",
-      "S",
-      null
+      null,
+      "P",
+      null,
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "E",
+      "X"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         3,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
         0
       ],
       [
         1,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
         4
       ]
     ],
     "medium": [
       [
         3,
-        3
+        0
       ],
       [
-        2,
-        1
+        1,
+        3
       ]
     ],
     "hard": [
       [
         3,
-        3
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A letter of the Archaic Greek alphabet (uppercase Ϻ, lowercase ϻ) that came after pi and before qoppa.",
-          "zh": "古希腊字母表中的一个字母（大写 Ϻ，小写 ϻ），位于 pi 之后、qoppa 之前。"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
+        "num": 3,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "A regulation, law, guideline.",
-          "zh": "法规、法律、指南。"
+          "en": "Singing group; group of people who sing together; company of people who are trained to sing together.",
+          "zh": "歌唱组；一群人一起唱歌；一群受过一起唱歌训练的人。"
         }
       },
       {
-        "num": 9,
-        "row": 4,
-        "col": 1,
+        "num": 5,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "To possess, own.",
-          "zh": "占有，拥有。"
+          "en": "A clear liquid believed to be a component of a humour or other bodily fluid (esp. plasma and lymph)",
+          "zh": "一种透明液体，被认为是体液或其他体液（尤其是血浆和淋巴液）的组成部分"
         }
       }
     ],
@@ -110,37 +101,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "One of the four major compass points, specifically 180°, directed toward the __ Pole, and conventionally downwards on a map, abbreviated as S.",
-          "zh": "四个主要罗盘点之一，具体为 180°，指向南极，在地图上通常向下，缩写为 S。"
+          "en": "A ladder; a series of steps; a means of ascending.",
+          "zh": "一个梯子；一系列步骤；一种提升的手段。"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Of necessity; necessarily; indispensably; used with an auxiliary verb (often must), and equivalent to \"of need\".",
-          "zh": "必然的；一定;不可或缺的；与助动词（通常是must）一起使用，相当于“of need”。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "An accepted (but deprecated and r__ly used) SI unit of __a equal to 100 squ__ metres, or a former unit of approximately the same extent. Symbol: a.",
-          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "An act or instance of __ing.",
-          "zh": "询问的行为或实例。"
+          "en": "An agent or substitute authorized to act for another person.",
+          "zh": "被授权代表他人行事的代理人或替代者。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "去选择；选择。"
         }
       }
     ]

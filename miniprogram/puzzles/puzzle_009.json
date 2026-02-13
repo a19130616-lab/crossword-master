@@ -6,37 +6,37 @@
   "solution": [
     [
       null,
-      "Y",
+      "P",
+      "L",
+      "U",
+      "S"
+    ],
+    [
       "E",
+      null,
+      "A",
       "S",
-      null
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "D",
+      "E",
+      "O"
     ],
     [
       "I",
-      "A",
-      null,
-      "P",
-      "K"
-    ],
-    [
-      "T",
-      "H",
-      "R",
+      "D",
       "E",
+      null,
       "E"
     ],
     [
-      "S",
-      "O",
-      null,
-      "E",
-      "Y"
-    ],
-    [
-      null,
-      "O",
       "L",
-      "D",
+      "E",
+      "N",
+      "S",
       null
     ]
   ],
@@ -44,10 +44,14 @@
     "easy": [
       [
         3,
-        1
+        0
       ],
       [
-        4,
+        1,
+        2
+      ],
+      [
+        3,
         2
       ],
       [
@@ -55,24 +59,28 @@
         2
       ],
       [
-        1,
-        0
+        2,
+        1
       ]
     ],
     "medium": [
       [
         3,
-        1
+        0
       ],
       [
-        4,
+        1,
+        2
+      ],
+      [
+        3,
         2
       ]
     ],
     "hard": [
       [
         3,
-        1
+        0
       ]
     ]
   },
@@ -83,64 +91,91 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
-          "zh": "肯定的表达；表示同意或接受的答案。"
+          "en": "A positive quantity.",
+          "zh": "正数。"
         }
       },
       {
         "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "火灾的固体残骸。"
+        }
+      },
+      {
+        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "The digit/figure 3.",
-          "zh": "数字/数字 3."
+          "en": "Television, television show, movie.",
+          "zh": "电视，电视剧，电影。"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
-          "zh": "（仅适用于不变的复数形式）年老的人；老众生；老一代人作为一个群体。"
+          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
+          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "通常由玻璃制成的物体，可以对穿过它的光进行聚焦或散焦。"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A rough, coarse, loud or uncouth person; yokel; lout.",
-          "zh": "粗鲁、粗鲁、大声或粗鲁的人；乡巴佬；粗鲁。"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "The state of moving quickly or the capacity for rapid motion; rapidity.",
-          "zh": "快速移动的状态或快速移动的能力；速度。"
+          "en": "To fill or load (related to cargo or a shipment).",
+          "zh": "填充或装载（与货物或装运有关）。"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-          "zh": "一个既不是他也不是她的人；一个生物；一个非人化的存在。"
+          "en": "The act of using.",
+          "zh": "使用的行为。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. __s generally do not extend above the ankle, as opposed to boots, which do.",
+          "zh": "足部的保护层，底部由厚皮革或塑料鞋底组成，通常有较厚的鞋跟，上部较软，由皮革或合成材料制成。鞋子通常不会延伸到脚踝以上，而靴子则可以。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "An object designed to open and close a lock.",
-          "zh": "设计用于打开和关闭锁的对象。"
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "道德败坏；邪恶；恶意;与善相反或敌人的力量或行为。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
+          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
         }
       }
     ]

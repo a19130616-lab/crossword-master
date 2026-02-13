@@ -1,0 +1,425 @@
+{
+  "id": "puzzle_028",
+  "title": "Hard #8",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "L",
+      null,
+      null,
+      null,
+      null,
+      "I",
+      null,
+      "P"
+    ],
+    [
+      "V",
+      "I",
+      "L",
+      "L",
+      "A",
+      null,
+      "S",
+      "H",
+      "E"
+    ],
+    [
+      null,
+      "F",
+      "O",
+      null,
+      "D",
+      "E",
+      "P",
+      "O",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      null,
+      "V",
+      "A",
+      null,
+      "P",
+      "I"
+    ],
+    [
+      "E",
+      null,
+      "S",
+      "C",
+      "A",
+      "R",
+      "Y",
+      null,
+      "T"
+    ],
+    [
+      "N",
+      "D",
+      null,
+      "H",
+      "N",
+      null,
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "I",
+      "C",
+      null,
+      "L",
+      "A",
+      null
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      null,
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "S",
+      null,
+      "R",
+      null,
+      null,
+      null,
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(plural \"__s\") A house, often larger and more expensive than average, in the countryside or on the coast, often used as a retreat.",
+          "zh": "（复数“别墅”）位于乡村或海岸的房屋，通常比一般房屋更大且更昂贵，通常用作休养所。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A female.",
+          "zh": "一名女性。"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A storage facility, in particular, a warehouse.",
+          "zh": "储存设施，特别是仓库。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
+          "zh": "同性恋女性，主要或完全被其他女性性或浪漫吸引的女性。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Causing or able to cause fright.",
+          "zh": "引起或能够引起惊吓。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A single point or spot on a playing card or die.",
+          "zh": "扑克牌或骰子上的单个点或点。"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Of or relating to sound.",
+          "zh": "属于或与声音有关的。"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "环保或敏感。"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "对他人怀有敌意、仇恨、反对他人利益或意图伤害他人的人。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生物体死亡前的状态，以新陈代谢和繁殖等生物过程为特征，并将其与无生命物体区分开来；活着和活着的状态。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
+          "zh": "任何仅通过痕迹化石已知的物种，例如脚印、粪化石或巢穴。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "(especially of a woman) fairly short and of slim build.",
+          "zh": "（尤其是女性）身材矮小且苗条。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+          "zh": "由于外部原因或错误放置而不再拥有某个物体、功能或特征的结果。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A forward move; improvement or progression.",
+          "zh": "向前迈进；改善或进步。"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A short jump.",
+          "zh": "一个短跳。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ of h__ing, consisting of the pinna, auditory canal, __drum, malleus, incus, stapes and cochlea.",
+          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "通常由玻璃制成的物体，可以对穿过它的光进行聚焦或散焦。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+          "zh": "古典和现代希腊字母表的第二十二个字母。"
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goat-like four-legged creature with large horns that it can swivel in any direction.",
+          "zh": "欧洲神话和纹章中的一种神兽，通常被描绘成一种类似羚羊或山羊的四足生物，长着可以向任何方向旋转的大角。"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A __tor.",
+          "zh": "一位医生。"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Used to indicate that the following event, period, or change in state occurred in the past, after a time of waiting, enduring, or anticipation",
+          "zh": "用于表示以下事件、时期或状态变化发生在过去，经过一段时间的等待、忍受或预期"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "And not (introducing a negative statement, without necessarily following one).",
+          "zh": "而不是（引入否定陈述，不一定遵循否定陈述）。"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

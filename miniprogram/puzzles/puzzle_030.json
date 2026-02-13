@@ -1,0 +1,371 @@
+{
+  "id": "puzzle_030",
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "J",
+      "E",
+      "A",
+      "N",
+      null,
+      "G",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      null,
+      "O",
+      "V",
+      "E",
+      "N",
+      null,
+      "L"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "T",
+      "A",
+      "N",
+      "T",
+      null,
+      "E"
+    ],
+    [
+      "I",
+      null,
+      "H",
+      "E",
+      null,
+      "C",
+      "R",
+      null,
+      "A"
+    ],
+    [
+      "C",
+      null,
+      "O",
+      "B",
+      "V",
+      "I",
+      "O",
+      "U",
+      "S"
+    ],
+    [
+      "I",
+      null,
+      "R",
+      "O",
+      "P",
+      "E",
+      null,
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "O",
+      null,
+      "S",
+      "H",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      null,
+      null,
+      "K",
+      null,
+      null,
+      null,
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Denim.",
+          "zh": "牛仔布。"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
+          "zh": "当某物受力时所经历的弯曲量；在压力下有屈服的倾向；韧性。"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "用于烘烤或加热的室。"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Far off (physically, logically or mentally).",
+          "zh": "距离很远（身体上、逻辑上或精神上）。"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "Easily discovered, seen, or understood; self-explanatory.",
+          "zh": "容易发现、看见或理解；不言自明的。"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
+          "zh": "粗绳、纱线、单丝、金属线或其他绳索绞合在一起形成更坚固的线。"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An __mobile.",
+          "zh": "一辆汽车。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "To part, separate or divide.",
+          "zh": "分开、分开或分开。"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A __-detached house.",
+          "zh": "半独立式住宅。"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The capacity, condition, or state of acting or of exerting power.",
+          "zh": "行动或施加权力的能力、条件或状态。"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To let go (of); to cease to hold or contain.",
+          "zh": "放开（的）；停止持有或遏制。"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "That branch of government which is responsible for maintaining the courts of law and for the administration of justice.",
+          "zh": "负责维持法院和司法行政的政府部门。"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A book in which notes or memoranda are written.",
+          "zh": "写有笔记或备忘录的书。"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "An __duction.",
+          "zh": "简介。"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A __ circuit.",
+          "zh": "短路。"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "利用或雇用。"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}
