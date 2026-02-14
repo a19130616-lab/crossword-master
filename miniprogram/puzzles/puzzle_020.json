@@ -6,263 +6,238 @@
   "solution": [
     [
       null,
-      "P",
-      "O",
+      null,
+      null,
       "S",
       null,
-      "P",
-      "S"
-    ],
-    [
-      "I",
       null,
-      "U",
-      "P",
-      "S",
-      "E",
-      "T"
+      "P"
     ],
     [
-      "N",
-      "O",
-      "T",
-      "E",
       null,
       "A",
-      "O"
-    ],
-    [
+      null,
       "T",
-      "Z",
-      null,
-      "C",
-      null,
-      "R",
-      "R"
-    ],
-    [
-      "A",
-      "O",
-      null,
-      "I",
-      "S",
+      "E",
       "L",
-      "E"
+      "L"
     ],
     [
-      "K",
-      "N",
-      "I",
-      "F",
-      "E",
       null,
-      "D"
+      "L",
+      "E",
+      "A",
+      "D",
+      null,
+      "U"
     ],
     [
-      "E",
-      "E",
-      null,
-      "Y",
-      "E",
       "S",
+      "T",
+      "A",
+      "T",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "T",
+      null,
+      "S",
+      "I",
+      "T",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "O",
+      null,
+      "O",
+      null
+    ],
+    [
+      "Y",
+      null,
+      null,
+      "N",
+      null,
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        6
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        0,
-        6
+        3,
+        1
       ],
       [
         3,
-        6
+        5
+      ],
+      [
+        0,
+        3
       ],
       [
         2,
-        5
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        2
       ]
     ],
     "medium": [
       [
-        5,
-        6
+        3,
+        1
       ],
       [
-        4,
-        4
+        3,
+        5
       ],
       [
-        5,
-        4
+        0,
+        3
       ],
       [
-        6,
-        4
-      ],
-      [
-        1,
-        6
+        2,
+        1
       ]
     ],
     "hard": [
       [
-        5,
-        6
+        3,
+        1
       ],
       [
-        4,
-        4
-      ],
-      [
-        5,
-        4
+        3,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 3,
         "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
+          "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+          "zh": "告诉"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 2,
+        "num": 6,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Disturbance or disruption.",
-          "zh": "沮丧的"
+          "en": "A heavy, pliable, inelastic metal element, having a bright, bluish color, but easily tarnished; both malleable and ductile, though with little tenacity. It is easily fusible, forms alloys with other metals, and is an ingredient of solder and type metal. Atomic number 82, symbol Pb (from Latin plumbum).",
+          "zh": "带领"
         }
       },
       {
         "num": 8,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "(heading) A symbol or annotation.",
-          "zh": "笔记"
+          "en": "To declare to be a fact.",
+          "zh": "陈述"
         }
       },
       {
-        "num": 14,
+        "num": 10,
         "row": 4,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "A place or location, especially one used for a particular purpose.",
+          "zh": "地点"
         }
       },
       {
-        "num": 16,
+        "num": 11,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.",
-          "zh": "刀"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
-          "zh": "是的"
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A stopping place.",
+          "zh": "车站"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "A means of exit, escape, reprieve, etc.",
-          "zh": "出去"
+          "en": "A pronged connecting device which fits into a mating socket, especially an electrical one.",
+          "zh": "插头"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "To state explicitly, or in detail, or as a condition.",
-          "zh": "指定"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A shelly concretion, usually rounded, and having a brilliant luster, with varying tints, found in the mantle, or between the mantle and shell, of certain bivalve mollusks, especially in the __ oysters and river mussels, and sometimes in certain univalves. It is usually due to a secretion of shelly substance around some irritating foreign particle. Its substance is the same as nacre, or mother-of-__. Round lustrous __s are used in jewellery.",
-          "zh": "珍珠"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 4,
         "clue": {
-          "en": "To keep (something) while not in use, generally in a place meant for that purpose.",
-          "zh": "已存储"
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
         }
       },
       {
-        "num": 6,
-        "row": 1,
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
-          "zh": "摄入量"
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "停留"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
+        "row": 3,
+        "col": 5,
         "clue": {
-          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
-          "zh": "臭氧"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 4,
-        "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
+          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
+          "zh": "新"
         }
       }
     ]

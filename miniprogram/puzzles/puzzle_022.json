@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "A",
+      "P",
       null,
       null,
-      "B",
-      null,
-      null,
-      "H"
-    ],
-    [
-      "C",
-      "O",
-      "N",
-      null,
-      "L",
-      "O",
-      "B",
-      "B",
-      "Y"
-    ],
-    [
-      null,
-      "N",
-      "Y",
-      "L",
-      "O",
-      "N",
-      null,
-      "R",
-      "B"
-    ],
-    [
       "S",
-      "G",
       null,
-      "I",
-      "N",
-      "D",
-      "O",
-      "O",
-      "R"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "N",
-      "G",
-      null,
-      "K",
-      "A",
+      "B",
       "I"
     ],
     [
-      "N",
-      "I",
-      "C",
-      "K",
       "E",
-      "L",
-      null,
       "D",
+      "I",
+      "T",
+      null,
+      "H",
+      "E",
+      "A",
       "D"
     ],
     [
-      "T",
-      "N",
       null,
-      "I",
+      "E",
+      "G",
+      null,
+      null,
+      "O",
+      null,
       "S",
-      "S",
-      "U",
+      "S"
+    ],
+    [
+      null,
+      "A",
+      null,
+      "M",
+      "E",
+      "R",
+      "G",
       "E",
       null
     ],
     [
-      "A",
-      "G",
+      "I",
+      "D",
       "E",
-      "N",
-      "T",
+      "A",
       null,
-      "P",
-      "R",
-      "O"
+      "E",
+      null,
+      "L",
+      null
     ],
     [
-      "X",
       null,
+      "L",
+      "O",
+      "R",
+      "D",
+      null,
+      null,
+      "I",
+      null
+    ],
+    [
+      "J",
+      "I",
       null,
       "G",
+      "R",
+      "O",
+      "W",
+      "N",
+      null
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
       null,
+      "P",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "E",
       null,
-      "S",
+      "N",
+      null,
+      "T",
+      "T",
       null,
       null
     ]
@@ -107,213 +107,183 @@
   "prefilled": {
     "easy": [
       [
-        4,
-        0
-      ],
-      [
-        2,
-        1
-      ],
-      [
         6,
-        7
+        6
       ],
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        4,
+        1,
         3
+      ],
+      [
+        1,
+        2
       ],
       [
         1,
         6
       ],
       [
-        5,
-        5
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        5,
+        1,
         0
       ],
       [
-        0,
-        8
+        2,
+        5
       ],
       [
-        5,
+        3,
+        5
+      ],
+      [
+        6,
         7
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        8,
+        6
       ]
     ],
     "medium": [
       [
-        4,
-        0
-      ],
-      [
-        2,
-        1
-      ],
-      [
         6,
-        7
+        6
       ],
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        4,
+        1,
         3
+      ],
+      [
+        1,
+        2
       ],
       [
         1,
         6
       ],
       [
-        5,
-        5
-      ],
-      [
-        5,
-        4
-      ]
-    ],
-    "hard": [
-      [
-        4,
+        1,
         0
       ],
       [
         2,
-        1
+        5
+      ],
+      [
+        3,
+        5
       ],
       [
         6,
         7
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        6
       ],
       [
-        3,
-        4
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
-          "zh": "骗局"
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An entryway or reception area; vestibule; passageway; corridor.",
-          "zh": "大堂"
+          "en": "The part of the body of an animal or human which contains the brain, mouth and main sense organs.",
+          "zh": "头"
         }
       },
       {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
-        }
-      },
-      {
-        "num": 12,
+        "num": 10,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
-          "zh": "室内的"
+          "en": "The joining together of multiple sources.",
+          "zh": "合并"
         }
       },
       {
-        "num": 14,
+        "num": 11,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "People who are __; __ people, collectively; youth.",
-          "zh": "年轻的"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        }
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The master of the servants of a household; the master of a feudal manor",
+          "zh": "主"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "Food",
-          "zh": "凯"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
-          "zh": "镍"
-        }
-      },
-      {
-        "num": 21,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "问题"
+          "en": "To become larger, to increase in magnitude.",
+          "zh": "长大了"
         }
       },
       {
-        "num": 23,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "One who exerts power, or has the power to act",
-          "zh": "代理人"
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
-          "zh": "专业人士"
+          "en": "A look; a glance.",
+          "zh": "同行"
         }
       }
     ],
@@ -323,8 +293,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "To even the slightest extent, at all.",
-          "zh": "任何"
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
         }
       },
       {
@@ -332,71 +302,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "Evidence of a long-term debt, by which the __ issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the __ certificate. The rights of the holder are specified in the __ indenture, which contains the legal terms and conditions under which the __ was issued. __s are available in two forms: registered __s, and bearer __s.",
-          "zh": "纽带"
+          "en": "Land adjoining a non-flowing body of water, such as an ocean, lake or pond.",
+          "zh": "支撑"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains.",
-          "zh": "杂交种"
+          "en": "A line that is a base for measurement or for construction.",
+          "zh": "基线"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "To be __ (occurring, happening); to last, proceed or continue.",
-          "zh": "正在进行的"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "To take a long position in.",
-          "zh": "最长"
+          "en": "A time limit in the form of a date on or before which something must be completed.",
+          "zh": "最后期限"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "Wide in extent or scope.",
-          "zh": "更广泛的"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "To connect two or more things.",
-          "zh": "链接"
+          "en": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+          "zh": "利润"
         }
       },
       {
-        "num": 11,
-        "row": 3,
+        "num": 15,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "A set of rules that govern how words are combined to form phrases and sentences.",
-          "zh": "句法"
+          "en": "An earthenware container, either with two or no handles, for holding oil, water, wine, etc., or used for burial.",
+          "zh": "罐"
         }
       },
       {
-        "num": 22,
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        }
+      },
+      {
+        "num": 18,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
+          "en": "Liquid or moisture.",
+          "zh": "湿的"
         }
       }
     ]

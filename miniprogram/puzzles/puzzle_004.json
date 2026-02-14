@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      "A",
-      "T",
-      "O",
-      "M",
-      null
-    ],
-    [
-      "G",
-      "A",
-      "P",
       null,
-      "M"
-    ],
-    [
-      "E",
-      "N",
-      "E",
-      "M",
-      "Y"
-    ],
-    [
+      "I",
       "D",
-      null,
-      "R",
-      "A",
-      "T"
+      "E",
+      "A"
     ],
     [
+      "R",
       null,
-      "P",
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "I",
+      "M",
       "A",
+      "G",
+      "E"
+    ],
+    [
+      "S",
+      "I",
       "T",
-      "H"
+      null,
+      "D"
+    ],
+    [
+      "E",
+      "C",
+      "H",
+      "O",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         0,
-        0
-      ],
-      [
-        0,
-        2
+        4
       ],
       [
         1,
-        0
+        2
       ],
       [
-        3,
+        2,
         2
       ],
       [
         4,
-        3
+        1
+      ],
+      [
+        1,
+        4
       ]
     ],
     "medium": [
       [
         0,
-        0
-      ],
-      [
-        0,
-        2
+        4
       ],
       [
         1,
-        0
+        2
+      ],
+      [
+        2,
+        2
       ]
     ],
     "hard": [
       [
         0,
-        0
+        4
       ]
     ]
   },
@@ -89,93 +89,93 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
         "num": 6,
-        "row": 2,
-        "col": 0,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
-          "zh": "敌人"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       },
       {
-        "num": 8,
-        "row": 3,
-        "col": 2,
+        "num": 7,
+        "row": 2,
+        "col": 0,
         "clue": {
-          "en": "A medium-sized rodent belonging to the genus __tus.",
-          "zh": "老鼠"
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A trail for the use of, or worn by, pedestrians.",
-          "zh": "小路"
+          "en": "Subsidence of the roof of a coal mine.",
+          "zh": "坐"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
+        "clue": {
+          "en": "The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.",
+          "zh": "死亡"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
         "clue": {
           "en": "To cause to grow old; to impart the characteristics of age to.",
           "zh": "老年的"
         }
       },
       {
-        "num": 2,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
-        }
-      },
-      {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
-          "zh": "神话"
+          "en": "To move, or appear to move, physically upwards relative to the ground.",
+          "zh": "上升"
         }
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 2,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A flat piece of coarse __erial used for wiping one’s feet, or as a decorative or protective floor covering.",
-          "zh": "垫"
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
         }
       }
     ]

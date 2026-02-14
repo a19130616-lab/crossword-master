@@ -10,96 +10,96 @@
       "A",
       null,
       null,
-      "Z",
+      "E",
       null,
       null,
-      "H"
+      "Y"
     ],
     [
+      "P",
+      "E",
       "T",
-      "O",
-      "Y",
-      null,
-      "V",
-      "I",
-      "D",
-      "E",
-      "O"
-    ],
-    [
-      null,
-      "B",
-      "E",
-      "G",
-      "I",
-      "N",
-      null,
-      "X",
-      "L"
-    ],
-    [
-      "E",
-      "S",
       null,
       "L",
-      "O",
-      "C",
-      "K",
-      "E",
-      "D"
-    ],
-    [
-      "M",
-      "E",
-      "D",
       "A",
-      "L",
-      null,
-      "I",
-      "C",
+      "R",
+      "G",
       "E"
     ],
     [
-      "P",
-      "R",
-      "I",
-      "C",
-      "E",
-      "D",
       null,
-      "U",
+      "N",
+      "E",
+      "W",
+      "E",
+      "R",
+      null,
+      "R",
+      "A"
+    ],
+    [
+      "F",
+      "E",
+      null,
+      "A",
+      "N",
+      "S",
+      "W",
+      "E",
       "R"
     ],
     [
-      "I",
+      "A",
+      "M",
+      "E",
+      "N",
+      "D",
+      null,
+      "P",
+      "A",
+      "L"
+    ],
+    [
       "V",
+      "I",
+      "C",
+      "T",
+      "I",
+      "M",
+      null,
+      "T",
+      "Y"
+    ],
+    [
+      "O",
+      "E",
       null,
       "I",
       "N",
-      "P",
-      "U",
-      "T",
+      "D",
+      "I",
+      "E",
       null
     ],
     [
-      "R",
-      "E",
+      "U",
       "S",
-      "E",
-      "T",
-      null,
+      "I",
       "N",
-      "E",
-      "W"
+      "G",
+      null,
+      "D",
+      "R",
+      "Y"
     ],
     [
-      "E",
-      null,
-      null,
       "R",
       null,
       null,
-      "I",
+      "G",
+      null,
+      null,
+      "S",
       null,
       null
     ]
@@ -107,82 +107,32 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        0
+        1,
+        5
       ],
       [
-        1,
-        8
+        6,
+        1
       ],
       [
         5,
-        1
+        8
       ],
       [
         6,
-        1
+        7
       ],
       [
         4,
-        1
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        2,
         4
       ],
       [
-        0,
-        2
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        3,
+        4,
         6
       ],
       [
         7,
-        1
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        5,
-        5
-      ]
-    ],
-    "medium": [
-      [
-        6,
-        0
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        6,
-        1
+        4
       ],
       [
         4,
@@ -190,37 +140,87 @@
       ],
       [
         7,
-        0
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        0,
         2
       ],
       [
-        3,
-        3
-      ]
-    ],
-    "hard": [
+        4,
+        8
+      ],
       [
-        6,
-        0
+        5,
+        3
+      ],
+      [
+        4,
+        7
       ],
       [
         1,
         8
       ],
       [
-        5,
-        1
+        6,
+        5
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        5
       ],
       [
         6,
         1
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
       ]
     ]
   },
@@ -231,8 +231,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       },
       {
@@ -240,8 +240,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Television, television show, movie.",
-          "zh": "视频"
+          "en": "An old musical note, equal to two longas, four breves, or eight semibreves.",
+          "zh": "大的"
         }
       },
       {
@@ -249,8 +249,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "__ning; start.",
-          "zh": "开始"
+          "en": "Recently made, or created.",
+          "zh": "较新的"
         }
       },
       {
@@ -258,8 +258,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "To become fastened in place.",
-          "zh": "锁定"
+          "en": "A response or reply; something said or done in reaction to a statement or question.",
+          "zh": "回答"
         }
       },
       {
@@ -267,8 +267,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A stamped metal disc used as a personal ornament, a charm, or a religious object.",
-          "zh": "勋章"
+          "en": "(usually in the plural) An act of righting a wrong; compensation.",
+          "zh": "修正"
         }
       },
       {
@@ -276,8 +276,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
+          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
+          "zh": "朋友"
         }
       },
       {
@@ -285,8 +285,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To determine the monetary value of (an item); to put a price on.",
-          "zh": "定价"
+          "en": "One that is harmed—killed, injured, subjected to oppression, deceived, or otherwise adversely affected—by someone or something, especially another person or event, force, or condition; in particular:",
+          "zh": "受害者"
         }
       },
       {
@@ -294,8 +294,8 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "The act or process of putting in; infusion.",
-          "zh": "输入"
+          "en": "An independent publisher.",
+          "zh": "独立"
         }
       },
       {
@@ -303,8 +303,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "To set back to the initial state.",
-          "zh": "重置"
+          "en": "To utilize or employ.",
+          "zh": "使用"
         }
       },
       {
@@ -312,8 +312,8 @@
         "row": 7,
         "col": 6,
         "clue": {
-          "en": "Things that are __.",
-          "zh": "新的"
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
         }
       }
     ],
@@ -323,8 +323,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Ever, always",
-          "zh": "是啊"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
@@ -332,8 +332,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
-          "zh": "锌"
+          "en": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
+          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
         }
       },
       {
@@ -341,8 +341,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A thing that holds.",
-          "zh": "持有者"
+          "en": "Something that is published once a year.",
+          "zh": "每年"
         }
       },
       {
@@ -350,8 +350,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "To notice or view, especially carefully or with attention to detail.",
-          "zh": "观察"
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
         }
       },
       {
@@ -359,8 +359,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An assailant.",
-          "zh": "暴力"
+          "en": "To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.",
+          "zh": "贷款"
         }
       },
       {
@@ -368,8 +368,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "To kill as punishment for capital crimes.",
-          "zh": "执行"
+          "en": "Relatively large in scale, size, extent, number (i.e. having many parts or members) or duration (i.e. relatively long); very big.",
+          "zh": "更大"
         }
       },
       {
@@ -377,8 +377,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "A large body of ice which flows under its own mass, usually downhill.",
-          "zh": "冰川"
+          "en": "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+          "zh": "想要"
         }
       },
       {
@@ -386,8 +386,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(furniture) Following or imitating a style popular during the First French __ (1804–1814).",
-          "zh": "帝国"
+          "en": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+          "zh": "青睐"
         }
       },
       {
@@ -395,8 +395,8 @@
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "__versity.",
-          "zh": "大学"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       }
     ]

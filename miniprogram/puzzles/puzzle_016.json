@@ -11,55 +11,55 @@
       "S",
       null,
       null,
-      "S"
+      "P"
     ],
     [
       null,
-      "A",
+      "K",
       null,
-      "M",
-      "I",
-      "N",
-      "I"
-    ],
-    [
-      null,
-      "G",
+      "O",
       "R",
       "A",
+      "L"
+    ],
+    [
+      null,
+      "I",
+      "S",
+      "L",
+      "E",
+      null,
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "U",
       "D",
-      null,
-      "G"
-    ],
-    [
-      "B",
-      "O",
-      "O",
-      "L",
       "E",
-      "A",
-      "N"
-    ],
-    [
-      "Y",
-      null,
-      "P",
-      "L",
-      "A",
       "N",
+      "T"
+    ],
+    [
+      "A",
+      null,
+      "R",
+      "I",
+      "D",
+      "E",
       null
     ],
     [
-      "T",
-      "H",
-      "E",
+      "L",
+      "I",
+      "F",
       "E",
       null,
-      "T",
+      "O",
       null
     ],
     [
-      "E",
+      "T",
       null,
       null,
       "R",
@@ -71,60 +71,60 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        0
+        4,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        2
       ],
       [
         3,
-        0
+        5
       ],
       [
         5,
-        1
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        2,
         3
-      ],
+      ]
+    ],
+    "medium": [
       [
         4,
         4
       ],
       [
-        2,
-        2
-      ]
-    ],
-    "medium": [
-      [
-        6,
-        0
+        1,
+        4
       ],
       [
-        3,
-        0
+        1,
+        5
       ],
       [
         5,
-        1
-      ],
-      [
-        5,
-        0
+        5
       ]
     ],
     "hard": [
       [
-        6,
-        0
+        4,
+        4
       ],
       [
-        3,
-        0
+        1,
+        4
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "__ature, tiny, small.",
-          "zh": "小型的"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A unit of angle equal to 0.9 degrees, so that there are 100 __ians in a right angle.",
-          "zh": "毕业生"
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A variable that can hold a single true/false (1/0) value.",
-          "zh": "布尔值"
+          "en": "A person who studies or learns about a particular subject.",
+          "zh": "学生"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
-          "zh": "计划"
+          "en": "An instance of riding.",
+          "zh": "骑"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To address (a person) using the pronoun __.",
-          "zh": "你"
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
+          "en": "A member of an army, of any rank.",
+          "zh": "士兵"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "(sometimes also used uncountably) A visible indication.",
-          "zh": "符号"
+          "en": "(authorship) The course of a story, comprising a series of incidents which are gradually unfolded, sometimes by unexpected means.",
+          "zh": "阴谋"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "A circular wooden vessel, made of hooped staves.",
+          "zh": "成套工具"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "Any of various types of tall stiff perennial grass-like plants growing together in groups near water.",
+          "zh": "芦苇"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
-          "zh": "绳索"
+          "en": "Waves that break on an ocean shoreline.",
+          "zh": "冲浪"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
-          "zh": "字节"
+          "en": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
+          "zh": "盐"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
+          "zh": "新"
         }
       }
     ]

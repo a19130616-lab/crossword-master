@@ -8,61 +8,61 @@
       null,
       null,
       null,
-      "A",
+      "R",
       null,
       null,
-      "B"
+      "R"
     ],
     [
       null,
-      "G",
+      "P",
       null,
-      "M",
-      "I",
-      "M",
+      "O",
+      "N",
+      "C",
       "E"
     ],
     [
       null,
-      "U",
-      "S",
-      "E",
-      "D",
-      null,
-      "A"
-    ],
-    [
-      "U",
-      "N",
-      "K",
-      "N",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "N",
-      null,
       "I",
-      "D",
+      "S",
       "L",
       "E",
-      null
+      null,
+      "L"
     ],
     [
-      "D",
+      "G",
+      "E",
       "O",
+      "L",
+      "O",
+      "G",
+      "Y"
+    ],
+    [
+      "R",
+      null,
+      "L",
+      "I",
       "N",
       "E",
-      null,
-      "B",
       null
     ],
     [
       "O",
+      "V",
+      "E",
+      "N",
+      null,
+      "M",
+      null
+    ],
+    [
+      "W",
       null,
       null,
-      "D",
+      "G",
       null,
       null,
       null
@@ -71,60 +71,60 @@
   "prefilled": {
     "easy": [
       [
-        3,
-        0
-      ],
-      [
         5,
-        1
-      ],
-      [
-        3,
         5
       ],
       [
-        0,
+        3,
         3
       ],
       [
-        1,
-        1
+        4,
+        4
       ],
       [
-        1,
-        3
+        4,
+        5
+      ],
+      [
+        5,
+        0
       ],
       [
         6,
+        0
+      ],
+      [
+        2,
         3
       ]
     ],
     "medium": [
       [
-        3,
-        0
-      ],
-      [
         5,
-        1
-      ],
-      [
-        3,
         5
       ],
       [
-        0,
+        3,
         3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        5,
+        5
       ],
       [
-        5,
-        1
+        3,
+        3
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "A form of acting without words; panto__.",
-          "zh": "哑剧"
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To undo the process of knowing, to lose knowledge of something.",
-          "zh": "未知"
+          "en": "The science that studies the structure of the earth (or other planets), together with its origin and development, especially by examination of its rocks.",
+          "zh": "地质学"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "An __ animation.",
-          "zh": "闲置的"
+          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+          "zh": "线"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(auxiliary) A syntactic marker.",
-          "zh": "完毕"
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "To make better; improve.",
-          "zh": "修正的"
+          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
+          "zh": "滚动"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A reusable software component written in Java.",
-          "zh": "豆"
+          "en": "(with on or upon, formerly also with in) to trust; to have confidence in; to depend.",
+          "zh": "依靠"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
-          "zh": "枪"
+          "en": "A type of pastry that consists of an outer crust and a filling.",
+          "zh": "馅饼"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
-          "zh": "偶像"
+          "en": "The chemical element (symbol Ne) with an atomic number of 10. The lightest of the noble gases, it is a colourless, odorless inert gas.",
+          "zh": "氖"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "The outer protective layer of the body of any animal, including of a human.",
-          "zh": "皮肤"
+          "en": "A wooden band or yoke put around the neck of an ox or cow in the stall.",
+          "zh": "唯一"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An operation that reverses a previous action.",
-          "zh": "撤消"
+          "en": "To become larger, to increase in magnitude.",
+          "zh": "生长"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "The World Wide __.",
-          "zh": "网"
+          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
+          "zh": "宝石"
         }
       }
     ]

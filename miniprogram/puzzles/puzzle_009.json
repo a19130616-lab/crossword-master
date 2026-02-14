@@ -6,81 +6,81 @@
   "solution": [
     [
       null,
-      "C",
+      "L",
       "A",
-      "S",
-      "A"
-    ],
-    [
-      "A",
-      null,
       "M",
-      "A",
-      "C"
+      "P"
     ],
     [
-      "C",
-      "R",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "N",
-      "O",
-      "N",
+      "H",
       null,
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "N",
       "E"
     ],
     [
+      "R",
+      "I",
+      "P",
+      null,
+      "P"
+    ],
+    [
+      "M",
       "E",
-      "D",
-      "G",
-      "E",
+      "T",
+      "A",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        2,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
         4,
-        1
+        3
       ],
       [
         2,
         4
       ],
       [
-        1,
+        0,
         4
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        3,
-        2
       ]
     ],
     "medium": [
       [
-        4,
-        1
-      ],
-      [
         2,
-        4
+        3
       ],
       [
         1,
         4
+      ],
+      [
+        4,
+        3
       ]
     ],
     "hard": [
       [
-        4,
-        1
+        2,
+        3
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "House",
-          "zh": "卡萨"
+          "en": "A device that generates heat, light or other radiation. Especially an electric light bulb.",
+          "zh": "灯"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A waterproof long coat made of rubberized cloth.",
-          "zh": "防水外套"
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A royal, imperial or princely headdress; a diadem.",
-          "zh": "王冠"
+          "en": "By oneself, solitary.",
+          "zh": "独自的"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "A tear (in paper, etc.).",
+          "zh": "撕裂"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "Self-referential; structured analogously, but at a higher level.",
+          "zh": "元"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
-          "zh": "之中"
+          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "zh": "采纳"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
-          "zh": "锯"
+          "en": "An adult male human.",
+          "zh": "男人"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
+          "zh": "准备"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "Physical injury; hurt; damage",
+          "zh": "伤害"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A straight, round stick, shaft, bar, cane, or staff.",
-          "zh": "杆"
+          "en": "The terrain and conditions surrounding the ball before it is struck.",
+          "zh": "说谎"
         }
       }
     ]

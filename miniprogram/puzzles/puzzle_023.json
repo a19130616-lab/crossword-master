@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "O",
+      "I",
       null,
       null,
-      "P",
+      "A",
       null,
       null,
-      "P"
+      "A"
     ],
     [
-      "A",
-      "D",
-      "D",
+      "Y",
+      "E",
+      "N",
       null,
-      "F",
-      "O",
+      "G",
       "R",
-      "C",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      null,
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "R",
+      null,
+      "E",
+      "N",
+      "A",
+      "B",
+      "L",
       "E"
     ],
     [
+      "A",
+      "L",
+      "I",
+      "V",
+      "E",
       null,
       "I",
       "D",
-      "E",
-      "A",
-      "L",
-      null,
-      "O",
-      "R"
+      "S"
     ],
     [
-      "A",
-      "S",
-      null,
-      "A",
-      "S",
-      "Y",
-      "L",
-      "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
-      "O",
-      "R",
-      "T",
-      null,
-      "U",
+      "F",
+      "I",
       "N",
-      "I"
-    ],
-    [
-      "T",
-      "U",
-      "R",
-      "N",
-      "E",
-      "D",
-      null,
+      "I",
       "S",
-      "T"
-    ],
-    [
       "H",
-      "T",
       null,
       "I",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      null,
       "S",
-      "S",
-      "U",
+      "I",
+      "N",
+      "C",
       "E",
       null
     ],
     [
-      "M",
-      "E",
-      "A",
-      "N",
       "T",
+      "R",
+      "I",
+      "E",
+      "S",
       null,
-      "P",
-      "L",
-      "C"
+      "A",
+      "R",
+      "M"
     ],
     [
-      "A",
+      "Y",
       null,
       null,
-      "G",
+      "D",
       null,
       null,
-      "S",
+      "T",
       null,
       null
     ]
@@ -107,43 +107,51 @@
   "prefilled": {
     "easy": [
       [
+        5,
+        0
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
         3,
-        8
+        0
+      ],
+      [
+        8,
+        6
       ],
       [
         1,
         2
       ],
       [
-        2,
-        8
-      ],
-      [
-        1,
-        4
-      ],
-      [
         6,
         5
       ],
       [
-        8,
-        3
+        0,
+        8
       ],
       [
-        5,
-        3
+        4,
+        2
       ],
       [
-        2,
+        1,
         1
       ],
       [
-        2,
+        6,
         7
       ],
       [
-        6,
+        8,
         0
       ],
       [
@@ -151,76 +159,68 @@
         0
       ],
       [
-        6,
-        7
+        3,
+        6
       ],
       [
         3,
         1
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        1,
-        0
       ]
     ],
     "medium": [
       [
+        5,
+        0
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
         3,
-        8
+        0
+      ],
+      [
+        8,
+        6
       ],
       [
         1,
         2
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        1,
-        4
       ],
       [
         6,
         5
       ],
       [
-        8,
-        3
+        0,
+        8
       ],
       [
-        5,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        2,
-        7
+        4,
+        2
       ]
     ],
     "hard": [
       [
+        5,
+        0
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
         3,
-        8
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        1,
-        4
+        0
       ]
     ]
   },
@@ -231,8 +231,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An act or instance of __ing.",
-          "zh": "添加"
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
         }
       },
       {
@@ -240,8 +240,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.",
-          "zh": "力量"
+          "en": "Twelve dozen = 144.",
+          "zh": "总的"
         }
       },
       {
@@ -249,8 +249,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         }
       },
       {
@@ -258,8 +258,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "A place of safety.",
-          "zh": "庇护"
+          "en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+          "zh": "使能够"
         }
       },
       {
@@ -267,8 +267,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
-          "zh": "运动"
+          "en": "Having life; living; not dead",
+          "zh": "活"
         }
       },
       {
@@ -276,8 +276,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "__versity.",
-          "zh": "大学"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
@@ -285,8 +285,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(heading) to make a non-linear physical movement.",
-          "zh": "转身"
+          "en": "An end; the end of anything.",
+          "zh": "结束"
         }
       },
       {
@@ -294,8 +294,8 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "问题"
+          "en": "From a specified time in the past.",
+          "zh": "自从"
         }
       },
       {
@@ -303,8 +303,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "To intend.",
-          "zh": "意思是"
+          "en": "An ordered tree data structure that is used to store an associative array where the keys are usually strings.",
+          "zh": "尝试"
         }
       },
       {
@@ -312,8 +312,8 @@
         "row": 7,
         "col": 6,
         "clue": {
-          "en": "(initialism) public limited company",
-          "zh": "可编程控制器"
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         }
       }
     ],
@@ -323,8 +323,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "(diminutive) An __ number.",
-          "zh": "奇怪的"
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
         }
       },
       {
@@ -332,8 +332,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "__technic.",
-          "zh": "聚"
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
         }
       },
       {
@@ -341,8 +341,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "An artifact or document rendering something allowed or legal.",
-          "zh": "允许"
+          "en": "To determine, estimate or judge the value of; to evaluate",
+          "zh": "评估"
         }
       },
       {
@@ -350,8 +350,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "An argument or disagreement, a failure to agree.",
-          "zh": "争议"
+          "en": "At a time in advance of the usual or expected event.",
+          "zh": "早些时候"
         }
       },
       {
@@ -359,8 +359,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Firmly or securely fixed in place; stable.",
-          "zh": "最快"
+          "en": "The origin, start, or point at which something comes into being.",
+          "zh": "起源"
         }
       },
       {
@@ -368,8 +368,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "The exchange of opinions and advice especially in legal issues; consultation.",
-          "zh": "法律顾问"
+          "en": "A member of an army, of any rank.",
+          "zh": "士兵"
         }
       },
       {
@@ -377,8 +377,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "To gain (success, reward, recognition) through applied effort or work.",
-          "zh": "赚取"
+          "en": "To look at again, to reflect on.",
+          "zh": "修改"
         }
       },
       {
@@ -386,8 +386,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A long-term respiratory condition, in which the airways may unexpectedly and suddenly narrow, often in response to an allergen, cold air, exercise, or emotional stress. Symptoms include wheezing, shortness of breath, chest tightness, and coughing.",
-          "zh": "哮喘"
+          "en": "The condition or feeling of being safe; security; certainty.",
+          "zh": "安全"
         }
       },
       {
@@ -395,8 +395,8 @@
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
+          "en": "An animal of the family Felidae:",
+          "zh": "猫"
         }
       }
     ]

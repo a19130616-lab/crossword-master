@@ -6,178 +6,174 @@
   "solution": [
     [
       null,
+      "K",
+      null,
       "T",
+      "O",
+      "Y",
       null,
       null,
-      null,
-      null,
-      "S",
-      null,
-      "S"
+      "M"
     ],
     [
-      "V",
+      "P",
       "I",
-      "S",
-      "T",
       "A",
+      "N",
+      "O",
+      null,
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      null,
+      "N",
+      "N",
       null,
       "P",
-      "S",
-      "T"
+      "E",
+      "N",
+      null,
+      "V"
     ],
     [
+      "A",
+      "G",
+      "O",
       null,
-      "E",
-      "E",
+      "S",
+      "N",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "R",
+      null,
+      "T",
+      "H",
       null,
       "D",
-      "R",
-      "Y",
-      "E",
+      "B",
+      null,
       "R"
     ],
     [
-      "P",
-      "R",
-      "E",
-      null,
-      "A",
-      "A",
-      null,
-      "T",
-      "I"
-    ],
-    [
-      "R",
-      null,
-      "D",
-      "E",
-      "P",
-      "T",
+      "C",
+      "O",
       "H",
-      null,
-      "C"
-    ],
-    [
       "E",
-      "S",
-      null,
-      "Y",
-      "T",
-      null,
-      "A",
       "N",
-      "T"
+      null,
+      "L",
+      "B",
+      "S"
     ],
     [
-      "T",
-      "H",
-      "R",
+      "A",
+      null,
       "E",
+      "Y",
       "E",
       null,
-      "R",
-      "A",
+      "E",
+      "E",
       null
     ],
     [
-      "T",
+      "D",
       "E",
-      "A",
-      null,
       "R",
+      null,
+      "A",
+      "D",
+      "D",
       "E",
-      "M",
-      "I",
-      "X"
+      "D"
     ],
     [
-      "Y",
-      null,
-      "N",
+      "E",
       null,
       null,
+      "A",
+      "R",
+      "T",
       null,
-      null,
-      "L",
+      "R",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        3
+        7,
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        0,
         8
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        7
       ],
       [
         7,
         5
       ],
       [
-        1,
-        4
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
-        4
-      ],
-      [
         5,
-        1
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        6,
         2
       ]
     ],
     "medium": [
       [
-        5,
-        3
+        7,
+        4
       ],
       [
         2,
-        8
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        1,
         4
       ],
       [
@@ -185,46 +181,67 @@
         8
       ],
       [
-        2,
-        6
+        0,
+        3
       ],
       [
-        3,
+        1,
         8
       ],
       [
         4,
-        0
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
       ]
     ],
     "hard": [
       [
-        5,
-        3
+        7,
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        0,
         8
       ],
       [
-        7,
-        5
-      ],
-      [
-        1,
-        4
+        0,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
-          "zh": "远景"
+          "en": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",
+          "zh": "钢琴"
         }
       },
       {
@@ -232,71 +249,89 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "Implies that the speaker is sending secret or whispered information to another person.",
-          "zh": "太平洋标准时间"
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "生态"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "One who, or that which, dries; a desiccative.",
-          "zh": "烘干机"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       },
       {
         "num": 12,
         "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "A legless reptile of the sub-order Serpentes with a long, thin body and a fork-shaped tongue.",
+          "zh": "蛇"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "Before (something significant).",
-          "zh": "前"
+          "en": "A Jewish priest: direct male descendant of the Biblical high priest Aaron, brother of Moses.",
+          "zh": "科恩"
         }
       },
       {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The vertical distance below a surface; the degree to which something is deep",
-          "zh": "深度"
-        }
-      },
-      {
-        "num": 21,
+        "num": 18,
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        }
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
         }
       },
       {
         "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "The digit/figure 3.",
-          "zh": "三"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
-        }
-      },
-      {
-        "num": 27,
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "A rearrangement of an older piece of music, possibly including various cosmetic changes.",
-          "zh": "混音"
+          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "zh": "添加的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
         }
       }
     ],
@@ -306,116 +341,89 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "One who ties (knots, etc).",
-          "zh": "层"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).",
-          "zh": "间谍"
+          "en": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+          "zh": "国王"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "Strained; drawn close; tight.",
-          "zh": "严格的"
+          "en": "A minor mistake or unforseen difficulty.",
+          "zh": "哎呀"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "A fertilized and ripened ovule, containing an embryonic plant.",
-          "zh": "种子"
+          "en": "Someone who or something that moves.",
+          "zh": "搬运工"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "One who is capable of adapting to differing situations.",
-          "zh": "适配器"
+          "en": "An additional one of the same kind.",
+          "zh": "其他"
         }
       },
       {
-        "num": 8,
+        "num": 7,
         "row": 1,
-        "col": 7,
+        "col": 6,
         "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
+          "en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+          "zh": "已启用"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
         "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "A medium-sized rodent belonging to the genus __tus.",
-          "zh": "老鼠"
-        }
-      },
-      {
-        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A __ person; a term of address to a __ person.",
-          "zh": "漂亮的"
+          "en": "A row of arches.",
+          "zh": "拱廊"
         }
       },
       {
-        "num": 16,
+        "num": 14,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
+        "row": 5,
+        "col": 4,
         "clue": {
-          "en": "Physical injury; hurt; damage",
-          "zh": "伤害"
+          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+          "zh": "靠近"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A female.",
-          "zh": "她"
-        }
-      },
-      {
-        "num": 22,
-        "row": 5,
         "col": 7,
         "clue": {
-          "en": "The thin, horny plate at the ends of fingers and toes on humans and some other animals.",
-          "zh": "指甲"
-        }
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "To run.",
-          "zh": "跑"
+          "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+          "zh": "啤酒"
         }
       }
     ]

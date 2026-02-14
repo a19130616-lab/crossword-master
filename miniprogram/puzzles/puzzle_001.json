@@ -6,81 +6,73 @@
   "solution": [
     [
       null,
-      "S",
-      "O",
-      "M",
-      "A"
+      "P",
+      "C",
+      "T",
+      null
     ],
     [
-      "M",
+      "P",
+      "L",
       null,
-      "M",
-      "O",
-      "N"
+      "R",
+      "P"
     ],
     [
-      "E",
-      "V",
-      "E",
-      "N",
-      "T"
-    ],
-    [
-      "M",
-      "A",
-      "G",
-      null,
-      "I"
-    ],
-    [
-      "O",
       "R",
       "A",
-      "L",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      null,
+      "C",
+      "E"
+    ],
+    [
+      null,
+      "E",
+      "N",
+      "T",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        2
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        0,
+        2,
         3
       ],
       [
-        4,
+        1,
         0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
       ]
     ],
     "medium": [
       [
-        0,
-        2
+        2,
+        3
       ],
       [
-        0,
-        1
-      ],
-      [
-        3,
-        4
+        1,
+        0
       ]
     ],
     "hard": [
       [
-        0,
-        2
+        2,
+        3
       ]
     ]
   },
@@ -91,91 +83,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
-          "zh": "索马"
+          "en": "A percentage, a proportion (especially per hundred).",
+          "zh": "百分率"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "An occurrence; something that happens.",
-          "zh": "事件"
+          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
+          "zh": "雷达"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "(abbreviation) __azine (publication or ammunition)",
-          "zh": "杂志"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
+          "zh": "耳鼻喉科"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A level or flat surface.",
+          "zh": "飞机"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
+          "en": "An area or expanse.",
+          "zh": "道"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
+          "en": "Before (something significant).",
+          "zh": "前"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "A short note; a __randum.",
-          "zh": "备忘录"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
-          "zh": "变量"
+          "en": "Before (something significant).",
+          "zh": "前"
         }
       }
     ]

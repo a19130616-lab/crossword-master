@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "I",
-      "N",
-      "T",
+      "R",
+      "O",
+      "W",
       null,
       null,
       null,
       "S"
     ],
     [
-      "A",
-      "D",
-      "S",
-      null,
-      "A",
-      "S",
-      "S",
       "E",
-      "T"
-    ],
-    [
-      null,
-      "A",
-      "P",
-      "P",
-      "L",
-      "Y",
-      null,
-      "M",
-      "E"
-    ],
-    [
-      "S",
-      "M",
-      null,
-      "L",
-      "E",
-      "S",
-      null,
-      "P",
-      "A"
-    ],
-    [
       "C",
-      "A",
+      "O",
+      null,
+      "E",
+      "S",
       "S",
       "A",
-      null,
-      "T",
-      "I",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      "G",
-      null,
-      "S",
-      "H",
-      "E",
-      null,
-      "R",
       "Y"
     ],
     [
-      "N",
-      "E",
       null,
-      "M",
-      "A",
-      "M",
-      "B",
-      "O",
-      null
-    ],
-    [
       "I",
       "D",
       "E",
       "A",
       "L",
       null,
-      "A",
-      "R",
+      "C",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      null,
+      "S",
+      "K",
+      "I",
+      null,
+      "T",
       "T"
     ],
     [
+      "D",
+      "I",
+      "S",
       "C",
       null,
-      null,
-      null,
-      "F",
+      "D",
+      "A",
+      "R",
+      "E"
+    ],
+    [
       "I",
+      "Z",
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      "E",
+      "M"
+    ],
+    [
       "T",
+      "E",
+      null,
+      "P",
+      "O",
+      "S",
+      "T",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "E",
+      "D",
+      null,
+      "I",
+      "S",
+      "P"
+    ],
+    [
+      "D",
+      null,
+      null,
+      null,
+      "E",
+      "Y",
+      "E",
       null,
       null
     ]
@@ -107,120 +107,120 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        5
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        3,
-        4
-      ],
-      [
         0,
         4
       ],
       [
-        3,
-        8
+        4,
+        1
       ],
       [
-        2,
-        4
-      ],
-      [
-        3,
-        3
+        5,
+        0
       ],
       [
         7,
         7
       ],
       [
-        2,
-        3
-      ],
-      [
-        8,
-        0
+        4,
+        6
       ],
       [
         5,
-        1
-      ],
-      [
-        0,
         3
       ],
       [
-        0,
+        5,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        2,
         8
       ],
       [
         1,
-        2
+        4
       ],
       [
-        2,
-        2
-      ]
-    ],
-    "medium": [
-      [
         6,
-        5
+        0
       ],
       [
         8,
         6
       ],
       [
-        3,
+        8,
         4
-      ],
+      ]
+    ],
+    "medium": [
       [
         0,
         4
       ],
       [
-        3,
-        8
+        4,
+        1
       ],
       [
-        2,
-        4
-      ],
-      [
-        3,
-        3
+        5,
+        0
       ],
       [
         7,
         7
       ],
       [
-        2,
+        4,
+        6
+      ],
+      [
+        5,
         3
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        4
       ]
     ],
     "hard": [
       [
-        6,
-        5
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        3,
-        4
-      ],
-      [
         0,
         4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        7
       ]
     ]
   },
@@ -231,8 +231,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A number that is not a fraction; an element of the infinite and numerable set {..., -3, -2, -1, 0, 1, 2, 3, ...}.",
-          "zh": "整数"
+          "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
+          "zh": "排"
         }
       },
       {
@@ -240,8 +240,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Advertisement.",
-          "zh": "广告"
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "生态"
         }
       },
       {
@@ -249,8 +249,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
-          "zh": "资产"
+          "en": "(authorship) A written composition of moderate length, exploring a particular issue or subject.",
+          "zh": "散文"
         }
       },
       {
@@ -258,8 +258,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
         }
       },
       {
@@ -267,8 +267,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
-          "zh": "莱斯"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
@@ -276,8 +276,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "House",
-          "zh": "卡萨"
+          "en": "A thin, flat, circular plate or similar object.",
+          "zh": "光盘"
         }
       },
       {
@@ -285,8 +285,8 @@
         "row": 4,
         "col": 5,
         "clue": {
-          "en": "To twist (a string, rope, or the like) around itself securely.",
-          "zh": "捆绑"
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
         }
       },
       {
@@ -294,8 +294,8 @@
         "row": 5,
         "col": 3,
         "clue": {
-          "en": "A female.",
-          "zh": "她"
+          "en": "A single point or spot on a playing card or die.",
+          "zh": "高手"
         }
       },
       {
@@ -303,8 +303,8 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
+          "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+          "zh": "从地面伸出的长销钉或木板；栅栏柱；一根灯柱。"
         }
       },
       {
@@ -312,8 +312,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "To come to an end",
+          "zh": "结束了"
         }
       },
       {
@@ -321,8 +321,8 @@
         "row": 7,
         "col": 6,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
+          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
+          "zh": "互联网服务供应商"
         }
       },
       {
@@ -330,8 +330,8 @@
         "row": 8,
         "col": 4,
         "clue": {
-          "en": "The degree to which something __s.",
-          "zh": "合身"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ],
@@ -341,8 +341,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
-          "zh": "互联网服务供应商"
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
         }
       },
       {
@@ -350,8 +350,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
-          "zh": "故事"
+          "en": "Lacking in force (usually strength) or ability.",
+          "zh": "虚弱的"
         }
       },
       {
@@ -359,8 +359,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A rest or support, as for the hand, a tool, or a piece of work.",
-          "zh": "稳定的"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
@@ -368,8 +368,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "To impair the soundness, goodness, or value of; to harm or cause destruction.",
-          "zh": "损坏的"
+          "en": "A resident of a city or town, especially one with legally-recognized rights or duties.",
+          "zh": "公民"
         }
       },
       {
@@ -377,8 +377,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
+          "en": "An item of play equipment that children can climb up and then slide down again.",
+          "zh": "儿童可以爬上去然后再滑下来的游乐设施。"
         }
       },
       {
@@ -386,8 +386,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "The male monarch or ruler of an empire.",
-          "zh": "皇帝"
+          "en": "A female who performs on the stage or in films.",
+          "zh": "演员"
         }
       },
       {
@@ -395,8 +395,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "A state of matter consisting of partially ionized gas and electrons",
-          "zh": "等离子体"
+          "en": "The act of leaving a dangerous or unpleasant situation.",
+          "zh": "逃脱"
         }
       },
       {
@@ -404,8 +404,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A depiction of scenery",
-          "zh": "风景优美的"
+          "en": "To change a text, or a document.",
+          "zh": "已编辑"
         }
       },
       {
@@ -413,8 +413,8 @@
         "row": 5,
         "col": 4,
         "clue": {
-          "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
-          "zh": "一半"
+          "en": "A short symbol, often with little relation to the item it represents.",
+          "zh": "代码"
         }
       },
       {
@@ -422,8 +422,8 @@
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
-          "zh": "蝙蝠"
+          "en": "A knot; a fastening.",
+          "zh": "领带"
         }
       }
     ]

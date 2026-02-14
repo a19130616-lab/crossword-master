@@ -5,54 +5,54 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "A",
-      "R",
       "M",
-      null
+      null,
+      null,
+      null,
+      "C"
     ],
     [
-      "L",
-      "T",
-      null,
+      "O",
+      "W",
+      "N",
       "E",
-      "M"
+      "R"
     ],
     [
-      "B",
-      "L",
-      "A",
-      "D",
-      "E"
-    ],
-    [
-      "S",
-      "A",
-      null,
+      "U",
       "I",
-      "T"
+      null,
+      "C",
+      "U"
     ],
     [
-      null,
       "S",
-      "P",
-      "A",
-      null
+      "T",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        4,
+        4
+      ],
+      [
         1,
         4
       ],
       [
-        3,
+        0,
         4
-      ],
-      [
-        3,
-        0
       ],
       [
         2,
@@ -61,17 +61,17 @@
     ],
     "medium": [
       [
-        1,
+        4,
         4
       ],
       [
-        3,
+        1,
         4
       ]
     ],
     "hard": [
       [
-        1,
+        4,
         4
       ]
     ]
@@ -79,30 +79,21 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
+        "num": 3,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "The sharp cutting edge of a knife, chisel, or other tool, a razor __/sword.",
-          "zh": "刀刃"
+          "en": "One who owns something.",
+          "zh": "所有者"
         }
       },
       {
-        "num": 9,
-        "row": 4,
-        "col": 1,
+        "num": 8,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
+          "en": "(heading) To position or be positioned physically.",
+          "zh": "站着"
         }
       }
     ],
@@ -110,37 +101,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "A bound collection of maps often including tables, illustrations or other text.",
-          "zh": "地图集"
+          "en": "Any small rodent of the genus Mus.",
+          "zh": "老鼠"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
-          "zh": "媒体"
+          "en": "Any substance in its natural state.",
+          "zh": "原油"
         }
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 1,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "生态"
         }
       }
     ]

@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
-      "N",
+      "D",
       null,
-      "I",
-      "C",
-      "E",
       null,
+      null,
+      null,
+      "U",
       null,
       "S"
     ],
     [
-      "K",
-      "A",
-      "R",
-      "M",
-      "A",
-      null,
-      "A",
-      "R",
-      "C"
-    ],
-    [
-      null,
-      "T",
-      "A",
-      null,
-      "S",
-      "O",
+      "B",
+      "U",
+      "N",
       "C",
+      "H",
       null,
-      "H"
+      "P",
+      "S",
+      "I"
     ],
     [
+      null,
       "D",
       "O",
-      "N",
       null,
-      "A",
-      "W",
-      "A",
-      "R",
+      "I",
+      "S",
+      "S",
+      "U",
       "E"
     ],
     [
-      "O",
+      "R",
+      "E",
+      "V",
       null,
-      "G",
-      "U",
+      "M",
+      "E",
       null,
-      "N",
-      "D",
-      null,
-      "M"
+      "M",
+      "R"
     ],
     [
-      "S",
-      "P",
-      "I",
-      "N",
       "E",
       null,
+      "A",
+      "S",
+      "S",
       "E",
-      "R",
+      "T",
+      null,
+      "R"
+    ],
+    [
+      "F",
+      "G",
+      null,
+      "K",
+      "E",
+      null,
+      "Y",
+      "E",
       "A"
     ],
     [
-      "A",
-      null,
+      "U",
       "N",
+      "T",
       "I",
       "L",
       null,
-      "M",
-      "O",
+      "P",
+      "A",
       null
     ],
     [
-      "G",
-      "I",
-      "G",
-      null,
       "S",
-      "T",
-      "Y",
+      "U",
+      "E",
+      null,
+      "F",
       "L",
-      "E"
+      "E",
+      "S",
+      "H"
     ],
     [
       "E",
       null,
-      null,
-      "B",
-      "E",
       "E",
       null,
-      "L",
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
@@ -108,140 +108,123 @@
     "easy": [
       [
         1,
-        1
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
         0
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        6,
-        4
       ],
       [
         4,
         6
       ],
       [
-        6,
-        6
-      ],
-      [
-        0,
-        4
-      ],
-      [
         8,
-        7
-      ],
-      [
-        0,
-        3
-      ]
-    ],
-    "medium": [
-      [
-        1,
-        1
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
         0
       ],
       [
-        0,
-        5
+        6,
+        0
       ],
       [
-        6,
+        2,
+        1
+      ],
+      [
+        8,
         2
       ],
       [
-        5,
-        7
+        4,
+        4
+      ],
+      [
+        4,
+        3
       ],
       [
         7,
         1
       ],
       [
-        0,
-        8
+        6,
+        7
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        0
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        0
       ],
       [
         2,
         1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
       ]
     ],
     "hard": [
       [
         1,
-        1
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
         0
       ],
       [
-        0,
-        5
+        4,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
-          "zh": "业力"
+          "en": "A group of similar things, either growing together, or in a cluster or clump, usually fastened together.",
+          "zh": "束"
         }
       },
       {
@@ -249,89 +232,71 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
-          "zh": "弧"
+          "en": "The twenty-third letter of Classical and Modern Greek and the twenty-fifth letter of Old and Ancient Greek.",
+          "zh": "磅/平方英寸"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "__iology or __ial science.",
-          "zh": "社会组织"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A university professor, particularly one at Oxford or Cambridge.",
-          "zh": "大学教师"
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "问题"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Vigilant or on one's guard against danger or difficulty.",
-          "zh": "意识到的"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
         "col": 0,
         "clue": {
-          "en": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.",
-          "zh": "脊柱"
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
         }
       },
       {
-        "num": 18,
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
+        }
+      },
+      {
+        "num": 21,
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "A time period of indeterminate length, gen__lly more than one year.",
-          "zh": "时代"
-        }
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Nothing; zero.",
-          "zh": "零"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
-          "zh": "演出"
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
         }
       },
       {
         "num": 23,
-        "row": 7,
-        "col": 4,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "Senses relating to a thin, pointed object.",
-          "zh": "风格"
+          "en": "Up to the time of (something happening).",
+          "zh": "直到"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 26,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-          "zh": "蜜蜂"
+          "en": "To file a legal action against someone, generally a non-criminal action.",
+          "zh": "起诉"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The soft tissue of the body, especially muscle and fat.",
+          "zh": "肉"
         }
       }
     ],
@@ -341,89 +306,116 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A tree of the genus Mora",
-          "zh": "北约"
+          "en": "A man, generally a younger man.",
+          "zh": "老兄"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "House",
-          "zh": "卡萨"
+          "en": "A rugged range of mountains.",
+          "zh": "锯齿山脊"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body __).",
-          "zh": "图式"
+          "en": "Any sudden brightening of a previously inconspicuous star.",
+          "zh": "新星"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "To travel over (an area, etc); to roam, wander.",
-          "zh": "测距"
+          "en": "(reflexive pronoun) Him; the male object of a verb or preposition that also appears as the subject",
+          "zh": "他自己"
         }
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "(usually capitalized) The garden where Plato taught.",
-          "zh": "学院"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
+          "en": "A quantity obtained by addition or aggregation.",
+          "zh": "和"
         }
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "The administration of a medication etc, in a measured amount; dosing.",
-          "zh": "剂量"
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         }
       },
       {
-        "num": 14,
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Collectively, items or material that have been discarded; rubbish, garbage.",
+          "zh": "拒绝"
+        }
+      },
+      {
+        "num": 16,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "__versity.",
-          "zh": "大学"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 4,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
-          "zh": "别的"
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         }
       },
       {
         "num": 19,
         "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "The act or result of __ing, or state of being __ed.",
-          "zh": "卷"
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The name of the Latin-script letter T.",
+          "zh": "球座"
         }
       }
     ]

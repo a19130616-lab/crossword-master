@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
-      "T",
-      null,
-      null,
-      null,
-      null,
-      "A",
-      null,
-      "U"
-    ],
-    [
-      "C",
-      "Y",
-      "C",
-      "L",
-      "E",
-      null,
-      "R",
-      "E",
-      "P"
-    ],
-    [
-      null,
-      "P",
-      "L",
-      null,
-      "V",
-      "O",
-      "C",
-      "A",
-      "L"
-    ],
-    [
-      "L",
-      "E",
-      "U",
       null,
       "I",
-      "L",
+      "C",
+      "E",
       null,
-      "T",
-      "O"
+      null,
+      null,
+      "H"
     ],
     [
+      "C",
       "O",
+      "L",
+      null,
+      "A",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
       null,
       "B",
-      "U",
-      "D",
-      "D",
-      "Y",
-      null,
-      "A"
-    ],
-    [
-      "C",
+      "L",
       "A",
+      "S",
+      "T",
       null,
-      "N",
-      "E",
-      null,
-      "E",
-      "N",
-      "D"
-    ],
-    [
-      "A",
-      "G",
-      "A",
       "I",
-      "N",
+      "I"
+    ],
+    [
+      "P",
+      "E",
       null,
+      "S",
+      "E",
       "A",
+      null,
+      "S",
+      "G"
+    ],
+    [
+      "A",
+      "S",
+      "K",
+      "S",
+      null,
+      "Y",
+      "E",
+      "A",
+      "H"
+    ],
+    [
+      "L",
+      "I",
+      null,
+      "U",
+      "S",
+      "E",
+      null,
+      "B",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      null,
+      "M",
       "O",
+      "D",
+      "E",
+      "L",
       null
     ],
     [
-      "T",
-      "O",
-      "N",
-      null,
-      "T",
-      "H",
+      "C",
+      "Y",
+      "B",
+      "E",
       "R",
-      "O",
-      "W"
+      null,
+      "Y",
+      "E",
+      "N"
     ],
     [
       "E",
       null,
+      null,
+      null,
       "T",
+      "I",
+      "E",
       null,
-      null,
-      null,
-      null,
-      "N",
       null
     ]
   ],
@@ -108,233 +108,140 @@
     "easy": [
       [
         3,
-        2
+        7
       ],
       [
-        3,
+        1,
         1
       ],
       [
-        8,
-        0
+        2,
+        2
+      ],
+      [
+        2,
+        7
       ],
       [
         3,
-        0
+        8
       ],
       [
         4,
+        6
+      ],
+      [
+        3,
         0
       ],
       [
         7,
-        6
+        3
       ],
       [
-        4,
-        4
+        6,
+        3
+      ],
+      [
+        6,
+        6
       ],
       [
         2,
         1
       ],
       [
-        5,
-        1
-      ],
-      [
-        4,
-        6
-      ],
-      [
         1,
-        6
-      ],
-      [
-        5,
         8
       ],
       [
-        0,
-        1
+        4,
+        0
+      ],
+      [
+        3,
+        5
       ],
       [
         1,
-        1
+        0
       ]
     ],
     "medium": [
       [
         3,
-        2
+        7
       ],
       [
-        3,
+        1,
         1
       ],
       [
-        8,
-        0
+        2,
+        2
+      ],
+      [
+        2,
+        7
       ],
       [
         3,
-        0
+        8
       ],
       [
         4,
+        6
+      ],
+      [
+        3,
         0
       ],
       [
         7,
-        6
+        3
       ],
       [
-        4,
-        4
-      ],
-      [
-        2,
-        1
+        6,
+        3
       ]
     ],
     "hard": [
       [
         3,
-        2
+        7
       ],
       [
-        3,
+        1,
         1
       ],
       [
-        8,
-        0
+        2,
+        2
       ],
       [
-        3,
-        0
+        2,
+        7
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        }
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An interval of space or time in which one set of events or phenomena is completed.",
-          "zh": "循环"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "To __resent; to act as a __resentative for.",
-          "zh": "代表"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A __ sound; specifically, a purely __ element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a sub__, and a non__",
-          "zh": "声乐"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The unit of currency of Romania, equal to one hundred bani.",
-          "zh": "亮氨酸"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A friend or casual acquaintance.",
-          "zh": "伙伴"
-        }
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "Another time; once more.",
-          "zh": "再次"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A unit of weight (mass) equal to 2240 pounds (a long __) or 2000 pounds (a short __) or 1000 kilograms (a metric __).",
-          "zh": "吨"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "To change place.",
-          "zh": "扔"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A grouping based on shared characteristics; a class.",
-          "zh": "类型"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
-          "zh": "弧"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "Such a file transfer.",
-          "zh": "上传"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "An association of members joining together for some common purpose, especially sports or recreation.",
-          "zh": "俱乐部"
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
         }
       },
       {
@@ -342,8 +249,136 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Obviously true by simple observation.",
-          "zh": "明显"
+          "en": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
+          "zh": "放在一边"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A violent gust of wind.",
+          "zh": "爆炸"
+        }
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To request (information, or an answer to a question).",
+          "zh": "请求（信息或问题的答案）。"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "Expressing joy, celebration, glee, etc.",
+          "zh": "是的"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+          "zh": "模型"
+        }
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Everything having to do with the Internet considered collectively.",
+          "zh": "网络"
+        }
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A knot; a fastening.",
+          "zh": "领带"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The distance from the base of something to the top.",
+          "zh": "高度"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To prop; support; sustain; hold up; steady.",
+          "zh": "留下来"
         }
       },
       {
@@ -351,17 +386,17 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "Something to be __en; a meal; a food item.",
-          "zh": "吃"
+          "en": "To render unable; to take away an ability of, as by crippling.",
+          "zh": "禁用"
         }
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
-          "zh": "老的"
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "认为"
         }
       },
       {
@@ -369,53 +404,26 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To place; to set in a particular spot or position.",
-          "zh": "定位"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "__versity.",
-          "zh": "大学"
-        }
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A solar __, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
-          "zh": "年"
+          "en": "Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.",
+          "zh": "宫殿"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "A general type.",
+          "zh": "种类"
         }
       },
       {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "The ninth hour of the day counted from sunrise; around three o'clock in the after__.",
-          "zh": "中午"
-        }
-      },
-      {
-        "num": 24,
+        "num": 23,
         "row": 6,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ]

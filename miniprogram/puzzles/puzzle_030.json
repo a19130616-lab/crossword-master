@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "H",
-      null,
-      null,
-      "S",
-      null,
-      "N",
-      "A"
-    ],
-    [
-      "E",
-      "P",
-      "I",
-      "C",
-      null,
-      "T",
-      "R",
-      "I",
-      "M"
-    ],
-    [
-      null,
-      "H",
-      "P",
-      null,
-      null,
-      "A",
-      null,
-      "T",
-      "P"
-    ],
-    [
-      null,
-      "A",
-      null,
-      "B",
-      "A",
-      "K",
-      "E",
-      "R",
-      null
-    ],
-    [
-      "O",
-      "R",
-      "A",
       "L",
       null,
+      null,
       "E",
       null,
-      "O",
-      null
+      "W",
+      "I"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "Y",
+      null,
+      "U",
+      "S",
+      "E",
+      "D"
     ],
     [
       null,
-      "M",
-      "O",
-      "O",
-      "D",
+      "E",
+      "P",
       null,
       null,
+      "R",
+      null,
+      "I",
+      "S"
+    ],
+    [
+      null,
+      "G",
+      null,
+      "W",
+      "R",
+      "O",
+      "N",
       "G",
       null
     ],
     [
-      "B",
-      "A",
-      null,
-      "N",
-      "O",
+      "T",
       "I",
+      "E",
+      "R",
+      null,
       "S",
+      null,
+      "H",
+      null
+    ],
+    [
+      null,
+      "S",
+      "P",
+      "I",
+      "N",
+      null,
+      null,
+      "T",
+      null
+    ],
+    [
+      "N",
+      "T",
+      null,
+      "T",
+      "H",
+      "E",
+      "M",
       "E",
       null
     ],
     [
-      "A",
-      "C",
-      "I",
-      "D",
+      "U",
+      "R",
+      "G",
+      "E",
       null,
       "N",
       "O",
-      "N",
+      "D",
       "E"
     ],
     [
-      "G",
+      "T",
       "Y",
       null,
-      "E",
+      "R",
       null,
-      "K",
-      "X",
+      "T",
+      "N",
       null,
       null
     ]
@@ -107,108 +107,108 @@
   "prefilled": {
     "easy": [
       [
-        5,
-        3
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        8,
-        1
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        1,
-        3
-      ],
-      [
         0,
-        2
-      ],
-      [
-        0,
-        7
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        2,
         5
       ],
       [
         4,
-        0
-      ],
-      [
-        6,
-        4
+        1
       ],
       [
         1,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        0,
         2
       ],
       [
         3,
+        6
+      ],
+      [
+        1,
         7
-      ]
-    ],
-    "medium": [
-      [
-        5,
-        3
       ],
       [
-        3,
-        3
+        0,
+        7
       ],
       [
-        8,
+        1,
         1
       ],
       [
         5,
-        4
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        5
+      ],
+      [
+        4,
+        1
       ],
       [
         1,
-        3
+        6
+      ],
+      [
+        2,
+        7
       ],
       [
         0,
         2
       ],
       [
-        0,
+        3,
+        6
+      ],
+      [
+        1,
         7
       ],
       [
-        6,
+        0,
         7
       ]
     ],
     "hard": [
       [
-        5,
-        3
+        0,
+        5
       ],
       [
-        3,
-        3
-      ],
-      [
-        8,
+        4,
         1
       ],
       [
-        5,
-        4
+        1,
+        6
+      ],
+      [
+        2,
+        7
       ]
     ]
   },
@@ -219,8 +219,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic __), other legend or traditional hero.",
-          "zh": "史诗"
+          "en": "A small, typically rectangular or round, flat, and rigid object upon which things are carried.",
+          "zh": "托盘"
         }
       },
       {
@@ -228,8 +228,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "Decoration; especially, decoration placed along edges or borders.",
-          "zh": "修剪"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
         }
       },
       {
@@ -237,8 +237,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "A person who bakes and sells bread, cakes and similar items.",
-          "zh": "面包师"
+          "en": "Something that is immoral or not good.",
+          "zh": "错误的"
         }
       },
       {
@@ -246,8 +246,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
         }
       },
       {
@@ -255,8 +255,8 @@
         "row": 5,
         "col": 1,
         "clue": {
-          "en": "A mental or emotional state, composure.",
-          "zh": "情绪"
+          "en": "Rapid circular motion.",
+          "zh": "旋转"
         }
       },
       {
@@ -264,8 +264,8 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "噪音"
+          "en": "A subject of a talk or an artistic piece; a topic.",
+          "zh": "主题"
         }
       },
       {
@@ -273,8 +273,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A sour substance.",
-          "zh": "酸"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
@@ -282,8 +282,8 @@
         "row": 7,
         "col": 5,
         "clue": {
-          "en": "A person without religious affiliation.",
-          "zh": "没有任何"
+          "en": "A knot, knob, protuberance or swelling.",
+          "zh": "节点"
         }
       }
     ],
@@ -293,8 +293,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
-          "zh": "臀部"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         }
       },
       {
@@ -302,8 +302,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
-          "zh": "赌注"
+          "en": "Person living or originating from Europe",
+          "zh": "居住在欧洲或来自欧洲的人"
         }
       },
       {
@@ -311,8 +311,8 @@
         "row": 0,
         "col": 7,
         "clue": {
-          "en": "The chemical element (symbol N) with an atomic number of 7 and atomic weight of 14.0067. It is a colorless and odorless gas.",
-          "zh": "氮"
+          "en": "To add weight to something; to make something heavier.",
+          "zh": "加权"
         }
       },
       {
@@ -320,8 +320,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "Short for __ere.",
-          "zh": "放大器"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
@@ -329,8 +329,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "(countable) A place where prescription drugs are dispensed; a dispensary.",
-          "zh": "药店"
+          "en": "A building in which things are registered or where registers are kept.",
+          "zh": "注册表"
         }
       },
       {
@@ -338,8 +338,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发女郎"
+          "en": "A person who writes, or produces literary work.",
+          "zh": "作家"
         }
       },
       {
@@ -347,8 +347,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
         }
       },
       {
@@ -356,8 +356,8 @@
         "row": 6,
         "col": 5,
         "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
+          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
+          "zh": "耳鼻喉科"
         }
       },
       {
@@ -365,8 +365,8 @@
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "袜队"
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
         }
       }
     ]

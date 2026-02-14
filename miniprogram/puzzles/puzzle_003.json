@@ -6,94 +6,129 @@
   "solution": [
     [
       "A",
-      null,
-      null,
-      null,
-      "I"
-    ],
-    [
-      "B",
+      "W",
       "A",
-      "S",
-      "E",
-      "D"
+      "Y",
+      null
     ],
     [
+      "W",
+      "E",
+      "D",
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "D",
       "U",
+      "L",
+      "T"
+    ],
+    [
+      "Y",
       null,
+      "L",
       "I",
-      null,
       "E"
     ],
     [
+      null,
       "S",
-      "I",
-      "G",
-      "M",
-      "A"
-    ],
-    [
+      "T",
       "E",
-      null,
-      null,
-      null,
-      "L"
+      "M"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
+        3
+      ],
+      [
+        3,
         0
       ],
       [
-        3,
-        1
-      ],
-      [
         1,
-        4
+        0
+      ],
+      [
+        0,
+        2
       ],
       [
         3,
-        4
+        3
       ]
     ],
     "medium": [
       [
         2,
-        0
+        3
       ],
       [
         3,
-        1
+        0
+      ],
+      [
+        1,
+        0
       ]
     ],
     "hard": [
       [
         2,
-        0
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
+        "num": 1,
+        "row": 0,
         "col": 0,
         "clue": {
-          "en": "To give as its foundation or starting point; to lay the foundation of.",
-          "zh": "基于"
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 4,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
-          "zh": "希腊字母σ"
+          "en": "To perform the marriage ceremony for; to join in matrimony.",
+          "zh": "结婚"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A fully grown human or animal.",
+          "zh": "成人"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "The terrain and conditions surrounding the ball before it is struck.",
+          "zh": "说谎"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "The stock of a family; a race or generation of progenitors.",
+          "zh": "干"
         }
       }
     ],
@@ -103,26 +138,44 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
-          "zh": "虐待"
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "To perform the marriage ceremony for; to join in matrimony.",
+          "zh": "结婚"
         }
       },
       {
-        "num": 4,
-        "row": 1,
+        "num": 3,
+        "row": 0,
         "col": 2,
         "clue": {
-          "en": "A __nature, especially on emails or newsgroup postings.",
-          "zh": "信号"
+          "en": "A fully grown human or animal.",
+          "zh": "成人"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The stock of a family; a race or generation of progenitors.",
+          "zh": "干"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The terrain and conditions surrounding the ball before it is struck.",
+          "zh": "说谎"
         }
       }
     ]

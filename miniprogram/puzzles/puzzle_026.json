@@ -6,332 +6,284 @@
   "solution": [
     [
       null,
-      "W",
       null,
-      "D",
-      "P",
-      "I",
+      "S",
       null,
       null,
+      "F",
+      null,
+      "O",
       "B"
     ],
     [
+      "A",
       "S",
-      "I",
-      "G",
-      "M",
-      "A",
-      null,
-      "I",
-      "L",
-      "L"
-    ],
-    [
-      null,
       "K",
-      "R",
-      null,
-      "I",
-      "N",
-      "N",
-      null,
-      "O"
-    ],
-    [
-      "D",
-      "I",
-      "E",
-      null,
-      "D",
-      "E",
-      "V",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      null,
-      "A",
-      "T",
-      null,
-      "W",
-      "A",
-      null,
-      "D"
-    ],
-    [
-      "U",
-      "L",
-      "T",
-      "R",
-      "A",
+      "S",
       null,
       "L",
       "I",
+      "F",
       "E"
     ],
     [
-      "B",
       null,
+      "U",
+      "Y",
+      null,
+      null,
+      "U",
+      null,
+      "F",
+      "E"
+    ],
+    [
+      null,
+      "R",
+      null,
+      "A",
       "L",
       "I",
-      "T",
-      null,
-      "I",
-      "T",
+      "A",
+      "S",
       null
     ],
     [
-      "L",
-      "A",
-      "Y",
+      "O",
+      "V",
+      "E",
+      "R",
+      null,
+      "D",
+      null,
+      "H",
+      null
+    ],
+    [
+      null,
+      "I",
+      "R",
+      "O",
+      "N",
+      null,
       null,
       "O",
-      "L",
+      null
+    ],
+    [
+      "Y",
+      "V",
+      null,
+      "U",
+      "N",
       "D",
       "E",
-      "R"
+      "R",
+      null
     ],
     [
       "E",
-      null,
-      null,
       "A",
-      "M",
-      "P",
+      "R",
+      "N",
       null,
-      "M",
+      "E",
+      "Y",
+      "E",
+      "D"
+    ],
+    [
+      "N",
+      "L",
+      null,
+      "D",
+      null,
+      "N",
+      "E",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        5,
+        7
+      ],
+      [
         1,
-        4
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        3,
+        1
       ],
       [
         3,
         5
       ],
       [
-        3,
-        6
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        7,
+        6,
         7
       ],
       [
-        6,
-        0
-      ],
-      [
-        3,
+        1,
         2
       ],
       [
-        7,
+        8,
+        1
+      ],
+      [
+        2,
         8
       ],
       [
-        6,
-        6
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        1,
-        1
-      ],
-      [
         7,
         1
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        6,
-        7
       ]
     ],
     "medium": [
       [
-        1,
-        4
+        5,
+        7
       ],
       [
-        3,
+        1,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
         5
       ],
       [
         3,
-        6
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        6,
-        0
+        1
       ],
       [
         3,
-        2
-      ],
-      [
-        7,
-        8
+        5
       ]
     ],
     "hard": [
       [
+        5,
+        7
+      ],
+      [
         1,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        3,
-        6
+        0
       ],
       [
         5,
-        2
+        3
+      ],
+      [
+        4,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Dots per inch",
-          "zh": "分辨率"
-        }
-      },
-      {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
-          "zh": "希腊字母σ"
+          "en": "To request (information, or an answer to a question).",
+          "zh": "请求（信息或问题的答案）。"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
         }
       },
       {
-        "num": 9,
-        "row": 2,
-        "col": 4,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "Another name; an assumed name.",
+          "zh": "别名"
         }
       },
       {
         "num": 11,
-        "row": 3,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "死"
+          "en": "A set of six legal balls bowled.",
+          "zh": "超过"
         }
       },
       {
-        "num": 12,
-        "row": 3,
-        "col": 4,
+        "num": 13,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "(Eastern Australia) A type of processed meat sausage.",
-          "zh": "德文郡"
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
         }
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
+        "row": 6,
+        "col": 3,
         "clue": {
-          "en": "An __royalist in France.",
-          "zh": "极端主义者"
+          "en": "Being lower; being beneath something.",
+          "zh": "在下面"
         }
       },
       {
-        "num": 18,
-        "row": 5,
-        "col": 6,
+        "num": 19,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "The terrain and conditions surrounding the ball before it is struck.",
-          "zh": "说谎"
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
         }
       },
       {
         "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "To start (a fire).",
-          "zh": "点亮"
-        }
-      },
-      {
-        "num": 22,
         "row": 7,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "Arrangement or relationship; __out.",
-          "zh": "躺着"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
-          "zh": "较老的"
-        }
-      },
-      {
-        "num": 25,
-        "row": 8,
-        "col": 3,
-        "clue": {
-          "en": "Short for __ere.",
-          "zh": "放大器"
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
         }
       }
     ],
@@ -339,19 +291,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A collaborative website which can be directly edited merely by using a web browser, often by anyone with access to it.",
-          "zh": "维基百科"
+          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+          "zh": "天空"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Any substance which can flow with relative ease, tends to assume the shape of its container, and obeys Bernoulli's principle; a liquid, gas or plasma.",
+          "zh": "体液"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "To give money or other compensation to in exchange for goods or services.",
-          "zh": "有薪酬的"
+          "en": "An area or or portion of sea away from the shore.",
+          "zh": "离岸"
         }
       },
       {
@@ -359,71 +320,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发女郎"
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "To a great extent or degree.",
-          "zh": "大大地"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "Not valid; not true, correct, acceptable or appropriate.",
-          "zh": "无效的"
+          "en": "The fact or act of surviving; continued existence or life.",
+          "zh": "生存"
         }
       },
       {
         "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Things that are __.",
-          "zh": "新的"
-        }
-      },
-      {
-        "num": 11,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Twice the number, amount, size, etc.",
-          "zh": "双倍的"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
         "col": 3,
         "clue": {
-          "en": "__athlon",
-          "zh": "三"
+          "en": "(with the verb \"to be\") Present in the vicinity.",
+          "zh": "大约"
+        }
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
         }
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 4,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
+          "en": "A small cavern or hollow place in the side of a hill, or among rocks; especially, a cave used by a wild animal for shelter or concealment.",
+          "zh": "书房"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 7,
+        "num": 18,
+        "row": 6,
+        "col": 6,
         "clue": {
-          "en": "A distinct physical object.",
-          "zh": "物品"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ]

@@ -6,96 +6,88 @@
   "solution": [
     [
       null,
-      "R",
-      "E",
-      "S",
-      null,
       "C",
-      "E"
-    ],
-    [
-      "S",
       null,
-      "X",
-      "E",
-      "R",
-      "O",
-      "X"
+      "M",
+      null,
+      null,
+      "G"
     ],
     [
-      "W",
+      "T",
+      "H",
+      "E",
       "A",
       "T",
-      "T",
-      null,
-      "N",
-      "T"
-    ],
-    [
-      "I",
-      "L",
-      null,
-      "T",
-      null,
-      "D",
+      "R",
       "E"
     ],
     [
-      "T",
+      null,
+      "A",
+      "I",
+      "D",
+      null,
+      "E",
+      "A"
+    ],
+    [
+      "L",
       "P",
       null,
-      "I",
-      "C",
+      "N",
+      "E",
+      "A",
+      "R"
+    ],
+    [
       "O",
-      "N"
+      "E",
+      null,
+      "E",
+      "N",
+      "D",
+      null
     ],
     [
       "C",
-      "H",
-      "I",
-      "N",
-      "A",
-      null,
-      "D"
+      "L",
+      "U",
+      "S",
+      "T",
+      "E",
+      "R"
     ],
     [
-      "H",
-      "A",
+      "K",
       null,
-      "G",
-      "N",
-      "U",
+      null,
+      "S",
+      null,
+      "R",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        4
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        3,
-        3
+        4,
+        5
       ],
       [
         2,
-        6
+        2
       ],
       [
-        5,
+        4,
         4
       ],
       [
-        3,
+        5,
+        5
+      ],
+      [
+        1,
         0
       ],
       [
@@ -103,43 +95,47 @@
         3
       ],
       [
+        6,
+        3
+      ],
+      [
         4,
+        1
+      ],
+      [
+        2,
         5
       ]
     ],
     "medium": [
       [
-        6,
-        4
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        3,
-        3
+        4,
+        5
       ],
       [
         2,
-        6
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        1,
+        0
       ]
     ],
     "hard": [
       [
-        6,
-        4
+        4,
+        5
       ],
       [
-        0,
-        2
-      ],
-      [
-        5,
+        2,
         2
       ]
     ]
@@ -147,122 +143,104 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "The act of __erving, withholding or keeping back.",
-          "zh": "资源"
+          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+          "zh": "剧院"
         }
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 2,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "A photocopy.",
-          "zh": "复印"
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
         }
       },
       {
-        "num": 8,
-        "row": 2,
-        "col": 0,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
-          "zh": "瓦"
+          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+          "zh": "靠近"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
         "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
-          "zh": "图标"
-        }
-      },
-      {
-        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The plant Smilax __, a liana of much of eastern Asia.",
-          "zh": "中国"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "A group or bunch of several discrete items that are close to each other.",
+          "zh": "簇"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A place of worship, smaller than or subordinate to a church.",
+          "zh": "教堂"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "__erior (describing the location of a shot in a film script, etc.)",
-          "zh": "分机"
+          "en": "The state of being mad; insanity; mental disease.",
+          "zh": "疯狂"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "环境"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "Joint sovereignty over a territory by two or more countries.",
-          "zh": "公寓"
-        }
-      },
-      {
-        "num": 5,
-        "row": 0,
         "col": 6,
         "clue": {
-          "en": "To increase in extent.",
-          "zh": "延长"
+          "en": "Equipment or paraphernalia, especially that used for an athletic endeavor.",
+          "zh": "齿轮"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
-          "zh": "转变"
+          "en": "A person who reads",
+          "zh": "读者"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The name of the first letter of the Greek __bet (Α,  α), followed by beta. In the Latin __bet it is the predecessor to A.",
-          "zh": "希腊字母α"
+          "en": "Something used for fastening, which can only be opened with a key or combination.",
+          "zh": "锁"
         }
       },
       {
-        "num": 15,
-        "row": 4,
+        "num": 11,
+        "row": 3,
         "col": 4,
         "clue": {
-          "en": "(auxiliary verb, defective) To know how to; to be able to.",
-          "zh": "能"
+          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
+          "zh": "耳鼻喉科"
         }
       }
     ]

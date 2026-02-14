@@ -18,28 +18,30 @@ OVERRIDES_PATH = Path(__file__).parent / "translation_overrides.json"
 # Words to exclude: profanity, proper nouns, place names, brands, abbreviations,
 # non-words, sensitive content, and function words unsuitable for crosswords.
 EXCLUDED_WORDS = {
-    # Profanity / sensitive
+    # Profanity / sensitive / inappropriate clues
     "sex", "god", "shit", "fuck", "cunt", "dick", "bitch", "nazi", "fag", "damn",
     "hell", "satan", "porn", "xxx", "nude", "abortion", "murder", "nuke",
-    "rogers", "johns",
+    "rogers", "johns", "johnson", "jones", "pee", "les", "strange",
     # Proper nouns — names
     "ana", "anna", "bailey", "barry", "ben", "beth", "billy", "bob", "bobby",
-    "brad", "burton", "cal", "carl", "carmen", "caroline", "charlie", "donna",
-    "eva", "franklin", "graham", "harry", "henry", "holmes", "jake", "jenny",
-    "jerry", "jill", "jimmy", "joe", "john", "johnny", "jonathan", "josh",
-    "kay", "ken", "kent", "kirk", "kyle", "lee", "lewis", "logan", "louis",
-    "madison", "marc", "maria", "martin", "mary", "monte", "murphy", "nancy",
-    "nelson", "newton", "norman", "oscar", "perry", "peter", "ralph", "rick",
-    "roger", "ron", "sally", "sam", "spencer", "stan", "ted", "terry",
-    "timothy", "tom", "tommy", "tony", "troy", "victoria", "walker", "warren",
-    "wright", "apache",
-    # Place names
+    "brad", "burton", "cal", "carl", "carmen", "caroline", "charlie", "cole",
+    "donna", "eva", "franklin", "graham", "harry", "henry", "holmes", "jake",
+    "jenny", "jerry", "jill", "jimmy", "joe", "john", "johnny", "jonathan",
+    "josh", "kay", "ken", "kent", "kirk", "kyle", "lee", "lewis", "logan",
+    "louis", "madison", "marc", "maria", "martin", "mary", "mike", "monte",
+    "murphy", "nancy", "nelson", "newton", "norman", "oscar", "perry", "peter",
+    "ralph", "rick", "roger", "ron", "sally", "sam", "spencer", "stan", "ted",
+    "terry", "timothy", "tom", "tommy", "tony", "troy", "victoria", "walker",
+    "warren", "wright", "apache", "viking", "christ",
+    # Place names / nationalities / country names
     "broadway", "chad", "holland", "mali", "reno", "roman", "savannah",
-    "surrey", "vegas", "wales", "york",
-    # Brand names
+    "surrey", "vegas", "wales", "york", "brazil", "china", "dutch", "french",
+    "german", "greek", "japan", "java", "mars", "mercury", "nato", "nyc",
+    "safari", "shanghai", "spanish", "danish", "easter",
+    # Brand names / tech products
     "acer", "cisco", "dell", "facebook", "ford", "intel", "kodak", "oracle",
-    "skype", "unix", "yahoo",
-    # Non-words / fragments / abbreviations / jargon
+    "skype", "unix", "yahoo", "chrome", "linux", "xerox", "zoom", "firewire",
+    # Non-words / fragments / abbreviations / jargon / acronyms
     "aaa", "ala", "cas", "cdna", "cos", "das", "dee", "del", "des", "dis",
     "dom", "dos", "etc", "gsm", "ide", "lat", "lol", "mas", "ment", "mil",
     "mrna", "nat", "para", "pas", "str", "tex", "uri", "asp", "jpeg",
@@ -47,6 +49,14 @@ EXCLUDED_WORDS = {
     "aka", "ave", "dna", "rna", "faq", "diy", "gps", "pdf", "usb", "lcd",
     "atm", "ceo", "cfo", "cto", "coo", "ngo", "fifa", "wifi", "api",
     "bio", "biz", "kinda", "gonna", "gotta", "wanna",
+    "ascii", "dpi", "fcc", "pcs", "plc", "ppm", "rpm", "div", "iso",
+    "rom", "san", "eng", "est", "gen", "tri", "vid", "lib", "dod", "kai",
+    "int", "sim", "leu", "ciao", "casa", "costa", "til",
+    # More fragments / abbreviations / obscure terms
+    "isp", "ent", "neo", "pct", "pre", "eco", "psi", "gel",
+    # Tech / computing jargon
+    "adware", "spyware", "freeware", "firmware", "ethernet", "intranet",
+    "webcam", "webcast", "webpage", "wiki", "toolbar", "username", "modem",
     # Month abbreviations
     "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec",
     # Function words — poor crossword entries
@@ -56,6 +66,10 @@ EXCLUDED_WORDS = {
     "about", "would", "shall", "could", "these", "those", "other", "after",
     "where", "every", "being", "does", "doing", "such", "here", "some",
     "most", "more", "much", "many", "well", "will", "whom", "whose",
+    "any", "are", "both", "but", "can", "did", "few", "had", "has",
+    "her", "him", "his", "how", "however", "its", "may", "might", "mine",
+    "must", "nor", "not", "often", "ought", "ours", "out", "she", "should",
+    "they", "too", "who", "why", "yes", "yet", "you", "yours",
 }
 
 
@@ -129,6 +143,24 @@ def load_wordlist():
     return [w.strip().lower() for w in WORDLIST_PATH.read_text(encoding="utf-8").splitlines() if w.strip()]
 
 
+def is_bad_clue(en_clue):
+    """Reject clues that are garbled, circular, or too short to be useful."""
+    if not en_clue or not en_clue.strip():
+        return True
+    clue = en_clue.strip()
+    # Too short to be a real clue (under 15 chars)
+    if len(clue) < 15:
+        return True
+    # Any occurrence of __ blanks from censoring (e.g., "genus __tus", "a __way")
+    if "__" in clue:
+        return True
+    # Contains "(initialism)" or "(abbreviation)" — technical acronym definitions
+    lower = clue.lower()
+    if "(initialism)" in lower or "abbreviation of" in lower:
+        return True
+    return False
+
+
 def main():
     clue_bank, top_words = load_word_db()
     wordlist = load_wordlist()
@@ -159,6 +191,8 @@ def main():
         "words": {}
     }
 
+    bad_clue_count = 0
+
     # Primary source: enriched JSON
     if ENRICHED_PATH.exists():
         enriched = json.loads(ENRICHED_PATH.read_text(encoding="utf-8"))
@@ -181,6 +215,9 @@ def main():
             elif key in word_translations:
                 zh = word_translations[key]
             if not en and not zh:
+                continue
+            if is_bad_clue(en):
+                bad_clue_count += 1
                 continue
 
             dictionary["words"][key] = {
@@ -213,6 +250,9 @@ def main():
                 zh = word_translations[key]
             if not en and not zh:
                 continue
+            if is_bad_clue(en):
+                bad_clue_count += 1
+                continue
 
             dictionary["words"][key] = {
                 "length": len(w),
@@ -223,6 +263,9 @@ def main():
                     "hard": {"en": en, "zh": zh}
                 }
             }
+
+    if bad_clue_count:
+        print(f"Rejected {bad_clue_count} words with bad clues")
 
     # Deduplicate plurals: if both WORD and WORDS exist, keep only WORD
     all_keys = set(dictionary["words"].keys())

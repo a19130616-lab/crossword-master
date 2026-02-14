@@ -6,243 +6,260 @@
   "solution": [
     [
       null,
-      "C",
+      "F",
       null,
-      null,
-      null,
-      "D",
-      null,
-      null,
-      "P"
-    ],
-    [
-      "B",
-      "A",
-      "B",
-      "E",
-      null,
+      "S",
       "I",
-      "D",
-      "E",
-      "A"
-    ],
-    [
-      "A",
-      "M",
-      null,
-      "N",
-      "O",
-      "S",
-      "E",
-      null,
-      "R"
-    ],
-    [
-      "S",
       "P",
-      "A",
-      "T",
-      "I",
-      "A",
+      null,
+      null,
+      "I"
+    ],
+    [
+      "R",
+      "U",
       "L",
-      null,
-      "E"
-    ],
-    [
       "E",
+      "D",
       null,
       "P",
       "I",
-      null,
-      "G",
-      "T",
-      null,
       "N"
     ],
     [
-      "L",
       null,
-      "A",
-      "T",
-      "T",
-      "R",
-      "A",
-      "C",
-      "T"
-    ],
-    [
-      "I",
-      null,
-      "R",
-      "I",
-      "P",
-      "E",
-      null,
-      "A",
-      "A"
-    ],
-    [
-      "N",
+      "J",
       "O",
-      "T",
-      "E",
       null,
       "E",
-      "A",
-      "R",
-      "L"
+      "C",
+      "O",
+      null,
+      "D"
     ],
     [
-      "E",
+      "B",
+      "I",
+      "N",
       null,
+      "A",
+      "U",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "U",
+      null,
+      "G",
+      "O",
+      null,
+      "P",
+      "C",
+      null,
+      "O"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      null,
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "B",
       null,
       "S",
+      "K",
+      "I",
       null,
-      null,
-      null,
+      "S",
       "T",
+      null
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      null,
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "F",
+      "L",
+      "Y",
+      null,
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        7
-      ],
-      [
-        3,
+        7,
         0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        2,
-        4
       ],
       [
         3,
         6
       ],
       [
-        3,
-        8
-      ],
-      [
         7,
-        5
+        1
       ],
       [
-        2,
-        0
+        0,
+        1
       ],
       [
         5,
         4
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        8
       ]
     ],
     "medium": [
       [
-        5,
-        7
-      ],
-      [
-        3,
+        7,
         0
       ],
       [
-        2,
-        5
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        5
-      ],
-      [
         3,
+        6
+      ],
+      [
+        7,
         1
       ],
       [
-        1,
+        0,
+        1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        8,
         0
       ],
       [
-        0,
-        5
+        6,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        3
       ]
     ],
     "hard": [
       [
-        5,
-        7
-      ],
-      [
-        3,
+        7,
         0
       ],
       [
-        2,
-        5
+        3,
+        6
       ],
       [
-        1,
-        8
+        7,
+        1
+      ],
+      [
+        0,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A baby or infant; a very young human or animal.",
-          "zh": "宝贝"
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 5,
+        "col": 0,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "To regulate, be in charge of, make decisions for, reign over.",
+          "zh": "统治"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A needle without an eye (usually) made of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.",
+          "zh": "别针"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
-          "zh": "鼻子"
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "生态"
         }
       },
       {
@@ -250,44 +267,71 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Pertaining to (the dimension of) space.",
-          "zh": "空间的"
+          "en": "A box, frame, crib, or enclosed place, used as a storage container.",
+          "zh": "垃圾桶"
         }
       },
       {
-        "num": 15,
-        "row": 5,
-        "col": 2,
+        "num": 12,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "To pull toward without touching.",
-          "zh": "吸引"
+          "en": "A sound, or a sound signal",
+          "zh": "声音的"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A foodstuff made by baking dough made from cereals.",
+          "zh": "面包"
         }
       },
       {
         "num": 18,
-        "row": 6,
-        "col": 2,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "A fruit or vegetable which has __ned.",
-          "zh": "成熟"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
         "num": 20,
-        "row": 7,
-        "col": 0,
+        "row": 6,
+        "col": 2,
         "clue": {
-          "en": "(heading) A symbol or annotation.",
-          "zh": "笔记"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
-        "num": 21,
+        "num": 22,
         "row": 7,
-        "col": 5,
+        "col": 0,
         "clue": {
-          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
-          "zh": "伯爵"
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To change the form or structure of.",
+          "zh": "改变"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
         }
       }
     ],
@@ -297,44 +341,35 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
-          "zh": "营"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "To fail to agree; to have a different opinion or belief.",
-          "zh": "不同意"
+          "en": "A plain spun silk fabric.",
+          "zh": "富士"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "A person fulfilling a __ role.",
-          "zh": "父母的"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "A line that is a base for measurement or for construction.",
-          "zh": "基线"
+          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
+          "zh": "室内的"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form.",
-          "zh": "实体"
+          "en": "To take a long position in.",
+          "zh": "最长"
         }
       },
       {
@@ -342,26 +377,53 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
-          "zh": "三角洲"
+          "en": "An audio programme produced on a regular basis, delivered over the Internet in a compressed digital format and designed for playback on computers or portable digital audio players, such as the iPod.",
+          "zh": "播客"
         }
       },
       {
-        "num": 12,
-        "row": 3,
-        "col": 2,
+        "num": 10,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
-          "zh": "分开"
+          "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
+          "zh": "杯子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A spherically contained volume of air or other gas, especially one made from soapy liquid.",
+          "zh": "气泡"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       },
       {
         "num": 17,
         "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A graduated, circular scale over which a needle moves to show a measurement (such as speed).",
+          "zh": "拨号"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
-          "zh": "大车"
+          "en": "A distinct physical object.",
+          "zh": "物品"
         }
       }
     ]
