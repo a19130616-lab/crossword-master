@@ -6,76 +6,80 @@
   "solution": [
     [
       null,
-      "M",
-      null,
-      null,
       "R",
-      "E",
-      "F"
-    ],
-    [
-      "P",
-      "I",
-      "O",
-      "N",
-      "E",
-      "E",
-      "R"
-    ],
-    [
-      "O",
-      "L",
-      null,
-      "O",
-      "A",
-      null,
-      "I"
-    ],
-    [
-      "R",
-      "E",
-      "T",
-      "I",
-      "R",
-      "E",
-      "D"
-    ],
-    [
-      "T",
-      null,
       "E",
       "S",
       null,
-      "A",
-      "G"
-    ],
-    [
-      "E",
-      "S",
-      "S",
-      "E",
-      "N",
       "C",
       "E"
     ],
     [
+      "S",
+      null,
+      "X",
+      "E",
       "R",
+      "O",
+      "X"
+    ],
+    [
+      "W",
       "A",
       "T",
+      "T",
       null,
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "L",
       null,
+      "T",
+      null,
+      "D",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      null,
+      "I",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "C",
       "H",
+      "I",
+      "N",
+      "A",
+      null,
+      "D"
+    ],
+    [
+      "H",
+      "A",
+      null,
+      "G",
+      "N",
+      "U",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
+        6,
+        4
       ],
       [
-        1,
+        0,
+        2
+      ],
+      [
+        5,
         2
       ],
       [
@@ -84,36 +88,36 @@
       ],
       [
         2,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        2,
-        0
+        6
       ],
       [
         5,
         4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        5
       ]
     ],
     "medium": [
       [
-        1,
-        5
+        6,
+        4
       ],
       [
-        1,
+        0,
+        2
+      ],
+      [
+        5,
         2
       ],
       [
@@ -122,138 +126,143 @@
       ],
       [
         2,
-        3
-      ],
-      [
-        2,
-        1
+        6
       ]
     ],
     "hard": [
       [
-        1,
-        5
+        6,
+        4
       ],
       [
-        1,
+        0,
         2
       ],
       [
-        3,
-        3
+        5,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A __eree.",
-          "zh": "一名裁判员。"
+          "en": "The act of __erving, withholding or keeping back.",
+          "zh": "资源"
         }
       },
       {
-        "num": 5,
+        "num": 7,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "One who goes before, as into the wilderness, preparing the way for others to follow.",
-          "zh": "一个走在前面的人，就像进入旷野一样，为其他人预备道路。"
+          "en": "A photocopy.",
+          "zh": "复印"
         }
       },
       {
-        "num": 9,
-        "row": 3,
+        "num": 8,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "To stop working on a permanent basis, usually because of old age or illness.",
-          "zh": "通常由于年老或生病而永久停止工作。"
+          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
+          "zh": "瓦"
         }
       },
       {
         "num": 14,
-        "row": 5,
-        "col": 0,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "The inherent nature of a thing or idea.",
-          "zh": "事物或想法的固有本质。"
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
         }
       },
       {
         "num": 16,
-        "row": 6,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A medium-sized rodent belonging to the genus __tus.",
-          "zh": "一种中型啮齿动物，属于黄鼠属。"
+          "en": "The plant Smilax __, a liana of much of eastern Asia.",
+          "zh": "中国"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "The international __: a unit of length precisely equal to 1.609344 kilometers established by treaty among Anglophone nations in 1959, divided into 5,280 feet or 1,760 yards.",
-          "zh": "国际英里：英语国家于 1959 年通过条约建立的精确等于 1.609344 公里的长度单位，分为 5,280 英尺或 1,760 码。"
+          "en": "__erior (describing the location of a shot in a film script, etc.)",
+          "zh": "分机"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "To bring up to maturity, as offspring; to educate; to instruct; to foster.",
-          "zh": "作为后代，抚养成熟；教育；指示；培养。"
+          "en": "To put (something) down, to rest.",
+          "zh": "环境"
         }
       },
       {
         "num": 4,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A refrigerator.",
-          "zh": "一台冰箱。"
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "A person who carries luggage and related objects.",
-          "zh": "携带行李和相关物品的人。"
+          "en": "To increase in extent.",
+          "zh": "延长"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "各种声音，通常是不想要的或令人不愉快的。"
+          "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
+          "zh": "转变"
         }
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 2,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "A challenge, trial.",
-          "zh": "挑战、考验。"
+          "en": "The name of the first letter of the Greek __bet (Α,  α), followed by beta. In the Latin __bet it is the predecessor to A.",
+          "zh": "希腊字母α"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 5,
+        "num": 15,
+        "row": 4,
+        "col": 4,
         "clue": {
-          "en": "(operations) An individual item: the least quantitative unit in a grouping.",
-          "zh": "（操作）单个项目：分组中的最小数量单位。"
+          "en": "(auxiliary verb, defective) To know how to; to be able to.",
+          "zh": "能"
         }
       }
     ]

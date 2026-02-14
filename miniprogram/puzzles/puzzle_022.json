@@ -10,96 +10,96 @@
       "A",
       null,
       null,
-      "S",
+      "B",
       null,
-      "H",
-      "E"
+      null,
+      "H"
     ],
     [
-      "A",
       "C",
-      "R",
-      "E",
-      null,
-      "M",
-      "A",
-      "I",
-      "N"
-    ],
-    [
-      null,
       "O",
-      "M",
-      null,
-      null,
-      "A",
-      null,
-      "G",
-      "G"
-    ],
-    [
-      null,
-      "L",
-      null,
-      "E",
-      "A",
-      "R",
-      "T",
-      "H",
-      null
-    ],
-    [
-      "G",
-      "O",
-      "E",
-      "S",
-      null,
-      "T",
-      null,
-      "L",
-      null
-    ],
-    [
-      null,
       "N",
-      "A",
-      "T",
+      null,
+      "L",
       "O",
-      null,
-      null,
-      "A",
-      null
-    ],
-    [
-      "S",
-      "I",
-      null,
-      "A",
-      "L",
-      "I",
-      "E",
-      "N",
-      null
-    ],
-    [
-      "E",
-      "A",
-      "S",
-      "T",
-      null,
-      "L",
-      "A",
-      "D",
+      "B",
+      "B",
       "Y"
     ],
     [
-      "E",
-      "L",
       null,
-      "E",
-      null,
+      "N",
+      "Y",
       "L",
+      "O",
+      "N",
+      null,
+      "R",
+      "B"
+    ],
+    [
+      "S",
+      "G",
+      null,
+      "I",
+      "N",
+      "D",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "Y",
+      "O",
       "U",
+      "N",
+      "G",
+      null,
+      "K",
+      "A",
+      "I"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "K",
+      "E",
+      "L",
+      null,
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "N",
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      null,
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "X",
+      null,
+      null,
+      "G",
+      null,
+      null,
+      "S",
       null,
       null
     ]
@@ -107,183 +107,213 @@
   "prefilled": {
     "easy": [
       [
-        0,
-        7
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        6,
+        4,
         0
       ],
       [
-        7,
-        3
+        2,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        4
       ],
       [
         4,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        2,
         2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        5
       ],
       [
         5,
         4
       ]
     ],
-    "medium": [
-      [
-        0,
-        7
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        6,
-        7
-      ]
-    ],
     "hard": [
       [
-        0,
-        7
+        4,
+        0
       ],
       [
-        6,
+        2,
         1
       ],
       [
-        1,
-        5
+        6,
+        7
       ],
       [
-        8,
-        6
+        3,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
-          "zh": "一种英国土地面积单位（符号：a. 或 ac.），最初表示一轭牛一天的犁耕量，现在标准化为 4,840 平方码或 4,046.86 平方米。"
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "Short for __line.",
-          "zh": "主线的缩写。"
+          "en": "An entryway or reception area; vestibule; passageway; corridor.",
+          "zh": "大堂"
         }
       },
       {
-        "num": 10,
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "The third planet of the Solar System; the world upon which humans live.",
-          "zh": "太阳系第三颗行星；人类赖以生存的世界。"
+          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
+          "zh": "室内的"
         }
       },
       {
-        "num": 11,
+        "num": 14,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The act of going.",
-          "zh": "走的动作。"
-        }
-      },
-      {
-        "num": 13,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A tree of the genus Mora",
-          "zh": "莫拉属的树"
+          "en": "People who are __; __ people, collectively; youth.",
+          "zh": "年轻的"
         }
       },
       {
         "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Food",
+          "zh": "凯"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
+          "zh": "镍"
+        }
+      },
+      {
+        "num": 21,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "Any life form of extraterrestrial or extradimensional origin.",
-          "zh": "任何源自外星或超维度的生命形式。"
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "问题"
         }
       },
       {
-        "num": 19,
+        "num": 23,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "四个主要罗盘点之一，特别是 90°，通常在地图上指向右侧；春分时太阳升起的方向。缩写为E。"
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
         }
       },
       {
-        "num": 20,
+        "num": 24,
         "row": 7,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
-          "zh": "女性的贵族头衔；领主的妻子和/或凭借自己的权利担任职位的妇女；对贵族女性、贵族或骑士的妻子以及某些贵族的女儿和儿媳的头衔。"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         }
       }
     ],
@@ -293,8 +323,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "人类上肢的部分，从肩膀到手腕，有时包括手。"
+          "en": "To even the slightest extent, at all.",
+          "zh": "任何"
         }
       },
       {
@@ -302,71 +332,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "To hurt or sting.",
-          "zh": "伤害或刺痛。"
+          "en": "Evidence of a long-term debt, by which the __ issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the __ certificate. The rights of the holder are specified in the __ indenture, which contains the legal terms and conditions under which the __ was issued. __s are available in two forms: registered __s, and bearer __s.",
+          "zh": "纽带"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 8,
         "clue": {
-          "en": "An area of land that is at elevation; mountainous land.",
-          "zh": "海拔较高的土地面积；山地。"
+          "en": "Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains.",
+          "zh": "杂交种"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "Narrow.",
-          "zh": "狭窄的。"
+          "en": "To be __ (occurring, happening); to last, proceed or continue.",
+          "zh": "正在进行的"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A person from a country that is or was controlled by another.",
-          "zh": "来自受另一个国家控制或曾经受另一个国家控制的国家的人。"
+          "en": "To take a long position in.",
+          "zh": "最长"
         }
       },
       {
-        "num": 10,
-        "row": 3,
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Wide in extent or scope.",
+          "zh": "更广泛的"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The collective property and liabilities of someone, especially a deceased person.",
-          "zh": "某人（尤其是死者）的集体财产和债务。"
+          "en": "To connect two or more things.",
+          "zh": "链接"
         }
       },
       {
-        "num": 15,
-        "row": 6,
+        "num": 11,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "（静态）用眼睛或仿佛通过视觉来感知或检测。"
+          "en": "A set of rules that govern how words are combined to form phrases and sentences.",
+          "zh": "句法"
         }
       },
       {
-        "num": 17,
-        "row": 6,
-        "col": 5,
-        "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "（通常为复数形式）麻烦；苦恼；不幸;逆境。"
-        }
-      },
-      {
-        "num": 18,
+        "num": 22,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "Misspelling of __",
-          "zh": "__ 的拼写错误"
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
         }
       }
     ]

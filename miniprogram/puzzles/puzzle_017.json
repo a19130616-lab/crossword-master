@@ -7,63 +7,63 @@
     [
       null,
       null,
-      "N",
-      "O",
-      "T",
-      null,
-      "T"
-    ],
-    [
-      "I",
-      "M",
-      "A",
-      "G",
-      "I",
-      "N",
-      "E"
-    ],
-    [
-      null,
-      "A",
-      "V",
-      null,
-      "N",
-      "Y",
-      "C"
-    ],
-    [
-      "B",
-      "R",
-      null,
-      null,
-      null,
-      "L",
-      "H"
-    ],
-    [
-      "A",
       "C",
-      "T",
-      null,
-      "W",
       "O",
-      null
+      "N",
+      null,
+      "S"
     ],
     [
-      "S",
-      "H",
-      "O",
-      "W",
-      "I",
+      "A",
       "N",
-      "G"
+      "A",
+      "T",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      null,
+      "Y",
+      "N",
+      null,
+      "W",
+      "A",
+      "N"
     ],
     [
       "E",
+      "L",
       null,
+      null,
+      null,
+      "R",
+      "C"
+    ],
+    [
       "P",
+      "O",
+      "P",
+      null,
       "A",
+      "C",
+      null
+    ],
+    [
+      "I",
       "N",
+      "S",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "C",
+      null,
+      "I",
+      "S",
+      "O",
       null,
       null
     ]
@@ -71,72 +71,72 @@
   "prefilled": {
     "easy": [
       [
-        4,
-        4
+        2,
+        2
       ],
       [
-        6,
-        4
+        1,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
       ],
       [
         2,
+        4
+      ],
+      [
+        5,
         2
       ],
       [
         5,
-        4
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        0,
         3
+      ],
+      [
+        1,
+        5
       ]
     ],
     "medium": [
       [
-        4,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
         2,
         2
       ],
       [
-        5,
-        4
+        1,
+        3
       ],
       [
-        2,
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
         1
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        2,
+        2
       ],
       [
-        6,
-        4
+        1,
+        3
       ]
     ]
   },
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A unary operation on logical values that changes true to false, and false to true.",
-          "zh": "对逻辑值进行一元运算，将 true 更改为 false，将 false 更改为 true。"
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
-          "zh": "将读者插入一个有人物或名人的小说场景的短篇小说或提示。"
+          "en": "The art of studying the different parts of any organized body, to discover their situation, structure, and economy.",
+          "zh": "解剖学"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "Nice",
-          "zh": "好的"
+          "en": "The quality of being __; __ness.",
+          "zh": "万"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "Something done, a deed.",
-          "zh": "做了某事，做了一件事。"
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
         }
       },
       {
@@ -183,8 +183,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To display, to have somebody see (something).",
-          "zh": "展示、让某人看到（某物）。"
+          "en": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+          "zh": "洞察力"
         }
       },
       {
@@ -192,8 +192,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A wide, flat receptacle used around the house, especially for cooking.",
-          "zh": "房屋周围使用的宽而扁平的容器，特别是用于烹饪。"
+          "en": "The state of being __lated, detached, or separated.",
+          "zh": "异"
         }
       }
     ],
@@ -203,8 +203,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "__igation. Often used attributively, as in __ beacon.",
-          "zh": "导航。经常用作定语，如导航信标。"
+          "en": "(auxiliary verb, defective) To know how to; to be able to.",
+          "zh": "能"
         }
       },
       {
@@ -212,8 +212,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
-          "zh": "一种具有延展性、延展性、耐腐蚀的金属元素，原子序数为 50，符号为 Sn。"
+          "en": "The present time.",
+          "zh": "现在"
         }
       },
       {
@@ -221,8 +221,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "__nology",
-          "zh": "技术"
+          "en": "Harmony.",
+          "zh": "同步"
         }
       },
       {
@@ -230,8 +230,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
-          "zh": "一种正式、有节奏的步行方式，特别是士兵、乐队和仪式中使用的。"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
@@ -239,8 +239,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "最初，杜邦公司对聚酰胺的商品名是聚酰胺，这是一种共聚物，其分子由交替键合在一起的二胺和二羧酸单体组成；现在普遍用于这种类型的聚合物。"
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "行进"
         }
       },
       {
@@ -248,8 +248,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Something from which other things extend; a foundation.",
-          "zh": "其他事物延伸出来的东西；一个基础。"
+          "en": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic __), other legend or traditional hero.",
+          "zh": "史诗"
         }
       },
       {
@@ -257,8 +257,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "The highest or uppermost part of something.",
-          "zh": "某物的最高或最上面的部分。"
+          "en": "The twenty-third letter of Classical and Modern Greek and the twenty-fifth letter of Old and Ancient Greek.",
+          "zh": "磅/平方英寸"
         }
       },
       {
@@ -266,8 +266,8 @@
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "To conquer, defeat.",
-          "zh": "征服、击败。"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       }
     ]

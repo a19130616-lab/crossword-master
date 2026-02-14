@@ -6,140 +6,136 @@
   "solution": [
     [
       null,
-      "G",
-      "E",
-      "N",
       null,
+      "R",
+      "A",
       "M",
-      "F"
+      null,
+      "M"
     ],
     [
-      "S",
+      "E",
+      "C",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
       null,
+      "H",
+      "D",
+      null,
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      null,
+      null,
+      null,
+      "L",
+      "H"
+    ],
+    [
       "V",
-      "O",
-      "C",
+      "I",
       "A",
-      "L"
-    ],
-    [
-      "P",
-      "O",
-      "E",
+      null,
+      "B",
       "T",
-      null,
+      null
+    ],
+    [
+      "I",
       "N",
-      "A"
-    ],
-    [
+      "T",
+      "E",
       "R",
-      "P",
-      null,
       "I",
-      null,
-      "G",
-      "V"
+      "M"
     ],
     [
-      "E",
-      "E",
+      "L",
       null,
-      "C",
-      "I",
-      "A",
-      "O"
-    ],
-    [
-      "A",
+      "E",
       "R",
-      "M",
-      "E",
-      "D",
-      null,
-      "R"
-    ],
-    [
-      "D",
       "A",
       null,
-      "D",
-      "E",
-      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
+        2,
+        6
       ],
       [
-        4,
-        4
-      ],
-      [
-        5,
+        2,
         2
       ],
       [
-        0,
-        3
+        6,
+        4
       ],
       [
         4,
-        1
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        4,
-        6
+        2
       ],
       [
         2,
         1
       ],
       [
-        3,
-        6
-      ]
-    ],
-    "medium": [
-      [
         1,
-        5
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        1
       ],
       [
         4,
         4
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        6
       ],
       [
-        5,
+        2,
         2
       ],
       [
-        0,
-        3
+        6,
+        4
       ],
       [
         4,
+        2
+      ],
+      [
+        2,
         1
       ]
     ],
     "hard": [
       [
-        1,
-        5
+        2,
+        6
       ],
       [
-        4,
-        4
-      ],
-      [
-        5,
+        2,
         2
       ]
     ]
@@ -149,120 +145,129 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "Information",
-          "zh": "信息"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A __ sound; specifically, a purely __ element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a sub__, and a non__",
-          "zh": "声音；具体来说，是一种纯粹的语音元素，除了共鸣之外未经修饰；元音或双元音；滋补元素；滋补品；区别于默声和非声乐"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "A person who writes poems.",
-          "zh": "一个写诗的人。"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "A greeting or farewell using the word \"__\".",
-          "zh": "使用“__”一词表示问候或告别。"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "To take by the arm; to take up in one's arms.",
-          "zh": "挽着手臂；抱在怀里。"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The act of __onstrating; showing or explaining something.",
-          "zh": "示威的行为；展示或解释某事。"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The day or night before, usually used for holidays, such as Christmas __.",
-          "zh": "前一天或前一天晚上，通常用于假期，例如平安夜。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "To remark upon; to mention.",
-          "zh": "评论；提一下。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A comic originating in Japan.",
-          "zh": "起源于日本的漫画。"
+          "en": "A male sheep, typically uncastrated",
+          "zh": "公羊"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "The quality produced by the sensation of taste or, especially, of taste and smell in combined effect.",
-          "zh": "由味觉或特别是味觉和嗅觉共同作用产生的品质。"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The act of __ing.",
-          "zh": "传播的行为。"
+          "en": "Effective management of a community or system, or especially its resources.",
+          "zh": "经济"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "一种戏剧作品，结合了戏剧、音乐、歌曲，有时还有舞蹈。"
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A main road or highway, especially in ancient Rome. (Mainly used in set phrases, below.)",
+          "zh": "通过"
         }
       },
       {
         "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A transitional or temporary period between other events.",
+          "zh": "临时"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A series of interconnected rings or links usually made of metal.",
+          "zh": "链"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A __tuberculate.",
+          "zh": "多"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃"
+        }
+      },
+      {
+        "num": 14,
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
-          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+          "en": "An item of underwear worn to support the breasts; now commonly shortened to __.",
+          "zh": "胸罩"
         }
       }
     ]

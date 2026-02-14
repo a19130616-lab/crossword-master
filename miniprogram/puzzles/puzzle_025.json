@@ -10,209 +10,209 @@
       null,
       null,
       null,
+      "D",
       null,
-      "S",
       null,
-      "E"
+      "P"
     ],
     [
-      "C",
-      "O",
-      "S",
-      "T",
+      "B",
       "A",
-      null,
-      "P",
-      "A",
-      "N"
-    ],
-    [
-      null,
-      "R",
-      "E",
-      null,
-      "S",
-      "C",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "T",
-      "E",
-      "L",
-      null,
-      "S",
-      "A",
-      null,
-      "A",
-      "R"
-    ],
-    [
-      "E",
-      null,
-      "F",
-      "A",
-      "U",
-      "L",
-      "T",
-      null,
-      "G"
-    ],
-    [
-      "N",
-      "A",
-      null,
-      "R",
-      "M",
-      null,
-      "R",
-      "A",
-      "Y"
-    ],
-    [
-      "A",
-      "G",
-      "R",
-      "E",
+      "B",
       "E",
       null,
       "I",
-      "U",
-      null
-    ],
-    [
-      "N",
-      "E",
-      "O",
-      null,
       "D",
       "E",
-      "P",
-      "T",
-      "H"
+      "A"
     ],
     [
-      "T",
+      "A",
+      "M",
       null,
       "N",
-      null,
-      null,
-      null,
-      null,
       "O",
+      "S",
+      "E",
+      null,
+      "R"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "T",
+      "I",
+      "A",
+      "L",
+      null,
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "P",
+      "I",
+      null,
+      "G",
+      "T",
+      null,
+      "N"
+    ],
+    [
+      "L",
+      null,
+      "A",
+      "T",
+      "T",
+      "R",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "I",
+      null,
+      "R",
+      "I",
+      "P",
+      "E",
+      null,
+      "A",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      null,
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      null,
+      "T",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        4
-      ],
-      [
         5,
-        4
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        3,
         7
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        7,
-        4
       ],
       [
         3,
         0
       ],
       [
-        1,
-        3
+        2,
+        5
       ],
       [
-        8,
-        7
+        1,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        8
       ],
       [
         7,
-        8
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        4
       ]
     ],
     "medium": [
       [
-        1,
-        4
-      ],
-      [
         5,
-        4
+        7
       ],
       [
         3,
-        1
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        8
       ],
       [
         4,
         5
       ],
       [
-        6,
-        2
-      ],
-      [
         3,
-        7
+        1
       ],
       [
-        7,
-        5
+        1,
+        0
       ],
       [
         0,
-        6
+        5
       ]
     ],
     "hard": [
       [
-        1,
-        4
-      ],
-      [
         5,
-        4
+        7
       ],
       [
         3,
-        1
+        0
       ],
       [
-        4,
+        2,
         5
+      ],
+      [
+        1,
+        8
       ]
     ]
   },
@@ -223,80 +223,71 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A rib.",
-          "zh": "一根肋骨。"
+          "en": "A baby or infant; a very young human or animal.",
+          "zh": "宝贝"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A wide, flat receptacle used around the house, especially for cooking.",
-          "zh": "房屋周围使用的宽而扁平的容器，特别是用于烹饪。"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A ladder; a series of steps; a means of ascending.",
-          "zh": "一个梯子；一系列步骤；一种提升的手段。"
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
         }
       },
       {
-        "num": 12,
+        "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A message transmitted by __egraph.",
-          "zh": "通过电报传送的消息。"
+          "en": "Pertaining to (the dimension of) space.",
+          "zh": "空间的"
         }
       },
       {
         "num": 15,
-        "row": 4,
+        "row": 5,
         "col": 2,
         "clue": {
-          "en": "A defect; something that detracts from perfection.",
-          "zh": "缺陷；有损完美的东西。"
+          "en": "To pull toward without touching.",
+          "zh": "吸引"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A fruit or vegetable which has __ned.",
+          "zh": "成熟"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
         }
       },
       {
         "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A beam of light or radiation.",
-          "zh": "一束光或辐射。"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "协调意见、声明或行动；一致或一致；变得团结或一致；同意。"
-        }
-      },
-      {
-        "num": 26,
         "row": 7,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
-          "zh": "科幻小说的新人；对该类型非常陌生且缺乏经验的粉丝；初学者。"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "The vertical distance below a surface; the degree to which something is deep",
-          "zh": "表面以下的垂直距离；某事物的深度"
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
         }
       }
     ],
@@ -306,17 +297,17 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The central part of fruit, containing the kernels or seeds.",
-          "zh": "水果的中心部分，含有果仁或种子。"
+          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
+          "zh": "营"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "靠近矿泉或温泉的疗养胜地。"
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
         }
       },
       {
@@ -324,98 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "The impetus behind all motion and all activity.",
-          "zh": "所有运动和所有活动背后的动力。"
+          "en": "A person fulfilling a __ role.",
+          "zh": "父母的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A line that is a base for measurement or for construction.",
+          "zh": "基线"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "One individual's personality, character, demeanor, or disposition.",
-          "zh": "一个人的个性、性格、举止或性格。"
+          "en": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form.",
+          "zh": "实体"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
-          "zh": "通过信仰来验证；推测；假设是真的，尤其是在没有证据的情况下"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A wing or winglike structure.",
-          "zh": "翼或翼状结构。"
-        }
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Diameter of the bore of a firearm, typi__ly measured between opposite lands.",
-          "zh": "枪支枪膛的直径，通常在相对的陆地之间测量。"
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "One who pays a fee (rent) in return for the use of land, buildings, or other property owned by others.",
-          "zh": "支付费用（租金）以换取他人拥有的土地、建筑物或其他财产的使用的人。"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "An accepted (but deprecated and r__ly used) SI unit of __a equal to 100 squ__ metres, or a former unit of approximately the same extent. Symbol: a.",
-          "zh": "一种已接受（但已弃用且很少使用）的 SI 面积单位，等于 100 平方米，或大致相同范围的以前单位。符号：A."
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A journey; an excursion or jaunt",
-          "zh": "一次旅行；短途旅行或短途旅行"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
-        }
-      },
-      {
-        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "An __mobile.",
-          "zh": "一辆汽车。"
-        }
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Heroin",
-          "zh": "海洛因"
+          "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
+          "zh": "大车"
         }
       }
     ]

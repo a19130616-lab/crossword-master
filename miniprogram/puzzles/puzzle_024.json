@@ -6,332 +6,332 @@
   "solution": [
     [
       null,
+      "N",
       null,
-      "L",
       "I",
-      "B",
+      "C",
+      "E",
       null,
       null,
+      "S"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "M",
+      "A",
+      null,
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      null,
+      "T",
+      "A",
+      null,
+      "S",
+      "O",
+      "C",
       null,
       "H"
     ],
     [
-      "A",
-      "L",
-      "A",
+      "D",
+      "O",
+      "N",
       null,
-      "I",
-      "M",
       "A",
-      "G",
+      "W",
+      "A",
+      "R",
       "E"
     ],
     [
-      null,
       "O",
-      "P",
-      "E",
-      "R",
-      "A",
       null,
-      "L",
-      "I"
-    ],
-    [
-      "F",
       "G",
+      "U",
       null,
-      "A",
+      "N",
       "D",
+      null,
+      "M"
+    ],
+    [
       "S",
-      null,
-      "A",
-      "G"
-    ],
-    [
-      "L",
+      "P",
       "I",
-      "F",
-      "T",
-      null,
-      "T",
-      "E",
-      "C",
-      "H"
-    ],
-    [
-      "O",
-      "C",
-      null,
-      "I",
-      "D",
+      "N",
       "E",
       null,
-      "I",
-      "T"
-    ],
-    [
+      "E",
       "R",
+      "A"
+    ],
+    [
       "A",
       null,
       "N",
-      "E",
-      "R",
-      "V",
-      "E",
+      "I",
+      "L",
+      null,
+      "M",
+      "O",
       null
     ],
     [
-      "A",
-      "L",
+      "G",
       "I",
       "G",
-      "N",
       null,
-      "A",
-      "R",
-      "T"
+      "S",
+      "T",
+      "Y",
+      "L",
+      "E"
     ],
     [
-      "L",
-      null,
-      null,
-      null,
-      "Y",
       "E",
-      "N",
       null,
+      null,
+      "B",
+      "E",
+      "E",
+      null,
+      "L",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        1,
         1
       ],
       [
         5,
-        7
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        7,
         3
       ],
       [
-        4,
-        6
+        5,
+        0
       ],
       [
-        5,
+        0,
         5
       ],
       [
         6,
-        3
-      ],
-      [
-        2,
         2
       ],
       [
-        4,
-        0
+        5,
+        7
       ],
       [
-        4,
-        5
+        7,
+        1
       ],
       [
-        3,
-        0
+        0,
+        8
       ],
       [
         2,
+        1
+      ],
+      [
+        6,
         4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        0,
+        3
       ]
     ],
     "medium": [
       [
-        4,
+        1,
         1
       ],
       [
         5,
-        7
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        7,
         3
       ],
       [
-        4,
-        6
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        2
       ],
       [
         5,
-        5
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        2,
+        1
       ]
     ],
     "hard": [
       [
-        4,
+        1,
         1
       ],
       [
         5,
-        7
+        3
       ],
       [
-        4,
-        2
+        5,
+        0
       ],
       [
-        1,
-        7
+        0,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "__eral",
-          "zh": "自由派"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A wing or winglike structure.",
-          "zh": "翼或翼状结构。"
+          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
+          "zh": "业力"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "真实物体的光学或其他表示；图形；一张照片。"
+          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+          "zh": "弧"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "一种戏剧作品，结合了戏剧、音乐、歌曲，有时还有舞蹈。"
+          "en": "__iology or __ial science.",
+          "zh": "社会组织"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "Advertisement.",
-          "zh": "广告。"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
         "col": 0,
         "clue": {
-          "en": "An act of __ing or raising.",
-          "zh": "举起或举起的动作。"
+          "en": "A university professor, particularly one at Oxford or Cambridge.",
+          "zh": "大学教师"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 5,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "__nology",
-          "zh": "技术"
+          "en": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.",
+          "zh": "脊柱"
         }
       },
       {
         "num": 18,
         "row": 5,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
-          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Nothing; zero.",
+          "zh": "零"
         }
       },
       {
         "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
-          "zh": "一束神经元及其结缔组织鞘、血管和淋巴管。"
-        }
-      },
-      {
-        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "To form a line; to fall into line.",
-          "zh": "形成一条线；排队。"
+          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
+          "zh": "演出"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Senses relating to a thin, pointed object.",
+          "zh": "风格"
         }
       },
       {
         "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "以影响感官和情感的方式有意识地产生或安排声音、颜色、形式、运动或其他元素，通常特别是在图形或塑料介质中产生美感。"
-        }
-      },
-      {
-        "num": 26,
         "row": 8,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "自 1871 年以来的日本货币单位（符号：日元），分为 100 仙。"
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
         }
       }
     ],
@@ -339,91 +339,91 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "外套的宽松部分；宽松的衣服下半部分；裙子；围裙。"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
-          "zh": "脊索动物门鸟纲的成员，其特征是温血动物，具有通常能够飞行的羽毛和翅膀，并且产卵。"
+          "en": "A tree of the genus Mora",
+          "zh": "北约"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "The distance from the base of something to the top.",
-          "zh": "从某物的底部到顶部的距离。"
+          "en": "House",
+          "zh": "卡萨"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "In agreement with the principles of logic.",
-          "zh": "符合逻辑原理。"
+          "en": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body __).",
+          "zh": "图式"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To travel over (an area, etc); to roam, wander.",
+          "zh": "测距"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Someone who has control over something or someone.",
-          "zh": "控制某事或某人的人。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A large body of ice which flows under its own mass, usually downhill.",
-          "zh": "在自身质量下流动的大冰体，通常是下坡的。"
+          "en": "(usually capitalized) The garden where Plato taught.",
+          "zh": "学院"
         }
       },
       {
         "num": 10,
         "row": 2,
-        "col": 3,
+        "col": 5,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "摄取；被摄入。"
+          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "zh": "自己的"
         }
       },
       {
-        "num": 12,
+        "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A design involving flowers",
-          "zh": "涉及花卉的设计"
+          "en": "The administration of a medication etc, in a measured amount; dosing.",
+          "zh": "剂量"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "__versity.",
+          "zh": "大学"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "To disallow or reject.",
-          "zh": "表示不允许或拒绝。"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
-          "zh": "用于运载货物或人员的有盖车辆，通常形状大致为长方体，比汽车更长、更高，但比卡车/卡车小。"
+          "en": "The act or result of __ing, or state of being __ed.",
+          "zh": "卷"
         }
       }
     ]

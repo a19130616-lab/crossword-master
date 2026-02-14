@@ -5,130 +5,95 @@
   "cols": 5,
   "solution": [
     [
+      "A",
+      null,
+      null,
+      null,
+      "I"
+    ],
+    [
+      "B",
+      "A",
       "S",
-      "T",
-      "A",
-      "Y",
-      null
-    ],
-    [
-      "W",
       "E",
-      "B",
-      null,
-      "M"
+      "D"
     ],
     [
-      "A",
-      "D",
-      "O",
-      "B",
+      "U",
+      null,
+      "I",
+      null,
       "E"
     ],
     [
-      "P",
-      null,
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      null,
+      "S",
+      "I",
+      "G",
       "M",
+      "A"
+    ],
+    [
       "E",
-      "R",
-      "E"
+      null,
+      null,
+      null,
+      "L"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        1
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        0,
+        2,
         0
       ],
       [
-        2,
+        3,
+        1
+      ],
+      [
+        1,
         4
       ],
       [
         3,
-        0
+        4
       ]
     ],
     "medium": [
       [
-        0,
-        1
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        0,
+        2,
         0
+      ],
+      [
+        3,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        1
+        2,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
-          "zh": "在一个地方持续或度过一段时间；无限期居住；寄居。"
-        }
-      },
-      {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The World Wide __.",
-          "zh": "万维网。"
+          "en": "To give as its foundation or starting point; to lay the foundation of.",
+          "zh": "基于"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "An unburnt brick dried in the sun.",
-          "zh": "未烧完的砖在阳光下晒干。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
-          "zh": "交流电路中的电功率单位，等于 1 伏特产生 1 安培电流时消耗的功率。"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "A body of standing water, such as a lake or a pond. More specifically, it can refer to a lake that is broad in relation to its depth. Also included in place names such as Winder__.",
-          "zh": "静止的水体，例如湖泊或池塘。更具体地说，它可以指相对深度而言较宽的湖泊。也包含在温德米尔等地名中。"
+          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
+          "zh": "希腊字母σ"
         }
       }
     ],
@@ -138,44 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "To exchange or give (something) in an exchange (for something else).",
-          "zh": "交换或给予（某物）以交换（换取其他东西）。"
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A __dy boy.",
-          "zh": "一个泰迪男孩。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Heaven.",
-          "zh": "天堂。"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "A body of standing water, such as a lake or a pond. More specifically, it can refer to a lake that is broad in relation to its depth. Also included in place names such as Winder__.",
-          "zh": "静止的水体，例如湖泊或池塘。更具体地说，它可以指相对深度而言较宽的湖泊。也包含在温德米尔等地名中。"
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
         }
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 3,
+        "num": 4,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
-          "zh": "固体，或多或少刚性的金属或木材物体，具有小于其长度的均匀横截面。"
+          "en": "A __nature, especially on emails or newsgroup postings.",
+          "zh": "信号"
         }
       }
     ]

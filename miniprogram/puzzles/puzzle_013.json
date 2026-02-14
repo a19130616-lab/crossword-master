@@ -6,140 +6,140 @@
   "solution": [
     [
       null,
-      "T",
+      "D",
+      "I",
+      "V",
       null,
-      null,
-      "A",
-      "G",
-      "E"
+      "E",
+      "S"
     ],
     [
-      "T",
-      "H",
+      "C",
+      null,
+      "D",
       "E",
-      "O",
       "R",
-      "E",
-      "M"
+      "B",
+      "Y"
+    ],
+    [
+      "H",
+      "A",
+      "S",
+      "H",
+      null,
+      "O",
+      "S"
     ],
     [
       "A",
+      "W",
+      null,
       "I",
       null,
-      "W",
-      "E",
-      null,
-      "P"
-    ],
-    [
-      "T",
-      "S",
-      "U",
-      "N",
-      "A",
-      "M",
-      "I"
-    ],
-    [
-      "T",
-      null,
-      "S",
-      "E",
-      null,
-      "E",
-      "R"
-    ],
-    [
       "O",
-      "P",
-      "E",
-      "R",
+      "T"
+    ],
+    [
+      "N",
+      "F",
+      null,
+      "C",
       "A",
-      "T",
+      "K",
       "E"
     ],
     [
-      "O",
+      "G",
+      "U",
+      "I",
       "L",
       "D",
       null,
+      "M"
+    ],
+    [
+      "E",
+      "L",
       null,
-      "A",
+      "E",
+      "S",
+      "T",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        2,
+        6
+      ],
+      [
         5,
-        1
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        1,
         6
       ],
       [
         2,
-        4
+        1
+      ],
+      [
+        4,
+        1
       ],
       [
         0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
         5
       ],
       [
-        2,
-        0
+        1,
+        2
+      ],
+      [
+        3,
+        6
       ]
     ],
     "medium": [
       [
-        5,
-        1
-      ],
-      [
-        0,
+        2,
         6
       ],
       [
-        0,
-        1
-      ],
-      [
-        1,
-        4
+        5,
+        6
       ],
       [
         2,
         1
-      ]
-    ],
-    "hard": [
+      ],
       [
-        5,
+        4,
         1
       ],
       [
         0,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        2,
         6
       ],
       [
-        0,
+        5,
+        6
+      ],
+      [
+        2,
         1
       ]
     ]
@@ -147,113 +147,122 @@
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "一个生物（无论是动物、植物还是其他物种）活着的整个持续时间。"
+          "en": "A function, implemented in many programming languages, that returns the result of a __ision of two integers.",
+          "zh": "分区"
         }
       },
       {
-        "num": 5,
+        "num": 7,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A mathematical statement of some importance that has been proven to be true. Minor __s are often called propositions. __s which are not very interesting in themselves but are an essential part of a bigger __'s proof are called lemmas.",
-          "zh": "已被证明是正确的具有一定重要性的数学陈述。小定理通常称为命题。本身不是很有趣但是更大定理证明的重要组成部分的定理称为引理。"
+          "en": "Any of several annual horse races.",
+          "zh": "德比"
         }
       },
       {
-        "num": 9,
-        "row": 3,
+        "num": 8,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A very large and destructive wave, generally caused by a tremendous disturbance in the ocean, such as an undersea earthquake or volcanic eruption. __ are usually a series of waves, or wave train.",
-          "zh": "一种非常大的破坏性波浪，通常由海洋中的巨大扰动引起，例如海底地震或火山爆发。海啸通常是一系列波浪或波列。"
+          "en": "Food, especially meat and potatoes, chopped and mixed together.",
+          "zh": "散列"
         }
       },
       {
         "num": 14,
-        "row": 5,
-        "col": 0,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
-          "zh": "进行工作或劳动；发挥物理或机械的力量或力量；采取行动。"
+          "en": "A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing.",
+          "zh": "蛋糕"
         }
       },
       {
         "num": 16,
-        "row": 6,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
-          "zh": "（仅适用于不变的复数形式）年老的人；老众生；老一代人作为一个群体。"
+          "en": "A group or association mainly of tradespeople made up of merchants, craftspeople, or artisans for mutual aid, particularly in the Middle Ages.",
+          "zh": "公会"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Grace; favour.",
+          "zh": "东部时间"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "Something being indicated that is here; one of these.",
-          "zh": "这里有一些指示；其中之一。"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A measure of the extent of a surface; it is measured in square units.",
-          "zh": "表面范围的测量；它以平方单位测量。"
+          "en": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
+          "zh": "车辆"
         }
       },
       {
         "num": 4,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "(furniture) Following or imitating a style popular during the First French __ (1804–1814).",
-          "zh": "（家具）遵循或模仿法兰西第一帝国（1804-1814）期间流行的风格。"
+          "en": "(authorship) Electronic book, a book published in electronic form.",
+          "zh": "电子书"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "An image made in the skin with ink and a needle.",
-          "zh": "用墨水和针在皮肤上形成的图像。"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "One who owns something.",
-          "zh": "拥有某物的人。"
+          "en": "The process of becoming different.",
+          "zh": "改变"
         }
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 2,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "利用或雇用。"
+          "en": "Very bad.",
+          "zh": "可怕"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 5,
+        "num": 15,
+        "row": 4,
+        "col": 4,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "自我参照；结构类似，但层次更高。"
+          "en": "Advertisement.",
+          "zh": "广告"
         }
       }
     ]

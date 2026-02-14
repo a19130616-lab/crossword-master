@@ -6,189 +6,173 @@
   "solution": [
     [
       null,
-      "H",
       null,
       null,
-      "R",
       "A",
-      "P"
+      null,
+      null,
+      "B"
     ],
     [
-      "B",
-      "U",
-      "F",
-      "F",
-      "A",
-      "L",
-      "O"
-    ],
-    [
-      "A",
-      "L",
       null,
+      "G",
+      null,
+      "M",
       "I",
-      "N",
-      null,
+      "M",
       "E"
     ],
     [
-      "B",
-      "L",
-      "A",
+      null,
+      "U",
+      "S",
+      "E",
+      "D",
+      null,
+      "A"
+    ],
+    [
+      "U",
       "N",
       "K",
-      "E",
-      "T"
+      "N",
+      "O",
+      "W",
+      "N"
     ],
     [
-      "I",
+      "N",
       null,
-      "T",
-      "A",
+      "I",
+      "D",
+      "L",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      "E",
+      null,
+      "B",
+      null
+    ],
+    [
+      "O",
+      null,
       null,
       "D",
-      "R"
-    ],
-    [
-      "E",
-      "C",
-      "O",
-      "L",
-      "O",
-      "G",
-      "Y"
-    ],
-    [
-      "S",
-      "I",
-      "M",
       null,
       null,
-      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        2
-      ],
-      [
-        6,
-        2
-      ],
-      [
         3,
-        2
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        4,
-        3
+        0
       ],
       [
         5,
+        1
+      ],
+      [
+        3,
         5
       ],
       [
-        4,
-        2
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        3
       ]
     ],
     "medium": [
       [
-        1,
-        2
+        3,
+        0
       ],
       [
-        6,
-        2
+        5,
+        1
       ],
       [
         3,
-        2
+        5
       ],
       [
         0,
-        1
-      ],
-      [
-        1,
-        1
+        3
       ]
     ],
     "hard": [
       [
-        1,
-        2
-      ],
-      [
-        6,
-        2
-      ],
-      [
         3,
-        2
+        0
+      ],
+      [
+        5,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A sharp blow with something hard.",
-          "zh": "用硬物猛击。"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "Any of the Old World mammals of the family Bovidae, such as the Cape __, Syncerus caffer, or the water __ Bubalus bubalis.",
-          "zh": "任何旧大陆牛科哺乳动物，例如非洲水牛、Syncerus caffer 或水牛 Bubalus bubalis。"
+          "en": "A form of acting without words; panto__.",
+          "zh": "哑剧"
         }
       },
       {
-        "num": 9,
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        }
+      },
+      {
+        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A heavy, loosely woven fabric, usually large and woollen, used for warmth while sleeping or resting.",
-          "zh": "一种厚重、松散的织物，通常是大的羊毛织物，用于在睡觉或休息时保暖。"
+          "en": "To undo the process of knowing, to lose knowledge of something.",
+          "zh": "未知"
         }
       },
       {
-        "num": 14,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "An __ animation.",
+          "zh": "闲置的"
+        }
+      },
+      {
+        "num": 11,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The branch of biology dealing with the relationships of organisms with their environment and with each other.",
-          "zh": "生物学的一个分支，研究生物体与其环境以及生物体之间的关系。"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "A __ulation or __ulator.",
-          "zh": "模拟或模拟器。"
+          "en": "(auxiliary) A syntactic marker.",
+          "zh": "完毕"
         }
       }
     ],
@@ -196,64 +180,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "The outer covering of a fruit or seed.",
-          "zh": "水果或种子的外壳。"
+          "en": "To make better; improve.",
+          "zh": "修正的"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "Strong of its kind or in character; unmitigated; virulent; thorough; utter (used of negative things).",
-          "zh": "同类或性格上的坚强；毫无缓解；有毒的；彻底; utter（用于负面事物）。"
+          "en": "A reusable software component written in Java.",
+          "zh": "豆"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 6,
+        "num": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "Literature composed in verse or language exhibiting conscious attention to patterns and rhythm.",
-          "zh": "用诗歌或语言创作的文学，表现出对模式和节奏的有意识的关注。"
+          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+          "zh": "枪"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.",
-          "zh": "一个非常年轻的人，特别是从出生到几岁或直到完全掌握行走为止。"
+          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
+          "zh": "偶像"
         }
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "A __ examination; a test or examination given at the end of a term or class; the test that concludes a class.",
-          "zh": "期末考试；学期或课程结束时进行的测试或考试；结束课程的测试。"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
+        "num": 7,
+        "row": 2,
         "col": 2,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "仍然保留其化学元素特性的尽可能少的物质，现在已知由被电子包围的原子核组成。"
+          "en": "The outer protective layer of the body of any animal, including of a human.",
+          "zh": "皮肤"
         }
       },
       {
-        "num": 11,
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An operation that reverses a previous action.",
+          "zh": "撤消"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "表面的边界线。"
+          "en": "The World Wide __.",
+          "zh": "网"
         }
       }
     ]

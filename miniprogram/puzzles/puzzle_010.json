@@ -6,81 +6,73 @@
   "solution": [
     [
       null,
-      "P",
-      "O",
-      "L",
+      "M",
+      "I",
+      "D",
+      null
+    ],
+    [
+      "A",
+      "A",
+      null,
+      "E",
       "O"
     ],
     [
-      "P",
-      null,
-      "Z",
+      "G",
+      "R",
       "I",
-      "P"
+      "L",
+      "L"
     ],
     [
-      "A",
-      "D",
       "O",
-      "B",
-      "E"
-    ],
-    [
-      "R",
-      "O",
-      "N",
-      null,
-      "N"
-    ],
-    [
-      "A",
       "C",
+      null,
+      "A",
+      "D"
+    ],
+    [
+      null,
+      "H",
       "E",
-      "R",
+      "Y",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
-      ],
-      [
-        2,
+        1,
         0
       ],
       [
+        1,
+        1
+      ],
+      [
         3,
-        0
+        1
       ],
       [
         4,
         2
-      ],
-      [
-        1,
-        0
       ]
     ],
     "medium": [
       [
-        3,
-        4
-      ],
-      [
-        2,
+        1,
         0
       ],
       [
-        3,
-        0
+        1,
+        1
       ]
     ],
     "hard": [
       [
-        3,
-        4
+        1,
+        0
       ]
     ]
   },
@@ -91,91 +83,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal.",
-          "zh": "一种球类运动，两队球员骑在马背上，使用长柄木槌将球沿着地面推入对手的球门。"
+          "en": "Denoting the __dle part.",
+          "zh": "中"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A twist or fold.",
-          "zh": "扭曲或折叠。"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "An unburnt brick dried in the sun.",
-          "zh": "未烧完的砖在阳光下晒干。"
+          "en": "A grating; a grid of wire or a sheet of material with a pattern of holes or slots, usually used to protect something while allowing the passage of air and liquids. Typical uses: to allow air through a fan while preventing fingers or objects from passing; to allow people to talk to somebody, while preventing attack.",
+          "zh": "炙烤"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Heroin",
-          "zh": "海洛因"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
-          "zh": "一种英国土地面积单位（符号：a. 或 ac.），最初表示一轭牛一天的犁耕量，现在标准化为 4,840 平方码或 4,046.86 平方米。"
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "行进"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
-          "zh": "氧的同素异形体（符号 O₃）在分子中具有三个原子，而不是通常的两个原子；它是一种蓝色气体，由氧气通过放电产生。"
+          "en": "A period of time before an event occurs; the act of __ing; procrastination; lingering inactivity.",
+          "zh": "延迟"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "__eral",
-          "zh": "自由派"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "Not closed",
-          "zh": "未关闭"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "A former subunit of currency in several countries in the Ottoman/Turkish and Yugoslav regions.",
-          "zh": "奥斯曼/土耳其和南斯拉夫地区几个国家的前货币子单位。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A __tor.",
-          "zh": "一位医生。"
+          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
+          "zh": "老的"
         }
       }
     ]

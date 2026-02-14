@@ -6,209 +6,217 @@
   "solution": [
     [
       null,
-      "C",
+      "W",
       null,
-      null,
-      null,
-      "S",
-      null,
-      null,
-      "C"
-    ],
-    [
-      "P",
-      "A",
-      "T",
-      "H",
-      null,
-      "C",
       "D",
-      "N",
-      "A"
+      "P",
+      "I",
+      null,
+      null,
+      "B"
     ],
     [
-      "A",
-      "F",
-      null,
-      "A",
-      "R",
-      "E",
+      "S",
+      "I",
+      "G",
+      "M",
       "A",
       null,
+      "I",
+      "L",
       "L"
     ],
     [
+      null,
+      "K",
       "R",
-      "E",
-      "P",
-      "R",
+      null,
       "I",
       "N",
-      "T",
+      "N",
       null,
-      "E"
+      "O"
     ],
     [
-      "A",
-      null,
-      "L",
       "D",
-      null,
-      "A",
+      "I",
       "E",
       null,
+      "D",
+      "E",
+      "V",
+      "O",
       "N"
     ],
     [
-      "L",
+      "O",
       null,
       "A",
+      "T",
+      null,
       "W",
       "A",
-      "R",
-      "D",
-      "E",
+      null,
       "D"
     ],
     [
+      "U",
       "L",
-      null,
       "T",
+      "R",
       "A",
-      "X",
-      "I",
       null,
-      "V",
-      "A"
+      "L",
+      "I",
+      "E"
     ],
     [
-      "E",
-      "V",
-      "E",
-      "R",
+      "B",
+      null,
+      "L",
+      "I",
+      "T",
+      null,
+      "I",
+      "T",
+      null
+    ],
+    [
+      "L",
+      "A",
+      "Y",
       null,
       "O",
-      "V",
+      "L",
+      "D",
       "E",
       "R"
     ],
     [
-      "L",
-      null,
-      null,
       "E",
       null,
       null,
+      "A",
+      "M",
+      "P",
       null,
-      "N",
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        8
+        1,
+        4
       ],
       [
-        7,
-        3
-      ],
-      [
-        6,
+        3,
         5
+      ],
+      [
+        3,
+        6
       ],
       [
         5,
         2
       ],
       [
-        2,
-        6
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        1,
+        7,
         0
       ],
       [
-        0,
-        5
+        7,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        6
       ],
       [
         1,
         6
       ],
       [
-        3,
-        5
+        1,
+        1
       ],
       [
-        1,
-        8
+        7,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        7
       ]
     ],
     "medium": [
       [
-        7,
-        8
+        1,
+        4
       ],
       [
-        7,
-        3
-      ],
-      [
-        6,
+        3,
         5
+      ],
+      [
+        3,
+        6
       ],
       [
         5,
         2
       ],
       [
-        2,
-        6
+        7,
+        0
+      ],
+      [
+        7,
+        7
       ],
       [
         6,
-        3
+        0
       ],
       [
-        1,
+        3,
         2
       ],
       [
-        6,
-        4
+        7,
+        8
       ]
     ],
     "hard": [
       [
-        7,
-        8
+        1,
+        4
       ],
       [
-        7,
-        3
-      ],
-      [
-        6,
+        3,
         5
+      ],
+      [
+        3,
+        6
       ],
       [
         5,
@@ -219,30 +227,39 @@
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A trail for the use of, or worn by, pedestrians.",
-          "zh": "供行人使用或行走的小径。"
+          "en": "Dots per inch",
+          "zh": "分辨率"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 5,
+        "col": 0,
         "clue": {
-          "en": "Initialism of complementary DNA.",
-          "zh": "互补DNA的首字母缩写。"
+          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
+          "zh": "希腊字母σ"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A measure of the extent of a surface; it is measured in square units.",
-          "zh": "表面范围的测量；它以平方单位测量。"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
         }
       },
       {
@@ -250,44 +267,71 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A book, pamphlet or other printed matter that has been published once before but is now being released again.",
-          "zh": "以前出版过一次但现在再次出版的书籍、小册子或其他印刷品。"
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "死"
         }
       },
       {
-        "num": 15,
-        "row": 5,
-        "col": 2,
+        "num": 12,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case; to adjudge",
-          "zh": "通过判决或司法裁决作出；仔细考虑案件的性质后进行分配或分摊；判断"
+          "en": "(Eastern Australia) A type of processed meat sausage.",
+          "zh": "德文郡"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An __royalist in France.",
+          "zh": "极端主义者"
         }
       },
       {
         "num": 18,
-        "row": 6,
-        "col": 2,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "A vehicle that may be hired for single journeys by members of the public, driven by a __ driver.",
-          "zh": "由出租车司机驾驶、可供公众租用单次旅程的车辆。"
+          "en": "The terrain and conditions surrounding the ball before it is struck.",
+          "zh": "说谎"
         }
       },
       {
         "num": 20,
-        "row": 7,
-        "col": 0,
+        "row": 6,
+        "col": 2,
         "clue": {
-          "en": "Occurring at any time, occurring even but once during a timespan.",
-          "zh": "随时发生，在一个时间跨度内甚至只发生一次。"
+          "en": "To start (a fire).",
+          "zh": "点亮"
         }
       },
       {
-        "num": 21,
+        "num": 22,
         "row": 7,
-        "col": 5,
+        "col": 0,
         "clue": {
-          "en": "A set of six legal balls bowled.",
-          "zh": "一组六个合法球被投出。"
+          "en": "Arrangement or relationship; __out.",
+          "zh": "躺着"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+          "zh": "较老的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "Short for __ere.",
+          "zh": "放大器"
         }
       }
     ],
@@ -297,44 +341,35 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A convenience store, originally one that sold coffee and similar basic items.",
-          "zh": "一家便利店，最初是一家出售咖啡和类似基本物品的商店。"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "An outline of the plot of a dramatic or literary work.",
-          "zh": "戏剧或文学作品的情节概要。"
+          "en": "A collaborative website which can be directly edited merely by using a web browser, often by anyone with access to it.",
+          "zh": "维基百科"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "Any system by which time is divided into days, weeks, months, and years.",
-          "zh": "将时间分为日、周、月和年的任何系统。"
+          "en": "To give money or other compensation to in exchange for goods or services.",
+          "zh": "有薪酬的"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "One of a set of __ lines.",
-          "zh": "一组平行线中的一条。"
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发女郎"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Fixtures, equipment, tools and devices used for general-purpose construction and repair of a structure or object. Also such equipment as sold as stock by a store of the same name, e.g. __ store.",
-          "zh": "用于结构或物体的通用建造和维修的固定装置、设备、工具和装置。此类设备也由同名商店作为库存出售，例如五金店。"
+          "en": "To a great extent or degree.",
+          "zh": "大大地"
         }
       },
       {
@@ -342,26 +377,53 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
-          "zh": "注明书写或执行的时间或地点；在文书中表达其执行的时间。"
+          "en": "Not valid; not true, correct, acceptable or appropriate.",
+          "zh": "无效的"
         }
       },
       {
-        "num": 12,
-        "row": 3,
-        "col": 2,
+        "num": 10,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
-          "zh": "稍微弯曲但几乎平坦的盘子，用于盛放或食用食物。"
+          "en": "Things that are __.",
+          "zh": "新的"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Twice the number, amount, size, etc.",
+          "zh": "双倍的"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "__athlon",
+          "zh": "三"
         }
       },
       {
         "num": 17,
         "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "(diminutive) An __ number.",
-          "zh": "（小数）偶数。"
+          "en": "A distinct physical object.",
+          "zh": "物品"
         }
       }
     ]

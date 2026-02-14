@@ -6,124 +6,140 @@
   "solution": [
     [
       null,
-      "P",
+      "T",
       null,
       null,
       null,
-      "R",
       null,
+      "S",
       null,
-      "P"
+      "S"
     ],
     [
       "V",
-      "O",
-      "L",
+      "I",
+      "S",
       "T",
+      "A",
+      null,
+      "P",
+      "S",
+      "T"
+    ],
+    [
       null,
       "E",
-      "V",
+      "E",
+      null,
+      "D",
+      "R",
+      "Y",
       "E",
       "R"
     ],
     [
-      "A",
-      "L",
-      null,
-      "R",
-      "I",
       "P",
+      "R",
       "E",
       null,
-      "O"
-    ],
-    [
-      "L",
-      "O",
-      "C",
       "A",
+      "A",
+      null,
       "T",
-      "O",
-      "R",
-      null,
-      "V"
-    ],
-    [
-      "U",
-      null,
-      "H",
-      "I",
-      null,
-      "R",
-      "S",
-      null,
       "I"
     ],
     [
-      "A",
+      "R",
       null,
-      "I",
-      "N",
+      "D",
+      "E",
+      "P",
+      "T",
+      "H",
+      null,
+      "C"
+    ],
+    [
+      "E",
       "S",
+      null,
+      "Y",
+      "T",
+      null,
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "T",
+      "H",
+      "R",
+      "E",
+      "E",
+      null,
+      "R",
+      "A",
+      null
+    ],
+    [
       "T",
       "E",
       "A",
-      "D"
-    ],
-    [
-      "B",
-      null,
-      "N",
-      "I",
-      "N",
-      "E",
-      null,
-      "W",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "A",
-      "N",
       null,
       "R",
       "E",
-      "A",
-      "R"
+      "M",
+      "I",
+      "X"
     ],
     [
-      "E",
-      null,
-      null,
-      "G",
-      null,
-      null,
-      null,
       "Y",
+      null,
+      "N",
+      null,
+      null,
+      null,
+      null,
+      "L",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        5,
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        5
+      ],
+      [
         1,
-        3
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        4,
-        3
+        4
       ],
       [
         0,
         8
       ],
       [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
         4,
+        0
+      ],
+      [
+        2,
         2
       ],
       [
@@ -131,88 +147,72 @@
         0
       ],
       [
-        5,
+        3,
         4
       ],
       [
-        4,
-        6
+        5,
+        1
       ],
       [
         0,
-        5
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        1,
         6
       ],
       [
-        2,
-        0
-      ],
-      [
-        7,
-        6
+        6,
+        2
       ]
     ],
     "medium": [
       [
+        5,
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        5
+      ],
+      [
         1,
-        3
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        4,
-        3
+        4
       ],
       [
         0,
         8
       ],
       [
-        4,
-        2
+        2,
+        6
       ],
       [
         3,
-        0
-      ],
-      [
-        5,
-        4
+        8
       ],
       [
         4,
-        6
+        0
       ]
     ],
     "hard": [
       [
-        1,
+        5,
         3
       ],
       [
-        3,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        0,
+        2,
         8
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        4
       ]
     ]
   },
@@ -223,71 +223,80 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "In the International System of Units, the derived unit of electrical potential and electromotive force (__age); the potential difference across a conductor when a current of one ampere uses one watt of power. Symbol: V",
-          "zh": "国际单位制中电势和电动势（电压）的派生单位；当一安培的电流使用一瓦的功率时导体两端的电势差。符号：V"
+          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
+          "zh": "远景"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Occurring at any time, occurring even but once during a timespan.",
-          "zh": "随时发生，在一个时间跨度内甚至只发生一次。"
+          "en": "Implies that the speaker is sending secret or whispered information to another person.",
+          "zh": "太平洋标准时间"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A fruit or vegetable which has __ned.",
-          "zh": "已经成熟的水果或蔬菜。"
+          "en": "One who, or that which, dries; a desiccative.",
+          "zh": "烘干机"
         }
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "One who, or that which, locates.",
-          "zh": "一个谁，或者那个，定位。"
+          "en": "Before (something significant).",
+          "zh": "前"
         }
       },
       {
         "num": 15,
-        "row": 5,
+        "row": 4,
         "col": 2,
         "clue": {
-          "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
-          "zh": "代替某物（通常前面提到过）；作为替代品或替代品。"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 9.",
-          "zh": "数字或数字 9。"
-        }
-      },
-      {
-        "num": 20,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "(of an object taller than its width and depth) An inclination away from the vertical.",
-          "zh": "（高于其宽度和深度的物体）偏离垂直方向的倾斜。"
+          "en": "The vertical distance below a surface; the degree to which something is deep",
+          "zh": "深度"
         }
       },
       {
         "num": 21,
-        "row": 7,
-        "col": 5,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "To bring up to maturity, as offspring; to educate; to instruct; to foster.",
-          "zh": "作为后代，抚养成熟；教育；指示；培养。"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 3.",
+          "zh": "三"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A rearrangement of an older piece of music, possibly including various cosmetic changes.",
+          "zh": "混音"
         }
       }
     ],
@@ -297,17 +306,17 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal.",
-          "zh": "一种球类运动，两队球员骑在马背上，使用长柄木槌将球沿着地面推入对手的球门。"
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Someone or something that reports.",
-          "zh": "报告的某人或某事。"
+          "en": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).",
+          "zh": "间谍"
         }
       },
       {
@@ -315,53 +324,98 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "One who, or that which, provides a service, commodity, or the means for subsistence.",
-          "zh": "提供服务、商品或生存资料的人或事物。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A personal possession such as jewellery, of relatively great monetary value; — usually used in plural form.",
-          "zh": "具有相对较高货币价值的个人财产，例如珠宝； - 通常以复数形式使用。"
+          "en": "Strained; drawn close; tight.",
+          "zh": "严格的"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "To practice an ability.",
-          "zh": "去练习一种能力。"
+          "en": "A fertilized and ripened ovule, containing an embryonic plant.",
+          "zh": "种子"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
-          "zh": "具有规则格律和固定韵律的诗歌形式。"
+          "en": "One who is capable of adapting to differing situations.",
+          "zh": "适配器"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A medium-sized rodent belonging to the genus __tus.",
+          "zh": "老鼠"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The plant Smilax __, a liana of much of eastern Asia.",
-          "zh": "菝葜植物，东亚大部分地区的藤本植物。"
+          "en": "A __ person; a term of address to a __ person.",
+          "zh": "漂亮的"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
         "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Physical injury; hurt; damage",
+          "zh": "伤害"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A female.",
+          "zh": "她"
+        }
+      },
+      {
+        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "To depart; to go to another place.",
-          "zh": "离开；去另一个地方。"
+          "en": "The thin, horny plate at the ends of fingers and toes on humans and some other animals.",
+          "zh": "指甲"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "To run.",
+          "zh": "跑"
         }
       }
     ]

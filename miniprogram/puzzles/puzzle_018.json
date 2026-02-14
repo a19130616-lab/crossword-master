@@ -5,251 +5,264 @@
   "cols": 7,
   "solution": [
     [
-      "T",
-      null,
       null,
       "S",
+      "I",
+      "M",
       null,
+      "C",
+      "B"
+    ],
+    [
+      "S",
       null,
-      "W"
+      "N",
+      "A",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      null,
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "R",
+      null,
+      "C",
+      null,
+      "A",
+      "N"
     ],
     [
       "O",
-      "B",
-      "S",
+      "M",
+      null,
+      "H",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "L",
+      "O",
+      "W",
       "E",
       "R",
-      "V",
+      null,
       "E"
     ],
     [
-      "D",
-      null,
-      "K",
-      "A",
-      "I",
-      null,
-      "A"
-    ],
-    [
-      "D",
-      "U",
-      "I",
-      null,
-      "V",
-      "A",
-      "T"
-    ],
-    [
       "L",
-      null,
-      "L",
-      "E",
-      "E",
-      null,
-      "H"
-    ],
-    [
-      "E",
-      "N",
-      "L",
-      "A",
-      "R",
-      "G",
-      "E"
-    ],
-    [
       "R",
       null,
-      null,
-      "U",
-      null,
-      null,
-      "R"
+      "D",
+      "A",
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         5,
-        4
+        0
       ],
       [
-        3,
-        5
+        0,
+        6
       ],
       [
         6,
         3
       ],
       [
-        2,
-        0
-      ],
-      [
-        1,
-        0
+        0,
+        3
       ],
       [
         2,
-        2
+        3
       ],
       [
-        6,
-        0
-      ],
-      [
-        1,
+        3,
         1
       ],
       [
-        5,
-        2
+        4,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
       ]
     ],
     "medium": [
       [
         5,
-        4
+        0
       ],
       [
-        3,
-        5
+        0,
+        6
       ],
       [
         6,
         3
       ],
       [
-        2,
-        0
+        0,
+        3
       ],
       [
-        1,
-        0
+        2,
+        3
       ]
     ],
     "hard": [
       [
         5,
-        4
+        0
       ],
       [
-        3,
-        5
+        0,
+        6
+      ],
+      [
+        6,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "To notice or view, especially carefully or with attention to detail.",
-          "zh": "注意到或观察，特别仔细或注意细节。"
+          "en": "A __ulation or __ulator.",
+          "zh": "模拟"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 1,
         "col": 2,
         "clue": {
-          "en": "Food",
-          "zh": "食物"
+          "en": "Of or relating to a navy.",
+          "zh": "海军"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "作为伙伴一起工作或协作的两个人；尤其是那些一起演奏音乐的人。"
+          "en": "An act of throwing.",
+          "zh": "投掷"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "A large tub, such as is used for making wine or for tanning.",
-          "zh": "一个大浴缸，例如用于酿酒或晒黑的。"
-        }
-      },
-      {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A protected cove or harbor, out of the wind.",
-          "zh": "避风、受保护的海湾或港口。"
+          "en": "To grasp or grip.",
+          "zh": "握住"
         }
       },
       {
-        "num": 12,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To make larger.",
-          "zh": "为了做大。"
+          "en": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+          "zh": "降低"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "(degree) To a given extent or degree.",
+          "zh": "数据"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "A young child who has started walking but not fully mastered it, typically between one and three years old.",
-          "zh": "已经开始走路但尚未完全掌握的幼儿，通常在一岁到三岁之间。"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A large body of salt water.",
-          "zh": "一大片咸水。"
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
-          "zh": "特定时间和地点的大气的短期状态，包括温度、相对湿度、云量、降水量、风等。"
+          "en": "To agree; to be equal; to correspond.",
+          "zh": "匹配的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An artificial waterway or artificially improved river used for travel, shipping, or irrigation.",
+          "zh": "运河"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "Capacity to do something well; technique, ability. __s are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
-          "zh": "做好某事的能力；技术，能力。技能通常是获得或学习的，而不是能力，而能力通常被认为是与生俱来的。"
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发女郎"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.",
-          "zh": "排干陆地的大型且通常蜿蜒的河流，将水从较高的地区带到较低的地区，通常最终流入另一个水体，例如海洋或内海。"
+          "en": "A roll of paper or parchment; a writing formed into a roll.",
+          "zh": "滚动"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Misspelling of __",
-          "zh": "__ 的拼写错误"
+          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "zh": "盔甲"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
         }
       }
     ]

@@ -6,335 +6,242 @@
   "solution": [
     [
       null,
-      "L",
-      null,
-      null,
-      null,
       null,
       "I",
+      "N",
+      "T",
       null,
-      "P"
+      null,
+      null,
+      "S"
     ],
     [
-      "V",
-      "I",
-      "L",
-      "L",
       "A",
-      null,
-      "S",
-      "H",
-      "E"
-    ],
-    [
-      null,
-      "F",
-      "O",
-      null,
       "D",
+      "S",
+      null,
+      "A",
+      "S",
+      "S",
       "E",
-      "P",
-      "O",
       "T"
     ],
     [
-      "L",
-      "E",
-      "S",
       null,
-      "V",
       "A",
-      null,
       "P",
-      "I"
-    ],
-    [
-      "E",
-      null,
-      "S",
-      "C",
-      "A",
-      "R",
+      "P",
+      "L",
       "Y",
       null,
-      "T"
-    ],
-    [
-      "N",
-      "D",
-      null,
-      "H",
-      "N",
-      null,
-      "A",
-      "C",
+      "M",
       "E"
     ],
     [
       "S",
-      "O",
-      "N",
-      "I",
-      "C",
+      "M",
       null,
       "L",
+      "E",
+      "S",
+      null,
+      "P",
+      "A"
+    ],
+    [
+      "C",
       "A",
-      null
+      "S",
+      "A",
+      null,
+      "T",
+      "I",
+      "E",
+      "D"
     ],
     [
       "E",
-      "C",
-      "O",
+      "G",
       null,
+      "S",
+      "H",
       "E",
-      "N",
-      "E",
-      "M",
+      null,
+      "R",
       "Y"
     ],
     [
-      "S",
-      null,
-      "R",
-      null,
-      null,
-      null,
-      null,
+      "N",
       "E",
+      null,
+      "M",
+      "A",
+      "M",
+      "B",
+      "O",
+      null
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "L",
+      null,
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "C",
+      null,
+      null,
+      null,
+      "F",
+      "I",
+      "T",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        0
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        5,
-        4
-      ],
-      [
         6,
-        1
-      ],
-      [
-        2,
         5
       ],
       [
-        5,
+        8,
         6
-      ],
-      [
-        2,
-        1
       ],
       [
         3,
-        2
+        4
       ],
       [
-        4,
-        6
+        0,
+        4
       ],
       [
-        4,
+        3,
+        8
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
         3
       ],
       [
         7,
-        4
+        7
       ],
       [
         2,
-        8
+        3
       ],
       [
-        7,
+        8,
         0
       ],
       [
-        7,
-        5
+        5,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
       ]
     ],
     "medium": [
       [
-        3,
-        0
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        5,
-        4
-      ],
-      [
         6,
-        1
-      ],
-      [
-        2,
         5
       ],
       [
-        5,
+        8,
         6
       ],
       [
-        2,
-        1
+        3,
+        4
+      ],
+      [
+        0,
+        4
       ],
       [
         3,
-        2
+        8
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        2,
+        3
       ]
     ],
     "hard": [
       [
+        6,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
         3,
-        0
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        5,
         4
       ],
       [
-        6,
-        1
+        0,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A number that is not a fraction; an element of the infinite and numerable set {..., -3, -2, -1, 0, 1, 2, 3, ...}.",
+          "zh": "整数"
+        }
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(plural \"__s\") A house, often larger and more expensive than average, in the countryside or on the coast, often used as a retreat.",
-          "zh": "（复数“别墅”）位于乡村或海岸的房屋，通常比一般房屋更大且更昂贵，通常用作休养所。"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "A female.",
-          "zh": "一名女性。"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A storage facility, in particular, a warehouse.",
-          "zh": "储存设施，特别是仓库。"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
-          "zh": "同性恋女性，主要或完全被其他女性性或浪漫吸引的女性。"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "Causing or able to cause fright.",
-          "zh": "引起或能够引起惊吓。"
-        }
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A single point or spot on a playing card or die.",
-          "zh": "扑克牌或骰子上的单个点或点。"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "Of or relating to sound.",
-          "zh": "属于或与声音有关的。"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "Environmentally friendly or sensitive.",
-          "zh": "环保或敏感。"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
-          "zh": "对他人怀有敌意、仇恨、反对他人利益或意图伤害他人的人。"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-          "zh": "生物体死亡前的状态，以新陈代谢和繁殖等生物过程为特征，并将其与无生命物体区分开来；活着和活着的状态。"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
-          "zh": "任何仅通过痕迹化石已知的物种，例如脚印、粪化石或巢穴。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "(especially of a woman) fairly short and of slim build.",
-          "zh": "（尤其是女性）身材矮小且苗条。"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
-          "zh": "由于外部原因或错误放置而不再拥有某个物体、功能或特征的结果。"
+          "en": "Advertisement.",
+          "zh": "广告"
         }
       },
       {
@@ -342,8 +249,136 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A forward move; improvement or progression.",
-          "zh": "向前迈进；改善或进步。"
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To lay or place; to put (one thing to another)",
+          "zh": "申请"
+        }
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
+          "zh": "莱斯"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "House",
+          "zh": "卡萨"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "To twist (a string, rope, or the like) around itself securely.",
+          "zh": "捆绑"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "A female.",
+          "zh": "她"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A voodoo priestess (in Haiti)",
+          "zh": "曼波"
+        }
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The degree to which something __s.",
+          "zh": "合身"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
+          "zh": "互联网服务供应商"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+          "zh": "故事"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A rest or support, as for the hand, a tool, or a piece of work.",
+          "zh": "稳定的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To impair the soundness, goodness, or value of; to harm or cause destruction.",
+          "zh": "损坏的"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
@@ -351,17 +386,17 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A short jump.",
-          "zh": "一个短跳。"
+          "en": "The male monarch or ruler of an empire.",
+          "zh": "皇帝"
         }
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The organ of h__ing, consisting of the pinna, auditory canal, __drum, malleus, incus, stapes and cochlea.",
-          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
+          "en": "A state of matter consisting of partially ionized gas and electrons",
+          "zh": "等离子体"
         }
       },
       {
@@ -369,53 +404,26 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
-          "zh": "通常由玻璃制成的物体，可以对穿过它的光进行聚焦或散焦。"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
-          "zh": "古典和现代希腊字母表的第二十二个字母。"
-        }
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goat-like four-legged creature with large horns that it can swivel in any direction.",
-          "zh": "欧洲神话和纹章中的一种神兽，通常被描绘成一种类似羚羊或山羊的四足生物，长着可以向任何方向旋转的大角。"
+          "en": "A depiction of scenery",
+          "zh": "风景优美的"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A __tor.",
-          "zh": "一位医生。"
+          "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+          "zh": "一半"
         }
       },
       {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "Used to indicate that the following event, period, or change in state occurred in the past, after a time of waiting, enduring, or anticipation",
-          "zh": "用于表示以下事件、时期或状态变化发生在过去，经过一段时间的等待、忍受或预期"
-        }
-      },
-      {
-        "num": 24,
+        "num": 23,
         "row": 6,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "And not (introducing a negative statement, without necessarily following one).",
-          "zh": "而不是（引入否定陈述，不一定遵循否定陈述）。"
+          "en": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
+          "zh": "蝙蝠"
         }
       }
     ]

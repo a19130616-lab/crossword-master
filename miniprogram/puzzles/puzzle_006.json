@@ -6,73 +6,73 @@
   "solution": [
     [
       null,
+      "A",
+      "R",
       "M",
-      "I",
-      "X",
       null
     ],
     [
-      "D",
-      "I",
+      "L",
+      "T",
       null,
       "E",
-      "E"
+      "M"
     ],
     [
+      "B",
+      "L",
       "A",
-      "N",
-      "G",
-      "R",
-      "Y"
+      "D",
+      "E"
     ],
     [
-      "N",
-      "U",
+      "S",
+      "A",
       null,
-      "O",
-      "E"
+      "I",
+      "T"
     ],
     [
       null,
       "S",
-      "O",
-      "X",
+      "P",
+      "A",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        3
-      ],
-      [
-        0,
-        3
+        1,
+        4
       ],
       [
         3,
-        1
+        4
+      ],
+      [
+        3,
+        0
       ],
       [
         2,
-        3
+        4
       ]
     ],
     "medium": [
       [
-        3,
-        3
+        1,
+        4
       ],
       [
-        0,
-        3
+        3,
+        4
       ]
     ],
     "hard": [
       [
-        3,
-        3
+        1,
+        4
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "To stir together.",
-          "zh": "搅拌在一起。"
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "Displaying or feeling anger.",
-          "zh": "表现出或感到愤怒。"
+          "en": "The sharp cutting edge of a knife, chisel, or other tool, a razor __/sword.",
+          "zh": "刀刃"
         }
       },
       {
@@ -101,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "脚部的针织或机织覆盖物。"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
         }
       }
     ],
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The __ sign (−).",
-          "zh": "减号 (−)。"
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A photocopy.",
-          "zh": "复印件。"
+          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+          "zh": "媒体"
         }
       },
       {
@@ -130,8 +130,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
-          "zh": "类似于“大师”或“父亲”的荣誉称号，用于过去的历史和传奇人物。"
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
         }
       },
       {
@@ -139,8 +139,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "动物观察的器官（通过光感知周围环境）。"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       }
     ]

@@ -6,81 +6,81 @@
   "solution": [
     [
       null,
-      "P",
-      "L",
-      "U",
-      "S"
-    ],
-    [
-      "E",
-      null,
+      "C",
       "A",
       "S",
-      "H"
+      "A"
     ],
     [
-      "V",
-      "I",
-      "D",
-      "E",
-      "O"
+      "A",
+      null,
+      "M",
+      "A",
+      "C"
     ],
     [
-      "I",
-      "D",
-      "E",
+      "C",
+      "R",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "N",
       null,
       "E"
     ],
     [
-      "L",
       "E",
-      "N",
-      "S",
+      "D",
+      "G",
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        0
+        4,
+        1
+      ],
+      [
+        2,
+        4
       ],
       [
         1,
-        2
+        4
+      ],
+      [
+        1,
+        3
       ],
       [
         3,
         2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        1
       ]
     ],
     "medium": [
       [
-        3,
-        0
+        4,
+        1
+      ],
+      [
+        2,
+        4
       ],
       [
         1,
-        2
-      ],
-      [
-        3,
-        2
+        4
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        4,
+        1
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A positive quantity.",
-          "zh": "正数。"
+          "en": "House",
+          "zh": "卡萨"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "火灾的固体残骸。"
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "Television, television show, movie.",
-          "zh": "电视，电视剧，电影。"
+          "en": "A royal, imperial or princely headdress; a diadem.",
+          "zh": "王冠"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
-          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
-          "zh": "通常由玻璃制成的物体，可以对穿过它的光进行聚焦或散焦。"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "To fill or load (related to cargo or a shipment).",
-          "zh": "填充或装载（与货物或装运有关）。"
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
+          "zh": "之中"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用的行为。"
+          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+          "zh": "锯"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. __s generally do not extend above the ankle, as opposed to boots, which do.",
-          "zh": "足部的保护层，底部由厚皮革或塑料鞋底组成，通常有较厚的鞋跟，上部较软，由皮革或合成材料制成。鞋子通常不会延伸到脚踝以上，而靴子则可以。"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
-          "zh": "道德败坏；邪恶；恶意;与善相反或敌人的力量或行为。"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A freshwater fish of the family Cyprinidae, found across northern Europe and Asia, especially Leuciscus idus.",
-          "zh": "鲤科的一种淡水鱼，分布于北欧和亚洲，尤其是雅罗鱼。"
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
         }
       }
     ]

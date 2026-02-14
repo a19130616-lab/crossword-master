@@ -5,95 +5,130 @@
   "cols": 5,
   "solution": [
     [
-      "S",
-      null,
-      null,
-      null,
-      "B"
-    ],
-    [
-      "H",
+      "U",
+      "R",
+      "G",
       "E",
-      "L",
-      "L",
-      "O"
+      null
     ],
     [
-      "A",
-      null,
-      "O",
+      "S",
+      "I",
+      "R",
       null,
       "A"
     ],
     [
-      "P",
-      "O",
-      "W",
       "E",
-      "R"
+      "M",
+      "A",
+      "I",
+      "L"
     ],
     [
+      "D",
+      null,
+      "D",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "K",
       "E",
-      null,
-      null,
-      null,
-      "D"
+      "N",
+      "O"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        0
+        2,
+        3
       ],
       [
-        2,
+        4,
         4
       ],
       [
-        2,
+        1,
+        0
+      ],
+      [
+        0,
         2
       ],
       [
-        3,
-        3
+        4,
+        1
       ]
     ],
     "medium": [
       [
-        4,
-        0
+        2,
+        3
       ],
       [
-        2,
+        4,
         4
+      ],
+      [
+        1,
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        0
+        2,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
+        "num": 1,
+        "row": 0,
         "col": 0,
         "clue": {
-          "en": "\"__!\" or an equivalent greeting.",
-          "zh": "“你好！”或同等的问候语。"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 4,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "Ability to do or undergo something.",
-          "zh": "做某事或经历某事的能力。"
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A system for transferring messages from one computer to another, usually through a network.",
+          "zh": "电子邮件"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A small, round spot.",
+          "zh": "点"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A gambling game, a variety of the game of lotto, played with balls or knobs, numbered, and cards also numbered.",
+          "zh": "基诺牌戏"
         }
       }
     ],
@@ -103,26 +138,44 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "The status or condition of something",
-          "zh": "某事物的状态或状况"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
-          "zh": "任何材料的相对长、宽、薄的一块，通常是木材或类似材料，通常用于建筑或家具制造。"
+          "en": "An edge around something, especially when circular.",
+          "zh": "边缘"
         }
       },
       {
-        "num": 4,
-        "row": 1,
+        "num": 3,
+        "row": 0,
         "col": 2,
         "clue": {
-          "en": "Something that is __; a __ point.",
-          "zh": "低的东西；一个低点。"
+          "en": "A rating.",
+          "zh": "年级"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "An atom or group of atoms bearing an electrical charge, such as the sodium and chlorine atoms in a salt solut__.",
+          "zh": "离子"
         }
       }
     ]

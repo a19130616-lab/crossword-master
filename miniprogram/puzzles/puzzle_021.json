@@ -6,112 +6,120 @@
   "solution": [
     [
       null,
-      "G",
-      null,
-      null,
-      null,
-      null,
-      "A",
-      null,
-      "I"
-    ],
-    [
-      "A",
-      "L",
-      "P",
-      "H",
-      "A",
-      null,
-      "P",
-      "O",
-      "T"
-    ],
-    [
-      null,
-      "E",
-      "L",
-      null,
-      "L",
-      "O",
       "T",
-      "U",
-      "S"
+      null,
+      null,
+      null,
+      null,
+      "A",
+      null,
+      "U"
     ],
     [
-      "G",
-      "N",
-      "U",
+      "C",
+      "Y",
+      "C",
+      "L",
+      "E",
       null,
       "R",
-      "I",
-      null,
-      "T",
-      "E"
+      "E",
+      "P"
     ],
     [
+      null,
+      "P",
+      "L",
+      null,
+      "V",
       "O",
-      null,
-      "S",
-      "M",
-      "E",
-      "L",
-      "L",
-      null,
+      "C",
+      "A",
       "L"
     ],
     [
-      "S",
+      "L",
+      "E",
       "U",
       null,
       "I",
+      "L",
+      null,
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      null,
+      "B",
+      "U",
+      "D",
+      "D",
+      "Y",
+      null,
+      "A"
+    ],
+    [
+      "C",
       "A",
       null,
-      "O",
-      "F",
-      "F"
-    ],
-    [
-      "S",
-      "P",
+      "N",
+      "E",
+      null,
       "E",
       "N",
-      "D",
-      null,
-      "S",
-      "I",
-      null
-    ],
-    [
-      "I",
-      "S",
-      "T",
-      null,
-      "Y",
-      "I",
-      "E",
-      "L",
       "D"
     ],
     [
-      "P",
+      "A",
+      "G",
+      "A",
+      "I",
+      "N",
       null,
-      "C",
+      "A",
+      "O",
+      null
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      null,
+      "T",
+      "H",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      "E",
+      null,
+      "T",
       null,
       null,
       null,
       null,
-      "L",
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
+        3,
+        2
+      ],
+      [
+        3,
         1
       ],
       [
-        5,
+        8,
+        0
+      ],
+      [
+        3,
         0
       ],
       [
@@ -119,66 +127,32 @@
         0
       ],
       [
-        1,
-        1
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        6,
-        0
-      ],
-      [
         7,
+        6
+      ],
+      [
+        4,
         4
       ],
       [
-        1,
-        7
-      ],
-      [
-        7,
-        2
-      ],
-      [
         2,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        1,
         6
       ],
       [
         5,
-        3
-      ]
-    ],
-    "medium": [
-      [
-        7,
-        1
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
-        1
+        8
       ],
       [
         0,
@@ -186,24 +160,24 @@
       ],
       [
         1,
-        0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        2,
-        2
+        1
       ]
     ],
-    "hard": [
+    "medium": [
       [
-        7,
+        3,
+        2
+      ],
+      [
+        3,
         1
       ],
       [
-        5,
+        8,
+        0
+      ],
+      [
+        3,
         0
       ],
       [
@@ -211,8 +185,34 @@
         0
       ],
       [
-        1,
+        7,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        2,
         1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        3,
+        0
       ]
     ]
   },
@@ -223,8 +223,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The name of the first letter of the Greek __bet (Α,  α), followed by beta. In the Latin __bet it is the predecessor to A.",
-          "zh": "名称采用希腊字母表的第一个字母（α、α），后面是 beta。在拉丁字母中，它是 A 的前身。"
+          "en": "An interval of space or time in which one set of events or phenomena is completed.",
+          "zh": "循环"
         }
       },
       {
@@ -232,8 +232,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
-          "zh": "用于烹饪食物的平底容器（通常是金属）。"
+          "en": "To __resent; to act as a __resentative for.",
+          "zh": "代表"
         }
       },
       {
@@ -241,8 +241,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "A kind of aquatic plant, genus Nelumbo in the family Nelumbonaceae.",
-          "zh": "莲科莲属的一种水生植物。"
+          "en": "A __ sound; specifically, a purely __ element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a sub__, and a non__",
+          "zh": "声乐"
         }
       },
       {
@@ -250,8 +250,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "羚羊属的一种大羚羊，原产于非洲，有弯曲的角。"
+          "en": "The unit of currency of Romania, equal to one hundred bani.",
+          "zh": "亮氨酸"
         }
       },
       {
@@ -259,8 +259,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
-          "zh": "一种愉快或不愉快的感觉，通过吸入携带空气中物质分子的空气（或者，对于呼吸水的动物，水）来检测。"
+          "en": "A friend or casual acquaintance.",
+          "zh": "伙伴"
         }
       },
       {
@@ -268,8 +268,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "(usually in phrases such as 'from the __', 'at the __', etc.) Beginning; starting point.",
-          "zh": "（通常用“from the __”、“at the __”等短语） 开始；起点。"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
@@ -277,8 +277,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "Amount of money spent (during a period); expenditure.",
-          "zh": "花费的金额（在一段时间内）；支出。"
+          "en": "Another time; once more.",
+          "zh": "再次"
         }
       },
       {
@@ -286,8 +286,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A practitioner or supporter of an ism",
-          "zh": "某种主义的实践者或支持者"
+          "en": "A unit of weight (mass) equal to 2240 pounds (a long __) or 2000 pounds (a short __) or 1000 kilograms (a metric __).",
+          "zh": "吨"
         }
       },
       {
@@ -295,8 +295,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "To pay, give in payment; repay, recompense; reward; requite.",
-          "zh": "付款，付款；偿还，报答；报酬;报答。"
+          "en": "To change place.",
+          "zh": "扔"
         }
       }
     ],
@@ -306,8 +306,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
-          "zh": "僻静而狭窄的山谷，尤其是有河流穿过的山谷；山谷；山之间的洼地。"
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         }
       },
       {
@@ -315,8 +315,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Suitable; appropriate; fit or fitted; suited.",
-          "zh": "合适的;合适的;适合或已安装；适合。"
+          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+          "zh": "弧"
         }
       },
       {
@@ -324,8 +324,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "(reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject",
-          "zh": "（反身代词）它；作为动词或介词的宾语的事物，也作为主语出现"
+          "en": "Such a file transfer.",
+          "zh": "上传"
         }
       },
       {
@@ -333,8 +333,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A positive quantity.",
-          "zh": "正数。"
+          "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+          "zh": "俱乐部"
         }
       },
       {
@@ -342,8 +342,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
-          "zh": "在某个特定时间之前，无论是过去、现在还是将来；到这个时候；之前。"
+          "en": "Obviously true by simple observation.",
+          "zh": "明显"
         }
       },
       {
@@ -351,8 +351,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A means of exit, escape, reprieve, etc.",
-          "zh": "退出、逃脱、缓刑等的手段。"
+          "en": "Something to be __en; a meal; a food item.",
+          "zh": "吃"
         }
       },
       {
@@ -360,8 +360,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "Liquid fat.",
-          "zh": "液体脂肪。"
+          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
+          "zh": "老的"
         }
       },
       {
@@ -369,8 +369,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Someone who likes to talk about other people's private or personal business.",
-          "zh": "喜欢谈论别人的私人或个人事务的人。"
+          "en": "To place; to set in a particular spot or position.",
+          "zh": "定位"
         }
       },
       {
@@ -378,8 +378,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "等于六十秒（一小时的六十分之一）的时间单位。"
+          "en": "__versity.",
+          "zh": "大学"
         }
       },
       {
@@ -387,8 +387,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
-          "zh": "由于不幸或未知的情况、事件或原因，导致某人不再拥有或无法拥有（某物）。"
+          "en": "A solar __, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+          "zh": "年"
         }
       },
       {
@@ -396,8 +396,8 @@
         "row": 5,
         "col": 1,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "与重力方向相反的方向。"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       },
       {
@@ -405,8 +405,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "To occupy fully, to take up all of.",
-          "zh": "完全占据，占据全部。"
+          "en": "The ninth hour of the day counted from sunrise; around three o'clock in the after__.",
+          "zh": "中午"
         }
       },
       {
@@ -414,8 +414,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "Alternative form of __.",
-          "zh": "等的替代形式"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         }
       }
     ]

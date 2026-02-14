@@ -6,137 +6,141 @@
   "solution": [
     [
       null,
-      "S",
-      null,
-      null,
-      null,
-      "A",
-      null,
-      null,
-      "R"
-    ],
-    [
-      "J",
-      "E",
-      "A",
-      "N",
-      null,
-      "G",
-      "I",
-      "V",
-      "E"
-    ],
-    [
-      "U",
-      "M",
-      null,
-      "O",
-      "V",
-      "E",
-      "N",
-      null,
-      "L"
-    ],
-    [
-      "D",
-      "I",
-      "S",
-      "T",
-      "A",
-      "N",
-      "T",
-      null,
-      "E"
-    ],
-    [
-      "I",
       null,
       "H",
-      "E",
       null,
-      "C",
-      "R",
       null,
+      "S",
+      null,
+      "N",
       "A"
     ],
     [
+      "E",
+      "P",
+      "I",
       "C",
       null,
-      "O",
-      "B",
-      "V",
+      "T",
+      "R",
       "I",
-      "O",
-      "U",
-      "S"
+      "M"
     ],
     [
-      "I",
       null,
-      "R",
-      "O",
+      "H",
       "P",
+      null,
+      null,
+      "A",
+      null,
+      "T",
+      "P"
+    ],
+    [
+      null,
+      "A",
+      null,
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "L",
+      null,
       "E",
       null,
+      "O",
+      null
+    ],
+    [
+      null,
+      "M",
+      "O",
+      "O",
+      "D",
+      null,
+      null,
+      "G",
+      null
+    ],
+    [
+      "B",
+      "A",
+      null,
+      "N",
+      "O",
+      "I",
       "S",
-      "E"
+      "E",
+      null
     ],
     [
       "A",
-      "U",
-      "T",
-      "O",
+      "C",
+      "I",
+      "D",
       null,
-      "S",
-      "H",
-      "E",
-      "D"
+      "N",
+      "O",
+      "N",
+      "E"
     ],
     [
-      "L",
+      "G",
+      "Y",
       null,
+      "E",
       null,
       "K",
+      "X",
       null,
-      null,
-      null,
-      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        5
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        4,
+        5,
         3
       ],
       [
         3,
+        3
+      ],
+      [
+        8,
         1
       ],
       [
-        4,
+        5,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
         2
       ],
       [
-        5,
+        0,
         7
       ],
       [
-        4,
-        5
+        6,
+        7
       ],
       [
         2,
-        3
+        5
       ],
       [
         4,
@@ -148,146 +152,138 @@
       ],
       [
         1,
-        0
+        2
       ],
       [
-        7,
-        3
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        0,
-        1
+        3,
+        7
       ]
     ],
     "medium": [
       [
-        2,
-        5
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        4,
+        5,
         3
       ],
       [
         3,
+        3
+      ],
+      [
+        8,
         1
       ],
       [
-        4,
+        5,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
         2
       ],
       [
-        5,
+        0,
         7
       ],
       [
-        4,
-        5
-      ],
-      [
-        2,
-        3
+        6,
+        7
       ]
     ],
     "hard": [
       [
-        2,
-        5
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        4,
+        5,
         3
       ],
       [
         3,
+        3
+      ],
+      [
+        8,
         1
+      ],
+      [
+        5,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Denim.",
-          "zh": "牛仔布。"
+          "en": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic __), other legend or traditional hero.",
+          "zh": "史诗"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
-          "zh": "当某物受力时所经历的弯曲量；在压力下有屈服的倾向；韧性。"
+          "en": "Decoration; especially, decoration placed along edges or borders.",
+          "zh": "修剪"
         }
       },
       {
-        "num": 9,
-        "row": 2,
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "用于烘烤或加热的室。"
+          "en": "A person who bakes and sells bread, cakes and similar items.",
+          "zh": "面包师"
         }
       },
       {
         "num": 11,
-        "row": 3,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "Far off (physically, logically or mentally).",
-          "zh": "距离很远（身体上、逻辑上或精神上）。"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
         }
       },
       {
-        "num": 15,
+        "num": 13,
         "row": 5,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Easily discovered, seen, or understood; self-explanatory.",
-          "zh": "容易发现、看见或理解；不言自明的。"
+          "en": "A mental or emotional state, composure.",
+          "zh": "情绪"
         }
       },
       {
-        "num": 18,
+        "num": 16,
         "row": 6,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
-          "zh": "粗绳、纱线、单丝、金属线或其他绳索绞合在一起形成更坚固的线。"
+          "en": "Various sounds, usually unwanted or unpleasant.",
+          "zh": "噪音"
+        }
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A sour substance.",
+          "zh": "酸"
         }
       },
       {
         "num": 20,
         "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An __mobile.",
-          "zh": "一辆汽车。"
-        }
-      },
-      {
-        "num": 21,
-        "row": 7,
         "col": 5,
         "clue": {
-          "en": "To part, separate or divide.",
-          "zh": "分开、分开或分开。"
+          "en": "A person without religious affiliation.",
+          "zh": "没有任何"
         }
       }
     ],
@@ -295,10 +291,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A __-detached house.",
-          "zh": "半独立式住宅。"
+          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
+          "zh": "臀部"
         }
       },
       {
@@ -306,62 +302,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "The capacity, condition, or state of acting or of exerting power.",
-          "zh": "行动或施加权力的能力、条件或状态。"
+          "en": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
+          "zh": "赌注"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "To let go (of); to cease to hold or contain.",
-          "zh": "放开（的）；停止持有或遏制。"
+          "en": "The chemical element (symbol N) with an atomic number of 7 and atomic weight of 14.0067. It is a colorless and odorless gas.",
+          "zh": "氮"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "That branch of government which is responsible for maintaining the courts of law and for the administration of justice.",
-          "zh": "负责维持法院和司法行政的政府部门。"
+          "en": "Short for __ere.",
+          "zh": "放大器"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "(countable) A place where prescription drugs are dispensed; a dispensary.",
+          "zh": "药店"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A book in which notes or memoranda are written.",
-          "zh": "写有笔记或备忘录的书。"
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发女郎"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
+        "num": 15,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "An __duction.",
-          "zh": "简介。"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A __ circuit.",
-          "zh": "短路。"
+          "en": "A flexible container made of cloth, paper, plastic, etc.",
+          "zh": "包"
         }
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 7,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "利用或雇用。"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜队"
         }
       }
     ]
