@@ -64,9 +64,31 @@ function handleTouch(x, y) {
       else for (const btn of UI.puzzleBtns) if (inRect(x, y, btn)) { const puzzle = loadPuzzleByIndex(btn.idx); if (puzzle) engine.initPuzzle(puzzle, btn.idx); break }
       break
     case 'play': {
+      // Clue list overlay intercepts all touches when open
+      if (State.showClueList) {
+        if (UI.clueListCloseBtn && inRect(x, y, UI.clueListCloseBtn)) {
+          State.showClueList = false
+          return
+        }
+        if (UI.clueListItems) {
+          for (const item of UI.clueListItems) {
+            if (inRect(x, y, item)) {
+              engine.selectClue(item.clue, item.direction)
+              return
+            }
+          }
+        }
+        if (UI.clueListPanel && !inRect(x, y, UI.clueListPanel)) {
+          State.showClueList = false
+        }
+        return
+      }
       if (inRect(x, y, UI.backBtn)) { State.screen = 'puzzles'; return }
+      if (UI.checkBtn && inRect(x, y, UI.checkBtn)) { engine.checkAnswers(); return }
+      if (UI.dirToggleBtn && inRect(x, y, UI.dirToggleBtn)) { engine.toggleDirection(); return }
       const L = State.layout
       if (y >= L.keyboardY) { engine.Keyboard.handleTap(x, y); return }
+      if (UI.clueBarBtn && inRect(x, y, UI.clueBarBtn)) { State.showClueList = true; State.clueListScrollY = 0; return }
       if (x >= L.gridX && x < L.gridX + L.gridWidth && y >= L.gridY && y < L.gridY + L.gridHeight) {
         const relX = x - L.innerX
         const relY = y - L.innerY
@@ -105,24 +127,35 @@ let didScroll = false
 
 wx.onTouchStart(e => {
   const t = e.touches[0]
-  if (t && State.screen === 'puzzles') {
+  if (!t) return
+  if (State.screen === 'puzzles') {
     touchStartY = t.clientY
     touchStartScrollY = State.puzzleScrollY || 0
+    didScroll = false
+  } else if (State.screen === 'play' && State.showClueList) {
+    touchStartY = t.clientY
+    touchStartScrollY = State.clueListScrollY || 0
     didScroll = false
   }
 })
 
 wx.onTouchMove(e => {
   const t = e.touches[0]
-  if (t && State.screen === 'puzzles') {
+  if (!t) return
+  if (State.screen === 'puzzles') {
     const dy = touchStartY - t.clientY
     if (Math.abs(dy) > 5) didScroll = true
     State.puzzleScrollY = Math.max(0, touchStartScrollY + dy)
+  } else if (State.screen === 'play' && State.showClueList) {
+    const dy = touchStartY - t.clientY
+    if (Math.abs(dy) > 5) didScroll = true
+    const maxScroll = Math.max(0, (UI.clueListContentH || 0) - (UI.clueListPanel?.h || 300) + 80)
+    State.clueListScrollY = Math.max(0, Math.min(maxScroll, touchStartScrollY + dy))
   }
 })
 
 function loop() {
-  render(ctx, { State, Theme, Font, W, H, SAFE_TOP, DIFFICULTIES, UI, Keyboard: engine.Keyboard, getWordCells: engine.getWordCells, getCellNumber: engine.getCellNumber, getCurrentClue: engine.getCurrentClue })
+  render(ctx, { State, Theme, Font, W, H, SAFE_TOP, DIFFICULTIES, UI, Keyboard: engine.Keyboard, getWordCells: engine.getWordCells, getCellNumber: engine.getCellNumber, getCurrentClue: engine.getCurrentClue, isClueCompleted: engine.isClueCompleted })
   requestAnimationFrame(loop)
 }
 

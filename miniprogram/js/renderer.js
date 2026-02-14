@@ -189,6 +189,7 @@ function renderPlay(ctx, deps) {
   const L = State.layout
   const { rows, cols } = L
 
+  // Header: back, title, check button, timer
   ctx.fillStyle = Theme.textTertiary
   ctx.font = Font.subhead
   ctx.textAlign = 'left'
@@ -200,11 +201,21 @@ function renderPlay(ctx, deps) {
   ctx.textAlign = 'center'
   ctx.fillText(State.puzzle.title, W / 2, L.headerY + 30)
 
+  // Check button
+  const checkFlash = State.checkTime && (Date.now() - State.checkTime < 800)
+  const hasErrors = State.errorCells.length > 0
+  ctx.fillStyle = checkFlash ? (hasErrors ? '#EF5350' : Theme.green) : Theme.blue
+  ctx.font = Font.headline
+  ctx.textAlign = 'right'
+  ctx.fillText('Check', W - 48, L.headerY + 30)
+  UI.checkBtn = { x: W - 96, y: L.headerY, w: 84, h: L.headerH }
+
+  // Timer
   const elapsed = Math.floor((Date.now() - State.startTime) / 1000)
   ctx.fillStyle = Theme.textTertiary
-  ctx.font = Font.subhead
+  ctx.font = Font.caption
   ctx.textAlign = 'right'
-  ctx.fillText(`${Math.floor(elapsed / 60)}:${(elapsed % 60).toString().padStart(2, '0')}`, W - 12, L.headerY + 30)
+  ctx.fillText(`${Math.floor(elapsed / 60)}:${(elapsed % 60).toString().padStart(2, '0')}`, W - 12, L.headerY + 18)
 
   const wordCells = getWordCells(State.activeRow, State.activeCol, State.direction)
 
@@ -213,6 +224,8 @@ function renderPlay(ctx, deps) {
 
   ctx.fillStyle = Theme.gridLineColor
   ctx.fillRect(L.innerX, L.innerY, L.gridWidth - L.border * 2, L.gridHeight - L.border * 2)
+
+  const now = Date.now()
 
   for (let r = 0; r < rows; r++) {
     for (let c = 0; c < cols; c++) {
@@ -231,7 +244,22 @@ function renderPlay(ctx, deps) {
       const isActive = State.activeRow === r && State.activeCol === c
       const inWord = wordCells.some(([wr, wc]) => wr === r && wc === c)
 
-      ctx.fillStyle = isActive ? Theme.cellActive : (inWord ? Theme.cellActiveWord : Theme.cellBg)
+      // Hint flash (400ms)
+      const isHintFlash = State.hintFlashCell
+        && State.hintFlashCell.r === r
+        && State.hintFlashCell.c === c
+        && (now - State.hintFlashCell.time < 400)
+
+      // Error flash (800ms)
+      const isError = State.errorCells.length > 0
+        && State.errorCells.some(e => e.r === r && e.c === c)
+        && (now - State.checkTime < 800)
+
+      ctx.fillStyle = isError     ? Theme.cellError
+                    : isHintFlash ? Theme.cellHintFlash
+                    : isActive    ? Theme.cellActive
+                    : inWord      ? Theme.cellActiveWord
+                    : Theme.cellBg
       ctx.fillRect(cellX, cellY, L.cellSize, L.cellSize)
 
       const num = getCellNumber(r, c)
@@ -244,7 +272,7 @@ function renderPlay(ctx, deps) {
       }
 
       if (cell.val) {
-        ctx.fillStyle = Theme.text
+        ctx.fillStyle = isError ? '#EF5350' : Theme.text
         ctx.font = Font.gridLetter(L.cellSize)
         ctx.textAlign = 'center'
         ctx.textBaseline = 'middle'
@@ -293,6 +321,7 @@ function renderPlay(ctx, deps) {
   const percentage = Math.round(progress * 100)
   ctx.fillText(`${percentage}% Complete (${filledCells}/${totalCells})`, W / 2, progressBarY + progressBarHeight + 16)
 
+  // Clue bar
   ctx.fillStyle = Theme.clueBarBg
   ctx.fillRect(0, L.clueY, W, L.clueH)
 
@@ -305,11 +334,34 @@ function renderPlay(ctx, deps) {
 
   const clue = getCurrentClue()
   if (clue) {
+    // Clue number
     ctx.fillStyle = Theme.blue
     ctx.font = Font.caption
     ctx.textAlign = 'left'
-    ctx.fillText(`${clue.num} ${State.direction.toUpperCase()}`, 16, L.clueY + 18)
+    ctx.fillText(`${clue.num}`, 16, L.clueY + 18)
 
+    // Direction pill
+    const dirLabel = State.direction === 'across' ? 'ACROSS \u2192' : 'DOWN \u2193'
+    ctx.font = Font.caption
+    const numWidth = ctx.measureText(`${clue.num} `).width
+    const dirPillX = 16 + numWidth
+    const dirPillW = ctx.measureText(dirLabel).width + 14
+    const dirPillH = 20
+    const dirPillY = L.clueY + 6
+
+    const dirFlash = State.directionToggleTime && (now - State.directionToggleTime < 300)
+    ctx.fillStyle = dirFlash ? Theme.orange : Theme.blue
+    roundRect(ctx, dirPillX, dirPillY, dirPillW, dirPillH, 10)
+    ctx.fill()
+
+    ctx.fillStyle = Theme.textOnDark
+    ctx.font = Font.caption
+    ctx.textAlign = 'center'
+    ctx.fillText(dirLabel, dirPillX + dirPillW / 2, dirPillY + 14)
+
+    UI.dirToggleBtn = { x: dirPillX, y: dirPillY, w: dirPillW, h: dirPillH }
+
+    // Clue text
     const clueText = clue.clue ? (State.lang === 'en' ? clue.clue.en : clue.clue.zh) : (State.lang === 'en' ? clue.text : clue.textZh)
 
     ctx.fillStyle = Theme.text
@@ -322,7 +374,7 @@ function renderPlay(ctx, deps) {
       ctx.fillText(lines[i], 16, L.clueY + 40 + i * lineHeight)
     }
   } else {
-    // If an active word exists but clue lookup failed, avoid showing the helper text
+    UI.dirToggleBtn = null
     const fallback = (State.grid && !State.grid[State.activeRow]?.[State.activeCol]?.isBlack)
     if (!fallback) {
       ctx.fillStyle = Theme.textTertiary
@@ -332,22 +384,32 @@ function renderPlay(ctx, deps) {
     }
   }
 
+  // Hint count in clue bar
   ctx.fillStyle = Theme.orange
   ctx.font = Font.subhead
   ctx.textAlign = 'right'
-  ctx.fillText(`💡 ${State.hints}`, W - 16, L.clueY + 32)
+  ctx.fillText(`💡 ${State.hints}`, W - 16, L.clueY + 18)
 
-  drawKeyboard(ctx, { Theme, Font, W, Keyboard, L })
+  // Clue bar tap area (for opening clue list) — left portion, excluding hint area
+  UI.clueBarBtn = { x: 0, y: L.clueY, w: W - 70, h: L.clueH }
+
+  drawKeyboard(ctx, { Theme, Font, W, Keyboard, L, State })
+
+  // Clue list overlay
+  if (State.showClueList) renderClueList(ctx, deps)
 }
 
 function drawKeyboard(ctx, deps) {
-  const { Theme, Font, W, Keyboard, L } = deps
+  const { Theme, Font, W, Keyboard, L, State } = deps
 
   ctx.fillStyle = Theme.keyboardBg
   ctx.fillRect(0, L.keyboardY, W, L.keyboardH + L.homeIndicatorH)
 
   for (const k of Keyboard.layout) {
     const isPressed = Keyboard.pressedKey === k.key
+    const isHintDimmed = k.key === '💡' && State.hints <= 0
+
+    if (isHintDimmed) ctx.globalAlpha = 0.3
 
     if (!isPressed) {
       ctx.fillStyle = Theme.keyShadow
@@ -364,6 +426,8 @@ function drawKeyboard(ctx, deps) {
     ctx.textAlign = 'center'
     ctx.textBaseline = 'middle'
     ctx.fillText(k.key, k.x + k.w / 2, k.y + k.h / 2 - (isPressed ? 0 : 1))
+
+    if (isHintDimmed) ctx.globalAlpha = 1.0
   }
   ctx.textBaseline = 'alphabetic'
 }
@@ -429,6 +493,103 @@ function renderComplete(ctx, deps) {
   UI.completeMenuBtn = { x: 16, y: menuY, w: W - 32, h: 48 }
 }
 
+function renderClueList(ctx, deps) {
+  const { State, Theme, Font, W, H, UI } = deps
+
+  // Semi-transparent overlay
+  ctx.fillStyle = 'rgba(0,0,0,0.5)'
+  ctx.fillRect(0, 0, W, H)
+
+  // White panel
+  const panelPad = 16
+  const panelY = H * 0.08
+  const panelH = H * 0.84
+  const panelW = W - panelPad * 2
+
+  ctx.fillStyle = Theme.surface
+  roundRect(ctx, panelPad, panelY, panelW, panelH, 16)
+  ctx.fill()
+
+  // Title
+  ctx.fillStyle = Theme.text
+  ctx.font = Font.headline
+  ctx.textAlign = 'center'
+  ctx.fillText('All Clues', W / 2, panelY + 30)
+
+  // Close button
+  ctx.fillStyle = Theme.textTertiary
+  ctx.font = Font.headline
+  ctx.textAlign = 'right'
+  ctx.fillText('\u2715', panelPad + panelW - 12, panelY + 30)
+  UI.clueListCloseBtn = { x: panelPad + panelW - 40, y: panelY, w: 40, h: 44 }
+
+  // Clue content with clipping
+  ctx.save()
+  ctx.beginPath()
+  ctx.rect(panelPad, panelY + 44, panelW, panelH - 44)
+  ctx.clip()
+
+  const scrollY = State.clueListScrollY || 0
+  let y = panelY + 60 - scrollY
+  const lineH = 32
+  const contentX = panelPad + 12
+
+  UI.clueListItems = []
+
+  // ACROSS section
+  ctx.fillStyle = Theme.blue
+  ctx.font = Font.caption
+  ctx.textAlign = 'left'
+  ctx.fillText('ACROSS', contentX, y)
+  y += 22
+
+  for (const clue of State.puzzle.clues.across) {
+    const completed = deps.isClueCompleted ? deps.isClueCompleted(clue, 'across') : false
+    const clueText = clue.clue
+      ? (State.lang === 'en' ? clue.clue.en : clue.clue.zh)
+      : (State.lang === 'en' ? clue.text : clue.textZh)
+
+    ctx.fillStyle = completed ? Theme.green : Theme.text
+    ctx.font = Font.body
+    ctx.textAlign = 'left'
+    const prefix = completed ? '\u2713 ' : ''
+    const displayText = `${prefix}${clue.num}. ${clueText || ''}`
+    ctx.fillText(displayText, contentX, y, panelW - 24)
+
+    UI.clueListItems.push({ clue, direction: 'across', x: panelPad, y: y - 16, w: panelW, h: lineH })
+    y += lineH
+  }
+
+  // DOWN section
+  y += 10
+  ctx.fillStyle = Theme.blue
+  ctx.font = Font.caption
+  ctx.fillText('DOWN', contentX, y)
+  y += 22
+
+  for (const clue of State.puzzle.clues.down) {
+    const completed = deps.isClueCompleted ? deps.isClueCompleted(clue, 'down') : false
+    const clueText = clue.clue
+      ? (State.lang === 'en' ? clue.clue.en : clue.clue.zh)
+      : (State.lang === 'en' ? clue.text : clue.textZh)
+
+    ctx.fillStyle = completed ? Theme.green : Theme.text
+    ctx.font = Font.body
+    ctx.textAlign = 'left'
+    const prefix = completed ? '\u2713 ' : ''
+    const displayText = `${prefix}${clue.num}. ${clueText || ''}`
+    ctx.fillText(displayText, contentX, y, panelW - 24)
+
+    UI.clueListItems.push({ clue, direction: 'down', x: panelPad, y: y - 16, w: panelW, h: lineH })
+    y += lineH
+  }
+
+  UI.clueListContentH = (y + scrollY) - (panelY + 60)
+  UI.clueListPanel = { x: panelPad, y: panelY, w: panelW, h: panelH }
+
+  ctx.restore()
+}
+
 function wrapText(ctx, text, maxWidth) {
   if (!text) return []
   const lines = []
@@ -470,4 +631,4 @@ function wrapText(ctx, text, maxWidth) {
   return lines
 }
 
-module.exports = { render, renderMenu, renderLevels, renderPuzzles, renderPlay, renderComplete, drawKeyboard }
+module.exports = { render, renderMenu, renderLevels, renderPuzzles, renderPlay, renderComplete, renderClueList, drawKeyboard }

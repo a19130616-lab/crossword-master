@@ -23,6 +23,8 @@ const Theme = {
   blue: '#1976D2',
   green: '#388E3C',
   orange: '#F57C00',
+  cellHintFlash: '#42A5F5',
+  cellError: '#FFCDD2',
 
   clueBarBg: '#EEEEEE',
   clueBarBorder: '#CCCCCC',

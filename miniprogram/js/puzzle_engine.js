@@ -228,6 +228,7 @@ function createEngine(deps) {
     if (isSameCell) {
       if (hasAcross && hasDown) {
         State.direction = State.direction === 'across' ? 'down' : 'across'
+        State.directionToggleTime = Date.now()
       } else if (hasAcross) {
         State.direction = 'across'
       } else if (hasDown) {
@@ -338,6 +339,7 @@ function createEngine(deps) {
     cell.val = cell.answer
     cell.status = 'locked'
     State.hints--
+    State.hintFlashCell = { r: State.activeRow, c: State.activeCol, time: Date.now() }
     saveProgress()
 
     moveToNextCell()
@@ -372,6 +374,70 @@ function createEngine(deps) {
     setTimeout(() => { State.screen = 'complete' }, 500)
 
     return true
+  }
+
+  function toggleDirection() {
+    const r = State.activeRow, c = State.activeCol
+    const hasAcross = cellHasDirection(r, c, 'across')
+    const hasDown = cellHasDirection(r, c, 'down')
+    if (hasAcross && hasDown) {
+      State.direction = State.direction === 'across' ? 'down' : 'across'
+      State.directionToggleTime = Date.now()
+      Haptics.tap()
+    }
+  }
+
+  function checkAnswers() {
+    const errors = []
+    for (let r = 0; r < State.grid.length; r++) {
+      for (let c = 0; c < State.grid[r].length; c++) {
+        const cell = State.grid[r][c]
+        if (cell.isBlack || cell.status === 'locked') continue
+        if (cell.status === 'filled' && cell.val !== cell.answer) {
+          errors.push({ r, c })
+        }
+      }
+    }
+    if (errors.length > 0) {
+      State.errorCells = errors
+      State.checkTime = Date.now()
+      Haptics.error()
+      setTimeout(() => {
+        for (const { r, c } of errors) {
+          const cell = State.grid[r]?.[c]
+          if (cell && cell.status === 'filled' && cell.val !== cell.answer) {
+            cell.val = ''
+            cell.status = 'empty'
+          }
+        }
+        State.errorCells = []
+      }, 800)
+    } else {
+      Haptics.tap()
+    }
+  }
+
+  function selectClue(clue, direction) {
+    State.activeRow = clue.row
+    State.activeCol = clue.col
+    State.direction = direction
+    State.showClueList = false
+    const cells = getWordCells(clue.row, clue.col, direction)
+    for (const [r, c] of cells) {
+      if (State.grid[r][c].status === 'empty') {
+        State.activeRow = r
+        State.activeCol = c
+        break
+      }
+    }
+  }
+
+  function isClueCompleted(clue, direction) {
+    const cells = getWordCells(clue.row, clue.col, direction)
+    return cells.every(([r, c]) => {
+      const cell = State.grid[r]?.[c]
+      return cell && cell.val && cell.val.trim() !== ''
+    })
   }
 
   const Keyboard = {
@@ -442,6 +508,10 @@ function createEngine(deps) {
     checkWinCondition,
     moveToNextCell,
     moveToPrevCell,
+    toggleDirection,
+    checkAnswers,
+    selectClue,
+    isClueCompleted,
     Keyboard
   }
 }

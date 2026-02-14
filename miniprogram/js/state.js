@@ -17,7 +17,15 @@ const State = {
   lang: 'en',
   startTime: 0,
   layout: null,
-  puzzleScrollY: 0
+  puzzleScrollY: 0,
+  // Animation state
+  hintFlashCell: null,
+  errorCells: [],
+  checkTime: 0,
+  directionToggleTime: 0,
+  // Clue list overlay
+  showClueList: false,
+  clueListScrollY: 0
 }
 
 function loadProgress() {
