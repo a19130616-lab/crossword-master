@@ -21,8 +21,12 @@ const SAFE_TOP = Math.max(STATUS_BAR, safeArea.top || 0)
 const SAFE_BOTTOM = H - (safeArea.bottom || H)
 const HOME_INDICATOR = Math.max(SAFE_BOTTOM, 34)
 
+const dpr = sys.pixelRatio || 2
 const canvas = wx.createCanvas()
+canvas.width = W * dpr
+canvas.height = H * dpr
 const ctx = canvas.getContext('2d')
+ctx.scale(dpr, dpr)
 
 const Haptics = {
   tap() { try { wx.vibrateShort({ type: 'light' }) } catch (e) {} },
