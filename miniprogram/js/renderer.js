@@ -65,7 +65,7 @@ function renderMenu(ctx, deps) {
 
   ctx.fillStyle = Theme.textSecondary
   ctx.font = Font.body
-  ctx.fillText(State.lang === 'en' ? '🇬🇧 English hints' : '🇨🇳 中文提示', W / 2, langY + 30)
+  ctx.fillText(State.lang === 'en' ? 'EN  English hints' : 'ZH  中文提示', W / 2, langY + 30)
 
   UI.menuLangBtn = { x: 16, y: langY, w: W - 32, h: 48 }
 }
