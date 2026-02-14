@@ -1,0 +1,371 @@
+{
+  "id": "puzzle_025",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "C",
+      null,
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "B",
+      "E",
+      null,
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      null,
+      "N",
+      "O",
+      "S",
+      "E",
+      null,
+      "R"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "T",
+      "I",
+      "A",
+      "L",
+      null,
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "P",
+      "I",
+      null,
+      "G",
+      "T",
+      null,
+      "N"
+    ],
+    [
+      "L",
+      null,
+      "A",
+      "T",
+      "T",
+      "R",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "I",
+      null,
+      "R",
+      "I",
+      "P",
+      "E",
+      null,
+      "A",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      null,
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      null,
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        7
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        7
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        7
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        8
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A baby or infant; a very young human or animal.",
+          "zh": "宝贝"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Pertaining to (the dimension of) space.",
+          "zh": "空间的"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "To pull toward without touching.",
+          "zh": "吸引"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A fruit or vegetable which has __ned.",
+          "zh": "成熟"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
+          "zh": "营"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A person fulfilling a __ role.",
+          "zh": "父母的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A line that is a base for measurement or for construction.",
+          "zh": "基线"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form.",
+          "zh": "实体"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
+          "zh": "大车"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

@@ -1,0 +1,277 @@
+{
+  "id": "puzzle_014",
+  "title": "Medium #4",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "R",
+      "A",
+      "M",
+      null,
+      "M"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      null,
+      "H",
+      "D",
+      null,
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      null,
+      null,
+      null,
+      "L",
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "A",
+      null,
+      "B",
+      "T",
+      null
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "L",
+      null,
+      "E",
+      "R",
+      "A",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A male sheep, typically uncastrated",
+          "zh": "公羊"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Effective management of a community or system, or especially its resources.",
+          "zh": "经济"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A main road or highway, especially in ancient Rome. (Mainly used in set phrases, below.)",
+          "zh": "通过"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A transitional or temporary period between other events.",
+          "zh": "临时"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A series of interconnected rings or links usually made of metal.",
+          "zh": "链"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A __tuberculate.",
+          "zh": "多"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "An item of underwear worn to support the breasts; now commonly shortened to __.",
+          "zh": "胸罩"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

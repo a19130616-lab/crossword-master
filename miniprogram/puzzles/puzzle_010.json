@@ -1,0 +1,150 @@
+{
+  "id": "puzzle_010",
+  "title": "Easy #10",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "M",
+      "I",
+      "D",
+      null
+    ],
+    [
+      "A",
+      "A",
+      null,
+      "E",
+      "O"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "O",
+      "C",
+      null,
+      "A",
+      "D"
+    ],
+    [
+      null,
+      "H",
+      "E",
+      "Y",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Denoting the __dle part.",
+          "zh": "中"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A grating; a grid of wire or a sheet of material with a pattern of holes or slots, usually used to protect something while allowing the passage of air and liquids. Typical uses: to allow air through a fan while preventing fingers or objects from passing; to allow people to talk to somebody, while preventing attack.",
+          "zh": "炙烤"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "行进"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A period of time before an event occurs; the act of __ing; procrastination; lingering inactivity.",
+          "zh": "延迟"
+        }
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
+          "zh": "老的"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

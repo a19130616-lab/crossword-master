@@ -1,0 +1,250 @@
+{
+  "id": "puzzle_019",
+  "title": "Medium #9",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "E",
+      null,
+      "D",
+      null,
+      null,
+      "C"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      null,
+      "H",
+      "I",
+      "S",
+      null,
+      "I",
+      "A"
+    ],
+    [
+      "P",
+      "N",
+      null,
+      "T",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "O",
+      "I",
+      null,
+      "I",
+      "C",
+      "E",
+      null
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      "M",
+      null,
+      null,
+      "Y",
+      null,
+      "A",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An act of __ing.",
+          "zh": "拉紧"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Honorific alternative letter-case form of __, sometimes used when referring to God or another important figure who is understood from context.",
+          "zh": "他的"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A pavilion or portable lodge consisting of skins, canvas, or some strong cloth, stretched and sustained by poles, used for sheltering people from the weather.",
+          "zh": "帐篷"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        }
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Effective management of a community or system, or especially its resources.",
+          "zh": "经济"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An __ person, especially a foreigner or member of an immigrant community.",
+          "zh": "种族的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "That to which any person or thing is destined; a predetermined state; a condition predestined by the Divine or by human will",
+          "zh": "命运"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Informal conversation.",
+          "zh": "聊天"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A movie theatre, a movie house",
+          "zh": "电影"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A literary piece written in verse.",
+          "zh": "诗"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Environmentally friendly or sensitive.",
+          "zh": "生态"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

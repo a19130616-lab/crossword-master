@@ -1,0 +1,247 @@
+{
+  "id": "puzzle_011",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "B"
+    ],
+    [
+      null,
+      "G",
+      null,
+      "M",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      null,
+      "U",
+      "S",
+      "E",
+      "D",
+      null,
+      "A"
+    ],
+    [
+      "U",
+      "N",
+      "K",
+      "N",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "N",
+      null,
+      "I",
+      "D",
+      "L",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      "E",
+      null,
+      "B",
+      null
+    ],
+    [
+      "O",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A form of acting without words; panto__.",
+          "zh": "哑剧"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To undo the process of knowing, to lose knowledge of something.",
+          "zh": "未知"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "An __ animation.",
+          "zh": "闲置的"
+        }
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "(auxiliary) A syntactic marker.",
+          "zh": "完毕"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To make better; improve.",
+          "zh": "修正的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A reusable software component written in Java.",
+          "zh": "豆"
+        }
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+          "zh": "枪"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
+          "zh": "偶像"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "The outer protective layer of the body of any animal, including of a human.",
+          "zh": "皮肤"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An operation that reverses a previous action.",
+          "zh": "撤消"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "The World Wide __.",
+          "zh": "网"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

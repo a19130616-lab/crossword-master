@@ -1,0 +1,212 @@
+[
+  {
+    "id": "puzzle_001",
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_001.json"
+  },
+  {
+    "id": "puzzle_002",
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_002.json"
+  },
+  {
+    "id": "puzzle_003",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_003.json"
+  },
+  {
+    "id": "puzzle_004",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_004.json"
+  },
+  {
+    "id": "puzzle_005",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_005.json"
+  },
+  {
+    "id": "puzzle_006",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_006.json"
+  },
+  {
+    "id": "puzzle_007",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_007.json"
+  },
+  {
+    "id": "puzzle_008",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_008.json"
+  },
+  {
+    "id": "puzzle_009",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_009.json"
+  },
+  {
+    "id": "puzzle_010",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_010.json"
+  },
+  {
+    "id": "puzzle_011",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_011.json"
+  },
+  {
+    "id": "puzzle_012",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_012.json"
+  },
+  {
+    "id": "puzzle_013",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_013.json"
+  },
+  {
+    "id": "puzzle_014",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_014.json"
+  },
+  {
+    "id": "puzzle_015",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_015.json"
+  },
+  {
+    "id": "puzzle_016",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_016.json"
+  },
+  {
+    "id": "puzzle_017",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_017.json"
+  },
+  {
+    "id": "puzzle_018",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_018.json"
+  },
+  {
+    "id": "puzzle_019",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_019.json"
+  },
+  {
+    "id": "puzzle_020",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_020.json"
+  },
+  {
+    "id": "puzzle_021",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_021.json"
+  },
+  {
+    "id": "puzzle_022",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_022.json"
+  },
+  {
+    "id": "puzzle_023",
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_023.json"
+  },
+  {
+    "id": "puzzle_024",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_024.json"
+  },
+  {
+    "id": "puzzle_025",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_025.json"
+  },
+  {
+    "id": "puzzle_026",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_026.json"
+  },
+  {
+    "id": "puzzle_027",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_027.json"
+  },
+  {
+    "id": "puzzle_028",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_028.json"
+  },
+  {
+    "id": "puzzle_029",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_029.json"
+  },
+  {
+    "id": "puzzle_030",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_030.json"
+  }
+]

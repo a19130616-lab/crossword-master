@@ -1,0 +1,406 @@
+{
+  "id": "puzzle_022",
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      null,
+      "L",
+      "O",
+      "B",
+      "B",
+      "Y"
+    ],
+    [
+      null,
+      "N",
+      "Y",
+      "L",
+      "O",
+      "N",
+      null,
+      "R",
+      "B"
+    ],
+    [
+      "S",
+      "G",
+      null,
+      "I",
+      "N",
+      "D",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "Y",
+      "O",
+      "U",
+      "N",
+      "G",
+      null,
+      "K",
+      "A",
+      "I"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "K",
+      "E",
+      "L",
+      null,
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "N",
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      null,
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "X",
+      null,
+      null,
+      "G",
+      null,
+      null,
+      "S",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An entryway or reception area; vestibule; passageway; corridor.",
+          "zh": "大堂"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
+          "zh": "室内的"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "People who are __; __ people, collectively; youth.",
+          "zh": "年轻的"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Food",
+          "zh": "凯"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
+          "zh": "镍"
+        }
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "问题"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
+        }
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To even the slightest extent, at all.",
+          "zh": "任何"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Evidence of a long-term debt, by which the __ issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the __ certificate. The rights of the holder are specified in the __ indenture, which contains the legal terms and conditions under which the __ was issued. __s are available in two forms: registered __s, and bearer __s.",
+          "zh": "纽带"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains.",
+          "zh": "杂交种"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To be __ (occurring, happening); to last, proceed or continue.",
+          "zh": "正在进行的"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To take a long position in.",
+          "zh": "最长"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Wide in extent or scope.",
+          "zh": "更广泛的"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To connect two or more things.",
+          "zh": "链接"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A set of rules that govern how words are combined to form phrases and sentences.",
+          "zh": "句法"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

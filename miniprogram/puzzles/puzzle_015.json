@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_015",
+  "title": "Medium #5",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "R",
+      "E",
+      "S",
+      null,
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      null,
+      "X",
+      "E",
+      "R",
+      "O",
+      "X"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "T",
+      null,
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "L",
+      null,
+      "T",
+      null,
+      "D",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      null,
+      "I",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "N",
+      "A",
+      null,
+      "D"
+    ],
+    [
+      "H",
+      "A",
+      null,
+      "G",
+      "N",
+      "U",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The act of __erving, withholding or keeping back.",
+          "zh": "资源"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A photocopy.",
+          "zh": "复印"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
+          "zh": "瓦"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The plant Smilax __, a liana of much of eastern Asia.",
+          "zh": "中国"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "__erior (describing the location of a shot in a film script, etc.)",
+          "zh": "分机"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "环境"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
+        }
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To increase in extent.",
+          "zh": "延长"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
+          "zh": "转变"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The name of the first letter of the Greek __bet (Α,  α), followed by beta. In the Latin __bet it is the predecessor to A.",
+          "zh": "希腊字母α"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "(auxiliary verb, defective) To know how to; to be able to.",
+          "zh": "能"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

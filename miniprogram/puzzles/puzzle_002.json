@@ -1,0 +1,141 @@
+{
+  "id": "puzzle_002",
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      null,
+      "C",
+      "O"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      null,
+      null,
+      null,
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A long, narrow, pliable strip of leather, cloth, or the like.",
+          "zh": "带子"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To bury in a grave.",
+          "zh": "国际米兰"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Person or thing without a shadow",
+          "zh": "ASCII码"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+          "zh": "运动"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A single point or spot on a playing card or die.",
+          "zh": "高手"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

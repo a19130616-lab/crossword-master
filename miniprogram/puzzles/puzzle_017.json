@@ -1,0 +1,277 @@
+{
+  "id": "puzzle_017",
+  "title": "Medium #7",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "C",
+      "O",
+      "N",
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "T",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      null,
+      "Y",
+      "N",
+      null,
+      "W",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      null,
+      null,
+      null,
+      "R",
+      "C"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      null,
+      "A",
+      "C",
+      null
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "C",
+      null,
+      "I",
+      "S",
+      "O",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The art of studying the different parts of any organized body, to discover their situation, structure, and economy.",
+          "zh": "解剖学"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "The quality of being __; __ness.",
+          "zh": "万"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+          "zh": "洞察力"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The state of being __lated, detached, or separated.",
+          "zh": "异"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "(auxiliary verb, defective) To know how to; to be able to.",
+          "zh": "能"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The present time.",
+          "zh": "现在"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Harmony.",
+          "zh": "同步"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "行进"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic __), other legend or traditional hero.",
+          "zh": "史诗"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The twenty-third letter of Classical and Modern Greek and the twenty-fifth letter of Old and Ancient Greek.",
+          "zh": "磅/平方英寸"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

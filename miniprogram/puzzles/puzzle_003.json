@@ -1,0 +1,132 @@
+{
+  "id": "puzzle_003",
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      null,
+      "I"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "U",
+      null,
+      "I",
+      null,
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "G",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "L"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To give as its foundation or starting point; to lay the foundation of.",
+          "zh": "基于"
+        }
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
+          "zh": "希腊字母σ"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A __nature, especially on emails or newsgroup postings.",
+          "zh": "信号"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

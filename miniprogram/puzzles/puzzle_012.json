@@ -1,0 +1,277 @@
+{
+  "id": "puzzle_012",
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "E",
+      "A",
+      "T",
+      null,
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "C",
+      "O",
+      "R",
+      "D"
+    ],
+    [
+      null,
+      "C",
+      "G",
+      null,
+      "N",
+      "I",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      null,
+      null,
+      null,
+      "G",
+      "E"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      null,
+      "F",
+      "H",
+      null
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "B",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      null,
+      "P",
+      "A",
+      "N",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Something to be __en; a meal; a food item.",
+          "zh": "吃"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A state of agreement; harmony; union.",
+          "zh": "和睦"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Nothing; zero.",
+          "zh": "零"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An acknowledgment of gratitude, respect or admiration; an accompanying gift.",
+          "zh": "贡"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "平底锅"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Narrow.",
+          "zh": "英语"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A unit of weight (mass) equal to 2240 pounds (a long __) or 2000 pounds (a short __) or 1000 kilograms (a metric __).",
+          "zh": "吨"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "An __ animation.",
+          "zh": "闲置的"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To happen or take place.",
+          "zh": "发生"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Straight, not bent.",
+          "zh": "正确的"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The __ of the external ear.",
+          "zh": "小费"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "Amusement, enjoyment or pleasure",
+          "zh": "乐趣"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

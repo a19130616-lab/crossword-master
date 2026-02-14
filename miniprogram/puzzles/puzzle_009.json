@@ -1,0 +1,185 @@
+{
+  "id": "puzzle_009",
+  "title": "Easy #9",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "C",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      null,
+      "M",
+      "A",
+      "C"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "N",
+      null,
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "House",
+          "zh": "卡萨"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A royal, imperial or princely headdress; a diadem.",
+          "zh": "王冠"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
+          "zh": "之中"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+          "zh": "锯"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

@@ -1,0 +1,132 @@
+{
+  "id": "puzzle_008",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "P",
+      null,
+      null,
+      null,
+      "N"
+    ],
+    [
+      "H",
+      "A",
+      "P",
+      "P",
+      "Y"
+    ],
+    [
+      "O",
+      null,
+      "A",
+      null,
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "B",
+      "O"
+    ],
+    [
+      "O",
+      null,
+      null,
+      null,
+      "N"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A __ event, thing, person, etc.",
+          "zh": "快乐的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "__charger.",
+          "zh": "涡轮"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A __graph.",
+          "zh": "照片"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

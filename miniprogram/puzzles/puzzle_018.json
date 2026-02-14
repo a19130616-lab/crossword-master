@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_018",
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "S",
+      "I",
+      "M",
+      null,
+      "C",
+      "B"
+    ],
+    [
+      "S",
+      null,
+      "N",
+      "A",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      null,
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "R",
+      null,
+      "C",
+      null,
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "M",
+      null,
+      "H",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "L",
+      "O",
+      "W",
+      "E",
+      "R",
+      null,
+      "E"
+    ],
+    [
+      "L",
+      "R",
+      null,
+      "D",
+      "A",
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A __ulation or __ulator.",
+          "zh": "模拟"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Of or relating to a navy.",
+          "zh": "海军"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "An act of throwing.",
+          "zh": "投掷"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To grasp or grip.",
+          "zh": "握住"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+          "zh": "降低"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "(degree) To a given extent or degree.",
+          "zh": "数据"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To agree; to be equal; to correspond.",
+          "zh": "匹配的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An artificial waterway or artificially improved river used for travel, shipping, or irrigation.",
+          "zh": "运河"
+        }
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发女郎"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A roll of paper or parchment; a writing formed into a roll.",
+          "zh": "滚动"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "zh": "盔甲"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

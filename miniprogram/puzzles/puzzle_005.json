@@ -1,0 +1,141 @@
+{
+  "id": "puzzle_005",
+  "title": "Easy #5",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "M",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      null,
+      "E",
+      "U"
+    ],
+    [
+      "B",
+      "L",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "O",
+      null,
+      null,
+      null,
+      "Y"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A member of the Los Angeles gang The __s.",
+          "zh": "血"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A voodoo priestess (in Haiti)",
+          "zh": "曼波"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+          "zh": "学习"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A semi-solid to almost solid colloid of a solid and a liquid, such as jelly, cheese or opal.",
+          "zh": "凝胶"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
+          "zh": "新"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

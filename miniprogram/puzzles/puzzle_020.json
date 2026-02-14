@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_020",
+  "title": "Medium #10",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "P",
+      "O",
+      "S",
+      null,
+      "P",
+      "S"
+    ],
+    [
+      "I",
+      null,
+      "U",
+      "P",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      null,
+      "A",
+      "O"
+    ],
+    [
+      "T",
+      "Z",
+      null,
+      "C",
+      null,
+      "R",
+      "R"
+    ],
+    [
+      "A",
+      "O",
+      null,
+      "I",
+      "S",
+      "L",
+      "E"
+    ],
+    [
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      null,
+      "D"
+    ],
+    [
+      "E",
+      "E",
+      null,
+      "Y",
+      "E",
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        1,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Disturbance or disruption.",
+          "zh": "沮丧的"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.",
+          "zh": "刀"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
+          "zh": "是的"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A means of exit, escape, reprieve, etc.",
+          "zh": "出去"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To state explicitly, or in detail, or as a condition.",
+          "zh": "指定"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A shelly concretion, usually rounded, and having a brilliant luster, with varying tints, found in the mantle, or between the mantle and shell, of certain bivalve mollusks, especially in the __ oysters and river mussels, and sometimes in certain univalves. It is usually due to a secretion of shelly substance around some irritating foreign particle. Its substance is the same as nacre, or mother-of-__. Round lustrous __s are used in jewellery.",
+          "zh": "珍珠"
+        }
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To keep (something) while not in use, generally in a place meant for that purpose.",
+          "zh": "已存储"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
+          "zh": "摄入量"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
+          "zh": "臭氧"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

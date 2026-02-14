@@ -1,0 +1,247 @@
+{
+  "id": "puzzle_016",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "S"
+    ],
+    [
+      null,
+      "A",
+      null,
+      "M",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      null,
+      "G",
+      "R",
+      "A",
+      "D",
+      null,
+      "G"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "L",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "Y",
+      null,
+      "P",
+      "L",
+      "A",
+      "N",
+      null
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "E",
+      null,
+      "T",
+      null
+    ],
+    [
+      "E",
+      null,
+      null,
+      "R",
+      null,
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "__ature, tiny, small.",
+          "zh": "小型的"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A unit of angle equal to 0.9 degrees, so that there are 100 __ians in a right angle.",
+          "zh": "毕业生"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A variable that can hold a single true/false (1/0) value.",
+          "zh": "布尔值"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+          "zh": "计划"
+        }
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To address (a person) using the pronoun __.",
+          "zh": "你"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Not large or big; insignificant; few in number.",
+          "zh": "较小"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "(sometimes also used uncountably) A visible indication.",
+          "zh": "符号"
+        }
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
+          "zh": "绳索"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+          "zh": "字节"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        }
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7
+}

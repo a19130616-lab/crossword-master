@@ -1,0 +1,185 @@
+{
+  "id": "puzzle_004",
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "A",
+      "T",
+      "O",
+      "M",
+      null
+    ],
+    [
+      "G",
+      "A",
+      "P",
+      null,
+      "M"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "D",
+      null,
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      null,
+      "P",
+      "A",
+      "T",
+      "H"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A medium-sized rodent belonging to the genus __tus.",
+          "zh": "老鼠"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A trail for the use of, or worn by, pedestrians.",
+          "zh": "小路"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A flat piece of coarse __erial used for wiping one’s feet, or as a decorative or protective floor covering.",
+          "zh": "垫"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

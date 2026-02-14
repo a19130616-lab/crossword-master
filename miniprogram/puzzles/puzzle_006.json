@@ -1,0 +1,150 @@
+{
+  "id": "puzzle_006",
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "A",
+      "R",
+      "M",
+      null
+    ],
+    [
+      "L",
+      "T",
+      null,
+      "E",
+      "M"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      null,
+      "I",
+      "T"
+    ],
+    [
+      null,
+      "S",
+      "P",
+      "A",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The sharp cutting edge of a knife, chisel, or other tool, a razor __/sword.",
+          "zh": "刀刃"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+          "zh": "媒体"
+        }
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
+        }
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5
+}

@@ -1,10 +1,16 @@
-const { LEVELS, PUZZLES } = require('./data')
+// data.js no longer used; puzzles loaded from JSON index
 const { Theme, Font } = require('./js/theme')
 const { inRect } = require('./js/utils')
-const { State, loadProgress, saveProgress } = require('./js/state')
+const { State, loadProgress, saveProgress, loadPuzzlesIndex } = require('./js/state')
 const { calculateLayout } = require('./js/layout')
 const { createEngine } = require('./js/puzzle_engine')
 const { render } = require('./js/renderer')
+
+const DIFFICULTIES = [
+  { key: 'easy', name: 'Easy' },
+  { key: 'medium', name: 'Medium' },
+  { key: 'hard', name: 'Hard' }
+]
 
 const sys = wx.getSystemInfoSync()
 const W = sys.windowWidth
@@ -24,8 +30,20 @@ const Haptics = {
   error() { try { wx.vibrateShort({ type: 'heavy' }) } catch (e) {} }
 }
 
-const engine = createEngine({ State, PUZZLES, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics })
+const engine = createEngine({ State, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics })
 const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
+
+function loadPuzzleByIndex(idx) {
+  const entry = State.puzzlesIndex[idx]
+  if (!entry) return null
+  try {
+    const fs = wx.getFileSystemManager()
+    const raw = fs.readFileSync(entry.file, 'utf8')
+    return JSON.parse(raw)
+  } catch (e) {
+    return null
+  }
+}
 
 function handleTouch(x, y) {
   switch (State.screen) {
@@ -35,11 +53,11 @@ function handleTouch(x, y) {
       break
     case 'levels':
       if (inRect(x, y, UI.backBtn)) State.screen = 'menu'
-      else for (const btn of UI.levelBtns) if (inRect(x, y, btn)) { State.level = btn.key; State.screen = 'puzzles'; break }
+      else for (const btn of UI.levelBtns) if (inRect(x, y, btn)) { State.difficulty = btn.key; saveProgress(); State.puzzleScrollY = 0; State.screen = 'puzzles'; break }
       break
     case 'puzzles':
       if (inRect(x, y, UI.backBtn)) State.screen = 'levels'
-      else for (const btn of UI.puzzleBtns) if (inRect(x, y, btn)) { engine.initPuzzle(State.level, btn.idx); break }
+      else for (const btn of UI.puzzleBtns) if (inRect(x, y, btn)) { const puzzle = loadPuzzleByIndex(btn.idx); if (puzzle) engine.initPuzzle(puzzle, btn.idx); break }
       break
     case 'play': {
       if (inRect(x, y, UI.backBtn)) { State.screen = 'puzzles'; return }
@@ -57,20 +75,53 @@ function handleTouch(x, y) {
     }
     case 'complete':
       if (inRect(x, y, UI.completeNextBtn)) {
-        const list = PUZZLES[State.level]
-        if (list && State.puzzleIndex + 1 < list.length) engine.initPuzzle(State.level, State.puzzleIndex + 1)
-        else State.screen = 'puzzles'
+        const nextIdx = State.puzzleIndex + 1
+        if (State.puzzlesIndex && nextIdx < State.puzzlesIndex.length) {
+          const puzzle = loadPuzzleByIndex(nextIdx)
+          if (puzzle) engine.initPuzzle(puzzle, nextIdx)
+          else State.screen = 'puzzles'
+        } else {
+          State.screen = 'puzzles'
+        }
       } else if (inRect(x, y, UI.completeMenuBtn)) State.screen = 'menu'
       break
   }
 }
 
-wx.onTouchEnd(e => { const t = e.changedTouches[0]; if (t) handleTouch(t.clientX, t.clientY) })
+wx.onTouchEnd(e => {
+  const t = e.changedTouches[0]
+  if (!t) return
+  if (didScroll) { didScroll = false; return }
+  handleTouch(t.clientX, t.clientY)
+})
+
+let touchStartY = 0
+let touchStartScrollY = 0
+let didScroll = false
+
+wx.onTouchStart(e => {
+  const t = e.touches[0]
+  if (t && State.screen === 'puzzles') {
+    touchStartY = t.clientY
+    touchStartScrollY = State.puzzleScrollY || 0
+    didScroll = false
+  }
+})
+
+wx.onTouchMove(e => {
+  const t = e.touches[0]
+  if (t && State.screen === 'puzzles') {
+    const dy = touchStartY - t.clientY
+    if (Math.abs(dy) > 5) didScroll = true
+    State.puzzleScrollY = Math.max(0, touchStartScrollY + dy)
+  }
+})
 
 function loop() {
-  render(ctx, { State, Theme, Font, W, H, SAFE_TOP, LEVELS, PUZZLES, UI, Keyboard: engine.Keyboard, getWordCells: engine.getWordCells, getCellNumber: engine.getCellNumber, getCurrentClue: engine.getCurrentClue })
+  render(ctx, { State, Theme, Font, W, H, SAFE_TOP, DIFFICULTIES, UI, Keyboard: engine.Keyboard, getWordCells: engine.getWordCells, getCellNumber: engine.getCellNumber, getCurrentClue: engine.getCurrentClue })
   requestAnimationFrame(loop)
 }
 
 loadProgress()
+loadPuzzlesIndex()
 loop()

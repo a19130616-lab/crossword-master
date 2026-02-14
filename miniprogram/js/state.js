@@ -2,19 +2,22 @@
 
 const State = {
   screen: 'menu',
-  level: 'elementary',
+  difficulty: 'easy',
   puzzleIndex: 0,
+  puzzleId: null,
   puzzle: null,
+  puzzlesIndex: [],
   grid: null,
   activeRow: 0,
   activeCol: 0,
   direction: 'across',
   score: 0,
-  hints: 5,
+  hints: 9999,
   completed: {},
   lang: 'en',
   startTime: 0,
-  layout: null
+  layout: null,
+  puzzleScrollY: 0
 }
 
 function loadProgress() {
@@ -26,6 +29,7 @@ function loadProgress() {
       State.hints = parsed.hints ?? 5
       State.completed = parsed.completed || {}
       State.lang = parsed.lang || 'en'
+      State.difficulty = parsed.difficulty || 'easy'
     }
   } catch (e) {}
 }
@@ -35,8 +39,20 @@ function saveProgress() {
     score: State.score,
     hints: State.hints,
     completed: State.completed,
-    lang: State.lang
+    lang: State.lang,
+    difficulty: State.difficulty
   }))
 }
 
-module.exports = { State, loadProgress, saveProgress }
+function loadPuzzlesIndex() {
+  try {
+    const fs = wx.getFileSystemManager()
+    const raw = fs.readFileSync('puzzles/index.json', 'utf8')
+    const parsed = JSON.parse(raw)
+    if (Array.isArray(parsed)) State.puzzlesIndex = parsed
+  } catch (e) {
+    State.puzzlesIndex = []
+  }
+}
+
+module.exports = { State, loadProgress, saveProgress, loadPuzzlesIndex }

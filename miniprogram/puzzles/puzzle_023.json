@@ -1,0 +1,406 @@
+{
+  "id": "puzzle_023",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "P",
+      null,
+      null,
+      "P"
+    ],
+    [
+      "A",
+      "D",
+      "D",
+      null,
+      "F",
+      "O",
+      "R",
+      "C",
+      "E"
+    ],
+    [
+      null,
+      "I",
+      "D",
+      "E",
+      "A",
+      "L",
+      null,
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      null,
+      "A",
+      "S",
+      "Y",
+      "L",
+      "U",
+      "M"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      null,
+      "U",
+      "N",
+      "I"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "N",
+      "E",
+      "D",
+      null,
+      "S",
+      "T"
+    ],
+    [
+      "H",
+      "T",
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      null
+    ],
+    [
+      "M",
+      "E",
+      "A",
+      "N",
+      "T",
+      null,
+      "P",
+      "L",
+      "C"
+    ],
+    [
+      "A",
+      null,
+      null,
+      "G",
+      null,
+      null,
+      "S",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An act or instance of __ing.",
+          "zh": "添加"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.",
+          "zh": "力量"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A place of safety.",
+          "zh": "庇护"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+          "zh": "运动"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "__versity.",
+          "zh": "大学"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转身"
+        }
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+          "zh": "问题"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To intend.",
+          "zh": "意思是"
+        }
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "(initialism) public limited company",
+          "zh": "可编程控制器"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "(diminutive) An __ number.",
+          "zh": "奇怪的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "__technic.",
+          "zh": "聚"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "An artifact or document rendering something allowed or legal.",
+          "zh": "允许"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An argument or disagreement, a failure to agree.",
+          "zh": "争议"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Firmly or securely fixed in place; stable.",
+          "zh": "最快"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The exchange of opinions and advice especially in legal issues; consultation.",
+          "zh": "法律顾问"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚取"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A long-term respiratory condition, in which the airways may unexpectedly and suddenly narrow, often in response to an allergen, cold air, exercise, or emotional stress. Symptoms include wheezing, shortness of breath, chest tightness, and coughing.",
+          "zh": "哮喘"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}

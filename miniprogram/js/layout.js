@@ -2,7 +2,7 @@
 
 const LayoutConfig = {
   headerHeight: 44,
-  clueBarHeight: 52,
+  clueBarHeight: 80,
   keyboardHeight: 200,
   gridPadding: 20
 }

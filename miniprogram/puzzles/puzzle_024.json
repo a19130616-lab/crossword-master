@@ -1,0 +1,433 @@
+{
+  "id": "puzzle_024",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "N",
+      null,
+      "I",
+      "C",
+      "E",
+      null,
+      null,
+      "S"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "M",
+      "A",
+      null,
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      null,
+      "T",
+      "A",
+      null,
+      "S",
+      "O",
+      "C",
+      null,
+      "H"
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      null,
+      "A",
+      "W",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "G",
+      "U",
+      null,
+      "N",
+      "D",
+      null,
+      "M"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      null,
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      null,
+      "N",
+      "I",
+      "L",
+      null,
+      "M",
+      "O",
+      null
+    ],
+    [
+      "G",
+      "I",
+      "G",
+      null,
+      "S",
+      "T",
+      "Y",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "B",
+      "E",
+      "E",
+      null,
+      "L",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
+          "zh": "业力"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+          "zh": "弧"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "__iology or __ial science.",
+          "zh": "社会组织"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A university professor, particularly one at Oxford or Cambridge.",
+          "zh": "大学教师"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.",
+          "zh": "脊柱"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A time period of indeterminate length, gen__lly more than one year.",
+          "zh": "时代"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Nothing; zero.",
+          "zh": "零"
+        }
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
+          "zh": "演出"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Senses relating to a thin, pointed object.",
+          "zh": "风格"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A tree of the genus Mora",
+          "zh": "北约"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "House",
+          "zh": "卡萨"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body __).",
+          "zh": "图式"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To travel over (an area, etc); to roam, wander.",
+          "zh": "测距"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "(usually capitalized) The garden where Plato taught.",
+          "zh": "学院"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "zh": "自己的"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The administration of a medication etc, in a measured amount; dosing.",
+          "zh": "剂量"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "__versity.",
+          "zh": "大学"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The act or result of __ing, or state of being __ed.",
+          "zh": "卷"
+        }
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9
+}
