@@ -12,7 +12,7 @@ const State = {
   activeCol: 0,
   direction: 'across',
   score: 0,
-  hints: 5,
+  hints: 9999,
   completed: {},
   lang: 'en',
   startTime: 0,
