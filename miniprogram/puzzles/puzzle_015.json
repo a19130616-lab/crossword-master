@@ -6,176 +6,171 @@
   "solution": [
     [
       null,
-      "C",
-      null,
-      "M",
+      "P",
       null,
       null,
-      "G"
-    ],
-    [
-      "T",
-      "H",
+      "F",
       "E",
-      "A",
-      "T",
-      "R",
       "E"
     ],
     [
-      null,
+      "C",
+      "O",
+      "N",
+      "T",
       "A",
       "I",
-      "D",
-      null,
-      "E",
-      "A"
+      "N"
     ],
     [
-      "L",
-      "P",
-      null,
-      "N",
-      "E",
-      "A",
-      "R"
-    ],
-    [
+      "I",
       "O",
-      "E",
       null,
-      "E",
-      "N",
-      "D",
-      null
-    ],
-    [
-      "C",
-      "L",
-      "U",
-      "S",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      "K",
-      null,
-      null,
-      "S",
-      null,
+      "I",
       "R",
+      null,
+      "Z"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "G",
+      "E",
+      "D",
+      "Y"
+    ],
+    [
+      "I",
+      null,
+      "N",
+      "E",
+      null,
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "S",
+      "K",
+      "I",
+      null,
+      null,
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        5
+        2,
+        3
       ],
       [
         2,
-        2
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        4,
         1
       ],
       [
-        2,
+        0,
+        6
+      ],
+      [
+        4,
         5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        3
       ]
     ],
     "medium": [
       [
-        4,
-        5
+        2,
+        3
       ],
       [
         2,
-        2
+        1
+      ],
+      [
+        0,
+        6
       ],
       [
         4,
-        4
-      ],
-      [
-        5,
         5
       ],
       [
-        1,
-        0
+        3,
+        5
       ]
     ],
     "hard": [
       [
-        4,
-        5
+        2,
+        3
       ],
       [
         2,
-        2
+        1
+      ],
+      [
+        0,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+          "zh": "费用"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
-          "zh": "剧院"
+          "en": "To hold inside.",
+          "zh": "包含"
         }
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
-        }
-      },
-      {
-        "num": 10,
+        "num": 9,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
-          "zh": "靠近"
-        }
-      },
-      {
-        "num": 13,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
+          "zh": "悲剧"
         }
       },
       {
@@ -183,8 +178,17 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A group or bunch of several discrete items that are close to each other.",
-          "zh": "簇"
+          "en": "The greatest or utmost point, degree or condition.",
+          "zh": "极端"
+        }
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       }
     ],
@@ -194,53 +198,62 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A place of worship, smaller than or subordinate to a church.",
-          "zh": "教堂"
+          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
+          "zh": "贫穷的"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The state of being mad; insanity; mental disease.",
-          "zh": "疯狂"
+          "en": "A going; journey; travel; voyage; course; passage.",
+          "zh": "票价"
         }
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Equipment or paraphernalia, especially that used for an athletic endeavor.",
-          "zh": "齿轮"
+          "en": "A globular protein that catalyses a biological chemical reaction.",
+          "zh": "酶"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+          "zh": "城市"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "A person who reads",
-          "zh": "读者"
+          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
+          "zh": "老虎"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "Something used for fastening, which can only be opened with a key or combination.",
-          "zh": "锁"
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
         }
       },
       {
         "num": 11,
         "row": 3,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
-          "zh": "耳鼻喉科"
+          "en": "A structural element resembling the hollow upper half of a sphere; a cupola",
+          "zh": "圆顶"
         }
       }
     ]

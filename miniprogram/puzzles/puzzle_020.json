@@ -7,63 +7,63 @@
     [
       null,
       null,
-      null,
-      "S",
-      null,
-      null,
-      "P"
-    ],
-    [
-      null,
-      "A",
-      null,
-      "T",
-      "E",
-      "L",
-      "L"
-    ],
-    [
-      null,
-      "L",
-      "E",
-      "A",
+      "B",
+      "I",
       "D",
       null,
-      "U"
+      "B"
     ],
     [
-      "S",
-      "T",
-      "A",
+      "R",
+      "O",
+      "U",
       "T",
       "I",
       "N",
-      "G"
+      "E"
     ],
     [
-      "T",
       null,
+      "F",
       "S",
-      "I",
-      "T",
+      null,
       "E",
-      null
+      "Y",
+      "E"
     ],
     [
       "A",
-      "L",
-      "T",
-      "O",
+      "F",
       null,
+      null,
+      null,
+      "L",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      null,
+      "S",
       "O",
       null
     ],
     [
-      "Y",
-      null,
-      null,
+      "P",
+      "R",
+      "E",
+      "V",
+      "E",
       "N",
+      "T"
+    ],
+    [
+      "S",
       null,
+      "A",
+      "C",
+      "T",
       null,
       null
     ]
@@ -71,108 +71,129 @@
   "prefilled": {
     "easy": [
       [
-        3,
-        1
+        5,
+        6
       ],
       [
         3,
-        5
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        3
+        0
       ],
       [
         4,
         2
       ],
       [
+        1,
+        6
+      ],
+      [
         2,
+        5
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
         2
+      ],
+      [
+        4,
+        5
       ]
     ],
     "medium": [
       [
-        3,
-        1
+        5,
+        6
       ],
       [
         3,
-        5
+        0
       ],
       [
-        0,
-        3
+        4,
+        2
+      ],
+      [
+        1,
+        6
       ],
       [
         2,
-        1
+        5
       ]
     ],
     "hard": [
       [
-        3,
-        1
+        5,
+        6
       ],
       [
         3,
-        5
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
-          "zh": "告诉"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A heavy, pliable, inelastic metal element, having a bright, bluish color, but easily tarnished; both malleable and ductile, though with little tenacity. It is easily fusible, forms alloys with other metals, and is an ingredient of solder and type metal. Atomic number 82, symbol Pb (from Latin plumbum).",
-          "zh": "带领"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "To declare to be a fact.",
-          "zh": "陈述"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
+        "num": 1,
+        "row": 0,
         "col": 2,
         "clue": {
-          "en": "A place or location, especially one used for a particular purpose.",
-          "zh": "地点"
+          "en": "To issue a command; to tell.",
+          "zh": "出价"
         }
       },
       {
-        "num": 11,
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A course of action to be followed regularly; a standard procedure.",
+          "zh": "常规"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        }
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        }
+      },
+      {
+        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
-          "zh": "中音"
+          "en": "To stop (an outcome); to keep from (doing something).",
+          "zh": "防止"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
         }
       }
     ],
@@ -180,64 +201,73 @@
       {
         "num": 1,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A stopping place.",
-          "zh": "车站"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A pronged connecting device which fits into a mating socket, especially an electrical one.",
-          "zh": "插头"
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 1,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "死"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 4,
+        "num": 4,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "A change to the text of a document.",
-          "zh": "编辑"
+          "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+          "zh": "啤酒"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To present or proffer something for someone to accept or reject.",
+          "zh": "提供"
         }
       },
       {
         "num": 7,
-        "row": 2,
-        "col": 2,
+        "row": 1,
+        "col": 5,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "东方"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
-        "num": 8,
+        "num": 10,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
-          "zh": "停留"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 5,
+        "num": 13,
+        "row": 4,
+        "col": 2,
         "clue": {
-          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
-          "zh": "新"
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
         }
       }
     ]

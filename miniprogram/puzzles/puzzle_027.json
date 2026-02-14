@@ -6,379 +6,260 @@
   "solution": [
     [
       null,
-      null,
       "A",
       null,
-      null,
-      "E",
-      null,
-      null,
-      "Y"
-    ],
-    [
-      "P",
-      "E",
       "T",
+      "I",
+      "E",
       null,
-      "L",
-      "A",
-      "R",
-      "G",
+      null,
       "E"
     ],
     [
-      null,
+      "G",
+      "R",
+      "A",
+      "I",
       "N",
-      "E",
-      "W",
-      "E",
-      "R",
       null,
-      "R",
-      "A"
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      null,
+      "E",
+      "L",
+      null,
+      "C",
+      "O",
+      "P",
+      null,
+      "Z"
     ],
     [
       "F",
-      "E",
+      "A",
+      "R",
       null,
+      "H",
       "A",
-      "N",
-      "S",
-      "W",
-      "E",
-      "R"
-    ],
-    [
-      "A",
-      "M",
-      "E",
-      "N",
-      "D",
-      null,
-      "P",
-      "A",
-      "L"
-    ],
-    [
-      "V",
       "I",
-      "C",
-      "T",
-      "I",
-      "M",
-      null,
-      "T",
+      "R",
       "Y"
     ],
     [
-      "O",
+      "I",
+      null,
       "E",
+      "G",
+      null,
+      "K",
+      "N",
+      null,
+      "M"
+    ],
+    [
+      "G",
+      "I",
+      "A",
+      "N",
+      "T",
       null,
       "I",
-      "N",
-      "D",
-      "I",
-      "E",
-      null
+      "C",
+      "E"
     ],
     [
       "U",
-      "S",
-      "I",
-      "N",
-      "G",
       null,
       "D",
-      "R",
-      "Y"
+      "U",
+      "I",
+      null,
+      "O",
+      "O",
+      null
     ],
     [
       "R",
+      "A",
+      "Y",
+      null,
+      "P",
+      "A",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "E",
       null,
       null,
-      "G",
-      null,
-      null,
+      "P",
       "S",
+      "T",
       null,
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
-      ],
-      [
-        6,
-        1
+        3,
+        4
       ],
       [
         5,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
         8
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        4,
-        4
       ],
       [
         4,
         6
       ],
       [
-        7,
-        4
-      ],
-      [
-        4,
+        1,
         1
       ],
       [
-        7,
-        2
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        6,
+        8,
         5
       ],
       [
+        0,
+        1
+      ],
+      [
         2,
-        4
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        6,
+        0
       ]
     ],
     "medium": [
       [
-        1,
-        5
-      ],
-      [
-        6,
-        1
+        3,
+        4
       ],
       [
         5,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
         8
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        4,
-        4
       ],
       [
         4,
         6
       ],
       [
-        7,
-        4
-      ],
-      [
-        4,
+        1,
         1
       ],
       [
-        7,
-        2
+        8,
+        5
       ]
     ],
     "hard": [
       [
-        1,
-        5
-      ],
-      [
-        6,
-        1
+        3,
+        4
       ],
       [
         5,
-        8
+        2
       ],
       [
-        6,
-        7
+        1,
+        2
+      ],
+      [
+        0,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "An animal kept as a companion.",
-          "zh": "宠物"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "An old musical note, equal to two longas, four breves, or eight semibreves.",
-          "zh": "大的"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "A response or reply; something said or done in reaction to a statement or question.",
-          "zh": "回答"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "(usually in the plural) An act of righting a wrong; compensation.",
-          "zh": "修正"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
-          "zh": "朋友"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "One that is harmed—killed, injured, subjected to oppression, deceived, or otherwise adversely affected—by someone or something, especially another person or event, force, or condition; in particular:",
-          "zh": "受害者"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An independent publisher.",
-          "zh": "独立"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "To utilize or employ.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The process by which something is dried.",
-          "zh": "干燥"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
-          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "Something that is published once a year.",
-          "zh": "每年"
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
-          "zh": "敌人"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.",
-          "zh": "贷款"
+          "en": "The harvested seeds of various grass food crops eg: wheat, corn, barley.",
+          "zh": "粮食"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 7,
+        "col": 6,
         "clue": {
-          "en": "Relatively large in scale, size, extent, number (i.e. having many parts or members) or duration (i.e. relatively long); very big.",
-          "zh": "更大"
+          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "zh": "自己的"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
-          "zh": "想要"
+          "en": "A police officer.",
+          "zh": "警察"
         }
       },
       {
@@ -386,17 +267,163 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
-          "zh": "青睐"
+          "en": "Distant; remote in space.",
+          "zh": "远的"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Of a person, having a lot of hair on the body.",
+          "zh": "毛茸茸"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A mythical human of very great size.",
+          "zh": "巨大的"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
         }
       },
       {
         "num": 22,
-        "row": 6,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Overpowering fright, often affecting groups of people or animals.",
+          "zh": "恐慌"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "Implies that the speaker is sending secret or whispered information to another person.",
+          "zh": "太平洋标准时间"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A unit of length equal to one twelfth of a foot, or exactly 2.54 centimetres.",
+          "zh": "英寸"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A globular protein that catalyses a biological chemical reaction.",
+          "zh": "酶"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "zh": "已经"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
         "col": 6,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "A subjective belief, judgment or perspective that a person has formed about a topic, issue, person or thing.",
+          "zh": "观点"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A drawing or diagram conveying information.",
+          "zh": "数字"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "The tip of the external ear.",
+          "zh": "外耳的尖端。"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",
+          "zh": "硬币"
         }
       }
     ]

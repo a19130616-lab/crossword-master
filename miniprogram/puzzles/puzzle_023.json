@@ -7,99 +7,99 @@
     [
       null,
       null,
+      "L",
       "I",
+      "T",
       null,
       null,
-      "A",
       null,
-      null,
-      "A"
+      "I"
     ],
     [
+      "S",
+      "E",
+      "A",
+      null,
+      "U",
+      "R",
+      "B",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "A",
+      "W",
+      "A",
+      "R",
+      "E",
+      null,
+      "L",
+      "S"
+    ],
+    [
+      "U",
+      "S",
+      null,
+      "E",
+      "N",
+      "D",
+      null,
+      "G",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      null,
+      "E",
       "Y",
       "E",
-      "N",
-      null,
-      "G",
-      "R",
-      "O",
-      "S",
-      "S"
+      "D"
     ],
     [
-      null,
-      "A",
-      "G",
-      "R",
       "E",
       "E",
       null,
-      "O",
-      "S"
-    ],
-    [
-      "S",
-      "R",
-      null,
+      "I",
+      "C",
       "E",
-      "N",
-      "A",
+      null,
       "B",
-      "L",
       "E"
     ],
     [
-      "A",
-      "L",
-      "I",
-      "V",
-      "E",
-      null,
-      "I",
-      "D",
-      "S"
-    ],
-    [
       "F",
-      "I",
-      "N",
-      "I",
-      "S",
-      "H",
+      "R",
       null,
-      "I",
-      "S"
-    ],
-    [
-      "E",
-      "E",
-      null,
-      "S",
-      "I",
-      "N",
-      "C",
-      "E",
+      "A",
+      "R",
+      "M",
+      "O",
+      "R",
       null
     ],
     [
-      "T",
-      "R",
-      "I",
+      "U",
+      "N",
+      "C",
+      "L",
       "E",
-      "S",
       null,
+      "L",
       "A",
-      "R",
-      "M"
+      "P"
     ],
     [
-      "Y",
+      "L",
       null,
       null,
+      null,
+      "W",
+      "E",
       "D",
-      null,
-      null,
-      "T",
       null,
       null
     ]
@@ -107,50 +107,50 @@
   "prefilled": {
     "easy": [
       [
-        5,
-        0
+        1,
+        1
       ],
       [
-        7,
+        4,
         7
       ],
       [
-        6,
-        0
-      ],
-      [
-        3,
-        0
-      ],
-      [
         8,
-        6
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        6,
         5
       ],
       [
-        0,
+        6,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
         8
+      ],
+      [
+        4,
+        5
       ],
       [
         4,
         2
       ],
       [
-        1,
-        1
-      ],
-      [
-        6,
-        7
-      ],
-      [
         8,
         0
       ],
@@ -159,67 +159,67 @@
         0
       ],
       [
-        3,
-        6
+        4,
+        3
       ],
       [
         3,
-        1
+        8
       ]
     ],
     "medium": [
       [
-        5,
-        0
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        8,
-        6
-      ],
-      [
         1,
-        2
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        0,
-        8
+        1
       ],
       [
         4,
-        2
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        8
       ]
     ],
     "hard": [
       [
-        5,
-        0
+        1,
+        1
       ],
       [
-        7,
+        4,
         7
       ],
       [
-        6,
-        0
+        8,
+        5
       ],
       [
-        3,
+        6,
         0
       ]
     ]
@@ -227,12 +227,21 @@
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        }
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
+          "en": "A large body of salt water.",
+          "zh": "海"
         }
       },
       {
@@ -240,80 +249,89 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Twelve dozen = 144.",
-          "zh": "总的"
+          "en": "Related to the (or any) city.",
+          "zh": "城市的"
         }
       },
       {
-        "num": 8,
+        "num": 9,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
         }
       },
       {
-        "num": 12,
+        "num": 13,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
-          "zh": "使能够"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
-        "num": 14,
+        "num": 15,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "Having life; living; not dead",
-          "zh": "活"
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
         }
       },
       {
         "num": 16,
         "row": 4,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
         }
       },
       {
-        "num": 17,
+        "num": 18,
         "row": 5,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "An end; the end of anything.",
-          "zh": "结束"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       },
       {
-        "num": 21,
+        "num": 22,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "From a specified time in the past.",
-          "zh": "自从"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An ordered tree data structure that is used to store an associative array where the keys are usually strings.",
-          "zh": "尝试"
+          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "zh": "盔甲"
         }
       },
       {
         "num": 24,
         "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The brother or brother-in-law of one’s parent.",
+          "zh": "叔叔"
+        }
+      },
+      {
+        "num": 25,
+        "row": 7,
         "col": 6,
         "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "To perform the marriage ceremony for; to join in matrimony.",
+          "zh": "结婚"
         }
       }
     ],
@@ -323,17 +341,17 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+          "zh": "法律"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "A measure of the extent of a surface; it is measured in square units.",
-          "zh": "区域"
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
         }
       },
       {
@@ -341,8 +359,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "To determine, estimate or judge the value of; to evaluate",
-          "zh": "评估"
+          "en": "The interior or inner part.",
+          "zh": "里面"
         }
       },
       {
@@ -350,53 +368,62 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "At a time in advance of the usual or expected event.",
-          "zh": "早些时候"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "The origin, start, or point at which something comes into being.",
-          "zh": "起源"
+          "en": "Of, facing, situated in, or related to the east.",
+          "zh": "东"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 7,
+        "col": 5,
         "clue": {
-          "en": "A member of an army, of any rank.",
-          "zh": "士兵"
+          "en": "To recover ownership of something by buying it back.",
+          "zh": "赎回"
         }
       },
       {
-        "num": 9,
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
+          "zh": "代数"
+        }
+      },
+      {
+        "num": 10,
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "To look at again, to reflect on.",
-          "zh": "修改"
+          "en": "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+          "zh": "天线"
         }
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The condition or feeling of being safe; security; certainty.",
-          "zh": "安全"
+          "en": "Having a practical or beneficial use.",
+          "zh": "有用"
         }
       },
       {
-        "num": 22,
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
+          "zh": "全体人员"
+        }
+      },
+      {
+        "num": 23,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "An animal of the family Felidae:",
-          "zh": "猫"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       }
     ]

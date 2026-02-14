@@ -6,125 +6,137 @@
   "solution": [
     [
       null,
-      null,
-      null,
-      "S",
-      null,
-      null,
-      "P"
-    ],
-    [
-      null,
-      "K",
-      null,
-      "O",
-      "R",
-      "A",
-      "L"
-    ],
-    [
-      null,
       "I",
-      "S",
-      "L",
-      "E",
       null,
-      "O"
-    ],
-    [
-      "S",
-      "T",
-      "U",
-      "D",
-      "E",
-      "N",
+      "P",
+      null,
+      null,
       "T"
     ],
     [
+      "E",
+      "M",
+      "B",
       "A",
+      "S",
+      "S",
+      "Y"
+    ],
+    [
       null,
-      "R",
+      "P",
+      "I",
+      "T",
+      null,
+      "U",
+      "P"
+    ],
+    [
+      "F",
+      "O",
+      null,
+      "T",
       "I",
       "D",
+      "E"
+    ],
+    [
       "E",
+      "S",
+      null,
+      "E",
+      "N",
+      "D",
       null
     ],
     [
       "L",
-      "I",
-      "F",
       "E",
-      null,
-      "O",
-      null
+      "A",
+      "R",
+      "N",
+      "E",
+      "D"
     ],
     [
-      "T",
+      "L",
       null,
       null,
-      "R",
+      "N",
       null,
-      null,
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        4
+        3,
+        0
       ],
       [
         1,
-        4
+        6
       ],
       [
         1,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        4,
         2
       ],
       [
-        3,
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
         5
       ],
       [
         5,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        0,
         3
       ]
     ],
     "medium": [
       [
-        4,
-        4
+        3,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
       ],
       [
         1,
         4
       ],
       [
-        1,
-        5
-      ],
-      [
-        5,
+        6,
         5
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        3,
+        0
       ],
       [
         1,
-        4
+        6
       ]
     ]
   },
@@ -133,46 +145,46 @@
       {
         "num": 4,
         "row": 1,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "The function or duty of an ambassador.",
+          "zh": "大使馆"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A person who studies or learns about a particular subject.",
-          "zh": "学生"
+          "en": "A hole in the ground.",
+          "zh": "坑"
         }
       },
       {
         "num": 10,
-        "row": 4,
-        "col": 2,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "An instance of riding.",
-          "zh": "骑"
+          "en": "The periodic change of the sea level, particularly when caused by the gravitational influence of the sun and the moon.",
+          "zh": "潮"
         }
       },
       {
-        "num": 11,
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        }
+      },
+      {
+        "num": 14,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-          "zh": "生活"
+          "en": "Having much learning, knowledgeable, erudite; highly educated.",
+          "zh": "学到了"
         }
       }
     ],
@@ -180,64 +192,55 @@
       {
         "num": 1,
         "row": 0,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A member of an army, of any rank.",
-          "zh": "士兵"
+          "en": "To establish or apply by authority.",
+          "zh": "强加"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "(authorship) The course of a story, comprising a series of incidents which are gradually unfolded, sometimes by unexpected means.",
-          "zh": "阴谋"
+          "en": "Model, example.",
+          "zh": "图案"
         }
       },
       {
         "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
+        }
+      },
+      {
+        "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 5,
         "clue": {
-          "en": "A circular wooden vessel, made of hooped staves.",
-          "zh": "成套工具"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Any of various types of tall stiff perennial grass-like plants growing together in groups near water.",
-          "zh": "芦苇"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "Waves that break on an ocean shoreline.",
-          "zh": "冲浪"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
-          "zh": "盐"
+          "en": "An unexpected occurrence; a surprise.",
+          "zh": "突然的"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 5,
+        "col": 0,
         "clue": {
-          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
-          "zh": "新"
+          "en": "A cutting-down of timber.",
+          "zh": "跌倒了"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
         }
       }
     ]

@@ -5,74 +5,74 @@
   "cols": 5,
   "solution": [
     [
-      "M",
+      "Q",
       null,
       null,
       null,
-      "C"
+      "S"
     ],
     [
-      "O",
-      "W",
-      "N",
+      "U",
+      "P",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      "A",
+      null,
+      "O"
+    ],
+    [
+      "U",
+      "P",
+      "P",
       "E",
       "R"
     ],
     [
-      "U",
-      "I",
-      null,
-      "C",
-      "U"
-    ],
-    [
-      "S",
-      "T",
-      "O",
-      "O",
-      "D"
-    ],
-    [
       "E",
       null,
       null,
       null,
-      "E"
+      "M"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        1,
+        3
+      ],
+      [
         4,
         4
       ],
       [
         1,
-        4
-      ],
-      [
-        0,
         4
       ],
       [
         2,
-        4
+        2
       ]
     ],
     "medium": [
       [
-        4,
-        4
+        1,
+        3
       ],
       [
-        1,
+        4,
         4
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        1,
+        3
       ]
     ]
   },
@@ -83,17 +83,17 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "One who owns something.",
-          "zh": "所有者"
+          "en": "Disturbance or disruption.",
+          "zh": "沮丧的"
         }
       },
       {
-        "num": 8,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(heading) To position or be positioned physically.",
-          "zh": "站着"
+          "en": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
+          "zh": "上"
         }
       }
     ],
@@ -103,8 +103,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Any small rodent of the genus Mus.",
-          "zh": "老鼠"
+          "en": "An animal's tail.",
+          "zh": "队列"
         }
       },
       {
@@ -112,26 +112,17 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "Any substance in its natural state.",
-          "zh": "原油"
+          "en": "Any disturbed state of the atmosphere, especially as affecting the earth's surface, and strongly implying destructive or unpleasant weather.",
+          "zh": "风暴"
         }
       },
       {
         "num": 4,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "(now usually in the plural) Sanity.",
-          "zh": "智慧"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "Environmentally friendly or sensitive.",
-          "zh": "生态"
+          "en": "The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.",
+          "zh": "树液"
         }
       }
     ]

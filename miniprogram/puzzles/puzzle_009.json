@@ -6,80 +6,72 @@
   "solution": [
     [
       null,
-      "L",
       "A",
-      "M",
-      "P"
+      "L",
+      "T",
+      null
     ],
     [
-      "H",
+      "V",
+      "R",
       null,
-      "D",
-      "E",
-      "R"
+      "U",
+      "A"
     ],
     [
       "A",
-      "L",
-      "O",
+      "G",
+      "I",
       "N",
+      "G"
+    ],
+    [
+      "N",
+      "U",
+      null,
+      "E",
       "E"
     ],
     [
-      "R",
-      "I",
-      "P",
       null,
-      "P"
-    ],
-    [
-      "M",
       "E",
-      "T",
       "A",
+      "R",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
-      ],
-      [
-        1,
-        4
-      ],
-      [
         4,
         3
       ],
       [
-        2,
-        4
+        1,
+        0
       ],
       [
-        0,
-        4
+        3,
+        0
+      ],
+      [
+        1,
+        1
       ]
     ],
     "medium": [
       [
-        2,
+        4,
         3
       ],
       [
         1,
-        4
-      ],
-      [
-        4,
-        3
+        0
       ]
     ],
     "hard": [
       [
-        2,
+        4,
         3
       ]
     ]
@@ -91,91 +83,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A device that generates heat, light or other radiation. Especially an electric light bulb.",
-          "zh": "灯"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "Disdainful indication that something is obvious.",
-          "zh": "德"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "By oneself, solitary.",
-          "zh": "独自的"
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老化"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A tear (in paper, etc.).",
-          "zh": "撕裂"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "To show grounds for concluding (that); to indicate, imply.",
+          "zh": "争论"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
-          "zh": "采纳"
+          "en": "A person who tunes a piano or organ.",
+          "zh": "调音器"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
-          "zh": "准备"
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "Physical injury; hurt; damage",
-          "zh": "伤害"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "The terrain and conditions surrounding the ball before it is struck.",
-          "zh": "说谎"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         }
       }
     ]

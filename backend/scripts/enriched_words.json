@@ -180,7 +180,7 @@
         "zh": "后代。"
     },
     "VIEW": {
-        "en": "(physical) Visual perception.",
+        "en": "The ability to see something or the area that can be seen from a particular place.",
         "zh": "（物理）视觉感知。"
     },
     "FIRST": {
@@ -212,7 +212,7 @@
         "zh": "所指示的事物、物品等。"
     },
     "CLICK": {
-        "en": "A brief, sharp, not particularly loud, relatively high-pitched sound produced by the impact of something small and hard against something hard, such as by the operation of a switch, a lock or a latch, or a finger pressed against the thumb and then released to strike the hand.",
+        "en": "A short, sharp sound, as of a switch being pressed or two hard objects meeting.",
         "zh": "一种短促、尖锐、不是特别响亮、相对高亢的声音，由小而硬的物体撞击坚硬的物体而产生，例如通过操作开关、锁或闩锁，或者手指压在拇指上然后松开以敲击手。"
     },
     "ITS": {
@@ -228,7 +228,7 @@
         "zh": "当时;然后。"
     },
     "FIND": {
-        "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+        "en": "To discover or perceive by chance or unexpectedly.",
         "zh": "任何发现的东西（通常是有价值的），如考古遗址上的物品或有才华的人。"
     },
     "PRICE": {
@@ -236,11 +236,11 @@
         "zh": "获得某物的所有权所需的成本。"
     },
     "DATE": {
-        "en": "The fruit of the __ palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.",
-        "zh": "枣椰树（Phoenix dactylifera）的果实，有点像橄榄的形状，含有柔软、甜的果肉，并包裹着坚硬的果仁。"
+        "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
+        "zh": "日期"
     },
     "BACK": {
-        "en": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+        "en": "The rear surface of the human body from the shoulders to the hips.",
         "zh": "身体的后部，特别是颈部和脊柱末端之间、与胸部和腹部相对的部分。"
     },
     "TOP": {
@@ -252,7 +252,7 @@
         "zh": "占有，拥有。"
     },
     "LIST": {
-        "en": "A strip of fabric, especially from the edge of a piece of cloth.",
+        "en": "A number of connected items or names written or printed as a series.",
         "zh": "一块布，特指一块布边缘的布条。"
     },
     "NAME": {
@@ -264,7 +264,7 @@
         "zh": "事实正确，正确；事实。"
     },
     "OVER": {
-        "en": "A set of six legal balls bowled.",
+        "en": "Above or higher than something else, with or without touching it.",
         "zh": "一组六个合法球被投出。"
     },
     "STATE": {
@@ -272,8 +272,8 @@
         "zh": "一个条件；在任何给定时间适用的一组情况。"
     },
     "YEAR": {
-        "en": "A solar __, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
-        "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
+        "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+        "zh": "年"
     },
     "DAY": {
         "en": "Any period of 24 hours.",
@@ -328,7 +328,7 @@
         "zh": "（复数：数据）记录者（一个人或设备）和阅读器（另一个人或设备）都可以理解的尺度上的某种测量。尺度是任意定义的，例如从1到10按个位​​，1到100按0.1，或者简单地是真或假、开或关、是、否或也许等等。"
     },
     "MAKE": {
-        "en": "Brand or kind; model.",
+        "en": "To form something by putting parts together or combining substances; to create.",
         "zh": "品牌或种类；模型。"
     },
     "THEM": {
@@ -372,16 +372,16 @@
         "zh": "（穆斯林恶魔学）精灵和詹恩的后裔，通常肉眼看不见，但也可能以动物或人类形式出现，相当于犹太恶魔学中的恶魔。"
     },
     "GOOD": {
-        "en": "(of people)",
-        "zh": "（人的）"
+        "en": "To be desired or approved of; having the qualities required for a particular role.",
+        "zh": "好的"
     },
     "VIDEO": {
         "en": "Television, television show, movie.",
         "zh": "电视，电视剧，电影。"
     },
     "WELL": {
-        "en": "In good health.",
-        "zh": "身体健康。"
+        "en": "In a good or satisfactory way; a shaft sunk to obtain water, oil, or gas.",
+        "zh": "好"
     },
     "WHERE": {
         "en": "The place in which something happens.",
@@ -396,8 +396,8 @@
         "zh": "装订在一起并在一个边缘铰接的一组纸张的集合，其中包含印刷或书面材料、图片等。"
     },
     "HIGH": {
-        "en": "A __ point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven.",
-        "zh": "字面上或象征上的高点或位置；高处；优越的地区；高度；天空；天堂。"
+        "en": "Of great vertical extent; extending far upward.",
+        "zh": "高的"
     },
     "EACH": {
         "en": "(operations) An individual item: the least quantitative unit in a grouping.",
@@ -416,7 +416,7 @@
         "zh": "一个太阳年，地球完成太阳公转一周所需的时间（介于 365.24 到 365.26 天之间，具体取决于参考点）。"
     },
     "ORDER": {
-        "en": "Arrangement, disposition, or sequence.",
+        "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
         "zh": "安排、处置或顺序。"
     },
     "VERY": {
@@ -444,16 +444,16 @@
         "zh": "有性生殖生物根据其在物种中的生殖作用划分的类别。"
     },
     "NEED": {
-        "en": "A requirement for something; something __ed.",
-        "zh": "对某事的要求；需要一些东西。"
+        "en": "To require something because it is essential or very important.",
+        "zh": "需要"
     },
     "MANY": {
         "en": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
         "zh": "众多；一个伟大的聚合体；一大群人；普遍性；普通群体。"
     },
     "USER": {
-        "en": "One who uses or makes use of something, a consumer/client or an express or implied licensee (free __) or a trespasser.",
-        "zh": "使用或利用某物的人、消费者/客户、明示或暗示的被许可人（免费用户）或侵入者。"
+        "en": "A person who uses or operates something, especially a computer or service.",
+        "zh": "用户"
     },
     "SAID": {
         "en": "Mentioned earlier; afore__.",
@@ -472,7 +472,7 @@
         "zh": "较低；在某物之下。"
     },
     "MAIL": {
-        "en": "A bag or wallet.",
+        "en": "Letters and packages sent or delivered by the postal system.",
         "zh": "一个包或钱包。"
     },
     "FULL": {
@@ -496,7 +496,7 @@
         "zh": "一种有趣的或竞争性的活动。"
     },
     "WAY": {
-        "en": "(heading) To do with a place or places.",
+        "en": "A method, style, or manner of doing something; a road or path.",
         "zh": "（标题）与一个或多个地方有关。"
     },
     "DAYS": {
@@ -516,7 +516,7 @@
         "zh": "具有重大意义、成就或赞誉的人。"
     },
     "HOTEL": {
-        "en": "A large town house or mansion; a grand private residence, especially in France.",
+        "en": "An establishment providing lodging and usually meals for travelers.",
         "zh": "大型联排别墅或豪宅；宏伟的私人住宅，尤其是在法国。"
     },
     "REAL": {
@@ -532,11 +532,11 @@
         "zh": "强制或要求的东西。"
     },
     "STORE": {
-        "en": "A place where items may be accumulated or routinely kept.",
+        "en": "A retail establishment selling items to the public.",
         "zh": "可以积累或定期保存物品的地方。"
     },
     "MADE": {
-        "en": "A grub or maggot.",
+        "en": "Past tense of make; having been manufactured or created.",
         "zh": "蛆或蛆。"
     },
     "OFF": {
@@ -556,11 +556,11 @@
         "zh": "（辅助）句法标记。"
     },
     "SEND": {
-        "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
+        "en": "To cause something to go or be taken to a particular destination.",
         "zh": "当波浪经过时水的上升运动；激增；船舶的向上角位移，与俯仰相反，即相关的向下运动。"
     },
     "RIGHT": {
-        "en": "Straight, not bent.",
+        "en": "Morally good, justified, or acceptable; correct or true.",
         "zh": "直，不弯。"
     },
     "TYPE": {
@@ -568,7 +568,7 @@
         "zh": "基于共同特征的分组；一堂课。"
     },
     "LOCAL": {
-        "en": "A person who lives near a given place.",
+        "en": "Relating or restricted to a particular area or neighborhood.",
         "zh": "住在某个地方附近的人。"
     },
     "THOSE": {
@@ -616,7 +616,7 @@
         "zh": "一个简短的符号，通常与其代表的项目关系不大。"
     },
     "SHOW": {
-        "en": "A play, dance, or other entertainment.",
+        "en": "A spectacle or display, typically an impressive one; a performance or program on television or radio.",
         "zh": "戏剧、舞蹈或其他娱乐活动。"
     },
     "EVEN": {
@@ -628,11 +628,11 @@
         "zh": "在没有光的情况下以及没有光被反射而是被吸收时感知的颜色/颜色。"
     },
     "CHECK": {
-        "en": "A situation in which the king is directly threatened by an opposing piece.",
+        "en": "To examine something in order to determine its accuracy, quality, or condition.",
         "zh": "国王受到对方棋子直接威胁的情况。"
     },
     "INDEX": {
-        "en": "An alphabetical listing of items and their location.",
+        "en": "An alphabetical list of names, subjects, etc., with references to the places where they occur.",
         "zh": "按字母顺序排列的项目及其位置列表。"
     },
     "BEING": {
@@ -648,7 +648,7 @@
         "zh": "很大，很棒。"
     },
     "SIGN": {
-        "en": "(sometimes also used uncountably) A visible indication.",
+        "en": "An object, quality, or event whose presence indicates the probable presence of something else.",
         "zh": "（有时也用于不可数）可见的指示。"
     },
     "FILE": {
@@ -656,7 +656,7 @@
         "zh": "整理并归档在一起的论文集。"
     },
     "LINK": {
-        "en": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+        "en": "A relationship or connection between two things.",
         "zh": "电子文档中的某些文本或图形可以被激活以显示另一个文档或触发操作。"
     },
     "OPEN": {
@@ -672,7 +672,7 @@
         "zh": "四个主要罗盘点之一，具体为 180°，指向南极，在地图上通常向下，缩写为 S。"
     },
     "CASE": {
-        "en": "An actual event, situation, or fact.",
+        "en": "An instance of a particular situation; a specific example of something occurring.",
         "zh": "实际事件、情况或事实。"
     },
     "SAME": {
@@ -688,7 +688,7 @@
         "zh": "属于；拥有；适当的。通常将所有格限定词标记为反身，指回从句或句子的主语。"
     },
     "FOUND": {
-        "en": "To encounter or discover by accident; to happen upon.",
+        "en": "To establish or originate an institution or organization.",
         "zh": "偶然遇见或发现；发生在。"
     },
     "HOUSE": {
@@ -712,7 +712,7 @@
         "zh": "做某事或经历某事的能力。"
     },
     "WHILE": {
-        "en": "An uncertain duration of time, a period of time.",
+        "en": "A period of time; during the time that.",
         "zh": "一段不确定的时间，一段时间。"
     },
     "CARE": {
@@ -728,7 +728,7 @@
         "zh": "数字/数字 3."
     },
     "TOTAL": {
-        "en": "An amount obtained by the addition of smaller amounts.",
+        "en": "The entire amount; comprising the whole number or quantity.",
         "zh": "通过添加较小的量而获得的量。"
     },
     "PLACE": {
@@ -764,7 +764,7 @@
         "zh": "身材高大的某人或某物"
     },
     "MEDIA": {
-        "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+        "en": "The main means of mass communication, such as television, radio, newspapers, and the internet.",
         "zh": "血管或淋巴管壁的中间层，由结缔组织和肌肉组织组成。"
     },
     "LAW": {
@@ -812,7 +812,7 @@
         "zh": "比其他部分更小或更苗条的物体的任何部分，现在通常参考背部的解剖学参考。"
     },
     "RATE": {
-        "en": "The worth of something; value.",
+        "en": "A measure, quantity, or frequency measured against some other quantity or measure.",
         "zh": "某物的价值；价值。"
     },
     "TIMES": {
@@ -824,8 +824,8 @@
         "zh": "悲伤，悲伤。"
     },
     "LEVEL": {
-        "en": "A tool for finding whether a surface is __, or for creating a horizontal or vertical line of reference.",
-        "zh": "用于确定表面是否水平或创建水平或垂直参考线的工具。"
+        "en": "A position on a scale of amount, quantity, extent, or quality.",
+        "zh": "水平"
     },
     "FORM": {
         "en": "(heading, physical) To do with shape.",
@@ -836,8 +836,8 @@
         "zh": "浓浓的亲情。"
     },
     "OLD": {
-        "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
-        "zh": "（仅适用于不变的复数形式）年老的人；老众生；老一代人作为一个群体。"
+        "en": "Having lived for a long time; no longer young.",
+        "zh": "老的"
     },
     "JOHN": {
         "en": "A prostitute's client.",
@@ -848,7 +848,7 @@
         "zh": "主线的缩写。"
     },
     "CALL": {
-        "en": "A telephone conversation.",
+        "en": "To cry out to someone in order to summon them or attract their attention; a telephone conversation.",
         "zh": "一次电话交谈。"
     },
     "HOURS": {
@@ -860,7 +860,7 @@
         "zh": "真实物体的光学或其他表示；图形；一张照片。"
     },
     "TITLE": {
-        "en": "A prefix (honorific) or suffix (post-nominal) added to a person's name to signify either veneration, official position or a professional or academic qualification. See also",
+        "en": "The name of a book, composition, or other artistic work.",
         "zh": "添加到人名上的前缀（尊称）或后缀（后称），表示尊敬、官方职位或专业或学术资格。参见"
     },
     "NON": {
@@ -876,11 +876,11 @@
         "zh": "（情态、助动词、缺陷）用在动词之前，表示第一人称单数或复数的简单将来时。"
     },
     "CLASS": {
-        "en": "A group, collection, category or set sharing characteristics or attributes.",
+        "en": "A set or category of things having some property in common; a group of students taught together.",
         "zh": "共享特征或属性的群体、集合、类别或集合。"
     },
     "STILL": {
-        "en": "A period of calm or silence.",
+        "en": "Not moving or making a sound; calm and quiet.",
         "zh": "一段平静或沉默的时期。"
     },
     "MONEY": {
@@ -892,7 +892,7 @@
         "zh": "单一的访问行为。"
     },
     "SAVE": {
-        "en": "In various sports, a block that prevents an opponent from scoring.",
+        "en": "To keep safe or rescue someone or something from harm or danger.",
         "zh": "在各种体育运动中，阻止对手得分的阻挡。"
     },
     "TOOLS": {
@@ -900,8 +900,8 @@
         "zh": "一种旨在使任务变得更容易的机械装置。"
     },
     "LOW": {
-        "en": "Something that is __; a __ point.",
-        "zh": "低的东西；一个低点。"
+        "en": "Of less than average height from top to bottom or to the top from the ground.",
+        "zh": "低的"
     },
     "REPLY": {
         "en": "A written or spoken response; part of a conversation.",
@@ -956,7 +956,7 @@
         "zh": "一个少年。"
     },
     "ROOM": {
-        "en": "Opportunity or scope (to do something).",
+        "en": "A part of the interior of a building enclosed by walls, floor, and ceiling.",
         "zh": "机会或范围（做某事）。"
     },
     "STOCK": {
@@ -968,11 +968,11 @@
         "zh": "（焦点）同样。"
     },
     "POINT": {
-        "en": "A discrete division of something.",
+        "en": "The sharp, tapered end of a tool, weapon, or other object; a particular spot or location.",
         "zh": "某事物的离散划分。"
     },
     "JOIN": {
-        "en": "An intersection of piping or wiring; an interconnect.",
+        "en": "To link or connect; to become a member of a group or organization.",
         "zh": "管道或线路的交叉点；互连。"
     },
     "MEN": {
@@ -992,7 +992,7 @@
         "zh": "左侧或方向。"
     },
     "TEAM": {
-        "en": "A set of draught animals, such as two horses in front of a carriage.",
+        "en": "A group of people who work together toward a common goal, especially in sports or business.",
         "zh": "一组役畜，例如马车前的两匹马。"
     },
     "BOX": {
@@ -1016,7 +1016,7 @@
         "zh": "活着；拥有生命。"
     },
     "LARGE": {
-        "en": "An old musical note, equal to two longas, four breves, or eight semibreves.",
+        "en": "Of considerable or relatively great size, extent, or capacity.",
         "zh": "一种古老的音符，等于两个长音、四个短音或八个半短音。"
     },
     "TABLE": {
@@ -1028,7 +1028,7 @@
         "zh": "活动的开始。"
     },
     "MODEL": {
-        "en": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+        "en": "A three-dimensional representation of a person or thing, typically on a smaller scale.",
         "zh": "作为艺术品或时尚主题的人，通常以摄影为媒介，但也用于绘画或绘画。"
     },
     "AIR": {
@@ -1036,7 +1036,7 @@
         "zh": "构成地球大气层的物质，特别是："
     },
     "PLAN": {
-        "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+        "en": "A detailed proposal for doing or achieving something.",
         "zh": "显示建筑物、机器等技术细节的绘图，省略不需要的细节，并且通常使用符号而不是详细绘图来表示门、阀门等。"
     },
     "HUMAN": {
@@ -1052,7 +1052,7 @@
         "zh": "（向上）加热；使或变得热。"
     },
     "COST": {
-        "en": "To incur a charge of; to require payment of a (specified) price.",
+        "en": "The amount that has to be paid or spent to buy or obtain something.",
         "zh": "收取费用；要求支付（指定的）价格。"
     },
     "MOVIE": {
@@ -1144,7 +1144,7 @@
         "zh": "一个允许用户以在线日记的形式反思、分享观点和讨论各种主题的网站，有时还让读者对他们的帖子发表评论。大多数博客都是以稍微非正式的语气撰写的（个人日记、新闻、商业等）"
     },
     "PARTY": {
-        "en": "A person or group of people constituting a particular side in a contract or legal action.",
+        "en": "A social gathering of invited guests, typically involving eating, drinking, and entertainment.",
         "zh": "构成合同或法律诉讼中特定一方的个人或团体。"
     },
     "LOGIN": {
@@ -1180,7 +1180,7 @@
         "zh": "可见光谱中最长波长 670 nm 的任何颜色范围；透射光的主要加色：通过使用品红色和黄色滤光片从白光中减去绿色和蓝色而获得的颜色；血液的颜色、成熟的草莓等。"
     },
     "GIVE": {
-        "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
+        "en": "To freely transfer the possession of something to someone.",
         "zh": "当某物受力时所经历的弯曲量；在压力下有屈服的倾向；韧性。"
     },
     "QUOTE": {
@@ -1240,15 +1240,15 @@
         "zh": "女童、青少年或年轻女子。"
     },
     "ROAD": {
-        "en": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country __ is the same as a country lane.",
-        "zh": "一种用于两地之间旅行的道路，最初宽度足以允许步行乘客和马匹行驶，现在（美国）通常铺有沥青或混凝土，设计用于容纳许多双向行驶的车辆。在英国，这两种含义都可以听到：乡村道路与乡村小路相同。"
+        "en": "A wide way leading from one place to another, especially one paved and used by vehicles.",
+        "zh": "道路"
     },
     "GIFT": {
         "en": "Something given to another voluntarily, without charge.",
         "zh": "自愿无偿给予他人的东西。"
     },
     "HARD": {
-        "en": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+        "en": "Solid, firm, and resistant to pressure; not easily broken or bent.",
         "zh": "坚固或铺砌的海滩或斜坡，便于将船只拖出水面。"
     },
     "OCT": {
@@ -1256,7 +1256,7 @@
         "zh": "使用八位数字 0、1、2、3、4、5、6、7 的数字系统。"
     },
     "PAY": {
-        "en": "Money given in return for work; salary or wages.",
+        "en": "To give someone money owed for work done, goods received, or a debt incurred.",
         "zh": "作为工作回报而给予的金钱；工资或工资。"
     },
     "FOUR": {
@@ -1264,28 +1264,28 @@
         "zh": "数字或数字4；其发生。"
     },
     "POKER": {
-        "en": "A metal rod, generally of wrought iron, for adjusting the burning logs or coals in a fire; a firestick.",
+        "en": "A card game played by two or more people who bet on the value of their hands.",
         "zh": "金属棒，通常由锻铁制成，用于调节火中燃烧的原木或煤炭；一根火棒。"
     },
     "ISSUE": {
-        "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+        "en": "An important topic or problem for debate or discussion.",
         "zh": "流动或出来、流出的动作或实例，特别是："
     },
     "RANGE": {
-        "en": "A line or series of mountains, buildings, etc.",
+        "en": "The area of variation between limits on a particular scale.",
         "zh": "一行或一系列的山脉、建筑物等。"
     },
     "COURT": {
-        "en": "An enclosed space; a __yard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
-        "zh": "封闭的空间；一个庭院；被建筑物墙壁或不同建筑物封闭的未覆盖区域；此外，还有一个从街道开口、几乎被房屋包围的空间；死胡同。"
+        "en": "A tribunal presided over by a judge administering justice; also, an area for playing sports like tennis.",
+        "zh": "法院"
     },
     "AUDIO": {
         "en": "A sound, or a sound signal",
         "zh": "声音或声音信号"
     },
     "LIGHT": {
-        "en": "Visible electromagnetic radiation. The human eye can typically detect radiation (__) in the wavelength range of about 400 to 750 nanometers. Nearby shorter and longer wavelength ranges, although not visible, are commonly called ultraviolet and infrared __.",
-        "zh": "可见电磁辐射。人眼通常可以检测到波长范围约为 400 至 750 纳米的辐射（光）。附近较短和较长的波长范围虽然不可见，但通常称为紫外线和红外线。"
+        "en": "The natural agent that stimulates sight and makes things visible; brightness or illumination.",
+        "zh": "光"
     },
     "WRITE": {
         "en": "The act or style of writing.",
@@ -1300,7 +1300,7 @@
         "zh": "一个新手。"
     },
     "OFFER": {
-        "en": "A proposal that has been made.",
+        "en": "To present or proffer something for someone to accept or reject.",
         "zh": "已提出一项提案。"
     },
     "BLUE": {
@@ -1324,7 +1324,7 @@
         "zh": "发生；发生的事情。"
     },
     "FAX": {
-        "en": "The hair of the head.",
+        "en": "An exact copy of a document made by electronic scanning and transmitted by telecommunications.",
         "zh": "头上的头发。"
     },
     "CHINA": {
@@ -1348,7 +1348,7 @@
         "zh": "历史上根据月相划分一年的时期。"
     },
     "MAJOR": {
-        "en": "A military rank between captain and lieutenant colonel.",
+        "en": "Important, serious, or significant.",
         "zh": "军衔介于上尉和中校之间。"
     },
     "STAR": {
@@ -1360,7 +1360,7 @@
         "zh": "表面范围的测量；它以平方单位测量。"
     },
     "SPACE": {
-        "en": "(heading) Of time.",
+        "en": "A continuous area or expanse that is free, available, or unoccupied.",
         "zh": "（标题）时间。"
     },
     "HAND": {
@@ -1380,7 +1380,7 @@
         "zh": "尚未成年的人，无论是自然的（青春期）、文化的（启蒙）还是法律的（多数）"
     },
     "KEEP": {
-        "en": "The main tower of a castle or fortress, located within the castle walls.",
+        "en": "To have or retain possession of something.",
         "zh": "城堡或要塞的主塔，位于城堡墙内。"
     },
     "ENTER": {
@@ -1392,7 +1392,7 @@
         "zh": "色情。"
     },
     "SHARE": {
-        "en": "A portion of something, especially a portion given or allotted to someone.",
+        "en": "A part or portion of a larger amount that is divided among a number of people.",
         "zh": "某物的一部分，尤其是给予或分配给某人的一部分。"
     },
     "ADDED": {
@@ -1408,15 +1408,15 @@
         "zh": "跑。"
     },
     "TERM": {
-        "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+        "en": "A word or phrase used to describe a thing or express a concept; a fixed period of time.",
         "zh": "限制事物范围的事物；限制，极端，界线，界线。"
     },
     "FILM": {
-        "en": "A thin layer of some substance; a pellicle; a membranous covering, causing opacity.",
+        "en": "A story or event recorded by a camera as a set of moving images; a movie.",
         "zh": "某种物质的薄层；薄膜；膜状覆盖物，导致不透明。"
     },
     "PUT": {
-        "en": "A right to sell something at a predetermined price.",
+        "en": "To move something to a particular position or place.",
         "zh": "以预定价格出售某物的权利。"
     },
     "TRY": {
@@ -1440,7 +1440,7 @@
         "zh": "直到（某事发生）的时间为止。"
     },
     "CELL": {
-        "en": "A single-room dwelling for a hermit.",
+        "en": "The smallest structural and functional unit of an organism; a small room for a prisoner.",
         "zh": "隐士的单间住宅。"
     },
     "COLOR": {
@@ -1456,7 +1456,7 @@
         "zh": "离开；去另一个地方。"
     },
     "TRACK": {
-        "en": "A mark left by something that has passed along.",
+        "en": "A rough path or road, typically one beaten by use rather than constructed.",
         "zh": "已经过去的事物留下的痕迹。"
     },
     "ONCE": {
@@ -1468,7 +1468,7 @@
         "zh": "尽可能最小的范围；一个不可分割的单位。"
     },
     "LOG": {
-        "en": "The trunk of a dead tree, cleared of branches.",
+        "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
         "zh": "一棵枯树的树干，没有树枝。"
     },
     "SURE": {
@@ -1488,7 +1488,7 @@
         "zh": "一种独立移动的轮式车辆，至少有三个轮子，机械驱动，由驾驶员驾驶，主要用于个人交通。"
     },
     "TELL": {
-        "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+        "en": "To communicate information to someone in spoken or written words.",
         "zh": "一种反射性的、通常是习惯性的行为，尤其是在人们经常在心理压力下试图欺骗的情况下发生的行为（例如扑克游戏或警察审讯），它揭示了表现出行为的人试图隐瞒的信息。"
     },
     "ABLE": {
@@ -1504,11 +1504,11 @@
         "zh": "以绿色为其颜色。"
     },
     "CLOSE": {
-        "en": "An end or conclusion.",
+        "en": "A short distance away or apart in space or time; near.",
         "zh": "结束或结论。"
     },
     "DRIVE": {
-        "en": "Motivation to do or achieve something; ability coupled with ambition.",
+        "en": "To operate and control the direction and speed of a motor vehicle.",
         "zh": "做某事或取得某事的动机；能力加上野心。"
     },
     "GOLD": {
@@ -1536,7 +1536,7 @@
         "zh": "去哀叹。"
     },
     "DAILY": {
-        "en": "Something that is produced, consumed, used, or done every day.",
+        "en": "Done, produced, or occurring every day.",
         "zh": "每天生产、消费、使用或完成的东西。"
     },
     "BEACH": {
@@ -1544,11 +1544,11 @@
         "zh": "水体的岸边，尤其是沙质或卵石的岸边。"
     },
     "PAST": {
-        "en": "To change place.",
+        "en": "Gone by in time and no longer existing; belonging to a former time.",
         "zh": "要换地方。"
     },
     "DUE": {
-        "en": "Deserved acknowledgment.",
+        "en": "Expected at or planned for at a certain time.",
         "zh": "当之无愧的认可。"
     },
     "FIVE": {
@@ -1572,7 +1572,7 @@
         "zh": "地球上未被海洋或其他水体覆盖的部分。"
     },
     "DONE": {
-        "en": "(auxiliary) A syntactic marker.",
+        "en": "Carried out, completed, or finished.",
         "zh": "（辅助）句法标记。"
     },
     "PRO": {
@@ -1584,7 +1584,7 @@
         "zh": "收取费用；要求支付（指定的）价格。"
     },
     "STYLE": {
-        "en": "Senses relating to a thin, pointed object.",
+        "en": "A manner of doing something; a distinctive appearance of a design or work of art.",
         "zh": "与薄而尖的物体有关的感觉。"
     },
     "FRONT": {
@@ -1628,7 +1628,7 @@
         "zh": "（标题）就业。"
     },
     "BILL": {
-        "en": "Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.",
+        "en": "A printed or written statement of the money owed for goods or services.",
         "zh": "各种带刃或尖头的手持武器，最初指盎格鲁-撒克逊剑，后来指步兵武器，特别是在 14 世纪和 15 世纪，通常由宽而重的双刃钩形刀片组成，背面有一根短矛，顶部有一根短矛，连接在长杖的末端。"
     },
     "APR": {
@@ -1644,8 +1644,8 @@
         "zh": "法规、法律、指南。"
     },
     "FINAL": {
-        "en": "A __ examination; a test or examination given at the end of a term or class; the test that concludes a class.",
-        "zh": "期末考试；学期或课程结束时进行的测试或考试；结束课程的测试。"
+        "en": "Coming at the end of a series; the last game in a sports tournament.",
+        "zh": "决赛"
     },
     "ADULT": {
         "en": "A fully grown human or animal.",
@@ -1656,11 +1656,11 @@
         "zh": "被认为作为单独的实体、对象、质量或概念存在的东西。"
     },
     "VIA": {
-        "en": "A main road or highway, especially in ancient Rome. (Mainly used in set phrases, below.)",
+        "en": "Traveling through a place on the way to a destination; by way of.",
         "zh": "主要道路或高速公路，尤其是在古罗马。 （主要用于固定短语，见下文。）"
     },
     "CHEAP": {
-        "en": "Trade; traffic; chaffer; chaffering.",
+        "en": "Low in price; not expensive.",
         "zh": "贸易;交通;谷壳;讨价还价。"
     },
     "NUDE": {
@@ -1672,7 +1672,7 @@
         "zh": "一只小山羊。"
     },
     "TRUE": {
-        "en": "The state of being in alignment.",
+        "en": "In accordance with fact or reality; not false.",
         "zh": "对齐的状态。"
     },
     "ELSE": {
@@ -1680,7 +1680,7 @@
         "zh": "（仅与不定代词或疑问代词一起使用）其他；除了前面提到的项目之外。"
     },
     "MARK": {
-        "en": "(heading) Boundary, land within a boundary.",
+        "en": "A small area on a surface having a different color from its surroundings.",
         "zh": "（标题）边界，边界内的土地。"
     },
     "THIRD": {
@@ -1696,7 +1696,7 @@
         "zh": "自愿无偿给予他人的东西。"
     },
     "BAD": {
-        "en": "Error, mistake.",
+        "en": "Of poor quality or a low standard; not good.",
         "zh": "错误，错误。"
     },
     "TIPS": {
@@ -1728,16 +1728,16 @@
         "zh": "与发明相反的实际事物。"
     },
     "UNIT": {
-        "en": "A particular, minute __ of mass, defined differently for different substances, but so that varying substances of the same general type have the property that one international __ of the one has the same effect on the human body as one international __ of the other.",
-        "zh": "一种特殊的微小质量单位，对不同物质的定义不同，但同一类型的不同物质具有这样的特性：一种国际单位与另一种国际单位对人体具有相同的影响。"
+        "en": "An individual thing or person regarded as single and complete, especially for purposes of calculation.",
+        "zh": "单位"
     },
     "TECH": {
         "en": "__nology",
         "zh": "技术"
     },
     "MEET": {
-        "en": "A sports competition, especially for track and field (a track __) or swimming (a swim __).",
-        "zh": "体育比赛，特别是田径（田径比赛）或游泳（游泳比赛）。"
+        "en": "To come into the presence of someone by arrangement or by chance.",
+        "zh": "遇见"
     },
     "FAR": {
         "en": "Distant; remote in space.",
@@ -1844,15 +1844,15 @@
         "zh": "从一只脚到另一只脚的前进或移动；一个步伐。"
     },
     "QUICK": {
-        "en": "Raw or sensitive flesh, especially that underneath finger and toe nails.",
+        "en": "Moving fast or doing something in a short time.",
         "zh": "生肉或敏感肉，尤其是手指甲和脚趾甲下面的肉。"
     },
     "NONE": {
-        "en": "A person without religious affiliation.",
+        "en": "Not any; no amount or part of something.",
         "zh": "没有宗教信仰的人。"
     },
     "LAKE": {
-        "en": "A small stream of running water; a channel for water; a drain.",
+        "en": "A large body of water surrounded by land.",
         "zh": "一小股流水；水道；排水沟。"
     },
     "WHOLE": {
@@ -1880,7 +1880,7 @@
         "zh": "非正式谈话。"
     },
     "ALONG": {
-        "en": "In company; together.",
+        "en": "Moving in a constant direction on a path or any more or less horizontal surface.",
         "zh": "在公司；一起。"
     },
     "AMONG": {
@@ -1912,7 +1912,7 @@
         "zh": "液体脂肪。"
     },
     "BIT": {
-        "en": "A piece of metal placed in a horse's mouth and connected to the reins to direct the animal.",
+        "en": "A small piece, part, or quantity of something.",
         "zh": "放置在马嘴中并连接到缰绳以引导动物的一块金属。"
     },
     "BASE": {
@@ -2192,8 +2192,8 @@
         "zh": "对象或过程的规范，指的是要满足的要求以及解决问题所需满足的条件。"
     },
     "RECORD": {
-        "en": "A disk, usually made of a polymer, used to __ sound for playback on a phonograph.",
-        "zh": "一种磁盘，通常由聚合物制成，用于录制声音以便在留声机上播放。"
+        "en": "A thing constituting a piece of evidence about the past; also, a thin vinyl disc carrying recorded sound.",
+        "zh": "记录"
     },
     "DETAIL": {
         "en": "Something small enough to escape casual notice.",
@@ -2220,8 +2220,8 @@
         "zh": "试图找到一些东西。"
     },
     "DOCTOR": {
-        "en": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a __ degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
-        "zh": "医生；医学界人士；受过培训并获得许可来治疗病人或伤者的人。最终考试和资格可能授予博士学位，在这种情况下，提名字母在美国为 D.O.、DPM、M.D.、DMD、DDS，在英国为 MBBS。"
+        "en": "A medical professional trained and licensed to practice medicine and treat patients.",
+        "zh": "医生"
     },
     "EDITOR": {
         "en": "A person who edits or makes changes to documents.",
@@ -2364,8 +2364,8 @@
         "zh": "养成选择某些事物而不是其他事物的习惯；赞成；更喜欢。"
     },
     "REPORT": {
-        "en": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the __) and on (referring to the subject).",
-        "zh": "描述或呈现给某人的某些事件的一条信息，最常见的介词是“by”（指报告的创建者）和“on”（指主题）。"
+        "en": "An account given of a particular matter, especially after investigation or consideration.",
+        "zh": "报告"
     },
     "DEMAND": {
         "en": "The desire to purchase goods and services.",
@@ -2472,8 +2472,8 @@
         "zh": "（标题）进行社交互动。"
     },
     "INSECT": {
-        "en": "An arthropod in the class __a, characterized by six legs, up to four wings, and a chitinous exoskeleton.",
-        "zh": "昆虫纲的一种节肢动物，具有六足、最多四个翅膀和几丁质外骨骼。"
+        "en": "A small arthropod animal that has six legs and a body divided into three main parts.",
+        "zh": "昆虫"
     },
     "DIFFER": {
         "en": "Not to have the same traits or characteristics; to be unalike or distinct.",
@@ -2616,8 +2616,8 @@
         "zh": "写作；书面文件。"
     },
     "STRIKE": {
-        "en": "A status resulting from a batter swinging and missing a pitch, or not swinging at a pitch when the ball goes in the __ zone, or hitting a foul ball that is not caught.",
-        "zh": "击球手挥杆但未击球，或球进入好球区时未击球，或击中未接住的界外球而导致的状态。"
+        "en": "A refusal to work organized by employees as a form of protest.",
+        "zh": "罢工"
     },
     "FREEZE": {
         "en": "Especially of a liquid, to become solid due to low temperature.",
@@ -3108,8 +3108,8 @@
         "zh": "保持在结构或容器内。"
     },
     "HUNDRED": {
-        "en": "A __-dollar bill, or any other note denominated 100 (e.g. a __ euros).",
-        "zh": "百元钞票或任何其他面值 100 的纸币（例如一百欧元）。"
+        "en": "The number equivalent to ten times ten; 100.",
+        "zh": "一百"
     },
     "IMAGINE": {
         "en": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
@@ -3232,8 +3232,8 @@
         "zh": "一个走在前面的人，就像进入旷野一样，为其他人预备道路。"
     },
     "PLASTIC": {
-        "en": "A synthetic, solid, hydrocarbon-based polymer, whether thermo__ or thermosetting.",
-        "zh": "一种合成的固体碳氢化合物聚合物，无论是热塑性还是热固性。"
+        "en": "A synthetic material made from organic polymers that can be molded into shape while soft.",
+        "zh": "塑料"
     },
     "PORTION": {
         "en": "An allocated amount.",
@@ -3336,8 +3336,8 @@
         "zh": "恢复到以前的地点、位置、状况等；放回去"
     },
     "REQUEST": {
-        "en": "Act of __ing (with the adposition at in the presence of possessives, and on in their absence).",
-        "zh": "请求的行为（有所有格时用介词 at，没有所有格时用 on）。"
+        "en": "An act of asking politely or formally for something.",
+        "zh": "请求"
     },
     "REQUIRE": {
         "en": "To ask (someone) for something; to request.",
@@ -3728,8 +3728,8 @@
         "zh": "（语法）动词的被动语态。"
     },
     "PENSION": {
-        "en": "An annuity paid regularly as benefit due to a retired employee, serviceman etc. in consideration of past services, originally and chiefly by a government but also by various private __ schemes.",
-        "zh": "考虑到过去的服务，定期向退休雇员、军人等支付的福利年金，最初主要由政府支付，但也由各种私人养老金计划支付。"
+        "en": "A regular payment made to retired employees from an investment fund.",
+        "zh": "养老金"
     },
     "POLYMER": {
         "en": "A long or larger molecule consisting of a chain or network of many repeating units, formed by chemically bonding together many identical or similar small molecules called monomers. A __ is formed by __ization, the joining of many monomer molecules.",
@@ -5472,8 +5472,8 @@
         "zh": "动态检索以包含在另一个项目中的一段源代码或其他内容。"
     },
     "ARCHIVE": {
-        "en": "A place for storing earlier, and often historical, material. An __ usually contains documents (letters, records, newspapers, etc.) or other types of media kept for historical interest.",
-        "zh": "存储早期且通常是历史材料的地方。档案通常包含出于历史兴趣而保存的文档（信件、记录、报纸等）或其他类型的媒体。"
+        "en": "A collection of historical documents or records providing information about a place, institution, or group.",
+        "zh": "档案"
     },
     "OTHERS": {
         "en": "An other, another (person, etc), more often rendered as another.",
@@ -6204,8 +6204,8 @@
         "zh": "回归的动作。"
     },
     "FOLLOW": {
-        "en": "(sometimes attributive) In billiards and similar games, a stroke causing a ball to __ another ball after hitting it.",
-        "zh": "（有时是定语）在台球和类似游戏中，击球使一个球在击中另一个球后跟随另一个球。"
+        "en": "To go or come after a person or thing proceeding ahead; to move behind.",
+        "zh": "跟随"
     },
     "SENT": {
         "en": "A subdivision of currency, equal to one hundredth of an Estonian kroon.",
@@ -7144,8 +7144,8 @@
         "zh": "来详细解释一下。"
     },
     "RACE": {
-        "en": "A contest between people, animals, vehicles, etc. where the goal is to be the first to reach some objective. Example: Several horses run in a horse __, and the first one to reach the finishing post wins",
-        "zh": "人、动物、车辆等之间的竞赛，目标是成为第一个达到某个目标的人。例：多匹马参加赛马比赛，最先到达终点的获胜"
+        "en": "A competition between runners, horses, vehicles, etc. to see which is fastest.",
+        "zh": "比赛"
     },
     "APPROVED": {
         "en": "To sanction officially; to ratify; to confirm; to set as satisfactory.",
@@ -8520,8 +8520,8 @@
         "zh": "为了充实。"
     },
     "GUITAR": {
-        "en": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (__ pick).",
-        "zh": "一种起源于欧洲的弦乐器，通常带有按动的指板和六根弦，用手指或拨片（吉他拨片）演奏。"
+        "en": "A stringed musical instrument with a fretted fingerboard, typically six strings, played by plucking.",
+        "zh": "吉他"
     },
     "FINDING": {
         "en": "To encounter or discover by accident; to happen upon.",
@@ -8900,8 +8900,8 @@
         "zh": "与另一个人同父母的儿子。"
     },
     "GENE": {
-        "en": "A theoretical unit of heredity of living organisms; a __ may take several values and in principle predetermines a precise trait of an organism's form (phenotype), such as hair color.",
-        "zh": "生物体遗传的理论单位；一个基因可能有几个值，并且原则上预先确定了生物体形态（表型）的精确特征，例如头发颜色。"
+        "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+        "zh": "基因"
     },
     "TURNED": {
         "en": "(heading) to make a non-linear physical movement.",
@@ -9912,8 +9912,8 @@
         "zh": "外耳的尖端。"
     },
     "MINE": {
-        "en": "My; belonging to me; that which belongs to me.",
-        "zh": "我的;属于我的；属于我的。"
+        "en": "An excavation in the earth for extracting coal, precious stones, or other minerals.",
+        "zh": "矿"
     },
     "LADIES": {
         "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
@@ -10980,8 +10980,8 @@
         "zh": "由连接的金属、纤维或其他柔性/延展材料的股线制成的结构，它们之间具有均匀间隔的开口。"
     },
     "TRAIL": {
-        "en": "The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the con__ of an airplane in the sky.",
-        "zh": "标记经过的物体所遵循的路线的轨迹或指示，例如动物在陆地上的脚印或飞机在天空中的轨迹。"
+        "en": "A marked path through a forest or countryside; a track or scent left behind.",
+        "zh": "小径"
     },
     "CRAFTS": {
         "en": "Strength; power; might; force .",
@@ -11052,8 +11052,8 @@
         "zh": "晴空或深海的颜色，可见光谱中的绿色和紫色之间，是透射光的主要加色之一；使用品红色和青色滤镜从白光中减去红色和绿色获得的颜色；或任何类似的颜色。"
     },
     "PUB": {
-        "en": "A __lic house where beverages, primarily alcoholic, may be bought and consumed, also providing food and sometimes entertainment such as live music or television.",
-        "zh": "可以购买和消费饮料（主要是酒精）的酒馆，也提供食物，有时还提供现场音乐或电视等娱乐活动。"
+        "en": "An establishment where alcoholic drinks are served for consumption on the premises.",
+        "zh": "酒吧"
     },
     "SCOPE": {
         "en": "The breadth, depth or reach of a subject; a domain.",
@@ -11360,8 +11360,8 @@
         "zh": "一台笔记本电脑。"
     },
     "MILE": {
-        "en": "The international __: a unit of length precisely equal to 1.609344 kilometers established by treaty among Anglophone nations in 1959, divided into 5,280 feet or 1,760 yards.",
-        "zh": "国际英里：英语国家于 1959 年通过条约建立的精确等于 1.609344 公里的长度单位，分为 5,280 英尺或 1,760 码。"
+        "en": "A unit of distance equal to 5,280 feet or approximately 1.6 kilometers.",
+        "zh": "英里"
     },
     "SHOWED": {
         "en": "To display, to have somebody see (something).",
@@ -11428,8 +11428,8 @@
         "zh": "以液体或糊状形式施用并干燥成固体涂层的物质，可保护所施用的物体或表面或为其添加颜色/颜色。"
     },
     "DELAY": {
-        "en": "A period of time before an event occurs; the act of __ing; procrastination; lingering inactivity.",
-        "zh": "事件发生前的一段时间；拖延行为；拖延;持续不活动。"
+        "en": "To make someone or something late or slow; a period of time by which something is late.",
+        "zh": "延迟"
     },
     "PILOT": {
         "en": "A person who steers a ship, a helmsman.",
@@ -11492,8 +11492,8 @@
         "zh": "我们的宇宙，是宇宙中存在的一切事物的总和，包括时间和空间本身。"
     },
     "PATENT": {
-        "en": "A declaration issued by a government agency declaring someone the inventor of a new invention and having the privilege of stopping others from making, using or selling the claimed invention; a letter __.",
-        "zh": "政府机构发布的声明，宣布某人是新发明的发明人，并有权阻止他人制造、使用或销售所主张的发明；专利证书。"
+        "en": "A government authority granting a right or title, especially the sole right to make or sell an invention.",
+        "zh": "专利"
     },
     "SLOT": {
         "en": "A broad, flat, wooden bar, a slat, especially as used to secure a door, window, etc.",
@@ -11952,8 +11952,8 @@
         "zh": "尿崩症；任何以尿液过多或尿失禁为特征的病症，特别是由于抗利尿激素加压素的产生或反应受损而引起的。"
     },
     "SUIT": {
-        "en": "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business __ or lounge __), or a similar outfit for a woman.",
-        "zh": "一套可以一起穿的衣服，现在特别是男士配套的夹克和裤子（也可以是商务套装或休闲套装），或者是女士的类似服装。"
+        "en": "A set of outer clothes made of the same fabric, consisting of a jacket and trousers or a skirt.",
+        "zh": "套装"
     },
     "SHIFT": {
         "en": "A modifier key whose main function is __ing between two or more functions of any of certain other keys (usually by pressing __ and the other button simultaneously).",
@@ -12512,7 +12512,7 @@
         "zh": "任何旧大陆牛科哺乳动物，例如非洲水牛、Syncerus caffer 或水牛 Bubalus bubalis。"
     },
     "PLANE": {
-        "en": "A level or flat surface.",
+        "en": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
         "zh": "水平或平坦的表面。"
     },
     "SEED": {
@@ -12536,7 +12536,7 @@
         "zh": "健康、安全、幸福、繁荣；任何方面的幸福。"
     },
     "PEER": {
-        "en": "A look; a glance.",
+        "en": "A person of the same age, status, or ability as another specified person.",
         "zh": "一看；一眼。"
     },
     "CAUGHT": {
@@ -13516,7 +13516,7 @@
         "zh": "想要；真诚地祈求。"
     },
     "INTER": {
-        "en": "To bury in a grave.",
+        "en": "To place a dead body in a grave or tomb; to bury.",
         "zh": "埋入坟墓。"
     },
     "CLOSER": {
@@ -13740,8 +13740,8 @@
         "zh": "添加的行为或实例。"
     },
     "EAR": {
-        "en": "The organ of h__ing, consisting of the pinna, auditory canal, __drum, malleus, incus, stapes and cochlea.",
-        "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
+        "en": "The organ on either side of the head used for hearing.",
+        "zh": "耳朵"
     },
     "FLAGS": {
         "en": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.",
@@ -13772,7 +13772,7 @@
         "zh": "一种坚硬、致密、深黑色的木材，来自各种亚热带和热带树木，尤其是柿属树木。"
     },
     "TIE": {
-        "en": "A knot; a fastening.",
+        "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
         "zh": "一个结；紧固件。"
     },
     "WARD": {
@@ -13780,7 +13780,7 @@
         "zh": "典狱长；一名警卫；监护人或看守人。"
     },
     "DRAWN": {
-        "en": "To move or develop something.",
+        "en": "Past participle of draw; produced by drawing with a pen or pencil.",
         "zh": "移动或开发某物。"
     },
     "VISITED": {
@@ -14112,7 +14112,7 @@
         "zh": "一个组织，其目标是实现慈善目的。"
     },
     "EXCEL": {
-        "en": "To surpass someone or something; to be better or do better than someone or something.",
+        "en": "To surpass others or be exceptionally good at an activity.",
         "zh": "超越某人或某事；比某人或某事更好或做得更好。"
     },
     "MODES": {
@@ -14252,7 +14252,7 @@
         "zh": "只偶尔为公司工作而不是永久雇员的工人。"
     },
     "GROWN": {
-        "en": "To become larger, to increase in magnitude.",
+        "en": "Past participle of grow; having developed to a mature or advanced stage.",
         "zh": "变得更大，幅度增加。"
     },
     "POLISH": {
@@ -14424,7 +14424,7 @@
         "zh": "（叙述的）伦理意义或实践教训。"
     },
     "DEN": {
-        "en": "A small cavern or hollow place in the side of a hill, or among rocks; especially, a cave used by a wild animal for shelter or concealment.",
+        "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
         "zh": "山坡上或岩石间的小洞穴或凹处；特别是野生动物用来庇护或隐藏的洞穴。"
     },
     "CATERING": {
@@ -14436,8 +14436,8 @@
         "zh": "城堡或要塞的主塔，位于城堡墙内。"
     },
     "POUND": {
-        "en": "A unit of mass equal to 16 avoirdupois ounces (= 453.592 37 g). Today this value is the most common meaning of \"__\" as a unit of weight.",
-        "zh": "质量单位，等于 16 常衡盎司 (= 453.592 37 g)。今天，这个值是“磅”作为重量单位的最常见含义。"
+        "en": "A unit of weight equal to 16 ounces (about 453 grams); also, the basic monetary unit of the UK.",
+        "zh": "磅"
     },
     "LOCATE": {
         "en": "To place; to set in a particular spot or position.",
@@ -14484,11 +14484,11 @@
         "zh": "力学的一个分支，研究力对物体运动的影响。"
     },
     "LIE": {
-        "en": "The terrain and conditions surrounding the ball before it is struck.",
+        "en": "An intentionally false statement; to say something that is not true.",
         "zh": "击球前球周围的地形和条件。"
     },
     "CHEST": {
-        "en": "A box, now usually a large strong box with a secure convex lid.",
+        "en": "The front surface of a person's body between the neck and the stomach.",
         "zh": "一个盒子，现在通常是一个带有安全凸形盖子的大而坚固的盒子。"
     },
     "BILLY": {
@@ -15132,7 +15132,7 @@
         "zh": "基督教新约圣经的第一部分，包括马太福音、马可福音、路加福音和约翰福音，涉及耶稣的生平、受难、死亡、复活和教义。"
     },
     "SHORE": {
-        "en": "Land adjoining a non-flowing body of water, such as an ocean, lake or pond.",
+        "en": "The land along the edge of a sea, lake, or other large body of water.",
         "zh": "毗邻不流动水体（例如海洋、湖泊或池塘）的土地。"
     },
     "LOVES": {
@@ -15680,7 +15680,7 @@
         "zh": "适合，如特定的目的或目的；使合适或舒适；适应;调整。"
     },
     "ASIDE": {
-        "en": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
+        "en": "To one side; out of the way.",
         "zh": "轻声说的偶然言论，以便被说这句话的人听到，而不是被附近的任何其他人听到。"
     },
     "LICENCE": {
@@ -15688,7 +15688,7 @@
         "zh": "正式许可做某事的法律文件；许可证。"
     },
     "ESSAY": {
-        "en": "(authorship) A written composition of moderate length, exploring a particular issue or subject.",
+        "en": "A short piece of writing on a particular subject.",
         "zh": "（作者身份）长度适中的书面作品，探讨特定问题或主题。"
     },
     "CAMPS": {
@@ -15800,7 +15800,7 @@
         "zh": "命运;命运;运气。"
     },
     "TEE": {
-        "en": "The name of the Latin-script letter T.",
+        "en": "A small peg placed in the ground to support a golf ball before it is struck.",
         "zh": "拉丁字母 T 的名称。"
     },
     "LION": {
@@ -16092,7 +16092,7 @@
         "zh": "通过嘴消耗（液体）。"
     },
     "ACE": {
-        "en": "A single point or spot on a playing card or die.",
+        "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
         "zh": "扑克牌或骰子上的单个点或点。"
     },
     "VOICES": {
@@ -16360,7 +16360,7 @@
         "zh": "一个奶妈。"
     },
     "STEM": {
-        "en": "The stock of a family; a race or generation of progenitors.",
+        "en": "The main body or stalk of a plant or shrub.",
         "zh": "一个家庭的存货；一个种族或一代的祖先。"
     },
     "PROXY": {
@@ -17016,7 +17016,7 @@
         "zh": "擅长用计算机编程和解决问题的人。"
     },
     "MARGIN": {
-        "en": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+        "en": "The edge or border of something, such as the blank space around the text on a page.",
         "zh": "纸张的边缘，通常在打印时留白，但有时用于注释等。"
     },
     "COIN": {
@@ -17212,8 +17212,8 @@
         "zh": "（人或动物）调整自己或自己的位置，使脸最靠近（某物）。"
     },
     "MAT": {
-        "en": "A flat piece of coarse __erial used for wiping one’s feet, or as a decorative or protective floor covering.",
-        "zh": "一块扁平的粗糙材料，用于擦脚，或作为装饰或保护性地板覆盖物。"
+        "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
+        "zh": "垫子"
     },
     "SOLVING": {
         "en": "To find an answer or solution to a problem or question; to work out.",
@@ -17508,8 +17508,8 @@
         "zh": "两种或多种事物的混合物。"
     },
     "SPEC": {
-        "en": "A __ial place (for hiding or viewing)",
-        "zh": "一个特殊的地方（用于隐藏或观看）"
+        "en": "A detailed description of the design and materials used to make something.",
+        "zh": "规格"
     },
     "FINEST": {
         "en": "Senses referring to subjective quality.",
@@ -18168,8 +18168,8 @@
         "zh": "由国际法主体（即国家和国际组织）缔结的具有约束力的协议。"
     },
     "VOCAL": {
-        "en": "A __ sound; specifically, a purely __ element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a sub__, and a non__",
-        "zh": "声音；具体来说，是一种纯粹的语音元素，除了共鸣之外未经修饰；元音或双元音；滋补元素；滋补品；区别于默声和非声乐"
+        "en": "Relating to the human voice; a musical performance involving singing.",
+        "zh": "声乐的"
     },
     "TRAINER": {
         "en": "A person who trains another; a coach.",
@@ -18868,8 +18868,8 @@
         "zh": "物体或物质由比该物体密度更大的液体支撑，以便物体或物质的该部分保持在表面之上。"
     },
     "TILE": {
-        "en": "A regularly-shaped slab of clay or other material, affixed to cover or decorate a surface, as in a roof-__, glazed __, stove __, carpet __ etc.",
-        "zh": "形状规则的粘土或其他材料板，固定用于覆盖或装饰表面，如屋顶瓦、琉璃瓦、炉瓦、地毯瓦等。"
+        "en": "A flat, thin piece of hard material used for covering roofs, floors, or walls.",
+        "zh": "瓷砖"
     },
     "SPELL": {
         "en": "Words or a formula supposed to have magical powers.",
@@ -18996,8 +18996,8 @@
         "zh": "一本关于食谱和烹饪技巧的书或百科全书。"
     },
     "TON": {
-        "en": "A unit of weight (mass) equal to 2240 pounds (a long __) or 2000 pounds (a short __) or 1000 kilograms (a metric __).",
-        "zh": "重量（质量）单位，等于 2240 磅（一长吨）或 2000 磅（短吨）或 1000 公斤（一公吨）。"
+        "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+        "zh": "吨"
     },
     "COURIER": {
         "en": "A person who looks after and guides tourists",
@@ -23000,8 +23000,8 @@
         "zh": "巴西交谊舞或舞蹈风格。"
     },
     "HOSTEL": {
-        "en": "A commercial overnight lodging place, with dormitory accommodation and shared facilities, especially a youth __",
-        "zh": "商业过夜住宿场所，设有宿舍和共用设施，特别是青年旅社"
+        "en": "An establishment that provides inexpensive lodging, particularly for young travelers.",
+        "zh": "旅馆"
     },
     "EMPLOY": {
         "en": "The state of being an __ee; __ment.",
@@ -24742,5 +24742,9 @@
     "ARBOR": {
         "en": "A shady sitting place or pergola usually in a park or garden, surrounded by climbing shrubs, vines or other vegetation.",
         "zh": "阴凉的休息处或凉棚，通常位于公园或花园中，周围环绕着攀缘灌木、藤蔓或其他植被。"
+    },
+    "TOUCH": {
+        "en": "To come into or be in contact with; to handle or feel with the hand.",
+        "zh": "触摸"
     }
 }

@@ -5,130 +5,121 @@
   "cols": 5,
   "solution": [
     [
-      "U",
       "S",
-      "E",
-      "D",
-      null
-    ],
-    [
-      "S",
+      null,
+      "P",
       "I",
-      "R",
-      null,
-      "D"
+      "T"
     ],
     [
+      "T",
+      "H",
       "E",
-      "R",
-      "R",
-      "O",
-      "R"
+      "T",
+      "A"
     ],
     [
-      "D",
+      "U",
+      "I",
       null,
-      "O",
-      "N",
+      "E",
+      "K"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "M",
       "E"
     ],
     [
-      null,
-      "C",
-      "R",
+      "F",
       "E",
-      "W"
+      "E",
+      null,
+      "N"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        2
-      ],
-      [
         2,
-        0
+        1
       ],
       [
-        0,
-        2
+        1,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        1
       ],
       [
         2,
         3
-      ],
-      [
-        2,
-        2
       ]
     ],
     "medium": [
       [
-        3,
-        2
-      ],
-      [
         2,
-        0
+        1
       ],
       [
-        0,
-        2
+        1,
+        4
+      ],
+      [
+        3,
+        3
       ]
     ],
     "hard": [
       [
-        3,
-        2
+        2,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A hole in the ground.",
+          "zh": "坑"
         }
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A man of a higher rank or position.",
-          "zh": "先生"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "The state, quality, or condition of being wrong.",
-          "zh": "错误"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
+          "zh": "希腊字母θ"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
-          "zh": "全体人员"
+          "en": "The structural elements of a building or other constructed object.",
+          "zh": "框架"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+          "zh": "费用"
         }
       }
     ],
@@ -138,44 +129,35 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A man of a higher rank or position.",
-          "zh": "先生"
+          "en": "Miscellaneous items or objects; (with possessive) personal effects.",
+          "zh": "东西"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The state, quality, or condition of being wrong.",
-          "zh": "错误"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "To move or develop something.",
-          "zh": "画了"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "A distinct physical object.",
+          "zh": "物品"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To get into one's hands, possession or control, with or without force.",
+          "zh": "采取"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Payment for the temporary use of something.",
+          "zh": "聘请"
         }
       }
     ]

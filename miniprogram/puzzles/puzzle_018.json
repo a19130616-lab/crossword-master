@@ -6,263 +6,241 @@
   "solution": [
     [
       null,
-      "B",
+      "M",
+      null,
+      "E",
+      null,
+      null,
+      "I"
+    ],
+    [
+      "F",
       "I",
       "T",
-      null,
-      "O",
-      "W"
-    ],
-    [
-      "I",
-      null,
       "N",
-      "O",
-      "B",
-      "L",
-      "E"
-    ],
-    [
-      "M",
       "E",
-      "N",
-      "U",
+      "S",
+      "S"
+    ],
+    [
       null,
       "D",
-      "A"
-    ],
-    [
-      "P",
-      "S",
+      "I",
+      "G",
       null,
-      "C",
-      null,
-      "E",
+      "I",
       "L"
     ],
     [
+      "E",
+      "D",
+      null,
+      "L",
       "O",
+      "N",
+      "E"
+    ],
+    [
+      "C",
+      "L",
+      null,
+      "I",
+      "N",
+      "G",
+      null
+    ],
+    [
+      "H",
+      "E",
+      "R",
       "S",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "O",
+      null,
       null,
       "H",
-      "U",
-      "R",
-      "T"
-    ],
-    [
-      "R",
-      "A",
-      "C",
-      "E",
-      "S",
       null,
-      "H"
-    ],
-    [
-      "T",
-      "Y",
-      null,
-      "D",
       "E",
-      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        4
-      ],
-      [
         5,
         1
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        6,
-        3
       ],
       [
         5,
         6
       ],
       [
-        4,
+        1,
         5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        2
       ],
       [
         2,
         2
       ],
       [
-        2,
+        1,
+        0
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        1,
         5
       ],
       [
         3,
         6
-      ]
-    ],
-    "medium": [
-      [
-        6,
-        4
       ],
       [
-        5,
+        2,
         1
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        5,
-        6
       ]
     ],
     "hard": [
       [
-        6,
-        4
-      ],
-      [
         5,
         1
       ],
       [
-        0,
-        1
+        5,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A piece of metal placed in a horse's mouth and connected to the reins to direct the animal.",
-          "zh": "少量"
+          "en": "The condition of being fit, suitable or appropriate.",
+          "zh": "健康"
         }
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 2,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "An aristocrat; one of aristocratic blood.",
-          "zh": "高贵"
+          "en": "An archeological or paleontological investigation, or the site where such an investigation is taking place.",
+          "zh": "挖"
         }
       },
       {
-        "num": 8,
-        "row": 2,
-        "col": 0,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "The details of the food to be served at a banquet; a bill of fare.",
-          "zh": "菜单"
+          "en": "Solitary; having no companion.",
+          "zh": "孤独的"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
         }
       },
       {
         "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "An emotional or psychological humiliation or bad experience.",
-          "zh": "伤害"
-        }
-      },
-      {
-        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A contest between people, animals, vehicles, etc. where the goal is to be the first to reach some objective. Example: Several horses run in a horse race, and the first one to reach the finishing post wins",
-          "zh": "人、动物、车辆等之间的竞赛，目标是成为第一个达到某个目标的人。例：多匹马参加赛马比赛，最先到达终点的获胜"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A small cavern or hollow place in the side of a hill, or among rocks; especially, a cave used by a wild animal for shelter or concealment.",
-          "zh": "书房"
+          "en": "(reflexive pronoun) Her; the female object of a verb or preposition that also appears as the subject.",
+          "zh": "她自己"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A centre, midpoint.",
+          "zh": "中间"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling.",
+          "zh": "英语"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Emotionally moved (by), made to feel emotion (by).",
-          "zh": "感动"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
-          "zh": "较老的"
-        }
-      },
-      {
-        "num": 5,
-        "row": 0,
         "col": 6,
         "clue": {
-          "en": "Riches; valuable material possessions.",
-          "zh": "财富"
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "Something brought in from an exterior source, especially for sale or trade.",
-          "zh": "进口"
+          "en": "A 45 RPM vinyl record with one song on side A and one on side B.",
+          "zh": "单身的"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "(authorship) A written composition of moderate length, exploring a particular issue or subject.",
-          "zh": "散文"
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
         }
       },
       {
-        "num": 15,
-        "row": 4,
+        "num": 11,
+        "row": 3,
         "col": 4,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       }
     ]

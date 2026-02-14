@@ -5,264 +5,251 @@
   "cols": 7,
   "solution": [
     [
-      null,
-      "A",
       "G",
-      "O",
       null,
-      "P",
-      "H"
-    ],
-    [
+      null,
       "S",
       null,
-      "A",
-      "P",
-      "P",
-      "L",
-      "E"
-    ],
-    [
-      "T",
-      "E",
-      "S",
-      "T",
-      null,
-      "A",
-      "I"
-    ],
-    [
-      "R",
-      "X",
-      null,
-      "I",
-      null,
-      "N",
-      "G"
-    ],
-    [
-      "E",
-      "T",
-      null,
-      "M",
-      "Y",
-      "T",
-      "H"
-    ],
-    [
-      "A",
-      "R",
-      "G",
-      "U",
-      "E",
       null,
       "T"
     ],
     [
-      "M",
+      "A",
+      "D",
+      "V",
+      "I",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      null,
+      "I",
+      "N",
+      "K",
+      null,
+      "A"
+    ],
+    [
+      "B",
+      "U",
+      "S",
+      null,
+      "I",
+      "N",
+      "G"
+    ],
+    [
       "A",
       null,
-      "M",
+      "T",
       "A",
-      "P",
-      null
+      "R",
+      null,
+      "E"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "N",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "T",
+      null,
+      null,
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
-        2
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        3,
         6
       ],
       [
-        5,
-        3
+        3,
+        0
+      ],
+      [
+        0,
+        0
       ],
       [
         1,
-        3
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
         0
+      ],
+      [
+        4,
+        3
       ]
     ],
     "medium": [
       [
         2,
-        2
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        0,
-        5
+        6
       ],
       [
         3,
-        3
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
       ]
     ],
     "hard": [
       [
         2,
-        2
+        6
       ],
       [
-        4,
-        4
-      ],
-      [
-        0,
-        3
+        3,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "One who offers advice.",
+          "zh": "顾问"
         }
       },
       {
         "num": 7,
-        "row": 1,
+        "row": 2,
         "col": 2,
         "clue": {
-          "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
-          "zh": "苹果"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
         }
       },
       {
         "num": 8,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A challenge, trial.",
-          "zh": "测试"
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
-          "zh": "神话"
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
         }
       },
       {
-        "num": 16,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        }
+      },
+      {
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To show grounds for concluding (that); to indicate, imply.",
-          "zh": "争论"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A visual representation of an area, whether real or imaginary.",
-          "zh": "地图"
+          "en": "(ditransitive) to give (permission or wish)",
+          "zh": "的确"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Food waste material of any kind.",
+          "zh": "垃圾"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
-          "zh": "气体"
+          "en": "A violation of God's will or religious law.",
+          "zh": "罪"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "The best or most favorable condition, or the greatest amount or degree possible under specific sets of comparable circumstances.",
-          "zh": "最佳"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.",
-          "zh": "植物"
+          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
+          "zh": "悲剧"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "The distance from the base of something to the top.",
-          "zh": "高度"
+          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
+          "zh": "远景"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A small river; a large creek; a body of moving water confined by banks.",
-          "zh": "溪流"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
-          "zh": "额外的"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
         "col": 4,
         "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
+          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
+          "zh": "裙子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         }
       }
     ]

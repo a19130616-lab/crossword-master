@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
-      null,
-      "I",
-      "C",
-      "E",
-      null,
-      null,
-      null,
-      "H"
-    ],
-    [
-      "C",
-      "O",
-      "L",
-      null,
-      "A",
       "S",
-      "I",
-      "D",
-      "E"
+      null,
+      null,
+      null,
+      "V",
+      null,
+      null,
+      "A"
     ],
     [
-      null,
-      "B",
-      "L",
-      "A",
       "S",
       "T",
-      null,
-      "I",
-      "I"
-    ],
-    [
+      "E",
       "P",
-      "E",
       null,
-      "S",
-      "E",
-      "A",
-      null,
-      "S",
-      "G"
-    ],
-    [
-      "A",
-      "S",
-      "K",
-      "S",
-      null,
-      "Y",
-      "E",
-      "A",
-      "H"
-    ],
-    [
-      "L",
       "I",
-      null,
-      "U",
-      "S",
-      "E",
-      null,
-      "B",
-      "T"
-    ],
-    [
-      "A",
-      "T",
-      null,
-      "M",
-      "O",
-      "D",
-      "E",
-      "L",
-      null
-    ],
-    [
       "C",
-      "Y",
-      "B",
-      "E",
-      "R",
-      null,
-      "Y",
-      "E",
+      "O",
       "N"
     ],
     [
-      "E",
+      "A",
+      "A",
       null,
+      "R",
+      "U",
+      "S",
+      "H",
       null,
-      null,
-      "T",
+      "Y"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "I",
+      "R",
       "I",
       "E",
       null,
+      "W"
+    ],
+    [
+      "P",
+      null,
+      "G",
+      "N",
+      null,
+      "T",
+      "A",
+      null,
+      "H"
+    ],
+    [
+      "H",
+      null,
+      "E",
+      "C",
+      "L",
+      "I",
+      "P",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      null,
+      "N",
+      "E",
+      "O",
+      "N",
+      null,
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "S",
+      null,
+      "G",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
@@ -108,230 +108,186 @@
     "easy": [
       [
         3,
-        7
-      ],
-      [
-        1,
-        1
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        7,
         2
       ],
       [
-        2,
-        7
-      ],
-      [
         3,
-        8
-      ],
-      [
-        4,
         6
       ],
       [
-        3,
-        0
+        4,
+        2
       ],
       [
         7,
         3
       ],
       [
-        6,
+        7,
+        7
+      ],
+      [
+        5,
         3
       ],
       [
-        6,
-        6
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        3,
+        5,
         5
       ],
       [
-        1,
+        5,
+        6
+      ],
+      [
+        7,
         0
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        5,
+        2
       ]
     ],
     "medium": [
       [
         3,
-        7
-      ],
-      [
-        1,
-        1
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        7,
         2
       ],
       [
-        2,
-        7
-      ],
-      [
         3,
-        8
-      ],
-      [
-        4,
         6
       ],
       [
-        3,
-        0
+        4,
+        2
       ],
       [
         7,
         3
       ],
       [
-        6,
+        7,
+        7
+      ],
+      [
+        5,
         3
       ]
     ],
     "hard": [
       [
         3,
-        7
-      ],
-      [
-        1,
-        1
+        4
       ],
       [
         2,
+        4
+      ],
+      [
+        7,
         2
       ],
       [
-        2,
-        7
+        3,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        }
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A dip on a mountain ridge between two peaks.",
-          "zh": "坳"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
-          "zh": "放在一边"
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A violent gust of wind.",
-          "zh": "爆炸"
+          "en": "Any of several stiff plants of the genus Juncus, or the family Juncaceae, having hollow or pithy stems and small flowers, and often growing in marshes or near water.",
+          "zh": "匆忙"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
+          "en": "An extensive area of relatively flat grassland with few, if any, trees, especially in North America.",
+          "zh": "草原"
         }
       },
       {
         "num": 15,
-        "row": 4,
-        "col": 0,
+        "row": 5,
+        "col": 2,
         "clue": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "请求（信息或问题的答案）。"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "Expressing joy, celebration, glee, etc.",
-          "zh": "是的"
+          "en": "An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter.",
+          "zh": "蚀"
         }
       },
       {
         "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
-          "zh": "模型"
+          "en": "The chemical element (symbol Ne) with an atomic number of 10. The lightest of the noble gases, it is a colourless, odorless inert gas.",
+          "zh": "氖"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Everything having to do with the Internet considered collectively.",
-          "zh": "网络"
+          "en": "A medium-sized rodent belonging to the genus Rattus.",
+          "zh": "一种中型啮齿动物，属于黄鼠属。"
         }
       },
       {
-        "num": 25,
+        "num": 21,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "A knot; a fastening.",
-          "zh": "领带"
+          "en": "To sing; charm; enchant.",
+          "zh": "大风"
         }
       }
     ],
@@ -339,19 +295,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
+          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
+          "zh": "来访"
         }
       },
       {
@@ -359,71 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "The distance from the base of something to the top.",
-          "zh": "高度"
+          "en": "In or at any location or an unknown location.",
+          "zh": "任何地方"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A clear deep blue variety of corundum, valued as a precious stone.",
+          "zh": "蓝宝石"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "The state of being obese due to an excess of body fat.",
-          "zh": "肥胖"
+          "en": "A female member of a royal family other than a queen, especially a daughter or granddaughter.",
+          "zh": "公主"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "To prop; support; sustain; hold up; steady.",
-          "zh": "留下来"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "To render unable; to take away an ability of, as by crippling.",
-          "zh": "禁用"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
-          "zh": "认为"
+          "en": "Low in price; not expensive.",
+          "zh": "便宜的"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.",
-          "zh": "宫殿"
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
         }
       },
       {
-        "num": 19,
+        "num": 17,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "A general type.",
-          "zh": "种类"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "A wooden band or yoke put around the neck of an ox or cow in the stall.",
+          "zh": "唯一"
         }
       }
     ]

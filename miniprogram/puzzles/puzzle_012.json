@@ -5,195 +5,195 @@
   "cols": 7,
   "solution": [
     [
-      "E",
       null,
       null,
-      "P",
+      "G",
+      "A",
+      "Y",
       null,
-      null,
-      "R"
+      "B"
     ],
     [
-      "M",
-      "I",
-      "S",
-      "S",
-      "I",
+      "T",
+      "H",
+      "E",
+      "R",
+      "E",
+      "B",
+      "Y"
+    ],
+    [
+      null,
+      "A",
+      "O",
+      null,
+      "A",
       "L",
+      "T"
+    ],
+    [
+      "S",
+      "V",
+      null,
+      null,
+      null,
+      "O",
       "E"
     ],
     [
       "P",
-      null,
+      "E",
       "T",
-      "I",
-      "N",
       null,
-      "C"
+      "M",
+      "O",
+      null
     ],
     [
-      "E",
-      "C",
-      "O",
-      null,
+      "A",
+      "N",
+      "A",
       "T",
-      "W",
-      "O"
+      "O",
+      "M",
+      "Y"
     ],
     [
+      "M",
+      null,
       "R",
+      "A",
+      "M",
       null,
-      "O",
-      "N",
-      "E",
-      null,
-      "R"
-    ],
-    [
-      "O",
-      "R",
-      "D",
-      "E",
-      "R",
-      "E",
-      "D"
-    ],
-    [
-      "R",
-      null,
-      null,
-      "O",
-      null,
-      null,
-      "S"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
-        6
+        2
       ],
       [
-        0,
-        0
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        2,
-        0
-      ],
-      [
-        2,
+        6,
         3
       ],
       [
+        1,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
         2,
         4
       ],
       [
-        4,
+        3,
         0
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        6
       ]
     ],
     "medium": [
       [
         2,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
         6
       ],
       [
-        0,
-        0
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        3,
-        0
+        2,
+        1
       ]
     ],
     "hard": [
       [
         2,
-        6
+        2
       ],
       [
-        0,
-        0
+        6,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Any object used as a weapon by being thrown or fired through the air, such as stone, arrow or bullet.",
-          "zh": "导弹"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
-          "zh": "锡"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Environmentally friendly or sensitive.",
-          "zh": "生态"
+          "en": "By it; by that; by that means, or as a consequence of that.",
+          "zh": "从而"
         }
       },
       {
         "num": 9,
-        "row": 3,
+        "row": 2,
         "col": 4,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
         "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        }
+      },
+      {
+        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To set in some sort of order.",
-          "zh": "已订购"
+          "en": "The art of studying the different parts of any organized body, to discover their situation, structure, and economy.",
+          "zh": "解剖学"
+        }
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A male sheep, typically uncastrated",
+          "zh": "公羊"
         }
       }
     ],
@@ -201,55 +201,73 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "The male monarch or ruler of an empire.",
-          "zh": "皇帝"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "The twenty-third letter of Classical and Modern Greek and the twenty-fifth letter of Old and Ancient Greek.",
-          "zh": "磅/平方英寸"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
-          "zh": "一种磁盘，通常由聚合物制成，用于录制声音以便在留声机上播放。"
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "(heading) To position or be positioned physically.",
-          "zh": "站着"
+          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+          "zh": "字节"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "To bury in a grave.",
-          "zh": "国际米兰"
+          "en": "A harbour or anchorage protected from the sea.",
+          "zh": "避风港"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 7,
+        "row": 1,
+        "col": 5,
         "clue": {
-          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
-          "zh": "新"
+          "en": "A blossom; the flower of a plant; an expanded bud.",
+          "zh": "盛开"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(rarely countable) Unsolicited bulk electronic messages.",
+          "zh": "垃圾邮件"
+        }
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "(familiar) mother.",
+          "zh": "妈妈"
         }
       }
     ]

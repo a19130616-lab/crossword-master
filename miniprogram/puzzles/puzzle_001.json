@@ -6,73 +6,73 @@
   "solution": [
     [
       null,
-      "P",
-      "C",
+      "A",
+      "R",
       "T",
       null
     ],
     [
-      "P",
-      "L",
+      "R",
+      "M",
       null,
       "R",
-      "P"
+      "T"
     ],
     [
       "R",
-      "A",
+      "E",
+      "N",
+      "E",
+      "W"
+    ],
+    [
+      "P",
+      "N",
+      null,
+      "N",
+      "O"
+    ],
+    [
+      null,
       "D",
       "A",
-      "R"
-    ],
-    [
-      "E",
-      "N",
-      null,
-      "C",
-      "E"
-    ],
-    [
-      null,
-      "E",
-      "N",
-      "T",
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
+        0,
+        1
       ],
       [
-        1,
+        4,
+        1
+      ],
+      [
+        2,
         0
       ],
       [
         3,
-        0
-      ],
-      [
-        4,
-        3
+        4
       ]
     ],
     "medium": [
       [
-        2,
-        3
+        0,
+        1
       ],
       [
-        1,
-        0
+        4,
+        1
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        0,
+        1
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A percentage, a proportion (especially per hundred).",
-          "zh": "百分率"
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
-          "zh": "雷达"
+          "en": "To make (something) new again; to restore to freshness or original condition.",
+          "zh": "更新"
         }
       },
       {
@@ -101,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
-          "zh": "耳鼻喉科"
+          "en": "A father, a male parent.",
+          "zh": "爸爸"
         }
       }
     ],
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A level or flat surface.",
-          "zh": "飞机"
+          "en": "(usually in the plural) An act of righting a wrong; compensation.",
+          "zh": "修正"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "An area or expanse.",
-          "zh": "道"
+          "en": "An inclination in a particular direction.",
+          "zh": "趋势"
         }
       },
       {
@@ -130,8 +130,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Before (something significant).",
-          "zh": "前"
+          "en": "Recommended retail price",
+          "zh": "回报率"
         }
       },
       {
@@ -139,8 +139,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Before (something significant).",
-          "zh": "前"
+          "en": "The digit/figure 2.",
+          "zh": "二"
         }
       }
     ]

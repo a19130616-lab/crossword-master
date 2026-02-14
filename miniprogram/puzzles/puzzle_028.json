@@ -6,19 +6,41 @@
   "solution": [
     [
       null,
+      "S",
       null,
-      "R",
-      "O",
-      "W",
+      "D",
+      "U",
+      "E",
       null,
       null,
-      null,
-      "S"
+      "L"
     ],
     [
-      "E",
       "C",
+      "H",
       "O",
+      "I",
+      "R",
+      null,
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      null,
+      "O",
+      "B",
+      null,
+      "G",
+      "A",
+      "Y",
+      null,
+      "W"
+    ],
+    [
+      "A",
+      "T",
+      "E",
       null,
       "E",
       "S",
@@ -27,311 +49,289 @@
       "Y"
     ],
     [
-      null,
-      "I",
-      "D",
-      "E",
-      "A",
-      "L",
-      null,
-      "C",
-      "S"
-    ],
-    [
-      "E",
-      "T",
+      "U",
       null,
       "S",
-      "K",
-      "I",
+      "O",
       null,
+      "H",
       "T",
-      "T"
-    ],
-    [
-      "D",
-      "I",
-      "S",
-      "C",
       null,
-      "D",
-      "A",
-      "R",
       "E"
     ],
     [
+      "B",
+      "R",
       "I",
-      "Z",
+      "N",
+      "G",
       null,
+      "E",
       "A",
-      "C",
-      "E",
-      null,
-      "E",
-      "M"
+      "R"
     ],
     [
+      "U",
+      null,
       "T",
       "E",
+      "A",
       null,
-      "P",
-      "O",
-      "S",
+      "R",
       "T",
-      "S",
       null
     ],
     [
-      "E",
-      "N",
-      "D",
-      "E",
-      "D",
+      "R",
+      "A",
+      "Y",
       null,
-      "I",
-      "S",
-      "P"
+      "M",
+      "A",
+      "Y",
+      "O",
+      "R"
     ],
     [
-      "D",
+      "N",
       null,
       null,
-      null,
+      "G",
       "E",
-      "Y",
-      "E",
+      "M",
       null,
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
+        5,
         4
       ],
       [
-        4,
+        3,
+        8
+      ],
+      [
+        2,
         1
       ],
       [
-        5,
-        0
-      ],
-      [
-        7,
-        7
+        2,
+        6
       ],
       [
         4,
         6
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        4
       ],
       [
         6,
         6
+      ],
+      [
+        1,
+        3
       ],
       [
         2,
         8
       ],
       [
-        1,
+        2,
         4
       ],
       [
-        6,
+        5,
+        8
+      ],
+      [
+        5,
         0
       ],
       [
-        8,
-        6
+        7,
+        4
       ],
       [
-        8,
-        4
+        0,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        7,
+        6
       ]
     ],
     "medium": [
       [
-        0,
+        5,
         4
       ],
       [
-        4,
+        3,
+        8
+      ],
+      [
+        2,
         1
       ],
       [
-        5,
-        0
-      ],
-      [
-        7,
-        7
+        2,
+        6
       ],
       [
         4,
         6
       ],
       [
-        5,
-        3
-      ],
-      [
-        5,
-        7
+        6,
+        6
       ],
       [
         1,
+        3
+      ],
+      [
+        2,
         8
       ],
       [
-        7,
+        2,
         4
       ]
     ],
     "hard": [
       [
-        0,
+        5,
         4
       ],
       [
-        4,
+        3,
+        8
+      ],
+      [
+        2,
         1
       ],
       [
-        5,
-        0
-      ],
-      [
-        7,
-        7
+        2,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
-          "zh": "排"
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
         }
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Environmentally friendly or sensitive.",
-          "zh": "生态"
+          "en": "Singing group; group of people who sing together; company of people who are trained to sing together.",
+          "zh": "唱诗班"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "(authorship) A written composition of moderate length, exploring a particular issue or subject.",
-          "zh": "散文"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
         "col": 0,
         "clue": {
-          "en": "A thin, flat, circular plate or similar object.",
-          "zh": "光盘"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 5,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "A challenge to prove courage.",
-          "zh": "敢"
+          "en": "(ditransitive) To transport toward somebody/somewhere.",
+          "zh": "带来"
         }
       },
       {
         "num": 18,
         "row": 5,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "A single point or spot on a playing card or die.",
-          "zh": "高手"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
         }
       },
       {
         "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
-          "zh": "从地面伸出的长销钉或木板；栅栏柱；一根灯柱。"
-        }
-      },
-      {
-        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "To come to an end",
-          "zh": "结束了"
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The chief executive of the municipal government of a city, borough, &c., formerly usually appointed as a caretaker by European royal courts but now usually appointed or elected locally.",
+          "zh": "市长"
         }
       },
       {
         "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
-          "zh": "互联网服务供应商"
-        }
-      },
-      {
-        "num": 26,
         "row": 8,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
+          "zh": "宝石"
         }
       }
     ],
@@ -339,91 +339,91 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A straight, round stick, shaft, bar, cane, or staff.",
-          "zh": "杆"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "Lacking in force (usually strength) or ability.",
-          "zh": "虚弱的"
+          "en": "To launch a projectile.",
+          "zh": "射击"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "A resident of a city or town, especially one with legally-recognized rights or duties.",
-          "zh": "公民"
+          "en": "A professional person qualified (as by a law degree or bar exam) and authorized to practice law, i.e. represent parties in lawsuits or trials and give legal advice.",
+          "zh": "律师"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "An item of play equipment that children can climb up and then slide down again.",
-          "zh": "儿童可以爬上去然后再滑下来的游乐设施。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A female who performs on the stage or in films.",
-          "zh": "演员"
+          "en": "Something secret or unexplainable; an unknown.",
+          "zh": "神秘"
         }
       },
       {
         "num": 10,
         "row": 2,
-        "col": 3,
+        "col": 5,
         "clue": {
-          "en": "The act of leaving a dangerous or unpleasant situation.",
-          "zh": "逃脱"
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
         }
       },
       {
-        "num": 12,
+        "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To change a text, or a document.",
-          "zh": "已编辑"
+          "en": "A dark reddish-brown colour, often used to describe hair colour.",
+          "zh": "奥本"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A playful or competitive activity.",
+          "zh": "游戏"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "A short symbol, often with little relation to the item it represents.",
-          "zh": "代码"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A knot; a fastening.",
-          "zh": "领带"
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
         }
       }
     ]

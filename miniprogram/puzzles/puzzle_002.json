@@ -5,159 +5,94 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "E",
-      "A",
-      "R",
-      "S"
-    ],
-    [
       "S",
       null,
-      "G",
-      "U",
-      "N"
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "D",
+      "O"
     ],
     [
       "O",
-      "M",
-      "E",
-      "G",
-      "A"
-    ],
-    [
-      "M",
-      "I",
-      "N",
+      "V",
       null,
-      "P"
+      "G",
+      "O"
     ],
     [
-      "A",
+      "R",
+      "E",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "E",
       "N",
-      "T",
-      "I",
-      null
+      "D",
+      null,
+      "H"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        2
-      ],
-      [
-        1,
-        4
-      ],
-      [
         1,
         0
       ],
       [
-        2,
-        1
+        0,
+        4
       ],
       [
-        2,
+        1,
         3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        1
       ]
     ],
     "medium": [
       [
-        2,
-        2
+        1,
+        0
       ],
       [
-        1,
+        0,
         4
       ],
       [
         1,
-        0
+        3
       ]
     ],
     "hard": [
       [
-        2,
-        2
+        1,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
-          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
-          "zh": "枪"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
-        }
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
-        }
-      }
-    ],
-    "down": [
-      {
         "num": 2,
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "One who exerts power, or has the power to act",
-          "zh": "代理人"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A partial covering for a floor.",
-          "zh": "地毯"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A quick breaking or cracking sound or the action of producing such a sound.",
-          "zh": "折断"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       },
       {
@@ -165,17 +100,64 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
-          "zh": "索马"
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
         }
       },
       {
-        "num": 8,
-        "row": 2,
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To set back to the initial state.",
+          "zh": "重置"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+          "zh": "分数"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.",
+          "zh": "齿"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
         "col": 1,
         "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
         }
       }
     ]

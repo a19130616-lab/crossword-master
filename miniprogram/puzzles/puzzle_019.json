@@ -5,126 +5,138 @@
   "cols": 7,
   "solution": [
     [
-      null,
-      null,
-      null,
-      "A",
-      null,
-      null,
-      "F"
-    ],
-    [
-      null,
-      "Y",
-      null,
-      "R",
-      "O",
-      "P",
-      "E"
-    ],
-    [
-      null,
-      "E",
-      "A",
-      "R",
-      "N",
-      null,
-      "E"
-    ],
-    [
       "M",
-      "A",
-      "G",
-      "I",
-      "C",
-      "A",
-      "L"
+      null,
+      null,
+      "F",
+      null,
+      null,
+      "T"
     ],
     [
-      "E",
-      null,
-      "E",
+      "A",
+      "D",
       "V",
-      "E",
-      "R",
-      null
+      "I",
+      "S",
+      "O",
+      "R"
     ],
     [
-      "S",
+      "G",
+      null,
+      "I",
+      "N",
+      "K",
+      null,
+      "A"
+    ],
+    [
       "I",
       "D",
-      "E",
+      "S",
       null,
-      "M",
-      null
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      null,
+      "T",
+      "A",
+      "R",
+      null,
+      "E"
     ],
     [
       "A",
-      null,
-      null,
       "D",
+      "A",
+      "P",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "L",
       null,
       null,
-      null
+      "T",
+      null,
+      null,
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        5
+        1,
+        4
       ],
       [
         3,
-        1
-      ],
-      [
-        6,
-        0
+        2
       ],
       [
         2,
-        2
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        1,
-        1
+        4
       ],
       [
         3,
         6
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        2
       ]
     ],
     "medium": [
       [
-        4,
-        5
+        1,
+        4
       ],
       [
         3,
-        1
-      ],
-      [
-        6,
-        0
+        2
       ],
       [
         2,
-        2
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        5
+        1,
+        4
       ],
       [
         3,
-        1
+        2
       ]
     ]
   },
@@ -133,84 +145,10 @@
       {
         "num": 4,
         "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
-          "zh": "绳索"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "To gain (success, reward, recognition) through applied effort or work.",
-          "zh": "赚"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Of or relating to magic.",
-          "zh": "神奇"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "Occurring at any time, occurring even but once during a timespan.",
-          "zh": "曾经"
-        }
-      },
-      {
-        "num": 11,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A bounding straight edge of a two-dimensional shape.",
-          "zh": "边"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "To reach; to get to a certain place.",
-          "zh": "到达的"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A quality of an object experienced by touch.",
-          "zh": "感觉"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "(frequency) One and only one time.",
-          "zh": "一次"
+          "en": "One who offers advice.",
+          "zh": "顾问"
         }
       },
       {
@@ -218,8 +156,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "To cause to grow old; to impart the characteristics of age to.",
-          "zh": "老年的"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
         }
       },
       {
@@ -227,17 +165,91 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
-          "zh": "台面"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        }
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To make suitable; to make to correspond; to fit or suit",
+          "zh": "改编的"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Of or relating to magic.",
+          "zh": "神奇"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "One of the appendages of a fish, used to propel itself and to manoeuvre/maneuver.",
+          "zh": "鳍"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
+          "zh": "悲剧"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
+          "zh": "远景"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
+          "zh": "裙子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
         }
       }
     ]

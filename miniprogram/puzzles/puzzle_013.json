@@ -5,90 +5,98 @@
   "cols": 7,
   "solution": [
     [
-      null,
-      "L",
-      null,
-      null,
-      "T",
-      "A",
-      "B"
-    ],
-    [
-      "C",
       "O",
-      "N",
-      "T",
-      "R",
-      "O",
-      "L"
-    ],
-    [
-      "H",
-      "S",
       null,
-      "R",
+      null,
       "I",
       null,
-      "A"
+      null,
+      "S"
     ],
     [
+      "B",
+      "R",
       "A",
+      "C",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      null,
       "S",
+      "E",
+      "A",
+      null,
+      "U"
+    ],
+    [
       "S",
-      "U",
-      "M",
+      "K",
+      "I",
+      null,
+      "R",
       "E",
       "D"
     ],
     [
+      "I",
+      null,
+      "D",
+      "A",
+      "M",
+      null,
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "E",
       "N",
-      null,
-      "P",
-      "S",
-      null,
-      "Y",
+      "A",
+      "G",
       "E"
     ],
     [
-      "C",
-      "L",
-      "O",
-      "T",
-      "H",
-      "E",
-      "S"
-    ],
-    [
-      "E",
-      "N",
+      "Y",
+      null,
+      null,
       "T",
       null,
       null,
-      "D",
-      null
+      "D"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
-      ],
-      [
         5,
-        0
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        3,
         1
       ],
       [
+        1,
+        5
+      ],
+      [
+        3,
+        2
+      ],
+      [
         4,
-        6
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        3
       ],
       [
         1,
@@ -96,99 +104,96 @@
       ],
       [
         3,
-        5
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        6,
-        0
+        1
       ]
     ],
     "medium": [
       [
-        3,
-        4
-      ],
-      [
         5,
-        0
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        3,
         1
       ],
       [
+        1,
+        5
+      ],
+      [
+        3,
+        2
+      ],
+      [
         4,
-        6
+        0
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        3,
-        4
-      ],
-      [
         5,
-        0
+        1
       ],
       [
-        6,
-        2
+        1,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A small flap or strip of material attached to something, for holding, manipulation, identification, opening etc.",
-          "zh": "标签"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Influence or authority over something.",
-          "zh": "控制"
+          "en": "A fixture attached to a wall to hold up a shelf.",
+          "zh": "括号"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
-          "zh": "假定"
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         }
       },
       {
-        "num": 14,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
+          "zh": "坝"
+        }
+      },
+      {
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A woven fabric such as used in dressing, decorating, cleaning or other practical use.",
-          "zh": "衣服"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
-          "zh": "耳鼻喉科"
+          "en": "Brushwood for fences and hedges.",
+          "zh": "十几岁的"
         }
       }
     ],
@@ -196,64 +201,55 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
-          "zh": "损失"
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Decoration; especially, decoration placed along edges or borders.",
-          "zh": "修剪"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "The sharp cutting edge of a knife, chisel, or other tool, a razor blade/sword.",
-          "zh": "刀、凿子或其他工具、剃须刀片/剑的锋利切削刃。"
+          "en": "Practiced; self-conscious; careful.",
+          "zh": "研究过"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An opportunity or possibility.",
-          "zh": "机会"
+          "en": "To one side; out of the way.",
+          "zh": "放在一边"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "Confidence in or reliance on some person or quality.",
-          "zh": "相信"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
-          "zh": "点"
+          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
+          "zh": "业力"
         }
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 5,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         }
       }
     ]

@@ -5,39 +5,39 @@
   "cols": 5,
   "solution": [
     [
-      "O",
       null,
+      "M",
+      "E",
+      "S",
+      "H"
+    ],
+    [
+      "P",
       null,
+      "V",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "N",
       null,
       "E"
     ],
     [
-      "C",
-      "O",
-      "H",
-      "E",
-      "N"
-    ],
-    [
-      "C",
-      null,
-      "I",
-      null,
-      "T"
-    ],
-    [
-      "U",
-      "P",
-      "P",
-      "E",
-      "R"
-    ],
-    [
       "R",
-      null,
-      null,
-      null,
-      "Y"
+      "U",
+      "T",
+      "H",
+      null
     ]
   ],
   "prefilled": {
@@ -47,16 +47,20 @@
         0
       ],
       [
-        1,
-        4
-      ],
-      [
-        1,
-        1
+        0,
+        3
       ],
       [
         0,
-        0
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        1
       ]
     ],
     "medium": [
@@ -65,8 +69,12 @@
         0
       ],
       [
-        1,
-        4
+        0,
+        3
+      ],
+      [
+        0,
+        1
       ]
     ],
     "hard": [
@@ -79,50 +87,95 @@
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A Jewish priest: direct male descendant of the Biblical high priest Aaron, brother of Moses.",
-          "zh": "科恩"
+          "en": "A structure made of connected strands of metal, fiber, or other flexible/ductile material, with evenly spaced openings between them.",
+          "zh": "网"
         }
       },
       {
-        "num": 5,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
-          "zh": "上"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
+          "zh": "怜悯"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "To happen or take place.",
-          "zh": "发生"
+          "en": "An occurrence; something that happens.",
+          "zh": "事件"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The act of entering.",
-          "zh": "入口"
+          "en": "A violation of God's will or religious law.",
+          "zh": "罪"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
-          "zh": "臀部"
+          "en": "An object of hatred.",
+          "zh": "恨"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Two similar or identical things taken together; often followed by of.",
+          "zh": "一对"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       }
     ]

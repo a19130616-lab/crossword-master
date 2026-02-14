@@ -6,81 +6,81 @@
   "solution": [
     [
       "A",
-      "W",
-      "A",
-      "Y",
+      "T",
+      "O",
+      "M",
       null
     ],
     [
-      "W",
-      "E",
-      "D",
-      null,
-      "S"
-    ],
-    [
+      "P",
       "A",
-      "D",
-      "U",
-      "L",
-      "T"
+      "N",
+      null,
+      "D"
     ],
     [
-      "Y",
-      null,
-      "L",
+      "P",
+      "R",
       "I",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      null,
+      "O",
+      "N",
       "E"
     ],
     [
       null,
-      "S",
-      "T",
+      "K",
+      "N",
       "E",
-      "M"
+      "W"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
-      ],
-      [
-        3,
+        1,
         0
       ],
       [
         1,
-        0
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        2
       ],
       [
         0,
         2
-      ],
-      [
-        3,
-        3
       ]
     ],
     "medium": [
       [
-        2,
-        3
-      ],
-      [
-        3,
+        1,
         0
       ],
       [
         1,
-        0
+        4
+      ],
+      [
+        0,
+        1
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        1,
+        0
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "To depart; to go to another place.",
-          "zh": "离开"
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To perform the marriage ceremony for; to join in matrimony.",
-          "zh": "结婚"
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "平底锅"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A fully grown human or animal.",
-          "zh": "成人"
+          "en": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
+          "zh": "事先的"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 2,
         "clue": {
-          "en": "The terrain and conditions surrounding the ball before it is struck.",
-          "zh": "说谎"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "The stock of a family; a race or generation of progenitors.",
-          "zh": "干"
+          "en": "To perceive the truth or factuality of; to be certain of or that.",
+          "zh": "知道"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "To depart; to go to another place.",
-          "zh": "离开"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "To perform the marriage ceremony for; to join in matrimony.",
-          "zh": "结婚"
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A fully grown human or animal.",
-          "zh": "成人"
+          "en": "A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.",
+          "zh": "洋葱"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "The stock of a family; a race or generation of progenitors.",
-          "zh": "干"
+          "en": "To move or develop something.",
+          "zh": "画了"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "The terrain and conditions surrounding the ball before it is struck.",
-          "zh": "说谎"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       }
     ]

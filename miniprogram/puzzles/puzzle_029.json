@@ -6,220 +6,220 @@
   "solution": [
     [
       null,
-      "K",
       null,
+      "A",
+      null,
+      null,
+      "P",
+      null,
+      null,
+      "B"
+    ],
+    [
+      "P",
+      "S",
       "T",
+      null,
+      "P",
       "O",
-      "Y",
-      null,
-      null,
-      "M"
+      "W",
+      "E",
+      "R"
     ],
     [
-      "P",
-      "I",
-      "A",
-      "N",
+      null,
+      "M",
+      "E",
+      "T",
+      "R",
       "O",
       null,
+      "N",
+      "I"
+    ],
+    [
+      "F",
+      "A",
+      null,
+      "H",
       "E",
+      "R",
+      "A",
+      "L",
+      "D"
+    ],
+    [
+      "A",
+      "L",
+      "B",
+      "U",
+      "M",
+      null,
+      "B",
+      "A",
+      "G"
+    ],
+    [
       "C",
-      "O"
+      "L",
+      "I",
+      "N",
+      "I",
+      "C",
+      null,
+      "R",
+      "E"
     ],
     [
-      null,
-      "N",
-      "N",
-      null,
-      "P",
+      "T",
       "E",
-      "N",
       null,
-      "V"
+      "D",
+      "E",
+      "B",
+      "U",
+      "G",
+      null
     ],
     [
-      "A",
-      "G",
       "O",
+      "R",
+      "D",
+      "E",
+      "R",
       null,
       "S",
-      "N",
-      "A",
-      "K",
+      "E",
       "E"
     ],
     [
       "R",
       null,
-      "T",
-      "H",
-      null,
-      "D",
-      "B",
-      null,
-      "R"
-    ],
-    [
-      "C",
-      "O",
-      "H",
-      "E",
-      "N",
-      null,
-      "L",
-      "B",
-      "S"
-    ],
-    [
-      "A",
-      null,
-      "E",
-      "Y",
-      "E",
-      null,
-      "E",
-      "E",
-      null
-    ],
-    [
-      "D",
-      "E",
-      "R",
-      null,
-      "A",
-      "D",
-      "D",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      null,
-      null,
-      "A",
-      "R",
-      "T",
       null,
       "R",
+      null,
+      null,
+      "E",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        5
+      ],
+      [
         7,
+        3
+      ],
+      [
+        1,
         4
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        6
       ],
       [
         2,
         4
       ],
       [
-        0,
-        8
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        5,
-        6
-      ],
-      [
-        8,
-        5
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        5,
-        7
-      ],
-      [
         7,
-        5
+        8
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        7
       ],
       [
         5,
-        2
+        1
       ]
     ],
     "medium": [
       [
-        7,
-        4
+        0,
+        5
+      ],
+      [
+        3,
+        1
       ],
       [
         2,
-        4
+        5
       ],
       [
-        0,
-        8
-      ],
-      [
-        0,
+        7,
         3
       ],
       [
         1,
-        8
+        4
       ],
       [
-        4,
-        8
-      ],
-      [
-        5,
+        1,
         6
       ],
       [
-        8,
-        5
+        2,
+        1
       ],
       [
         4,
-        3
+        2
+      ],
+      [
+        5,
+        0
       ]
     ],
     "hard": [
       [
-        7,
-        4
+        0,
+        5
+      ],
+      [
+        3,
+        1
       ],
       [
         2,
-        4
+        5
       ],
       [
-        0,
-        8
-      ],
-      [
-        0,
+        7,
         3
       ]
     ]
@@ -227,111 +227,93 @@
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",
-          "zh": "钢琴"
+          "en": "Implies that the speaker is sending secret or whispered information to another person.",
+          "zh": "太平洋标准时间"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "Environmentally friendly or sensitive.",
-          "zh": "生态"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
         "col": 4,
         "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
+          "en": "Ability to do or undergo something.",
+          "zh": "力量"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 0,
+        "num": 8,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "An underground railway.",
+          "zh": "地铁"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A legless reptile of the sub-order Serpentes with a long, thin body and a fork-shaped tongue.",
-          "zh": "蛇"
+          "en": "A messenger, especially one bringing important news.",
+          "zh": "先驱报"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A book specially designed to keep photographs, stamps, or autographs.",
+          "zh": "专辑"
         }
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A Jewish priest: direct male descendant of the Biblical high priest Aaron, brother of Moses.",
-          "zh": "科恩"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
+        "row": 4,
         "col": 6,
         "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
+          "en": "A flexible container made of cloth, paper, plastic, etc.",
+          "zh": "包"
         }
       },
       {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
+        "num": 17,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "Disdainful indication that something is obvious.",
-          "zh": "德"
+          "en": "A medical facility, such as a hospital, especially one for the treatment and diagnosis of outpatients.",
+          "zh": "诊所"
+        }
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
+          "zh": "调试"
         }
       },
       {
         "num": 23,
         "row": 7,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加的"
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 24,
+        "row": 7,
+        "col": 6,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         }
       }
     ],
@@ -339,55 +321,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
-          "zh": "国王"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
+          "zh": "贫穷的"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "A minor mistake or unforseen difficulty.",
-          "zh": "哎呀"
+          "en": "A construction or natural feature that spans a divide.",
+          "zh": "桥"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "Someone who or something that moves.",
-          "zh": "搬运工"
+          "en": "Not large or big; insignificant; few in number.",
+          "zh": "较小"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "An additional one of the same kind.",
-          "zh": "其他"
+          "en": "(Westminster system) The head of government in parliament and leader of the cabinet.",
+          "zh": "总理"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
-          "zh": "已启用"
+          "en": "To make larger.",
+          "zh": "放大"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "The loud rumbling, cracking, or crashing sound caused by expansion of rapidly heated air around a lightning bolt.",
+          "zh": "雷"
         }
       },
       {
@@ -395,35 +386,17 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A row of arches.",
-          "zh": "拱廊"
+          "en": "A doer, maker; a person who does things for another person or organization.",
+          "zh": "因素"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
+        "num": 22,
+        "row": 6,
+        "col": 6,
         "clue": {
-          "en": "An exclamation to get attention.",
-          "zh": "嘿"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
-          "zh": "靠近"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
-          "zh": "啤酒"
+          "en": "The act of using.",
+          "zh": "使用"
         }
       }
     ]

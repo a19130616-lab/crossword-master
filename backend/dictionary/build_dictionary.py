@@ -219,6 +219,10 @@ def main():
             if is_bad_clue(en):
                 bad_clue_count += 1
                 continue
+            # Reject full-sentence Chinese translations (should be a concise word)
+            if len(zh) > 15:
+                bad_clue_count += 1
+                continue
 
             dictionary["words"][key] = {
                 "length": len(w),
@@ -253,6 +257,9 @@ def main():
             if is_bad_clue(en):
                 bad_clue_count += 1
                 continue
+            if len(zh) > 15:
+                bad_clue_count += 1
+                continue
 
             dictionary["words"][key] = {
                 "length": len(w),
@@ -277,16 +284,19 @@ def main():
     if plurals_removed:
         print(f"Removed {len(plurals_removed)} plural duplicates")
 
-    # Deduplicate inflected forms: if WALKED has the same ZH as WALK, keep only WALK
+    # Deduplicate inflected forms: if base form exists, remove the inflection
+    # (e.g., remove ENDED if END exists, remove CODING if CODE exists)
     all_keys = set(dictionary["words"].keys())
     inflected_removed = []
     for key in sorted(all_keys):
-        zh = dictionary["words"][key]["clues"]["easy"]["zh"]
-        # Check -ED, -ING, -ER, -LY suffixes
+        if key not in dictionary["words"]:
+            continue
+        # Check -ED, -ING, -ER, -LY, -EST suffixes
         bases = []
         if key.endswith("ED") and len(key) > 4:
             bases.append(key[:-2])       # WALKED → WALK
             bases.append(key[:-1])       # CLOSED → CLOS(E) — handled by +E below
+            bases.append(key[:-2] + "E") # NAMED → NAME
             if len(key) > 5 and key[-3] == key[-4]:
                 bases.append(key[:-3])   # STOPPED → STOP
         if key.endswith("ING") and len(key) > 5:
@@ -295,15 +305,16 @@ def main():
         if key.endswith("ER") and len(key) > 4:
             bases.append(key[:-2])       # BIGGER → BIG
             bases.append(key[:-1])       # CLOSER → CLOSE
+        if key.endswith("EST") and len(key) > 5:
+            bases.append(key[:-3])       # LOWEST → LOW
+            bases.append(key[:-2])       # NICEST → NICE
         if key.endswith("LY") and len(key) > 4:
             bases.append(key[:-2])       # QUICKLY → QUICK
         for base in bases:
             if base in dictionary["words"] and base != key:
-                base_zh = dictionary["words"][base]["clues"]["easy"]["zh"]
-                if zh == base_zh:
-                    del dictionary["words"][key]
-                    inflected_removed.append(key)
-                    break
+                del dictionary["words"][key]
+                inflected_removed.append(key)
+                break
     if inflected_removed:
         print(f"Removed {len(inflected_removed)} inflected duplicates")
 

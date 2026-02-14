@@ -6,129 +6,120 @@
   "solution": [
     [
       "S",
-      "T",
-      "E",
-      "P",
-      null
-    ],
-    [
-      "T",
-      "A",
-      "X",
       null,
+      "F",
+      "I",
       "G"
     ],
     [
+      "T",
       "E",
-      "X",
+      "A",
       "C",
-      "E",
-      "L"
+      "H"
     ],
     [
-      "P",
+      "A",
+      "A",
       null,
-      "E",
-      "Y",
-      "E"
+      "O",
+      "O"
     ],
     [
-      null,
-      "G",
-      "L",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S"
+    ],
+    [
       "E",
-      "N"
+      "N",
+      "D",
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        0
-      ],
-      [
-        3,
+        1,
         4
-      ],
-      [
-        4,
-        3
       ],
       [
         0,
         2
       ],
       [
-        1,
-        2
-      ]
-    ],
-    "medium": [
+        2,
+        1
+      ],
       [
-        3,
-        0
+        1,
+        1
       ],
       [
         3,
         4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
       ],
       [
-        4,
-        3
+        0,
+        2
+      ],
+      [
+        2,
+        1
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        1,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
+          "en": "A fruit-bearing tree or shrub of the genus Ficus that is native mainly to the tropics.",
+          "zh": "如图"
         }
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Money paid to the government other than for transaction-specific goods and services.",
-          "zh": "税"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "To surpass someone or something; to be better or do better than someone or something.",
-          "zh": "卓越"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "To show (someone) the way; to guide, conduct; to point, indicate.",
+          "zh": "教"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
-          "zh": "峡谷"
+          "en": "To cross from one side to another of (gender, sex or something in that vein).",
+          "zh": "反式"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -138,44 +129,35 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "Money paid to the government other than for transaction-specific goods and services.",
-          "zh": "税"
+          "en": "A condition; a set of circumstances applying at any given time.",
+          "zh": "状态"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "To surpass someone or something; to be better or do better than someone or something.",
-          "zh": "卓越"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
-          "zh": "峡谷"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 3,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The spirit; the soul of man.",
+          "zh": "鬼"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
         }
       }
     ]

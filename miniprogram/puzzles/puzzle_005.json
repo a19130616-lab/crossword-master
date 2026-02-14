@@ -6,37 +6,37 @@
   "solution": [
     [
       null,
-      "M",
+      "P",
+      "E",
       "A",
-      "T",
       "S"
     ],
     [
-      "E",
+      "B",
       null,
-      "S",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "O",
+      "P",
       "E",
+      "R",
       "A"
     ],
     [
+      "M",
       "A",
-      "L",
-      "I",
-      "E",
+      "C",
+      null,
       "N"
     ],
     [
-      "R",
-      "E",
-      "D",
-      null,
-      "D"
-    ],
-    [
-      "S",
+      "B",
+      "Y",
       "T",
       "E",
-      "P",
       null
     ]
   ],
@@ -44,43 +44,43 @@
     "easy": [
       [
         2,
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
         2
+      ],
+      [
+        4,
+        0
       ],
       [
         3,
         4
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        0,
-        3
       ]
     ],
     "medium": [
       [
         2,
-        2
+        0
+      ],
+      [
+        1,
+        3
       ],
       [
         3,
-        4
-      ],
-      [
-        4,
-        1
+        2
       ]
     ],
     "hard": [
       [
         2,
-        2
+        0
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A flat piece of coarse material used for wiping one’s feet, or as a decorative or protective floor covering.",
-          "zh": "一块扁平的粗糙材料，用于擦脚，或作为装饰或保护性地板覆盖物。"
+          "en": "A plant, Pisum sativum, member of the legume (Fabaceae) family.",
+          "zh": "豌豆"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "Any life form of extraterrestrial or extradimensional origin.",
-          "zh": "外星人"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
-          "zh": "红色的"
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
+          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+          "zh": "字节"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
-          "zh": "放在一边"
+          "en": "One chosen or set apart.",
+          "zh": "选"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "The name of the Latin-script letter T.",
-          "zh": "球座"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
-          "zh": "沙"
+          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+          "zh": "跨度"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
-          "zh": "听觉器官，由耳廓、耳道、鼓膜、锤骨、砧骨、镫骨和耳蜗组成。"
+          "en": "An explosive device used or intended as a weapon.",
+          "zh": "炸弹"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "The allowing of possession of a property etc. in exchange for rent.",
-          "zh": "让"
+          "en": "To give someone money owed for work done, goods received, or a debt incurred.",
+          "zh": "支付"
         }
       }
     ]

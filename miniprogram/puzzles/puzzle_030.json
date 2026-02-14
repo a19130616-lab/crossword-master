@@ -6,284 +6,297 @@
   "solution": [
     [
       null,
+      "K",
       null,
-      "L",
+      null,
       null,
       null,
       "E",
       null,
-      "W",
-      "I"
+      "A"
     ],
     [
-      "T",
-      "R",
-      "A",
-      "Y",
-      null,
-      "U",
-      "S",
+      "M",
       "E",
-      "D"
-    ],
-    [
-      null,
-      "E",
-      "P",
-      null,
-      null,
-      "R",
-      null,
+      "D",
       "I",
+      "A",
+      null,
+      "A",
+      "B",
       "S"
     ],
     [
       null,
-      "G",
-      null,
-      "W",
-      "R",
-      "O",
       "N",
-      "G",
-      null
-    ],
-    [
-      "T",
       "I",
-      "E",
-      "R",
       null,
       "S",
-      null,
-      "H",
-      null
+      "T",
+      "R",
+      "A",
+      "P"
     ],
     [
-      null,
-      "S",
       "P",
-      "I",
-      "N",
-      null,
-      null,
-      "T",
-      null
-    ],
-    [
-      "N",
-      "T",
-      null,
-      "T",
-      "H",
-      "E",
-      "M",
-      "E",
-      null
-    ],
-    [
-      "U",
-      "R",
-      "G",
-      "E",
-      null,
-      "N",
       "O",
-      "D",
+      "S",
+      null,
+      "S",
+      "A",
+      null,
+      "T",
       "E"
     ],
     [
-      "T",
-      "Y",
+      "H",
       null,
+      "H",
+      "E",
+      "A",
       "R",
+      "T",
+      null,
+      "C"
+    ],
+    [
+      "R",
+      "I",
+      null,
+      "Y",
+      "U",
+      null,
+      "H",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "E",
+      "L",
+      null,
+      "I",
+      "T",
+      null
+    ],
+    [
+      "S",
+      "K",
+      "I",
       null,
       "T",
+      "U",
       "N",
+      "E",
+      "R"
+    ],
+    [
+      "E",
       null,
+      "G",
+      null,
+      null,
+      null,
+      null,
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        5
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        0,
+        6,
         2
       ],
       [
-        3,
-        6
+        2,
+        4
       ],
       [
-        1,
-        7
+        2,
+        8
       ],
       [
-        0,
-        7
-      ],
-      [
-        1,
+        7,
         1
       ],
       [
-        5,
-        7
+        2,
+        5
+      ],
+      [
+        6,
+        4
       ],
       [
         8,
-        6
+        7
+      ],
+      [
+        4,
+        0
       ],
       [
         5,
-        1
+        8
       ],
       [
-        3,
+        8,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
         3
+      ],
+      [
+        7,
+        5
       ]
     ],
     "medium": [
       [
-        0,
-        5
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        0,
+        6,
         2
       ],
       [
-        3,
-        6
+        2,
+        4
       ],
       [
-        1,
+        2,
+        8
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        8,
         7
       ],
       [
-        0,
-        7
+        4,
+        0
       ]
     ],
     "hard": [
       [
-        0,
-        5
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        1,
-        6
+        6,
+        2
       ],
       [
         2,
-        7
+        4
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A small, typically rectangular or round, flat, and rigid object upon which things are carried.",
-          "zh": "托盘"
+          "en": "The main means of mass communication, such as television, radio, newspapers, and the internet.",
+          "zh": "媒体"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
         }
       },
       {
         "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A long, narrow, pliable strip of leather, cloth, or the like.",
+          "zh": "带子"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "Something that is immoral or not good.",
-          "zh": "错误的"
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
         }
       },
       {
-        "num": 11,
+        "num": 15,
         "row": 4,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "One who ties (knots, etc).",
-          "zh": "层"
+          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+          "zh": "心"
         }
       },
       {
-        "num": 13,
+        "num": 21,
         "row": 5,
-        "col": 1,
+        "col": 6,
         "clue": {
-          "en": "Rapid circular motion.",
-          "zh": "旋转"
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         }
       },
       {
-        "num": 16,
+        "num": 23,
         "row": 6,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A subject of a talk or an artistic piece; a topic.",
-          "zh": "主题"
+          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
+          "zh": "天使"
         }
       },
       {
-        "num": 19,
+        "num": 26,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
-        "num": 20,
+        "num": 27,
         "row": 7,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "A knot, knob, protuberance or swelling.",
-          "zh": "节点"
+          "en": "A person who tunes a piano or organ.",
+          "zh": "调音器"
         }
       }
     ],
@@ -291,82 +304,118 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "圈"
+          "en": "A gambling game, a variety of the game of lotto, played with balls or knobs, numbered, and cards also numbered.",
+          "zh": "基诺牌戏"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Person living or originating from Europe",
-          "zh": "居住在欧洲或来自欧洲的人"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 8,
         "clue": {
-          "en": "To add weight to something; to make something heavier.",
-          "zh": "加权"
+          "en": "Any specific feature, part, or element of something.",
+          "zh": "方面"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
+          "zh": "盘子"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A building in which things are registered or where registers are kept.",
-          "zh": "注册表"
+          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
+          "zh": "突击"
         }
       },
       {
-        "num": 10,
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
+          "zh": "蝙蝠"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "A person who writes, or produces literary work.",
-          "zh": "作家"
-        }
-      },
-      {
-        "num": 15,
-        "row": 6,
         "col": 0,
         "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "A short written or spoken expression.",
+          "zh": "短语"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
         "num": 17,
-        "row": 6,
-        "col": 5,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "A fictional, large, humanoid, mobile talking tree in works by J. R. R. Tolkien.",
-          "zh": "耳鼻喉科"
+          "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+          "zh": "薄的"
         }
       },
       {
-        "num": 18,
-        "row": 6,
-        "col": 6,
+        "num": 19,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A distinct physical object.",
+          "zh": "物品"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
+          "zh": "演出"
         }
       }
     ]
