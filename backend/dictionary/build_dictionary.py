@@ -91,6 +91,20 @@ def is_bad_clue(en_clue):
     return False
 
 
+def is_bad_zh_clue(zh_clue):
+    """Reject Chinese translations that are sentence-like or too vague."""
+    if not zh_clue or not zh_clue.strip():
+        return True
+    clue = zh_clue.strip()
+    # Ends with Chinese period — likely a sentence, not a concise clue
+    if clue.endswith("。"):
+        return True
+    # Contains Chinese semicolon or comma-separated phrases — too verbose
+    if "；" in clue or "，" in clue:
+        return True
+    return False
+
+
 def main():
     # Load word-level translations (pre-built EN→ZH mapping)
     word_translations = {}
@@ -139,6 +153,10 @@ def main():
             continue
         # Reject full-sentence Chinese translations (should be a concise word)
         if len(zh) > 15:
+            bad_clue_count += 1
+            continue
+        # Reject sentence-like Chinese clues (e.g. ending with "。")
+        if is_bad_zh_clue(zh):
             bad_clue_count += 1
             continue
 

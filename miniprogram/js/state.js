@@ -1,5 +1,9 @@
 // Game state and persistence for Crossword Master
 
+// Bump this version to invalidate cached state on new deploys
+const STORAGE_VERSION = 6
+const STORAGE_KEY = `crossword_v${STORAGE_VERSION}`
+
 const State = {
   screen: 'menu',
   difficulty: 'easy',
@@ -22,7 +26,7 @@ const State = {
 
 function loadProgress() {
   try {
-    const data = wx.getStorageSync('crossword_v5')
+    const data = wx.getStorageSync(STORAGE_KEY)
     if (data) {
       const parsed = JSON.parse(data)
       State.score = parsed.score || 0
@@ -35,7 +39,7 @@ function loadProgress() {
 }
 
 function saveProgress() {
-  wx.setStorageSync('crossword_v5', JSON.stringify({
+  wx.setStorageSync(STORAGE_KEY, JSON.stringify({
     score: State.score,
     hints: State.hints,
     completed: State.completed,
