@@ -6,73 +6,81 @@
   "solution": [
     [
       null,
-      "T",
-      "H",
-      "Y",
-      null
-    ],
-    [
-      "L",
-      "H",
-      null,
+      "D",
       "E",
-      "I"
+      "B",
+      "T"
     ],
     [
       "B",
-      "R",
-      "O",
+      null,
+      "V",
       "A",
-      "D"
+      "R"
     ],
     [
-      "S",
       "O",
-      null,
-      "S",
-      "S"
+      "P",
+      "E",
+      "R",
+      "A"
     ],
     [
-      null,
-      "W",
+      "M",
       "I",
+      "N",
+      null,
+      "P"
+    ],
+    [
+      "B",
+      "E",
       "T",
+      "A",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        3
+        2,
+        1
       ],
       [
-        1,
-        1
+        3,
+        2
       ],
       [
         4,
+        3
+      ],
+      [
+        3,
         1
       ],
       [
-        0,
+        2,
         3
       ]
     ],
     "medium": [
       [
-        1,
-        3
+        2,
+        1
       ],
       [
-        1,
-        1
+        3,
+        2
+      ],
+      [
+        4,
+        3
       ]
     ],
     "hard": [
       [
-        1,
-        3
+        2,
+        1
       ]
     ]
   },
@@ -83,64 +91,91 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Because, for sake, forwhy, since.",
-          "zh": "你的"
+          "en": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another.",
+          "zh": "债务"
         }
       },
       {
         "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
+          "zh": "变量"
+        }
+      },
+      {
+        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
-          "zh": "广阔"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "(now usually in the plural) Sanity.",
-          "zh": "智慧"
+          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+          "zh": "分钟"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
+          "zh": "测试版"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "To change place.",
-          "zh": "扔"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "An often humid, yellowish froth produced by fermenting malt worts, and used to brew beer, leaven bread, and also used in certain medicines.",
-          "zh": "酵母"
+          "en": "An occurrence; something that happens.",
+          "zh": "事件"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
+          "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+          "zh": "酒吧"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A machine or other device designed to catch (and sometimes kill) animals, either by holding them in a container, or by catching hold of part of the body.",
+          "zh": "陷阱"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "An explosive device used or intended as a weapon.",
+          "zh": "炸弹"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A type of pastry that consists of an outer crust and a filling.",
+          "zh": "馅饼"
         }
       }
     ]

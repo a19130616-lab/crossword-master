@@ -5,54 +5,58 @@
   "cols": 5,
   "solution": [
     [
-      "I",
       null,
-      null,
-      null,
-      "C"
-    ],
-    [
-      "M",
-      "A",
-      "M",
-      "B",
-      "O"
-    ],
-    [
-      "A",
-      null,
-      "I",
-      null,
-      "N"
-    ],
-    [
-      "G",
       "R",
-      "A",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      null,
       "S",
-      "S"
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "P",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      null,
+      "D"
     ],
     [
       "E",
-      null,
-      null,
-      null,
-      "T"
+      "Y",
+      "E",
+      "D",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
+        1,
         2
       ],
       [
-        0,
+        2,
         0
       ],
       [
         4,
-        0
+        3
+      ],
+      [
+        0,
+        3
       ],
       [
         1,
@@ -61,17 +65,21 @@
     ],
     "medium": [
       [
-        2,
+        1,
         2
       ],
       [
-        0,
+        2,
         0
+      ],
+      [
+        4,
+        3
       ]
     ],
     "hard": [
       [
-        2,
+        1,
         2
       ]
     ]
@@ -79,50 +87,95 @@
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
+          "en": "A regulation, law, guideline.",
+          "zh": "规则"
         }
       },
       {
-        "num": 5,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A chance to speak; the right or power to influence or make a decision.",
+          "zh": "说"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The status or condition of something",
+          "zh": "形状"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
-          "zh": "草"
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "图像"
+          "en": "The manner or the amount of using; use.",
+          "zh": "用法"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A variable whose value cannot be changed directly.",
-          "zh": "常量"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
         }
       }
     ]

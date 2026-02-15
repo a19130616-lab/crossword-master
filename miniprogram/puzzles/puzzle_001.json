@@ -5,177 +5,124 @@
   "cols": 5,
   "solution": [
     [
-      null,
       "F",
-      "U",
-      "J",
-      "I"
-    ],
-    [
-      "A",
       null,
-      "S",
-      "E",
-      "T"
+      null,
+      null,
+      "P"
     ],
     [
-      "P",
       "L",
       "A",
-      "T",
-      "E"
+      "B",
+      "E",
+      "L"
     ],
     [
-      "P",
-      "I",
-      "G",
+      "O",
       null,
-      "M"
+      "E",
+      null,
+      "A"
     ],
     [
-      "S",
+      "O",
+      "C",
       "E",
-      "E",
-      "N",
-      null
+      "A",
+      "N"
+    ],
+    [
+      "D",
+      null,
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        2
+        4,
+        4
       ],
       [
-        0,
+        1,
         3
       ],
       [
         3,
-        1
-      ],
-      [
-        3,
         2
       ],
       [
-        2,
+        3,
         3
       ]
     ],
     "medium": [
       [
+        4,
+        4
+      ],
+      [
         1,
-        2
-      ],
-      [
-        0,
         3
-      ],
-      [
-        3,
-        1
       ]
     ],
     "hard": [
       [
-        1,
-        2
+        4,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A plain spun silk fabric.",
-          "zh": "富士"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
-          "zh": "盘子"
+          "en": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+          "zh": "标签"
         }
       },
       {
-        "num": 9,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
-          "zh": "猪"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "见过"
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
         }
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The manner or the amount of using; use.",
-          "zh": "用法"
+          "en": "A (usually disastrous) overflow of water from a lake or other body of water due to excessive rainfall or other input of water.",
+          "zh": "洪水"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
-          "zh": "喷气式飞机"
+          "en": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+          "zh": "飞机"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A distinct physical object.",
-          "zh": "物品"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An intentionally false statement; to say something that is not true.",
-          "zh": "说谎"
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
         }
       }
     ]

@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "R",
-      "A",
-      "W",
-      null,
-      null,
-      null,
-      "D"
-    ],
-    [
-      "Y",
-      "E",
-      "A",
-      null,
-      "I",
-      "M",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      null,
-      "A",
-      "M",
-      "I",
-      "N",
-      "O",
-      null,
-      "L",
-      "B"
-    ],
-    [
-      "B",
       "S",
       null,
-      "M",
-      "E",
-      "T",
       null,
-      "A",
+      "Z",
+      null,
+      null,
       "A"
     ],
     [
+      "R",
       "A",
-      "T",
-      "O",
-      "M",
+      "P",
       null,
-      "H",
-      "O",
-      "S",
-      "T"
+      "W",
+      "I",
+      "V",
+      "E",
+      "S"
     ],
     [
-      "T",
-      "E",
       null,
-      "U",
-      "S",
+      "L",
+      "A",
+      "D",
       "E",
+      "N",
       null,
+      "X",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      null,
+      "E",
       "S",
+      "C",
+      "A",
+      "P",
       "E"
     ],
     [
-      "M",
-      "R",
-      null,
-      "N",
+      "L",
       "E",
+      "A",
+      "S",
+      "T",
+      null,
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "C",
+      "K",
+      "E",
+      "T",
+      null,
+      "S",
+      "S"
+    ],
+    [
+      "I",
+      "D",
+      null,
+      "T",
       "R",
-      "V",
+      "I",
+      "B",
       "E",
       null
     ],
     [
-      "A",
       "N",
-      "G",
-      "E",
+      "Y",
       "L",
+      "O",
+      "N",
       null,
-      "A",
-      "S",
-      "H"
+      "I",
+      "D",
+      "S"
     ],
     [
-      "N",
+      "E",
       null,
       null,
+      "P",
       null,
-      "F",
-      "A",
-      "R",
+      null,
+      "D",
       null,
       null
     ]
@@ -107,141 +107,132 @@
   "prefilled": {
     "easy": [
       [
-        2,
+        4,
         3
       ],
       [
         1,
-        5
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        8,
-        5
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        5,
         0
       ],
       [
-        0,
-        8
+        8,
+        6
       ],
       [
-        6,
-        6
+        0,
+        2
+      ],
+      [
+        7,
+        0
       ],
       [
         2,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
         4
       ],
       [
+        2,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
         8,
+        3
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
         6
+      ],
+      [
+        7,
+        3
       ]
     ],
     "medium": [
       [
-        2,
+        4,
         3
       ],
       [
         1,
-        5
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        3,
-        1
+        0
       ],
       [
         8,
-        5
+        6
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        7,
+        0
       ],
       [
         2,
         5
       ],
       [
-        2,
-        7
-      ],
-      [
-        1,
+        3,
         1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        4
       ]
     ],
     "hard": [
       [
-        2,
+        4,
         3
       ],
       [
         1,
-        5
+        0
       ],
       [
-        3,
-        7
+        8,
+        6
       ],
       [
-        3,
-        4
+        0,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
-          "zh": "生的"
-        }
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
+          "en": "A sharp blow with something hard.",
+          "zh": "说唱"
         }
       },
       {
@@ -249,89 +240,80 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "图像"
+          "en": "A married woman, especially in relation to her spouse.",
+          "zh": "妻子们"
         }
       },
       {
-        "num": 9,
+        "num": 8,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "The amine functional group.",
-          "zh": "氨基"
+          "en": "To fill or load (related to cargo or a shipment).",
+          "zh": "拉登"
         }
       },
       {
-        "num": 13,
+        "num": 12,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "The act of leaving a dangerous or unpleasant situation.",
+          "zh": "逃脱"
         }
       },
       {
-        "num": 15,
+        "num": 14,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
+          "en": "Something of the smallest possible extent; an indivisible unit.",
+          "zh": "至少"
         }
       },
       {
         "num": 16,
         "row": 4,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "One which receives or entertains a guest, socially, commercially, or officially.",
-          "zh": "主持人"
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
         }
       },
       {
-        "num": 18,
+        "num": 17,
         "row": 5,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "A small pack or package; a little bundle or parcel",
+          "zh": "包"
         }
       },
       {
-        "num": 22,
+        "num": 21,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
-          "zh": "神经"
+          "en": "A socially, ethnically, or politically cohesive group of people.",
+          "zh": "部落"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
         "num": 24,
         "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
-          "zh": "天使"
-        }
-      },
-      {
-        "num": 25,
-        "row": 7,
         "col": 6,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "Distant; remote in space.",
-          "zh": "远的"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       }
     ],
@@ -341,17 +323,17 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A male sheep, typically uncastrated",
-          "zh": "公羊"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An alcoholic beverage made by fermenting the juice of grapes.",
-          "zh": "葡萄酒"
+          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
+          "zh": "锌"
         }
       },
       {
@@ -359,8 +341,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "An argument, or discussion, usually in an ordered or formal setting, often with more than two people, generally ending with a vote or other decision.",
-          "zh": "辩论"
+          "en": "To determine, estimate or judge the value of; to evaluate",
+          "zh": "评估"
         }
       },
       {
@@ -368,62 +350,53 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Of, facing, situated in, or related to the east.",
-          "zh": "东"
+          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "zh": "已经"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A film, or some other dramatic work, set in, the historic (c. 1850-1910) American West (west of the Mississippi river) focusing on conflict between whites and Indians, lawmen and outlaws, ranchers and farmers, or industry (railroads, mining) and agriculture.",
+          "zh": "西"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A (human) female who has given birth to a baby",
-          "zh": "母亲"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
         "col": 7,
         "clue": {
-          "en": "To apply fibreglass to.",
-          "zh": "眼镜"
+          "en": "To reveal, uncover, make visible, bring to light, introduce to.",
+          "zh": "裸露"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "A person who is not susceptible to infection by a particular disease",
-          "zh": "免疫"
+          "en": "The top surface of a desk.",
+          "zh": "桌面"
         }
       },
       {
-        "num": 12,
+        "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A servant or valet to an army officer.",
-          "zh": "蝙蝠侠"
+          "en": "Any of several plants, native to mountain habitats, often grown in a rock garden",
+          "zh": "高山"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "One individual's personality, character, demeanor, or disposition.",
-          "zh": "自己"
-        }
-      },
-      {
-        "num": 23,
+        "num": 22,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
-          "zh": "变量"
+          "en": "To issue a command; to tell.",
+          "zh": "出价"
         }
       }
     ]

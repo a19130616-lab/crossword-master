@@ -5,90 +5,74 @@
   "cols": 7,
   "solution": [
     [
+      "A",
       null,
       null,
+      "A",
       null,
-      "E",
       null,
-      null,
-      "E"
+      "A"
     ],
     [
-      null,
-      "P",
-      null,
-      "M",
-      "O",
-      "L",
-      "D"
-    ],
-    [
-      null,
-      "O",
-      "V",
-      "E",
-      "R",
-      null,
-      "G"
-    ],
-    [
+      "D",
+      "I",
       "S",
       "T",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "V",
+      null,
+      "L",
+      "E",
+      "G",
+      null,
+      "T"
+    ],
+    [
+      "A",
+      "G",
       "O",
-      "R",
+      null,
       "A",
       "G",
       "E"
     ],
     [
-      "O",
+      "N",
+      null,
+      "P",
+      "H",
+      "I",
+      null,
+      "M"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N",
+      "U",
+      "P"
+    ],
+    [
+      "E",
+      null,
       null,
       "T",
-      "A",
-      "L",
-      "E",
-      null
-    ],
-    [
-      "F",
-      "U",
-      "E",
-      "L",
-      null,
-      "M",
-      null
-    ],
-    [
-      "A",
       null,
       null,
-      "D",
-      null,
-      null,
-      null
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         1,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        2,
-        6
+        2
       ],
       [
         4,
@@ -96,35 +80,63 @@
       ],
       [
         2,
-        1
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        0
       ]
     ],
     "medium": [
       [
         1,
-        3
+        2
       ],
       [
-        3,
-        1
+        4,
+        2
       ],
       [
-        3,
+        2,
         0
       ],
       [
-        1,
-        1
+        3,
+        2
+      ],
+      [
+        3,
+        5
       ]
     ],
     "hard": [
       [
         1,
-        3
+        2
       ],
       [
-        3,
-        1
+        4,
+        2
       ]
     ]
   },
@@ -133,84 +145,10 @@
       {
         "num": 4,
         "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "A hollow form or matrix for shaping a fluid or plastic substance.",
-          "zh": "模具"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Above or higher than something else, with or without touching it.",
-          "zh": "超过"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The act of storing goods; the state of being stored.",
-          "zh": "贮存"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
-          "zh": "故事"
-        }
-      },
-      {
-        "num": 11,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "Substance consumed to provide energy through combustion, or through chemical or nuclear reaction.",
-          "zh": "燃料"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Any of various green gemstones, especially a green transparent form of beryl, highly valued as a precious stone.",
-          "zh": "翠"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
-          "zh": "锅"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "Far off (physically, logically or mentally).",
+          "zh": "遥远"
         }
       },
       {
@@ -218,8 +156,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "A formalized choice on matters of administration or other democratic activities",
-          "zh": "投票"
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
         }
       },
       {
@@ -227,17 +165,91 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
-          "zh": "沙发"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
-          "zh": "宝石"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        }
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The act of cleaning or tidying something.",
+          "zh": "清理"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A forward move; improvement or progression.",
+          "zh": "进步"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The action of trying at something.",
+          "zh": "试图"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An area of ground that tends evenly upward or downward.",
+          "zh": "坡"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Another time; once more.",
+          "zh": "再次"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+          "zh": "帽子"
         }
       }
     ]

@@ -6,128 +6,116 @@
   "solution": [
     [
       null,
-      "H",
-      null,
-      null,
-      null,
-      null,
-      "F",
-      null,
-      "S"
-    ],
-    [
-      "P",
-      "A",
-      "S",
-      "T",
-      "A",
-      null,
-      "L",
-      "A",
-      "P"
-    ],
-    [
-      null,
-      "T",
-      "E",
-      null,
-      "S",
-      "T",
       "Y",
-      "L",
-      "E"
-    ],
-    [
-      "P",
-      "E",
-      "N",
       null,
-      "S",
-      "A",
       null,
-      "T",
+      null,
+      null,
+      "V",
+      null,
       "A"
     ],
     [
-      "L",
-      null,
-      "T",
-      "E",
-      "A",
-      "R",
-      "S",
-      null,
-      "K"
-    ],
-    [
-      "A",
-      "A",
-      null,
       "Y",
-      "U",
-      null,
+      "A",
+      "C",
+      "H",
       "T",
-      "V",
-      "S"
-    ],
-    [
-      "S",
-      "T",
-      "E",
-      "E",
-      "L",
       null,
       "A",
       "I",
-      null
+      "D"
     ],
     [
-      "M",
-      "E",
+      null,
+      "R",
+      "L",
+      null,
+      "W",
+      "O",
+      "R",
+      "L",
+      "D"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      null,
+      "I",
       "N",
       null,
-      "T",
-      "H",
+      "L",
+      "I"
+    ],
+    [
       "R",
+      null,
+      "B",
+      "U",
+      "S",
       "E",
-      "E"
+      "S",
+      null,
+      "N"
     ],
     [
       "A",
+      "H",
+      null,
+      "P",
+      "T",
+      null,
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      null,
+      "G",
+      "E",
+      null
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      "D",
+      "O",
+      "N",
+      "O",
+      "R"
+    ],
+    [
+      "L",
       null,
       "D",
       null,
       null,
       null,
       null,
-      "W",
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
+        5,
         8
       ],
       [
-        7,
-        5
+        4,
+        2
       ],
       [
-        6,
-        1
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        5,
+        4,
         0
       ],
       [
@@ -135,57 +123,57 @@
         4
       ],
       [
-        5,
-        7
-      ],
-      [
         4,
         4
       ],
       [
-        4,
+        7,
+        4
+      ],
+      [
+        0,
         6
       ],
       [
-        2,
+        0,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
         2
       ],
       [
-        1,
-        3
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        3,
+        4,
         8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        6,
+        0
       ]
     ],
     "medium": [
       [
-        7,
+        5,
         8
       ],
       [
-        7,
-        5
+        4,
+        2
       ],
       [
-        6,
-        1
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        5,
+        4,
         0
       ],
       [
@@ -193,26 +181,38 @@
         4
       ],
       [
-        5,
-        7
+        4,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        1
       ]
     ],
     "hard": [
       [
-        7,
+        5,
         8
       ],
       [
-        7,
-        5
+        4,
+        2
       ],
       [
-        6,
-        1
+        4,
+        0
       ],
       [
-        5,
-        1
+        1,
+        4
       ]
     ]
   },
@@ -223,8 +223,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
-          "zh": "面食"
+          "en": "A slick and light ship for making pleasure trips or racing on water, having sails but often motor-powered. At times used as a residence offshore on a dock.",
+          "zh": "游艇"
         }
       },
       {
@@ -232,8 +232,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "圈"
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
         }
       },
       {
@@ -241,8 +241,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "A manner of doing something; a distinctive appearance of a design or work of art.",
-          "zh": "风格"
+          "en": "(with \"the\") Human collective existence; existence in general.",
+          "zh": "世界"
         }
       },
       {
@@ -250,8 +250,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       },
       {
@@ -259,8 +259,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A hole or break caused by tearing.",
-          "zh": "因撕裂而造成的孔洞或断裂。"
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
         }
       },
       {
@@ -268,8 +268,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "The assessed value of an asset from which the tax owing is computed.",
-          "zh": "电视"
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
         }
       },
       {
@@ -277,8 +277,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
-          "zh": "钢"
+          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
+          "zh": "诗"
         }
       },
       {
@@ -286,8 +286,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
@@ -295,8 +295,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "The digit/figure 3.",
-          "zh": "三"
+          "en": "One who makes a donation.",
+          "zh": "捐助者"
         }
       }
     ],
@@ -306,8 +306,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An object of hatred.",
-          "zh": "恨"
+          "en": "A twisted strand of fiber used for knitting or weaving.",
+          "zh": "纱"
         }
       },
       {
@@ -315,8 +315,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
-          "zh": "飞"
+          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
+          "zh": "变量"
         }
       },
       {
@@ -324,8 +324,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A low class bar, a speakeasy.",
-          "zh": "一个低级酒吧，一个地下酒吧。"
+          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "zh": "添加"
         }
       },
       {
@@ -333,8 +333,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A subdivision of currency, equal to one hundredth of an Estonian kroon.",
-          "zh": "发送"
+          "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+          "zh": "俱乐部"
         }
       },
       {
@@ -342,8 +342,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
-          "zh": "突击"
+          "en": "To turn the ends of something, usually thread, rope etc., in opposite directions, often using force.",
+          "zh": "扭曲的"
         }
       },
       {
@@ -351,8 +351,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
         }
       },
       {
@@ -360,8 +360,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       },
       {
@@ -369,8 +369,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A state of matter consisting of partially ionized gas and electrons",
-          "zh": "等离子体"
+          "en": "Small fragments of rock, used for laying on the beds of roads and railways, and as ballast.",
+          "zh": "碎石"
         }
       },
       {
@@ -378,8 +378,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
         }
       },
       {
@@ -387,8 +387,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
+          "en": "An object, quality, or event whose presence indicates the probable presence of something else.",
+          "zh": "符号"
         }
       },
       {
@@ -396,8 +396,8 @@
         "row": 5,
         "col": 1,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
         }
       },
       {
@@ -405,8 +405,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "The ability to see something or the area that can be seen from a particular place.",
-          "zh": "看法"
+          "en": "The chemical element (symbol Ne) with an atomic number of 10. The lightest of the noble gases, it is a colourless, odorless inert gas.",
+          "zh": "氖"
         }
       },
       {
@@ -414,8 +414,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         }
       }
     ]

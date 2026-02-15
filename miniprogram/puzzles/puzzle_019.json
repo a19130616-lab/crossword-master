@@ -6,7 +6,7 @@
   "solution": [
     [
       null,
-      "V",
+      "H",
       null,
       null,
       "C",
@@ -14,57 +14,57 @@
       "W"
     ],
     [
-      "N",
+      "P",
+      "E",
+      "R",
+      "F",
+      "U",
+      "M",
+      "E"
+    ],
+    [
       "I",
       "R",
-      "V",
-      "A",
-      "N",
+      null,
+      "I",
+      "T",
+      null,
       "A"
     ],
     [
-      "I",
-      "S",
-      null,
-      "O",
-      "N",
-      null,
-      "L"
-    ],
-    [
       "C",
-      "A",
-      "P",
-      "I",
-      "T",
-      "A",
+      "O",
+      "U",
+      "N",
+      "S",
+      "E",
       "L"
     ],
     [
       "K",
       null,
-      "I",
-      "C",
-      null,
-      "P",
-      "E"
-    ],
-    [
-      "E",
-      "X",
-      "C",
-      "E",
       "R",
-      "P",
+      "A",
+      null,
+      "A",
       "T"
     ],
     [
+      "E",
+      "N",
+      "G",
       "L",
-      "B",
+      "I",
       "S",
+      "H"
+    ],
+    [
+      "D",
+      "I",
+      "E",
       null,
       null,
-      "S",
+      "E",
       null
     ]
   ],
@@ -72,74 +72,74 @@
     "easy": [
       [
         5,
-        6
-      ],
-      [
-        3,
-        0
+        1
       ],
       [
         0,
         5
       ],
       [
-        5,
-        1
-      ],
-      [
-        1,
-        2
+        3,
+        5
       ],
       [
         2,
-        4
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        6,
         0
       ],
       [
         4,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
         2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
       ]
     ],
     "medium": [
       [
         5,
-        6
-      ],
-      [
-        3,
-        0
+        1
       ],
       [
         0,
         5
       ],
       [
-        5,
-        1
+        3,
+        5
       ],
       [
-        1,
-        2
+        2,
+        0
+      ],
+      [
+        4,
+        5
       ]
     ],
     "hard": [
       [
         5,
-        6
-      ],
-      [
-        3,
-        0
+        1
       ],
       [
         0,
+        5
+      ],
+      [
+        3,
         5
       ]
     ]
@@ -160,8 +160,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Complete cessation of suffering; a blissful state attained through realization of sunyata; enlightened experience.",
-          "zh": "涅槃"
+          "en": "A pleasant smell; the scent, odor, or odoriferous particles emitted from a sweet-smelling substance; a pleasant odor",
+          "zh": "香水"
         }
       },
       {
@@ -169,8 +169,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
-          "zh": "首都"
+          "en": "The exchange of opinions and advice especially in legal issues; consultation.",
+          "zh": "法律顾问"
         }
       },
       {
@@ -178,8 +178,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A clip, snippet, passage or extract from a larger work such as a news article, a film, or a literary composition.",
-          "zh": "摘抄"
+          "en": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling.",
+          "zh": "英语"
         }
       },
       {
@@ -187,8 +187,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "死"
         }
       }
     ],
@@ -198,8 +198,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
-          "zh": "签证"
+          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+          "zh": "英雄"
         }
       },
       {
@@ -207,8 +207,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "An argot, the jargon of a particular class or subgroup.",
-          "zh": "不能"
+          "en": "The act of cutting.",
+          "zh": "切割的动作。"
         }
       },
       {
@@ -216,8 +216,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A small case, often flat and often made of leather, for keeping money (especially paper money), credit cards, etc.",
-          "zh": "钱包"
+          "en": "Riches; valuable material possessions.",
+          "zh": "财富"
         }
       },
       {
@@ -225,8 +225,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
-          "zh": "镍"
+          "en": "To grasp and pull with the fingers or fingernails.",
+          "zh": "挑选的"
         }
       },
       {
@@ -234,8 +234,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character",
-          "zh": "嗓音"
+          "en": "Coming at the end of a series; the last game in a sports tournament.",
+          "zh": "最终的"
         }
       },
       {
@@ -243,8 +243,8 @@
         "row": 3,
         "col": 2,
         "clue": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片，尤其是摄影图像。"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
@@ -252,8 +252,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
         }
       }
     ]

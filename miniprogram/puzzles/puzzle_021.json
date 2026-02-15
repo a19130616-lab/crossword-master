@@ -6,213 +6,221 @@
   "solution": [
     [
       null,
-      "T",
+      null,
+      "U",
       null,
       null,
+      "W",
       null,
       null,
-      "P",
-      null,
-      "A"
+      "P"
     ],
     [
-      "V",
-      "I",
-      "S",
-      "T",
-      "A",
-      null,
-      "R",
-      "I",
-      "D"
-    ],
-    [
-      null,
-      "L",
       "P",
-      null,
-      "B",
-      "L",
       "O",
-      "N",
-      "D"
-    ],
-    [
       "S",
-      "E",
-      "E",
-      null,
-      "A",
-      "B",
-      null,
-      "G",
-      "I"
-    ],
-    [
-      "I",
       null,
       "C",
       "O",
       "N",
-      "S",
-      "T",
-      null,
-      "N"
-    ],
-    [
-      "L",
-      "M",
-      null,
-      "N",
       "D",
-      null,
-      "R",
-      "U",
-      "G"
+      "O"
     ],
     [
+      null,
+      "F",
+      "E",
       "V",
-      "I",
-      "D",
       "E",
-      "O",
-      null,
-      "E",
-      "S",
-      null
-    ],
-    [
-      "E",
-      "A",
       "R",
       null,
+      "I",
+      "W"
+    ],
+    [
+      "S",
+      "F",
+      null,
+      "I",
       "N",
-      "A",
-      "K",
+      "D",
+      "E",
       "E",
       "D"
     ],
     [
+      "H",
+      "E",
+      "A",
       "R",
+      "T",
       null,
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "J",
+      "U",
+      "R",
       "Y",
       null,
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "S",
       null,
+      "S",
+      "A",
+      "F",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
       null,
-      null,
+      "G",
+      "Y",
+      "M"
+    ],
+    [
       "D",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "G",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        3,
-        2
-      ],
-      [
         7,
-        7
+        3
       ],
       [
         5,
-        0
+        8
       ],
       [
-        3,
-        7
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        7,
+        6,
         1
       ],
       [
-        3,
-        5
+        7,
+        2
       ],
       [
         8,
-        7
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        6
       ],
       [
         5,
         7
       ],
       [
-        4,
-        3
+        6,
+        4
+      ],
+      [
+        1,
+        0
       ]
     ],
     "medium": [
       [
-        4,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        3,
-        2
-      ],
-      [
         7,
-        7
+        3
       ],
       [
         5,
-        0
+        8
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
+        3
       ],
       [
         3,
-        7
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        6
       ]
     ],
     "hard": [
       [
-        4,
-        2
+        7,
+        3
       ],
       [
-        1,
-        6
+        5,
+        8
       ],
       [
-        1,
+        6,
         1
       ],
       [
-        0,
-        6
+        7,
+        2
       ]
     ]
   },
@@ -223,118 +231,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
-          "zh": "远景"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "To free (something) from a hindrance or annoyance.",
-          "zh": "摆脱"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A variable whose value cannot be changed directly.",
-          "zh": "常量"
-        }
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A partial covering for a floor.",
-          "zh": "地毯"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "Television, television show, movie.",
-          "zh": "视频"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Bare, not covered by clothing.",
-          "zh": "裸"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A flat, thin piece of hard material used for covering roofs, floors, or walls.",
-          "zh": "瓦"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
-          "zh": "专业人士"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A detailed description of the design and materials used to make something.",
-          "zh": "规格"
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
         }
       },
       {
@@ -342,80 +240,163 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
-          "zh": "放弃"
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
         }
       },
       {
         "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
-        }
-      },
-      {
-        "num": 11,
         "row": 2,
-        "col": 5,
+        "col": 1,
         "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
+          "en": "A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.",
+          "zh": "发烧"
         }
       },
       {
         "num": 12,
         "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "(modal) Truly; in fact; actually.",
+          "zh": "的确"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "A lustrous, white, metallic element, atomic number 47, atomic weight 107.87, symbol Ag.",
-          "zh": "银"
+          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+          "zh": "心"
         }
       },
       {
         "num": 16,
         "row": 4,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "A journey by ox wagon.",
-          "zh": "跋涉"
+          "en": "Damage to the body of a human or animal.",
+          "zh": "受伤"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 1,
+        "num": 21,
+        "row": 6,
+        "col": 3,
         "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
+          "en": "Not in danger; out of harm's reach.",
+          "zh": "更安全"
         }
       },
       {
-        "num": 22,
-        "row": 5,
-        "col": 7,
+        "num": 23,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A position on a scale of amount, quantity, extent, or quality.",
+          "zh": "等级"
         }
       },
       {
         "num": 24,
-        "row": 6,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
         "col": 2,
         "clue": {
-          "en": "The process by which something is dried.",
-          "zh": "干燥"
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+          "zh": "单词"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The fine particles which are the result of reducing dry substance by pounding, grinding, or triturating, or the result of decay; dust.",
+          "zh": "粉末"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The act of offending:",
+          "zh": "罪行"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Being in the centre.",
+          "zh": "中央"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A regulated diet.",
+          "zh": "饮食"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
+          "zh": "病毒"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Anything that protects or defends; defense; shelter; protection.",
+          "zh": "盾"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]

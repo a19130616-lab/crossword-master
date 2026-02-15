@@ -52,6 +52,7 @@ EXCLUDED_WORDS = {
     "int", "sim", "leu", "ciao", "casa", "costa", "til",
     # More fragments / abbreviations / obscure terms
     "isp", "ent", "neo", "pct", "pre", "eco", "psi", "gel",
+    "fwd", "lbs", "msg", "pst", "rrp", "tvs", "thy", "sat",
     # Tech / computing jargon
     "adware", "spyware", "freeware", "firmware", "ethernet", "intranet",
     "webcam", "webcast", "webpage", "wiki", "toolbar", "username", "modem",

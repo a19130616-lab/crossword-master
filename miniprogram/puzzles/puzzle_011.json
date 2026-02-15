@@ -6,263 +6,238 @@
   "solution": [
     [
       null,
-      "M",
-      "S",
-      "G",
+      null,
       null,
       "S",
-      "L"
-    ],
-    [
-      "U",
       null,
-      "P",
-      "A",
-      "S",
-      "T",
+      null,
       "A"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "R",
       null,
+      "L",
+      null,
+      "P",
       "R",
-      "T"
+      "E",
+      "P"
     ],
     [
-      "E",
-      "R",
-      null,
-      "B",
       null,
       "I",
-      "E"
+      "D",
+      "E",
+      "A",
+      null,
+      "P"
     ],
     [
-      "F",
-      "U",
-      null,
-      "A",
+      "S",
       "P",
-      "P",
+      "E",
+      "C",
+      "I",
+      "E",
       "S"
     ],
     [
-      "U",
-      "S",
-      "A",
-      "G",
-      "E",
+      "I",
       null,
-      "T"
+      "P",
+      "I",
+      "N",
+      "G",
+      null
     ],
     [
-      "L",
-      "T",
-      null,
+      "M",
       "E",
-      "N",
-      "D",
+      "T",
+      "A",
+      null,
+      "G",
+      null
+    ],
+    [
+      "S",
+      null,
+      null,
+      "L",
+      null,
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        5,
+        1
+      ],
+      [
         4,
-        5
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        6,
-        1
+        0
       ],
       [
         0,
         6
       ],
       [
-        6,
-        5
+        1,
+        4
+      ],
+      [
+        4,
+        4
       ],
       [
         2,
-        2
+        3
       ],
       [
         1,
-        0
-      ],
-      [
-        6,
-        4
+        3
       ]
     ],
     "medium": [
       [
+        5,
+        1
+      ],
+      [
         4,
-        5
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        6,
-        1
+        0
       ],
       [
         0,
         6
+      ],
+      [
+        1,
+        4
       ]
     ],
     "hard": [
       [
-        4,
-        5
-      ],
-      [
-        0,
+        5,
         1
       ],
       [
-        0,
-        2
+        4,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 3,
         "clue": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "味精"
+          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
+          "zh": "准备"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 2,
+        "num": 6,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
-          "zh": "面食"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
         "num": 8,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
+          "en": "Type or kind. (Compare race.)",
+          "zh": "物种"
         }
       },
       {
-        "num": 14,
+        "num": 10,
         "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A high-pitched, short and somewhat sharp sound.",
+          "zh": "平"
+        }
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Self-referential; structured analogously, but at a higher level.",
+          "zh": "元"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
         "col": 3,
+        "clue": {
+          "en": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
+          "zh": "特别的"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
           "en": "An application (program), especially a small one designed for a mobile device.",
           "zh": "应用程序"
         }
       },
       {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "The manner or the amount of using; use.",
-          "zh": "用法"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
-        }
-      },
-      {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "Food waste material of any kind.",
-          "zh": "垃圾"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A long, thin piece of land; any long, thin area.",
-          "zh": "条"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 4,
         "clue": {
-          "en": "Near the end of a period of time.",
-          "zh": "最新的"
+          "en": "Condensed water falling from a cloud.",
+          "zh": "雨"
         }
       },
       {
-        "num": 6,
-        "row": 1,
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A part, portion, or subdivision.",
+          "zh": "部门"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Having a practical or beneficial use.",
-          "zh": "有用"
+          "en": "A simulation or simulator.",
+          "zh": "模拟或模拟器。"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
+        "row": 3,
+        "col": 5,
         "clue": {
-          "en": "Confidence in or reliance on some person or quality.",
-          "zh": "相信"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 4,
-        "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]

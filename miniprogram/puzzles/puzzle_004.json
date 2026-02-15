@@ -5,39 +5,39 @@
   "cols": 5,
   "solution": [
     [
-      "E",
-      null,
-      null,
-      null,
-      "B"
-    ],
-    [
-      "S",
-      "M",
-      "I",
-      "L",
-      "E"
-    ],
-    [
-      "S",
-      null,
-      "N",
-      null,
-      "L"
-    ],
-    [
       "A",
-      "N",
-      "G",
-      "E",
+      null,
+      "P",
+      "A",
       "L"
     ],
     [
-      "Y",
+      "D",
+      "I",
+      "S",
+      "C",
+      "O"
+    ],
+    [
+      "O",
+      "C",
       null,
+      "N",
+      "O"
+    ],
+    [
+      "B",
+      "O",
+      "X",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "N",
+      "D",
       null,
-      null,
-      "Y"
+      "E"
     ]
   ],
   "prefilled": {
@@ -47,16 +47,20 @@
         4
       ],
       [
-        3,
-        0
-      ],
-      [
         2,
         4
       ],
       [
         1,
-        3
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        0
       ]
     ],
     "medium": [
@@ -65,8 +69,12 @@
         4
       ],
       [
-        3,
-        0
+        2,
+        4
+      ],
+      [
+        1,
+        4
       ]
     ],
     "hard": [
@@ -79,21 +87,39 @@
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.",
-          "zh": "微笑"
+          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
+          "zh": "朋友"
         }
       },
       {
         "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
+          "zh": "迪斯科"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
-          "zh": "天使"
+          "en": "Senses relating to a three-dimensional object or space.",
+          "zh": "盒子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -103,26 +129,35 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A short piece of writing on a particular subject.",
-          "zh": "散文"
+          "en": "An unburnt brick dried in the sun.",
+          "zh": "土坯"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The abdomen, especially a fat one.",
-          "zh": "腹部"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "The release of an arrow.",
+          "zh": "松动的"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
         }
       }
     ]

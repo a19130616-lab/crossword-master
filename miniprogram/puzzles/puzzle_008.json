@@ -5,81 +5,81 @@
   "cols": 5,
   "solution": [
     [
-      "R",
       null,
-      "H",
-      "U",
-      "B"
-    ],
-    [
-      "A",
-      "M",
-      "I",
-      "N",
-      "O"
-    ],
-    [
-      "I",
       "E",
-      null,
-      "I",
-      "X"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "T",
+      "D",
+      "G",
       "E"
     ],
     [
       "E",
-      "A",
-      "R",
       null,
-      "S"
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "B",
+      "U",
+      "G"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      null,
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "E",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
+        0,
         4
       ],
       [
         1,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
         0
       ],
       [
-        1,
-        3
+        3,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        1
       ]
     ],
     "medium": [
       [
-        2,
+        0,
         4
       ],
       [
         1,
-        1
+        0
       ],
       [
-        4,
-        1
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        2,
+        0,
         4
       ]
     ]
@@ -87,21 +87,30 @@
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "The central part, usually cylindrical, of a wheel; the nave.",
-          "zh": "中心"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "The amine functional group.",
-          "zh": "氨基"
+          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
+          "zh": "调试"
         }
       },
       {
@@ -109,28 +118,28 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A condition; a set of circumstances applying at any given time.",
-          "zh": "状态"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An increase in wages or salary; a rise (UK).",
-          "zh": "增加"
+          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
+          "zh": "调试"
         }
       },
       {
@@ -138,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "An individual thing or person regarded as single and complete, especially for purposes of calculation.",
-          "zh": "单元"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       },
       {
@@ -147,17 +156,26 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "Senses relating to a three-dimensional object or space.",
-          "zh": "盒子"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
         "col": 1,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ]

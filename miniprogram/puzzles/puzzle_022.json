@@ -6,212 +6,212 @@
   "solution": [
     [
       null,
-      "F",
+      "H",
       null,
       null,
       null,
-      "R",
       null,
-      null,
-      "A"
-    ],
-    [
-      "F",
-      "I",
-      "R",
-      "E",
-      null,
-      "E",
-      "V",
-      "I",
-      "L"
-    ],
-    [
-      "R",
-      "L",
-      null,
-      "N",
-      "O",
       "S",
-      "E",
       null,
-      "L"
+      "S"
     ],
     [
+      "P",
       "A",
-      "M",
-      "A",
+      "S",
       "T",
-      "E",
-      "U",
-      "R",
+      "A",
       null,
-      "I"
+      "K",
+      "I",
+      "T"
+    ],
+    [
+      null,
+      "L",
+      "A",
+      null,
+      "S",
+      "H",
+      "I",
+      "N",
+      "E"
     ],
     [
       "C",
-      null,
-      "P",
-      "E",
-      null,
-      "L",
-      "S",
-      null,
-      "A"
-    ],
-    [
-      "T",
-      null,
-      "P",
-      "R",
       "O",
-      "T",
-      "E",
-      "I",
-      "N"
-    ],
-    [
-      "I",
-      null,
-      "L",
-      "I",
       "N",
-      "E",
       null,
       "S",
-      "C"
+      "A",
+      null,
+      "S",
+      "R"
     ],
     [
-      "O",
-      "V",
-      "E",
-      "N",
+      "A",
       null,
       "D",
+      "R",
       "A",
-      "L",
+      "M",
+      "A",
+      null,
       "E"
     ],
     [
       "N",
+      "P",
       null,
+      "A",
+      "U",
       null,
+      "T",
+      "W",
+      "O"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      null,
+      "O",
+      "O",
+      null
+    ],
+    [
+      "A",
       "G",
+      "O",
+      null,
+      "T",
+      "U",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      null,
+      "N",
       null,
       null,
       null,
-      "E",
+      null,
+      "L",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        2
+        0,
+        8
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        7
       ],
       [
         4,
-        3
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        3,
         8
       ],
       [
         7,
-        0
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        1,
-        0
+        7
       ],
       [
         2,
-        5
+        1
       ],
       [
         1,
-        6
+        4
       ],
       [
         2,
         4
       ],
       [
-        3,
+        8,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        6,
         1
       ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "medium": [
       [
         0,
         8
       ],
       [
-        8,
+        5,
+        0
+      ],
+      [
+        5,
         7
       ],
       [
         4,
-        5
-      ]
-    ],
-    "medium": [
-      [
-        3,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        3,
         8
       ],
       [
         7,
-        0
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        1,
-        0
+        7
       ],
       [
         2,
-        5
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
       ]
     ],
     "hard": [
       [
-        3,
-        2
+        0,
+        8
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        7
       ],
       [
         4,
-        3
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        3,
         8
       ]
     ]
@@ -223,71 +223,80 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
-          "zh": "火"
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
-          "zh": "邪恶的"
+          "en": "A circular wooden vessel, made of hooped staves.",
+          "zh": "成套工具"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
-          "zh": "鼻子"
+          "en": "Brightness from a source of light.",
+          "zh": "闪耀"
         }
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A lover of something.",
-          "zh": "业余"
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
         }
       },
       {
         "num": 15,
-        "row": 5,
+        "row": 4,
         "col": 2,
         "clue": {
-          "en": "Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds.",
-          "zh": "蛋白质"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
-          "zh": "线"
-        }
-      },
-      {
-        "num": 20,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "烤箱"
+          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
+          "zh": "戏剧"
         }
       },
       {
         "num": 21,
-        "row": 7,
-        "col": 5,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "A valley, often in an otherwise hilly area.",
-          "zh": "山谷"
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The univalent radical CH2=CH−, derived from ethylene.",
+          "zh": "乙烯基塑料"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "An abnormal growth; differential diagnosis includes abscess, metaplasia, and neoplasia.",
+          "zh": "瘤"
         }
       }
     ],
@@ -297,17 +306,17 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A story or event recorded by a camera as a set of moving images; a movie.",
-          "zh": "电影"
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
-          "zh": "结果"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
@@ -315,53 +324,98 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "The state of being allied.",
-          "zh": "联盟"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A part of a whole, especially a comparatively small part.",
-          "zh": "分数"
+          "en": "A system of recording or reproducing sound that uses two channels, each playing a portion of the original sound in such a way as to create the illusion of locating the sound at a particular position, each offset from the other, thereby more accurately imitating the location of the original sound when the recorded or reproduced sound is heard.",
+          "zh": "立体声"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
+          "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
+          "zh": "沙"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
-          "zh": "诗"
+          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
+          "zh": "突击"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The region back of the knee joint; the popliteal space; the hock.",
+          "zh": "火腿"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
-          "zh": "苹果"
+          "en": "A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.",
+          "zh": "帆布"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
         }
       },
       {
         "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
+        }
+      },
+      {
+        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "The hair of the sheep, llama and some other ruminants.",
+          "zh": "羊毛"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       }
     ]

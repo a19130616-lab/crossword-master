@@ -6,65 +6,65 @@
   "solution": [
     [
       null,
-      "M",
+      "P",
       null,
-      "C",
+      "A",
       null,
       null,
-      "R"
+      "G"
     ],
     [
-      "D",
-      "I",
-      "V",
-      "O",
       "R",
-      "C",
+      "U",
+      "N",
+      "T",
+      "I",
+      "M",
       "E"
     ],
     [
       null,
-      "R",
+      "L",
+      "I",
+      "T",
+      null,
       "A",
-      "M",
+      "N"
+    ],
+    [
+      "B",
+      "L",
       null,
       "E",
+      "L",
+      "S",
       "E"
     ],
     [
-      "W",
-      "R",
+      "E",
+      "E",
       null,
-      "P",
-      "O",
-      "N",
-      "D"
-    ],
-    [
-      "A",
-      "O",
-      null,
-      "A",
-      "N",
+      "M",
+      "E",
       "T",
       null
     ],
     [
-      "G",
-      "R",
-      "O",
-      "C",
+      "A",
+      "D",
+      "A",
+      "P",
+      "T",
       "E",
-      "R",
-      "Y"
+      "D"
     ],
     [
-      "E",
+      "R",
       null,
       null,
       "T",
       null,
-      "E",
+      "R",
       null
     ]
   ],
@@ -72,71 +72,71 @@
     "easy": [
       [
         5,
-        3
+        1
       ],
       [
-        3,
-        3
+        5,
+        4
       ],
       [
         6,
         0
       ],
       [
-        4,
-        1
+        3,
+        5
       ],
       [
-        4,
+        2,
         3
       ],
       [
-        5,
-        0
+        2,
+        5
       ],
       [
-        0,
+        4,
         1
       ],
       [
         1,
-        3
+        1
       ],
       [
-        3,
-        5
+        0,
+        1
       ]
     ],
     "medium": [
       [
         5,
-        3
+        1
       ],
       [
-        3,
-        3
+        5,
+        4
       ],
       [
         6,
         0
       ],
       [
-        4,
-        1
+        3,
+        5
       ],
       [
-        4,
+        2,
         3
       ]
     ],
     "hard": [
       [
         5,
-        3
+        1
       ],
       [
-        3,
-        3
+        5,
+        4
       ]
     ]
   },
@@ -147,8 +147,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The legal dissolution of a marriage.",
-          "zh": "离婚"
+          "en": "The stage during which a program is executing.",
+          "zh": "运行时"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A male sheep, typically uncastrated",
-          "zh": "公羊"
+          "en": "To start (a fire).",
+          "zh": "点亮"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "An inland body of standing water, either natural or man-made, that is smaller than a lake.",
-          "zh": "池塘"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       },
       {
@@ -183,8 +183,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(usually groceries) retail foodstuffs and other household supplies.",
-          "zh": "杂货店"
+          "en": "To make suitable; to make to correspond; to fit or suit",
+          "zh": "改编的"
         }
       }
     ],
@@ -194,8 +194,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.",
-          "zh": "镜子"
+          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+          "zh": "拉"
         }
       },
       {
@@ -203,8 +203,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "An agreement or contract.",
-          "zh": "袖珍的"
+          "en": "The action of trying at something.",
+          "zh": "试图"
         }
       },
       {
@@ -212,8 +212,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Any of various types of tall stiff perennial grass-like plants growing together in groups near water.",
-          "zh": "芦苇"
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
         }
       },
       {
@@ -221,8 +221,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "The point in the interior of a circle that is equidistant from all points on the circumference.",
-          "zh": "中心"
+          "en": "Someone who has control over something or someone.",
+          "zh": "掌握"
         }
       },
       {
@@ -230,8 +230,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour.",
-          "zh": "工资"
+          "en": "A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae.",
+          "zh": "熊"
         }
       },
       {
@@ -239,8 +239,8 @@
         "row": 3,
         "col": 4,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
         }
       }
     ]

@@ -8,99 +8,99 @@
       null,
       "M",
       null,
-      "M",
-      "I",
-      "X",
       null,
       null,
-      "S"
+      null,
+      "A",
+      null,
+      "A"
     ],
     [
+      "S",
+      "I",
+      "Z",
+      "E",
+      "S",
+      null,
       "B",
       "A",
-      "S",
-      "I",
-      "C",
-      null,
-      "A",
-      "L",
-      "T"
+      "G"
     ],
     [
       null,
-      "R",
-      "K",
-      null,
-      "O",
-      "L",
       "D",
-      null,
-      "O"
-    ],
-    [
-      "S",
-      "K",
       "I",
       null,
-      "N",
-      "O",
-      "V",
-      "E",
-      "L"
-    ],
-    [
-      "Y",
-      null,
-      "L",
-      "M",
-      null,
-      "G",
+      "P",
       "A",
-      null,
+      "S",
+      "T",
       "E"
     ],
     [
-      "S",
-      "P",
-      "L",
+      "M",
       "I",
-      "T",
-      null,
       "N",
-      "O",
+      null,
+      "E",
+      "S",
+      null,
+      "E",
       "N"
     ],
     [
-      "T",
-      null,
       "E",
-      "A",
-      "R",
       null,
       "C",
+      "A",
+      "C",
+      "H",
+      "E",
+      null,
+      "D"
+    ],
+    [
+      "E",
+      "G",
+      null,
       "R",
+      "I",
+      null,
+      "V",
+      "I",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      null,
+      "E",
+      "D",
       null
     ],
     [
+      "U",
+      "S",
       "E",
-      "N",
-      "D",
       null,
-      "I",
-      "D",
+      "S",
+      "C",
+      "R",
       "E",
-      "A",
-      "L"
+      "W"
     ],
     [
-      "M",
-      null,
-      null,
-      "O",
       "P",
+      null,
       "T",
       null,
-      "L",
+      null,
+      null,
+      null,
+      "A",
       null
     ]
   ],
@@ -108,38 +108,30 @@
     "easy": [
       [
         5,
+        1
+      ],
+      [
+        4,
         8
       ],
       [
-        1,
-        8
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        8,
-        5
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        6,
-        3
+        4,
+        4
       ],
       [
         3,
+        5
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        1,
         8
       ],
       [
@@ -147,53 +139,15 @@
         2
       ],
       [
-        3,
-        4
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        0,
+        7,
         5
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "medium": [
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        6,
-        7
       ],
       [
         2,
-        6
+        4
       ],
       [
-        8,
-        5
-      ],
-      [
-        7,
+        3,
         8
       ],
       [
@@ -201,47 +155,76 @@
         3
       ],
       [
-        3,
-        8
+        7,
+        4
+      ],
+      [
+        7,
+        6
       ]
     ],
-    "hard": [
+    "medium": [
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        5
+      ],
       [
         5,
         8
+      ],
+      [
+        6,
+        0
       ],
       [
         1,
         8
       ],
       [
+        4,
+        2
+      ]
+    ],
+    "hard": [
+      [
         5,
-        0
+        1
       ],
       [
-        6,
-        7
+        4,
+        8
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "To stir together.",
-          "zh": "混合"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A necessary commodity, a staple requirement.",
-          "zh": "基本的"
+          "en": "(obsolete outside dialectal) An assize.",
+          "zh": "（在方言之外已废弃）巡回法庭。"
         }
       },
       {
@@ -249,89 +232,71 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "A flexible container made of cloth, paper, plastic, etc.",
+          "zh": "包"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "A soft moist mixture, in particular:",
+          "zh": "粘贴"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
-          "zh": "小说"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A crack or longitudinal fissure.",
-          "zh": "分裂"
+          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+          "zh": "分钟"
         }
       },
       {
-        "num": 18,
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A store of things that may be required in the future, which can be retrieved rapidly, protected or hidden in some way.",
+          "zh": "缓存"
+        }
+      },
+      {
+        "num": 21,
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
-        }
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
         }
       },
       {
         "num": 23,
-        "row": 7,
-        "col": 4,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+          "zh": "品尝"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 26,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "To choose; select.",
-          "zh": "选择"
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A device that has a helical function.",
+          "zh": "拧紧"
         }
       }
     ],
@@ -341,89 +306,116 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A small area on a surface having a different color from its surroundings.",
-          "zh": "标记"
+          "en": "A native or inhabitant of Berlin.",
+          "zh": "迷笛"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
-          "zh": "图标"
+          "en": "A temporally organized plan for matters to be attended to.",
+          "zh": "议程"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "To take illegally, or without the owner's permission, something owned by someone else.",
-          "zh": "被盗"
+          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
+          "zh": "锌"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "Having or showing skill; skillful.",
-          "zh": "熟练"
+          "en": "Type or kind. (Compare race.)",
+          "zh": "物种"
         }
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "A forward move; improvement or progression.",
-          "zh": "进步"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
-          "zh": "日志"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
         }
       },
       {
-        "num": 14,
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An arranged informal meeting.",
+          "zh": "聚会"
+        }
+      },
+      {
+        "num": 16,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
         }
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 4,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "A journey; an excursion or jaunt",
-          "zh": "旅行"
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
         }
       },
       {
         "num": 19,
         "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
+          "zh": "气体"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
         }
       }
     ]

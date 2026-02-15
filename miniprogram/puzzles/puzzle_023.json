@@ -6,332 +6,332 @@
   "solution": [
     [
       null,
-      "B",
       null,
-      "T",
-      "O",
+      "G",
       "Y",
-      null,
-      null,
-      "A"
-    ],
-    [
-      "L",
-      "I",
-      "V",
-      "E",
-      "D",
-      null,
-      "I",
-      "N",
-      "S"
-    ],
-    [
-      null,
-      "L",
-      "I",
-      null,
-      "D",
-      "A",
       "M",
       null,
+      null,
+      null,
       "S"
     ],
     [
-      "A",
-      "L",
-      "L",
-      null,
-      "S",
       "P",
       "A",
+      "N",
+      null,
+      "E",
+      "L",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      null,
+      "S",
+      "U",
+      "I",
+      "T",
+      "E",
+      null,
+      "H",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      null,
+      "M",
+      "A",
+      "T",
+      null,
+      "A",
+      "I"
+    ],
+    [
+      "C",
+      "A",
+      "M",
+      "P",
+      null,
+      "T",
+      "A",
+      "N",
+      "K"
+    ],
+    [
       "R",
+      "U",
+      null,
+      "O",
+      "N",
+      "E",
+      null,
+      "N",
       "E"
     ],
     [
-      "U",
-      null,
+      "O",
       "L",
-      "I",
       null,
-      "T",
-      "G",
-      null,
-      "S"
-    ],
-    [
-      "G",
-      "I",
-      "A",
-      "N",
-      "T",
-      null,
-      "I",
-      "D",
-      "S"
-    ],
-    [
+      "S",
       "U",
-      null,
+      "R",
       "G",
-      "N",
-      "U",
-      null,
-      "N",
       "E",
       null
     ],
     [
       "S",
+      "T",
       "E",
       "E",
-      null,
-      "B",
       "L",
-      "E",
-      "S",
-      "S"
+      null,
+      "O",
+      "L",
+      "D"
     ],
     [
+      "S",
+      null,
+      null,
+      null,
+      "L",
+      "O",
       "T",
       null,
-      null,
-      "B",
-      "E",
-      "D",
-      null,
-      "K",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        8,
-        0
+        0,
+        8
       ],
       [
-        6,
+        3,
+        5
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        1,
         7
       ],
       [
         6,
-        2
-      ],
-      [
-        2,
-        6
+        3
       ],
       [
         7,
-        2
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        3,
         8
       ],
       [
         4,
-        6
+        7
       ],
       [
         8,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        3,
         3
       ],
       [
         5,
-        0
-      ],
-      [
-        6,
         4
       ],
       [
-        3,
+        0,
         2
       ],
       [
         6,
-        3
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        7,
         7
+      ],
+      [
+        8,
+        6
       ]
     ],
     "medium": [
       [
-        8,
-        0
+        0,
+        8
       ],
       [
-        6,
+        3,
+        5
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        1,
         7
       ],
       [
         6,
-        2
-      ],
-      [
-        2,
-        6
+        3
       ],
       [
         7,
-        2
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        3,
         8
       ],
       [
         4,
-        6
+        7
       ],
       [
         8,
-        3
+        4
       ]
     ],
     "hard": [
       [
-        8,
-        0
+        0,
+        8
       ],
       [
-        6,
-        7
+        3,
+        5
       ],
       [
-        6,
-        2
+        7,
+        1
       ],
       [
-        2,
-        6
+        4,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
         }
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To be alive; to have life.",
-          "zh": "住过"
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "平底锅"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
+          "en": "One chosen or set apart.",
+          "zh": "选"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
-          "zh": "坝"
+          "en": "A retinue or company of attendants, as of a distinguished personage",
+          "zh": "套房"
         }
       },
       {
-        "num": 11,
+        "num": 13,
         "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
+          "zh": "垫"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "(with a possessive pronoun) Everything that one is capable of.",
-          "zh": "全部"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "The act of sparing; moderation; restraint.",
-          "zh": "空闲的"
+          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
+          "zh": "营"
         }
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
+        "row": 4,
+        "col": 5,
         "clue": {
-          "en": "A mythical human of very great size.",
-          "zh": "巨大的"
+          "en": "A closed container for liquids or gases.",
+          "zh": "坦克"
         }
       },
       {
         "num": 18,
         "row": 5,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       },
       {
         "num": 22,
-        "row": 7,
-        "col": 0,
+        "row": 6,
+        "col": 3,
         "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
+          "en": "A sudden transient rush, flood or increase.",
+          "zh": "涌"
         }
       },
       {
-        "num": 23,
+        "num": 24,
         "row": 7,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "To make something holy by religious rite, sanctify.",
-          "zh": "保佑"
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
         }
       },
       {
         "num": 25,
-        "row": 8,
-        "col": 3,
+        "row": 7,
+        "col": 6,
         "clue": {
-          "en": "A piece of furniture, usually flat and soft, on which to rest or sleep.",
-          "zh": "床"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
         }
       }
     ],
@@ -339,91 +339,91 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A printed or written statement of the money owed for goods or services.",
-          "zh": "账单"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Self-referential; structured analogously, but at a higher level.",
+          "zh": "元"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
         "col": 8,
         "clue": {
-          "en": "To determine, estimate or judge the value of; to evaluate",
-          "zh": "评估"
+          "en": "A refusal to work organized by employees as a form of protest.",
+          "zh": "罢工"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A rural habitation of size between a hamlet and a town.",
-          "zh": "村庄"
+          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
+          "zh": "突击"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
-          "zh": "想象"
+          "en": "A symbol in an alphabet.",
+          "zh": "信"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The physical confine of a river or slough, consisting of a bed and banks.",
+          "zh": "渠道"
         }
       },
       {
         "num": 10,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "Suitable; appropriate; fit or fitted; suited.",
-          "zh": "合适的"
+          "en": "To establish or apply by authority.",
+          "zh": "强加"
         }
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Awe-inspiring, majestic, noble, venerable.",
-          "zh": "八月"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "Anything that is hollow and cylindrical in shape.",
-          "zh": "管子"
+          "en": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue.",
+          "zh": "穿过"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 7,
+        "col": 4,
         "clue": {
-          "en": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
-          "zh": "桌子"
+          "en": "A non-existent or empty value or set of values.",
+          "zh": "无效的"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "(ditransitive) To obtain; to acquire.",
+          "zh": "得到"
         }
       }
     ]

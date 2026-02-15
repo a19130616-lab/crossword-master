@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
+      null,
       "P",
       null,
       null,
-      null,
-      "C",
-      null,
-      null,
-      "C"
-    ],
-    [
-      "E",
-      "A",
-      "S",
-      "T",
-      null,
-      "E",
-      "C",
-      "H",
-      "O"
-    ],
-    [
-      "X",
-      "I",
-      null,
-      "R",
-      "A",
-      "R",
-      "E",
-      null,
-      "N"
-    ],
-    [
-      "E",
-      "N",
-      "T",
-      "E",
-      "R",
-      "E",
-      "D",
-      null,
-      "F"
-    ],
-    [
-      "R",
-      null,
-      "H",
-      "A",
+      "U",
       null,
       "M",
-      "A",
-      null,
       "U"
     ],
     [
+      "A",
       "C",
-      null,
-      "E",
-      "S",
-      "C",
-      "O",
       "R",
-      "T",
+      "E",
+      null,
+      "S",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      null,
+      "O",
+      "O",
+      null,
+      null,
+      "U",
+      null,
+      "D",
       "S"
     ],
     [
-      "I",
       null,
-      "T",
-      "U",
-      "R",
-      "N",
+      "O",
       null,
       "I",
-      "E"
+      "M",
+      "A",
+      "G",
+      "E",
+      null
     ],
     [
       "S",
-      "T",
-      "A",
-      "R",
+      "K",
+      "I",
+      "N",
       null,
-      "Y",
-      "A",
+      "L",
+      null,
       "R",
-      "D"
+      null
     ],
     [
+      null,
+      "B",
+      "Y",
+      "T",
       "E",
       null,
       null,
+      "A",
+      null
+    ],
+    [
+      "F",
+      "O",
+      null,
+      "A",
+      "D",
+      "M",
+      "I",
+      "T",
+      null
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "K",
+      null,
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "Y",
+      "K",
+      null,
       "E",
       null,
+      "N",
+      "S",
       null,
-      null,
-      "E",
       null
     ]
   ],
@@ -108,186 +108,182 @@
     "easy": [
       [
         7,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        7
+        5
       ],
       [
         6,
-        2
+        4
       ],
       [
-        8,
-        7
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        1,
+        7,
         1
       ],
       [
-        3,
-        8
+        8,
+        5
       ],
       [
-        6,
-        0
+        7,
+        6
+      ],
+      [
+        8,
+        3
       ],
       [
         5,
-        3
+        2
+      ],
+      [
+        2,
+        2
       ],
       [
         2,
         5
       ],
       [
+        5,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
         3,
+        3
+      ],
+      [
+        4,
         2
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        2,
-        3
       ]
     ],
     "medium": [
       [
         7,
-        2
+        5
       ],
       [
-        4,
+        6,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
         3
       ],
       [
         5,
-        7
-      ],
-      [
-        6,
         2
       ],
       [
-        8,
-        7
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        3,
-        8
+        2,
+        2
       ]
     ],
     "hard": [
       [
         7,
-        2
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        7
+        5
       ],
       [
         6,
-        2
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "东方"
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "A reflected sound that is heard again by its initial observer.",
-          "zh": "回声"
+          "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+          "zh": "店铺"
         }
       },
       {
-        "num": 9,
-        "row": 2,
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A scarce or uncommon item.",
-          "zh": "稀有的"
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
         }
       },
       {
         "num": 11,
-        "row": 3,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
+          "en": "The outer protective layer of the body of any animal, including of a human.",
+          "zh": "皮肤"
         }
       },
       {
-        "num": 15,
+        "num": 13,
         "row": 5,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A group of people or vehicles, generally armed, who go with a person or people of importance to safeguard them on a journey or mission.",
-          "zh": "护送"
+          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+          "zh": "字节"
         }
       },
       {
-        "num": 18,
+        "num": 16,
         "row": 6,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "(heading) to make a non-linear physical movement.",
-          "zh": "转动"
+          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+          "zh": "承认"
+        }
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Something used for fastening, which can only be opened with a key or combination.",
+          "zh": "锁"
         }
       },
       {
         "num": 20,
         "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
-        }
-      },
-      {
-        "num": 21,
-        "row": 7,
         "col": 5,
         "clue": {
-          "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
-          "zh": "院子"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       }
     ],
@@ -295,10 +291,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
-          "zh": "疼痛"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         }
       },
       {
@@ -306,62 +302,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "A ritual, with religious or cultural significance.",
-          "zh": "仪式"
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "To puzzle, perplex, baffle, bewilder (somebody).",
-          "zh": "使困惑"
+          "en": "One who holds an intermediate position between extremes, as in politics.",
+          "zh": "缓和"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "Any activity designed to develop or hone a skill or ability.",
-          "zh": "锻炼"
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A book or an encyclopedia of recipes and cookery tips.",
+          "zh": "食谱"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A collection of valuable things; accumulated wealth; a stock of money, jewels, etc.",
-          "zh": "宝藏"
+          "en": "The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
+          "zh": "摄入量"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
+        "num": 15,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "A coniferous tree of the genus Cedrus in the family Pinaceae.",
-          "zh": "雪松"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
-          "zh": "希腊字母θ"
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
         }
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 7,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "To become sleepy or weary.",
-          "zh": "胎"
+          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+          "zh": "分钟"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       }
     ]

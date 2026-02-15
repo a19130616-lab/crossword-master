@@ -6,73 +6,73 @@
   "solution": [
     [
       null,
-      "D",
-      "E",
-      "N",
+      "G",
+      "I",
+      "S",
       null
     ],
     [
-      "A",
-      "A",
+      "O",
+      "R",
       null,
-      "Y",
-      "P"
+      "A",
+      "D"
     ],
     [
-      "T",
-      "I",
-      "T",
+      "N",
+      "O",
+      "B",
       "L",
       "E"
     ],
     [
       "E",
-      "L",
+      "V",
       null,
-      "O",
-      "T"
+      "A",
+      "N"
     ],
     [
       null,
-      "Y",
       "E",
       "N",
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
+        1,
+        1
       ],
       [
         0,
-        1
+        3
       ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "medium": [
       [
         1,
         1
       ],
       [
-        2,
-        0
-      ]
-    ],
-    "medium": [
-      [
-        2,
-        3
-      ],
-      [
         0,
-        1
+        3
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        1,
+        1
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
+          "zh": "地理信息系统"
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "The name of a book, composition, or other artistic work.",
-          "zh": "标题"
+          "en": "An aristocrat; one of aristocratic blood.",
+          "zh": "高贵"
         }
       },
       {
@@ -101,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Done, produced, or occurring every day.",
-          "zh": "日常的"
+          "en": "A small forest.",
+          "zh": "树林"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
+          "en": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.",
+          "zh": "沙拉"
         }
       },
       {
@@ -130,8 +130,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       },
       {
@@ -139,8 +139,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An animal kept as a companion.",
-          "zh": "宠物"
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       }
     ]

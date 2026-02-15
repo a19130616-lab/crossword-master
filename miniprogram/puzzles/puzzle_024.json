@@ -6,284 +6,297 @@
   "solution": [
     [
       null,
+      "A",
       null,
-      "I",
       null,
       null,
+      null,
+      "V",
+      null,
+      "T"
+    ],
+    [
       "S",
+      "C",
+      "U",
+      "B",
+      "A",
+      null,
+      "A",
+      "I",
+      "R"
+    ],
+    [
       null,
       "R",
+      "S",
+      null,
+      "B",
+      "U",
+      "N",
+      "N",
+      "Y"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      null,
+      "A",
+      "S",
+      null,
+      "G",
       "I"
     ],
     [
-      "L",
-      "I",
+      "R",
+      null,
+      "R",
+      "E",
       "N",
       "E",
-      null,
       "W",
-      "O",
-      "O",
-      "L"
+      null,
+      "N"
     ],
     [
-      null,
-      "N",
-      "K",
-      null,
-      null,
-      "E",
-      null,
-      "U",
-      "L"
-    ],
-    [
-      null,
-      "T",
-      null,
-      "S",
-      "H",
-      "E",
-      "L",
-      "L",
-      null
-    ],
-    [
-      "J",
-      "E",
-      "E",
-      "P",
-      null,
-      "T",
-      null,
-      "E",
-      null
-    ],
-    [
-      null,
-      "G",
       "I",
-      "R",
-      "L",
+      "M",
       null,
-      null,
-      "T",
-      null
-    ],
-    [
+      "Y",
       "D",
-      "R",
       null,
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "V",
       "I",
-      "N",
-      "P",
-      "U",
-      "T",
+      "D",
+      "E",
+      "O",
+      null,
+      "A",
+      "E",
       null
     ],
     [
+      "I",
+      "C",
       "E",
-      "A",
-      "R",
-      "N",
       null,
-      "U",
-      "S",
+      "N",
+      "A",
+      "K",
       "E",
       "D"
     ],
     [
+      "A",
+      null,
       "N",
-      "L",
       null,
-      "T",
       null,
-      "T",
-      "E",
       null,
+      null,
+      "K",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
+        5,
+        6
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        7,
         1
       ],
       [
         1,
-        3
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        7,
-        6
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        7,
         8
       ],
       [
+        3,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
         2,
-        1
+        2
       ]
     ],
     "medium": [
       [
-        6,
-        1
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        7,
+        5,
         6
       ],
       [
-        4,
+        7,
         0
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        4
       ]
     ],
     "hard": [
       [
-        6,
-        1
-      ],
-      [
-        1,
-        3
+        5,
+        6
       ],
       [
         7,
         0
       ],
       [
-        6,
-        5
+        8,
+        7
+      ],
+      [
+        3,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
-          "zh": "线"
+          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
+          "zh": "水肺潜水"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "The hair of the sheep, llama and some other ruminants.",
-          "zh": "羊毛"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
         "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A rabbit, especially a juvenile.",
+          "zh": "兔子"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A hard external covering of an animal.",
-          "zh": "壳"
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
         }
       },
       {
-        "num": 11,
+        "num": 15,
         "row": 4,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A small, blocky, military-style vehicle with four-wheel drive, suited to rough terrain.",
-          "zh": "吉普车"
+          "en": "To make (something) new again; to restore to freshness or original condition.",
+          "zh": "更新"
         }
       },
       {
-        "num": 13,
+        "num": 21,
         "row": 5,
-        "col": 1,
+        "col": 6,
         "clue": {
-          "en": "A female child, adolescent, or a young woman.",
-          "zh": "女孩"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       },
       {
-        "num": 16,
+        "num": 23,
         "row": 6,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "The act or process of putting in; infusion.",
-          "zh": "输入"
+          "en": "Television, television show, movie.",
+          "zh": "视频"
         }
       },
       {
-        "num": 19,
+        "num": 26,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "To gain (success, reward, recognition) through applied effort or work.",
-          "zh": "赚"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       },
       {
-        "num": 20,
+        "num": 27,
         "row": 7,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "Bare, not covered by clothing.",
+          "zh": "裸"
         }
       }
     ],
@@ -291,82 +304,118 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "The basic taste sensation induced by sugar.",
-          "zh": "甜的"
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 8,
         "clue": {
-          "en": "A game of chance, in which a small ball is made to move round rapidly on a circle divided off into numbered red and black spaces, the one on which it stops indicating the result of a variety of wagers permitted by the game.",
-          "zh": "轮盘赌"
+          "en": "To attempt; to endeavour. Followed by infinitive.",
+          "zh": "尝试"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A number, the limit of the sums computed in a process in which the domain of a function is divided into small subsets and a possibly nominal value of the function on each subset is multiplied by the measure of that subset, all these products then being summed.",
-          "zh": "不可缺少的"
+          "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+          "zh": "放弃"
         }
       },
       {
-        "num": 10,
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "A short race at top speed.",
-          "zh": "短跑"
-        }
-      },
-      {
-        "num": 15,
-        "row": 6,
         "col": 0,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "Insignificant trifles of little importance, especially items of unimportant information",
+          "zh": "琐事"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
         "num": 17,
-        "row": 6,
-        "col": 5,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "To move something to a particular position or place.",
-          "zh": "放"
+          "en": "Lacking in force (usually strength) or ability.",
+          "zh": "虚弱的"
         }
       },
       {
-        "num": 18,
-        "row": 6,
-        "col": 6,
+        "num": 19,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
+        }
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A carnival performer specializing in bizarre and unappetizing behavior.",
+          "zh": "极客"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       }
     ]

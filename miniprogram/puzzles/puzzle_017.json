@@ -6,153 +6,149 @@
   "solution": [
     [
       null,
-      "U",
-      null,
       null,
       "S",
-      "U",
-      "E"
-    ],
-    [
-      "P",
-      "R",
-      "O",
-      "B",
-      "L",
-      "E",
+      "K",
+      "Y",
+      null,
       "M"
     ],
     [
-      "H",
-      "G",
-      null,
-      "E",
-      "O",
-      null,
-      "E"
-    ],
-    [
+      "S",
+      "U",
+      "P",
       "R",
       "E",
-      "A",
-      "L",
-      "T",
-      "O",
-      "R"
-    ],
-    [
-      "A",
-      null,
-      "C",
-      "L",
-      null,
-      "N",
-      "G"
-    ],
-    [
-      "S",
-      "C",
-      "I",
-      "E",
-      "N",
-      "C",
+      "M",
       "E"
     ],
     [
-      "E",
+      null,
       "N",
-      "D",
+      "Y",
       null,
-      null,
+      "N",
+      "O",
+      "N"
+    ],
+    [
       "E",
+      "T",
+      null,
+      null,
+      null,
+      "V",
+      "U"
+    ],
+    [
+      "V",
+      "I",
+      "A",
+      null,
+      "H",
+      "E",
+      null
+    ],
+    [
+      "I",
+      "L",
+      "L",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "L",
+      null,
+      "T",
+      "O",
+      "Y",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        0
-      ],
-      [
         1,
-        6
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        3,
-        4
+        2
       ],
       [
         0,
         4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        1
       ],
       [
         5,
-        3
+        6
       ],
       [
-        6,
-        5
+        3,
+        1
+      ],
+      [
+        2,
+        2
       ]
     ],
     "medium": [
       [
-        6,
-        0
-      ],
-      [
         1,
-        6
+        2
       ],
       [
         0,
-        6
+        4
       ],
       [
-        3,
-        3
+        4,
+        4
       ],
       [
-        3,
-        6
+        0,
+        2
+      ],
+      [
+        2,
+        1
       ]
     ],
     "hard": [
       [
-        6,
-        0
-      ],
-      [
         1,
-        6
+        2
       ],
       [
         0,
-        6
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "To file a legal action against someone, generally a non-criminal action.",
-          "zh": "起诉"
+          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+          "zh": "天空"
         }
       },
       {
@@ -160,35 +156,44 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A difficulty that has to be resolved or dealt with.",
-          "zh": "问题"
+          "en": "The highest point.",
+          "zh": "最高"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 4,
         "clue": {
-          "en": "A person or business that sells or leases out real estate, acting as an agent for the property owner.",
-          "zh": "房地产经纪人"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       },
       {
-        "num": 14,
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        }
+      },
+      {
+        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
-          "zh": "科学"
+          "en": "An instance of a disease or poor health.",
+          "zh": "疾病"
         }
       },
       {
-        "num": 16,
+        "num": 17,
         "row": 6,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
         }
       }
     ],
@@ -196,19 +201,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).",
+          "zh": "间谍"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A broad, flat, wooden bar, a slat, especially as used to secure a door, window, etc.",
-          "zh": "投币口"
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
         }
       },
       {
@@ -216,44 +221,53 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "To come into view.",
-          "zh": "出现"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A short written or spoken expression.",
-          "zh": "短语"
+          "en": "The details of the food to be served at a banquet; a bill of fare.",
+          "zh": "菜单"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "An attractive woman.",
-          "zh": "美女"
+          "en": "Up to the time of (something happening).",
+          "zh": "直到"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The act of moving; a movement.",
+          "zh": "移动的行为；一个动作。"
         }
       },
       {
         "num": 10,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A sour substance.",
-          "zh": "酸"
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 5,
+        "num": 13,
+        "row": 4,
+        "col": 2,
         "clue": {
-          "en": "(frequency) One and only one time.",
-          "zh": "一次"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
         }
       }
     ]

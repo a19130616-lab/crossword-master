@@ -5,137 +5,137 @@
   "cols": 7,
   "solution": [
     [
-      "M",
       null,
-      null,
-      "L",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "A",
       "N",
-      "C",
-      "I",
-      "E",
-      "N",
+      null,
+      "S",
+      null,
+      null,
       "T"
     ],
     [
-      "N",
-      null,
-      "R",
-      "E",
-      "V",
-      null,
-      "U"
-    ],
-    [
-      "D",
-      "U",
-      "I",
-      null,
-      "E",
-      "N",
-      "D"
-    ],
-    [
+      "F",
       "A",
+      "N",
+      "T",
+      "A",
+      "S",
+      "Y"
+    ],
+    [
       null,
-      "M",
+      "T",
+      "O",
+      "Y",
+      null,
+      "I",
+      "P"
+    ],
+    [
+      "E",
+      "U",
+      null,
+      "L",
       "O",
       "N",
-      null,
-      "I"
-    ],
-    [
-      "T",
-      "H",
-      "E",
-      "A",
-      "T",
-      "R",
       "E"
     ],
     [
+      "C",
+      "R",
+      null,
+      "I",
+      "N",
+      "G",
+      null
+    ],
+    [
+      "H",
       "E",
+      "R",
+      "S",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "O",
       null,
       null,
-      "K",
+      "H",
       null,
-      null,
-      "S"
+      "E",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
+        4,
         4
       ],
       [
-        2,
+        1,
         0
       ],
       [
-        2,
-        3
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        5,
+        6,
         5
       ],
       [
-        4,
-        0
+        1,
+        1
       ],
       [
         1,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
         6
       ],
       [
         4,
-        3
+        1
+      ],
+      [
+        3,
+        0
       ]
     ],
     "medium": [
       [
-        5,
+        4,
         4
       ],
       [
-        2,
+        1,
         0
       ],
       [
-        2,
-        3
+        6,
+        5
       ],
       [
         1,
-        3
+        1
       ],
       [
-        3,
-        2
+        1,
+        4
       ]
     ],
     "hard": [
       [
-        5,
+        4,
         4
       ],
       [
-        2,
+        1,
         0
       ]
     ]
@@ -147,53 +147,44 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A person who is very old.",
-          "zh": "古老的"
+          "en": "That which comes from one's imagination.",
+          "zh": "幻想"
         }
       },
       {
         "num": 7,
         "row": 2,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "酒驾"
-        }
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
         }
       },
       {
         "num": 10,
-        "row": 4,
-        "col": 2,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
+          "en": "Solitary; having no companion.",
+          "zh": "孤独的"
         }
       },
       {
-        "num": 12,
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        }
+      },
+      {
+        "num": 14,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
-          "zh": "剧院"
+          "en": "(reflexive pronoun) Her; the female object of a verb or preposition that also appears as the subject.",
+          "zh": "她自己"
         }
       }
     ],
@@ -201,10 +192,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
-          "zh": "授权"
+          "en": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)",
+          "zh": "自然"
         }
       },
       {
@@ -212,8 +203,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "An intentionally false statement; to say something that is not true.",
-          "zh": "说谎"
+          "en": "Having elegance or taste or refinement in manners or dress.",
+          "zh": "时髦的"
         }
       },
       {
@@ -221,35 +212,35 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "An academic field of study concerning the given subject.",
-          "zh": "研究"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A specific act committed in violation of the law.",
-          "zh": "犯罪"
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An occurrence; something that happens.",
-          "zh": "事件"
+          "en": "A 45 RPM vinyl record with one song on side A and one on side B.",
+          "zh": "单身的"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
         }
       },
       {
         "num": 11,
-        "row": 4,
-        "col": 3,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
-          "zh": "橡树"
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       }
     ]

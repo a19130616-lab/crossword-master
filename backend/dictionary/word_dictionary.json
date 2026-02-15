@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "word_count": 3642,
+    "word_count": 3634,
     "source": "enriched_words.json"
   },
   "words": {
@@ -18517,23 +18517,6 @@
         }
       }
     },
-    "SAT": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
-          "zh": "坐"
-        },
-        "medium": {
-          "en": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
-          "zh": "坐"
-        },
-        "hard": {
-          "en": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
-          "zh": "坐"
-        }
-      }
-    },
     "WOMAN": {
       "length": 5,
       "clues": {
@@ -21523,23 +21506,6 @@
         "hard": {
           "en": "A journey; an excursion or jaunt",
           "zh": "旅行"
-        }
-      }
-    },
-    "PST": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "Implies that the speaker is sending secret or whispered information to another person.",
-          "zh": "太平洋标准时间"
-        },
-        "medium": {
-          "en": "Implies that the speaker is sending secret or whispered information to another person.",
-          "zh": "太平洋标准时间"
-        },
-        "hard": {
-          "en": "Implies that the speaker is sending secret or whispered information to another person.",
-          "zh": "太平洋标准时间"
         }
       }
     },
@@ -34803,23 +34769,6 @@
         }
       }
     },
-    "LBS": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
-        },
-        "medium": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
-        },
-        "hard": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
-        }
-      }
-    },
     "DECK": {
       "length": 4,
       "clues": {
@@ -38438,23 +38387,6 @@
         "hard": {
           "en": "A piece of jewelry worn on the ear.",
           "zh": "耳环"
-        }
-      }
-    },
-    "TVS": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "The assessed value of an asset from which the tax owing is computed.",
-          "zh": "电视"
-        },
-        "medium": {
-          "en": "The assessed value of an asset from which the tax owing is computed.",
-          "zh": "电视"
-        },
-        "hard": {
-          "en": "The assessed value of an asset from which the tax owing is computed.",
-          "zh": "电视"
         }
       }
     },
@@ -42453,23 +42385,6 @@
         }
       }
     },
-    "MSG": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "味精"
-        },
-        "medium": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "味精"
-        },
-        "hard": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "味精"
-        }
-      }
-    },
     "COD": {
       "length": 3,
       "clues": {
@@ -43453,23 +43368,6 @@
         "hard": {
           "en": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
           "zh": "刷子"
-        }
-      }
-    },
-    "THY": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "Because, for sake, forwhy, since.",
-          "zh": "你的"
-        },
-        "medium": {
-          "en": "Because, for sake, forwhy, since.",
-          "zh": "你的"
-        },
-        "hard": {
-          "en": "Because, for sake, forwhy, since.",
-          "zh": "你的"
         }
       }
     },
@@ -50902,23 +50800,6 @@
         }
       }
     },
-    "RRP": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "Recommended retail price",
-          "zh": "回报率"
-        },
-        "medium": {
-          "en": "Recommended retail price",
-          "zh": "回报率"
-        },
-        "hard": {
-          "en": "Recommended retail price",
-          "zh": "回报率"
-        }
-      }
-    },
     "JAIL": {
       "length": 4,
       "clues": {
@@ -52412,23 +52293,6 @@
         "hard": {
           "en": "One who ties (knots, etc).",
           "zh": "层"
-        }
-      }
-    },
-    "FWD": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "An introductory section preceding the main text of a book or other document; a preface or introduction.",
-          "zh": "转发"
-        },
-        "medium": {
-          "en": "An introductory section preceding the main text of a book or other document; a preface or introduction.",
-          "zh": "转发"
-        },
-        "hard": {
-          "en": "An introductory section preceding the main text of a book or other document; a preface or introduction.",
-          "zh": "转发"
         }
       }
     },

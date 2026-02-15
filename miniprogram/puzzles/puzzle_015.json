@@ -6,93 +6,73 @@
   "solution": [
     [
       null,
-      "M",
       null,
       null,
-      "S",
-      "I",
-      "P"
+      "A",
+      null,
+      null,
+      "U"
     ],
     [
-      "H",
+      null,
+      "E",
+      null,
+      "L",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "Y",
       "A",
       "R",
-      "B",
-      "O",
-      "U",
-      "R"
-    ],
-    [
-      "E",
-      "K",
-      null,
-      "R",
-      "I",
+      "D",
       null,
       "I"
     ],
     [
       "R",
       "E",
-      "S",
-      "O",
-      "L",
-      "V",
-      "E"
-    ],
-    [
-      "B",
-      null,
-      "H",
-      "W",
-      null,
+      "C",
+      "E",
       "I",
-      "S"
-    ],
-    [
-      "A",
-      "M",
-      "O",
-      "N",
-      "G",
-      "S",
+      "P",
       "T"
     ],
     [
-      "L",
+      "U",
+      null,
+      "R",
       "A",
-      "P",
+      "T",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "D",
+      null,
+      "T",
+      null
+    ],
+    [
+      "H",
       null,
       null,
-      "A",
+      "Y",
+      null,
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        3
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        3,
-        2
+        1,
+        4
       ],
       [
         3,
@@ -100,25 +80,11 @@
       ],
       [
         1,
-        3
+        1
       ],
-      [
-        5,
-        6
-      ]
-    ],
-    "medium": [
       [
         2,
-        3
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        3
+        6
       ],
       [
         4,
@@ -126,69 +92,87 @@
       ],
       [
         6,
-        0
+        3
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        6
       ]
     ],
     "hard": [
       [
-        2,
-        3
+        1,
+        4
       ],
       [
-        5,
-        5
-      ],
-      [
-        5,
-        3
+        3,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "To drink slowly, taking small mouthfuls.",
-          "zh": "小口喝"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "Any place of shelter.",
-          "zh": "港口"
+          "en": "(of an object taller than its width and depth) An inclination away from the vertical.",
+          "zh": "倾斜"
         }
       },
       {
-        "num": 9,
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+          "zh": "院子"
+        }
+      },
+      {
+        "num": 8,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Determination; will power.",
-          "zh": "解决"
+          "en": "The act of receiving, or the fact of having been received.",
+          "zh": "收据"
         }
       },
       {
-        "num": 14,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A measure, quantity, or frequency measured against some other quantity or measure.",
+          "zh": "速度"
+        }
+      },
+      {
+        "num": 11,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
-          "zh": "其中"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "圈"
+          "en": "To twist (a string, rope, or the like) around itself securely.",
+          "zh": "捆绑"
         }
       }
     ],
@@ -196,64 +180,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "To form something by putting parts together or combining substances; to create.",
-          "zh": "制作"
+          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "zh": "已经"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "A mixture of mineral particles and organic material, used to support plant growth.",
-          "zh": "土壤"
+          "en": "An individual thing or person regarded as single and complete, especially for purposes of calculation.",
+          "zh": "单元"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 6,
+        "num": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "A religious clergyman (clergywoman, clergyperson) who is trained to perform services or sacrifices at a church or temple",
-          "zh": "牧师"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "A manual of herbs and their medical uses",
-          "zh": "草药的"
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
         }
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "A colour like that of chocolate or coffee.",
-          "zh": "棕色的"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
+        "num": 7,
+        "row": 2,
         "col": 2,
         "clue": {
-          "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
-          "zh": "店铺"
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
         }
       },
       {
-        "num": 11,
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
+          "zh": "怜悯"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
-          "zh": "签证"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       }
     ]

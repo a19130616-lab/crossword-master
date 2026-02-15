@@ -5,73 +5,81 @@
   "cols": 5,
   "solution": [
     [
+      "B",
       null,
-      "M",
-      "U",
-      "D",
-      null
-    ],
-    [
-      "M",
-      "E",
-      null,
-      "Y",
-      "A"
-    ],
-    [
       "S",
+      "U",
+      "M"
+    ],
+    [
+      "R",
+      "E",
       "T",
       "R",
-      "I",
-      "P"
+      "O"
     ],
     [
+      "E",
+      "D",
+      null,
       "G",
+      "N"
+    ],
+    [
       "A",
-      null,
-      "N",
-      "T"
+      "G",
+      "R",
+      "E",
+      "E"
     ],
     [
+      "D",
+      "E",
+      "N",
       null,
-      "L",
-      "O",
-      "G",
-      null
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        0
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        1,
+        4,
         0
       ],
       [
         3,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
         1
+      ],
+      [
+        0,
+        3
       ]
     ],
     "medium": [
       [
-        2,
+        4,
         0
       ],
       [
-        0,
-        2
+        3,
+        0
+      ],
+      [
+        3,
+        3
       ]
     ],
     "hard": [
       [
-        2,
+        4,
         0
       ]
     ]
@@ -79,30 +87,39 @@
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A mixture of water and soil or fine grained sediment.",
-          "zh": "泥"
+          "en": "A quantity obtained by addition or aggregation.",
+          "zh": "和"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "A long, thin piece of land; any long, thin area.",
-          "zh": "条"
+          "en": "Past fashions or trends.",
+          "zh": "复古的"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
-          "zh": "日志"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       }
     ],
@@ -110,37 +127,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "(heading) Chemical elements or alloys, and the mines where their ores come from.",
-          "zh": "金属"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "垂死"
+          "en": "A foodstuff made by baking dough made from cereals.",
+          "zh": "面包"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "味精"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
-        "num": 5,
-        "row": 1,
+        "num": 4,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "Suitable; appropriate; fit or fitted; suited.",
-          "zh": "合适的"
+          "en": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
+          "zh": "钱"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       }
     ]
