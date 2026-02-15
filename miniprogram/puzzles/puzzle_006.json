@@ -5,57 +5,53 @@
   "cols": 5,
   "solution": [
     [
+      "A",
+      null,
+      null,
+      null,
+      "H"
+    ],
+    [
+      "P",
       "I",
-      "S",
-      "L",
-      "E",
-      null
-    ],
-    [
-      "D",
-      "O",
-      "E",
-      null,
-      "U"
-    ],
-    [
-      "E",
-      "X",
-      "A",
-      "M",
-      "S"
+      "Z",
+      "Z",
+      "A"
     ],
     [
       "A",
       null,
-      "S",
-      "E",
-      "E"
+      "I",
+      null,
+      "N"
     ],
     [
-      null,
-      "S",
-      "E",
-      "N",
+      "R",
+      "A",
+      "P",
+      "I",
       "D"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         3,
-        0
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        4,
-        1
+        4
       ],
       [
         0,
+        4
+      ],
+      [
+        2,
         2
       ],
       [
@@ -66,69 +62,38 @@
     "medium": [
       [
         3,
-        0
+        4
       ],
       [
-        2,
-        2
-      ],
-      [
-        4,
-        1
+        0,
+        4
       ]
     ],
     "hard": [
       [
         3,
-        0
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
-        }
-      },
-      {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
-          "zh": "母鹿"
+          "en": "A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit",
+          "zh": "比萨"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The act of examining.",
-          "zh": "检查的行为。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "To cause something to go or be taken to a particular destination.",
-          "zh": "发送"
+          "en": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
+          "zh": "迅速的"
         }
       }
     ],
@@ -138,44 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "袜队"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "(chiefly dialectal) To gather.",
-          "zh": "租"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "Easy to use, useful.",
+          "zh": "便利"
         }
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 3,
+        "num": 4,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
+          "en": "A twist or fold.",
+          "zh": "拉链"
         }
       }
     ]

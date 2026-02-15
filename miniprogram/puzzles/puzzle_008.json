@@ -6,36 +6,36 @@
   "solution": [
     [
       null,
-      "E",
-      "D",
-      "G",
-      "E"
+      "S",
+      "O",
+      "F",
+      "A"
     ],
     [
-      "E",
+      "S",
       null,
-      "E",
-      "N",
-      "D"
+      "C",
+      "O",
+      "W"
     ],
     [
-      "D",
+      "O",
+      "M",
       "E",
-      "B",
-      "U",
-      "G"
-    ],
-    [
       "G",
-      "N",
-      "U",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "A",
       null,
-      "E"
+      "Y"
     ],
     [
-      "E",
-      "D",
-      "G",
+      "A",
+      "C",
+      "N",
       "E",
       null
     ]
@@ -44,19 +44,19 @@
     "easy": [
       [
         0,
+        1
+      ],
+      [
+        3,
         4
+      ],
+      [
+        0,
+        2
       ],
       [
         1,
         0
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
-        4
       ],
       [
         2,
@@ -66,21 +66,21 @@
     "medium": [
       [
         0,
-        4
-      ],
-      [
-        1,
-        0
+        1
       ],
       [
         3,
-        0
+        4
+      ],
+      [
+        0,
+        2
       ]
     ],
     "hard": [
       [
         0,
-        4
+        1
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+          "zh": "沙发"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
+          "zh": "奶牛"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
-          "zh": "调试"
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
-          "zh": "调试"
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "A thick cloud that forms near the ground; the obscurity of such a cloud.",
+          "zh": "多雾路段"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
+          "zh": "索马"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
         }
       }
     ]

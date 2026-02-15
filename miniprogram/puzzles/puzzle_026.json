@@ -6,213 +6,221 @@
   "solution": [
     [
       null,
-      "M",
-      null,
-      null,
-      null,
-      null,
-      "A",
-      null,
-      "A"
-    ],
-    [
-      "S",
-      "I",
-      "Z",
-      "E",
-      "S",
-      null,
-      "B",
-      "A",
-      "G"
-    ],
-    [
       null,
       "D",
-      "I",
       null,
-      "P",
-      "A",
+      null,
       "S",
-      "T",
+      null,
+      null,
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      null,
+      "M",
+      "O",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      null,
+      "N",
+      "Y",
+      "L",
+      "O",
+      "N",
+      null,
+      "L",
       "E"
     ],
     [
-      "M",
-      "I",
+      "P",
+      "O",
+      null,
+      "E",
       "N",
-      null,
-      "E",
-      "S",
-      null,
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      null,
-      "C",
-      "A",
-      "C",
-      "H",
-      "E",
-      null,
-      "D"
-    ],
-    [
-      "E",
       "G",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "L",
+      "A",
+      "S",
       null,
       "R",
-      "I",
+      "E",
+      "V"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "T",
+      "S",
       null,
-      "V",
-      "I",
-      "A"
+      "B",
+      "E"
     ],
     [
       "T",
-      "A",
-      "S",
-      "T",
       "E",
       null,
+      "N",
       "E",
-      "D",
+      "W",
+      "E",
+      "R",
       null
     ],
     [
-      "U",
-      "S",
-      "E",
-      null,
-      "S",
-      "C",
+      "O",
       "R",
+      "D",
       "E",
-      "W"
+      "R",
+      null,
+      "G",
+      "A",
+      "P"
     ],
     [
-      "P",
-      null,
-      "T",
+      "R",
       null,
       null,
+      "D",
       null,
       null,
-      "A",
+      "G",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        1
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        1,
-        8
-      ],
-      [
         4,
         2
       ],
       [
+        1,
+        6
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        3,
+        6
+      ],
+      [
         7,
-        5
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        8
       ],
       [
         2,
         4
       ],
       [
-        3,
-        8
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        7,
-        6
-      ]
-    ],
-    "medium": [
-      [
-        5,
-        1
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        3,
+        2,
         5
       ],
       [
-        5,
-        8
-      ],
-      [
-        6,
-        0
+        7,
+        2
       ],
       [
         1,
         8
-      ],
+      ]
+    ],
+    "medium": [
       [
         4,
         2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        4,
+        7
       ]
     ],
     "hard": [
       [
-        5,
-        1
+        4,
+        2
       ],
       [
-        4,
-        8
-      ],
-      [
-        4,
-        4
+        1,
+        6
       ],
       [
         3,
-        5
+        3
+      ],
+      [
+        2,
+        8
       ]
     ]
   },
@@ -223,118 +231,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(obsolete outside dialectal) An assize.",
-          "zh": "（在方言之外已废弃）巡回法庭。"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A soft moist mixture, in particular:",
-          "zh": "粘贴"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A store of things that may be required in the future, which can be retrieved rapidly, protected or hidden in some way.",
-          "zh": "缓存"
-        }
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "Traveling through a place on the way to a destination; by way of.",
-          "zh": "通过"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
-          "zh": "品尝"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "A device that has a helical function.",
-          "zh": "拧紧"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A native or inhabitant of Berlin.",
-          "zh": "迷笛"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A temporally organized plan for matters to be attended to.",
-          "zh": "议程"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
-          "zh": "锌"
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
         }
       },
       {
@@ -342,80 +240,163 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Type or kind. (Compare race.)",
-          "zh": "物种"
+          "en": "(of a narrative) The ethical significance or practical lesson.",
+          "zh": "道德"
         }
       },
       {
         "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
-      },
-      {
-        "num": 11,
         "row": 2,
-        "col": 5,
+        "col": 1,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
         "num": 12,
         "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "(heading) To interact socially.",
+          "zh": "从事"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "An arranged informal meeting.",
-          "zh": "聚会"
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
         }
       },
       {
         "num": 16,
         "row": 4,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "Occurring at any time, occurring even but once during a timespan.",
-          "zh": "曾经"
+          "en": "A short circuit.",
+          "zh": "短路。"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 1,
+        "num": 21,
+        "row": 6,
+        "col": 3,
         "clue": {
-          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
-          "zh": "气体"
+          "en": "Recently made, or created.",
+          "zh": "较新的"
         }
       },
       {
-        "num": 22,
-        "row": 5,
-        "col": 7,
+        "num": 23,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
         }
       },
       {
         "num": 24,
-        "row": 6,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
         "col": 2,
         "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A musical composition with lyrics for voice or voices, performed by singing.",
+          "zh": "歌曲"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The part of a garment that covers the arm.",
+          "zh": "袖子"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An additional one of the same kind.",
+          "zh": "其他"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A terrifying and dangerous creature.",
+          "zh": "怪物"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
+          "zh": "代数"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "Having much learning, knowledgeable, erudite; highly educated.",
+          "zh": "学到了"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A shepherd; someone who tends to a flock of animals.",
+          "zh": "牧师"
+        }
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]

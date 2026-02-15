@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "U",
-      null,
-      null,
-      "W",
-      null,
-      null,
-      "P"
-    ],
-    [
       "P",
-      "O",
-      "S",
+      null,
       null,
       "C",
+      null,
+      "C",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "D",
+      null,
+      "H",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      null,
+      "E",
+      "E",
+      null,
+      null,
+      "A",
+      null,
+      "V",
+      "I"
+    ],
+    [
+      null,
+      "R",
+      null,
+      "C",
+      "L",
       "O",
       "N",
-      "D",
-      "O"
+      "E",
+      null
     ],
     [
-      null,
-      "F",
-      "E",
-      "V",
-      "E",
-      "R",
-      null,
-      "I",
-      "W"
-    ],
-    [
-      "S",
-      "F",
-      null,
-      "I",
-      "N",
-      "D",
-      "E",
-      "E",
-      "D"
-    ],
-    [
-      "H",
+      "W",
       "E",
       "A",
       "R",
-      "T",
-      null,
-      "A",
-      "T",
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "J",
-      "U",
-      "R",
-      "Y",
-      null,
-      "A",
-      "R"
-    ],
-    [
-      "E",
-      "S",
       null,
       "S",
-      "A",
-      "F",
-      "E",
+      null,
       "R",
       null
     ],
     [
-      "L",
-      "E",
-      "V",
-      "E",
-      "L",
       null,
-      "G",
-      "Y",
-      "M"
+      "M",
+      "E",
+      "E",
+      "T",
+      null,
+      null,
+      "A",
+      null
     ],
     [
-      "D",
+      "T",
+      "O",
       null,
+      "D",
+      "E",
+      "B",
+      "U",
+      "G",
+      null
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      null,
+      "U",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "Y",
+      null,
+      "T",
       null,
       "S",
-      null,
-      null,
-      "G",
+      "E",
       null,
       null
     ]
@@ -107,98 +107,86 @@
   "prefilled": {
     "easy": [
       [
-        7,
-        3
-      ],
-      [
-        5,
-        8
+        4,
+        0
       ],
       [
         6,
         1
       ],
       [
-        7,
-        2
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        5,
+        2,
         7
       ],
       [
         6,
-        4
+        7
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        5,
+        1
       ],
       [
         1,
-        0
+        2
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        2
       ]
     ],
     "medium": [
       [
-        7,
-        3
-      ],
-      [
-        5,
-        8
+        4,
+        0
       ],
       [
         6,
         1
       ],
       [
-        7,
-        2
-      ],
-      [
-        8,
-        3
+        2,
+        7
       ],
       [
         6,
-        3
+        7
       ],
       [
-        3,
-        3
+        8,
+        1
       ],
       [
         5,
-        4
+        1
+      ],
+      [
+        1,
+        2
       ],
       [
         6,
@@ -207,113 +195,95 @@
     ],
     "hard": [
       [
-        7,
-        3
-      ],
-      [
-        5,
-        8
+        4,
+        0
       ],
       [
         6,
         1
       ],
       [
-        7,
-        2
+        2,
+        7
+      ],
+      [
+        6,
+        7
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
+          "en": "A sour substance.",
+          "zh": "酸"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Joint sovereignty over a territory by two or more countries.",
-          "zh": "公寓"
+          "en": "A rod bent into a curved shape, typically with one end free and the other end secured to a rope or other attachment.",
+          "zh": "钩"
         }
       },
       {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.",
-          "zh": "发烧"
-        }
-      },
-      {
-        "num": 12,
+        "num": 10,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "(modal) Truly; in fact; actually.",
-          "zh": "的确"
+          "en": "A living organism (originally a plant) produced asexually from a single ancestor, to which it is genetically identical.",
+          "zh": "克隆"
         }
       },
       {
-        "num": 14,
+        "num": 11,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
-          "zh": "心"
+          "en": "(in combination) clothing",
+          "zh": "穿"
+        }
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "To come into the presence of someone by arrangement or by chance.",
+          "zh": "见面"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "Damage to the body of a human or animal.",
-          "zh": "受伤"
-        }
-      },
-      {
-        "num": 21,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "Not in danger; out of harm's reach.",
-          "zh": "更安全"
+          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
+          "zh": "调试"
         }
       },
       {
-        "num": 23,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A position on a scale of amount, quantity, extent, or quality.",
-          "zh": "等级"
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         }
       }
     ],
@@ -323,8 +293,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "A type of pastry that consists of an outer crust and a filling.",
+          "zh": "馅饼"
         }
       },
       {
@@ -332,71 +302,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
-          "zh": "单词"
+          "en": "The unordered state of matter in classical accounts of cosmogony.",
+          "zh": "混乱"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "The fine particles which are the result of reducing dry substance by pounding, grinding, or triturating, or the result of decay; dust.",
-          "zh": "粉末"
+          "en": "An amount by which something or someone is covered.",
+          "zh": "覆盖范围"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "The act of offending:",
-          "zh": "罪行"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "Being in the centre.",
-          "zh": "中央"
+          "en": "A ritual, with religious or cultural significance.",
+          "zh": "仪式"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A regulated diet.",
-          "zh": "饮食"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
-          "zh": "病毒"
+          "en": "Reliance on the truth of something said or done; faith; trust.",
+          "zh": "信用"
         }
       },
       {
-        "num": 11,
-        "row": 3,
+        "num": 15,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "Anything that protects or defends; defense; shelter; protection.",
-          "zh": "盾"
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
         }
       },
       {
-        "num": 22,
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
+        }
+      },
+      {
+        "num": 18,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "The act of using.",
+          "zh": "使用"
         }
       }
     ]

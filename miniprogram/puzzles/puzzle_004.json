@@ -5,81 +5,81 @@
   "cols": 5,
   "solution": [
     [
-      "A",
       null,
-      "P",
-      "A",
-      "L"
-    ],
-    [
-      "D",
-      "I",
       "S",
-      "C",
-      "O"
+      "O",
+      "M",
+      "A"
     ],
     [
-      "O",
-      "C",
+      "G",
       null,
-      "N",
-      "O"
+      "M",
+      "I",
+      "C"
     ],
     [
-      "B",
       "O",
-      "X",
+      "C",
       "E",
-      "S"
+      "A",
+      "N"
     ],
     [
-      "E",
-      "N",
-      "D",
+      "L",
+      "O",
+      "G",
       null,
       "E"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
         1,
         4
       ],
       [
         0,
-        4
+        1
       ],
       [
-        0,
-        0
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
       ]
     ],
     "medium": [
       [
-        3,
+        1,
         4
       ],
       [
-        2,
-        4
+        0,
+        1
       ],
       [
         1,
-        4
+        2
       ]
     ],
     "hard": [
       [
-        3,
+        1,
         4
       ]
     ]
@@ -87,21 +87,30 @@
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
-          "zh": "朋友"
+          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
+          "zh": "索马"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
-          "zh": "迪斯科"
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
         }
       },
       {
@@ -109,28 +118,28 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Senses relating to a three-dimensional object or space.",
-          "zh": "盒子"
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
         }
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "An area of level ground.",
+          "zh": "平坦的"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An unburnt brick dried in the sun.",
-          "zh": "土坯"
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
         }
       },
       {
@@ -138,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
         }
       },
       {
@@ -147,17 +156,26 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The release of an arrow.",
-          "zh": "松动的"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+          "zh": "高尔夫球"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
         "col": 1,
         "clue": {
-          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
-          "zh": "图标"
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
         }
       }
     ]

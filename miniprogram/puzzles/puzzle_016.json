@@ -6,137 +6,125 @@
   "solution": [
     [
       null,
-      "I",
-      null,
-      "W",
       null,
       null,
-      "R"
+      "T",
+      null,
+      null,
+      "G"
     ],
     [
+      null,
+      "M",
+      null,
+      "H",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      null,
       "E",
-      "N",
-      "L",
-      "A",
+      "V",
+      "E",
       "R",
+      null,
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "R",
+      "A",
       "G",
       "E"
     ],
     [
-      null,
-      "D",
-      "U",
-      "I",
-      null,
-      "A",
-      "E"
-    ],
-    [
-      "A",
-      "O",
+      "E",
       null,
       "T",
       "A",
-      "I",
-      "L"
-    ],
-    [
-      "P",
-      "O",
-      null,
-      "I",
-      "N",
-      "N",
+      "L",
+      "E",
       null
     ],
     [
       "P",
       "R",
-      "I",
-      "N",
-      "T",
       "E",
-      "D"
+      "P",
+      null,
+      "O",
+      null
     ],
     [
-      "S",
+      "T",
       null,
       null,
-      "G",
+      "Y",
       null,
-      "D",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        0
+        5,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
       ],
       [
         3,
-        6
+        2
       ],
       [
         1,
         4
       ],
       [
-        0,
-        3
+        3,
+        4
       ],
       [
-        2,
+        5,
         1
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        0,
-        6
       ]
     ],
     "medium": [
       [
-        3,
-        0
+        5,
+        2
       ],
       [
-        3,
-        6
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        0,
+        6,
         3
       ],
       [
-        2,
-        1
+        5,
+        3
+      ],
+      [
+        3,
+        2
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        5,
+        2
       ],
       [
-        3,
-        6
+        6,
+        3
       ]
     ]
   },
@@ -145,46 +133,46 @@
       {
         "num": 4,
         "row": 1,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "To make larger.",
-          "zh": "放大"
+          "en": "To want something to happen, with a sense of expectation that it might.",
+          "zh": "希望"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "酒驾"
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The act of storing goods; the state of being stored.",
+          "zh": "贮存"
         }
       },
       {
         "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "The caudal appendage of an animal that is attached to its posterior and near the anus.",
-          "zh": "尾巴"
-        }
-      },
-      {
-        "num": 13,
         "row": 4,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+          "zh": "故事"
         }
       },
       {
-        "num": 14,
+        "num": 11,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To produce one or more copies of a text or image on a surface, especially by machine; often used with out or off: print out, print off.",
-          "zh": "打印"
+          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
+          "zh": "准备"
         }
       }
     ],
@@ -192,55 +180,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
-          "zh": "室内的"
+          "en": "Attempted remediation of a health problem following a diagnosis, usually synonymous with treatment.",
+          "zh": "治疗"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
-          "zh": "等待"
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "A shaky or unsteady gait.",
-          "zh": "卷轴"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "To acquire possession of.",
-          "zh": "获得"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A formalized choice on matters of administration or other democratic activities",
+          "zh": "投票"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A clan, tribe, or family, proceeding from a common progenitor (used especially of the ancient clans in Ireland).",
+          "zh": "九月"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       }
     ]

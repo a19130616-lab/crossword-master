@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "word_count": 3634,
+    "word_count": 3632,
     "source": "enriched_words.json"
   },
   "words": {
@@ -20102,16 +20102,16 @@
       "length": 4,
       "clues": {
         "easy": {
-          "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
-          "zh": "告诉"
+          "en": "Past tense of tell; communicated information to someone.",
+          "zh": "告诉了"
         },
         "medium": {
-          "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
-          "zh": "告诉"
+          "en": "Past tense of tell; communicated information to someone.",
+          "zh": "告诉了"
         },
         "hard": {
-          "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
-          "zh": "告诉"
+          "en": "Past tense of tell; communicated information to someone.",
+          "zh": "告诉了"
         }
       }
     },
@@ -21020,15 +21020,15 @@
       "length": 3,
       "clues": {
         "easy": {
-          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+          "en": "A sum of money charged for a service or privilege.",
           "zh": "费用"
         },
         "medium": {
-          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+          "en": "A sum of money charged for a service or privilege.",
           "zh": "费用"
         },
         "hard": {
-          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+          "en": "A sum of money charged for a service or privilege.",
           "zh": "费用"
         }
       }
@@ -29533,23 +29533,6 @@
         }
       }
     },
-    "SIZES": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "(obsolete outside dialectal) An assize.",
-          "zh": "（在方言之外已废弃）巡回法庭。"
-        },
-        "medium": {
-          "en": "(obsolete outside dialectal) An assize.",
-          "zh": "（在方言之外已废弃）巡回法庭。"
-        },
-        "hard": {
-          "en": "(obsolete outside dialectal) An assize.",
-          "zh": "（在方言之外已废弃）巡回法庭。"
-        }
-      }
-    },
     "EXIT": {
       "length": 4,
       "clues": {
@@ -30643,15 +30626,15 @@
       "clues": {
         "easy": {
           "en": "One who makes pots and other ceramic wares.",
-          "zh": "波特"
+          "zh": "陶工"
         },
         "medium": {
           "en": "One who makes pots and other ceramic wares.",
-          "zh": "波特"
+          "zh": "陶工"
         },
         "hard": {
           "en": "One who makes pots and other ceramic wares.",
-          "zh": "波特"
+          "zh": "陶工"
         }
       }
     },
@@ -33821,16 +33804,16 @@
       "length": 5,
       "clues": {
         "easy": {
-          "en": "(chiefly dialectal) To gather.",
-          "zh": "租"
+          "en": "A contract granting use of property for a specified period in exchange for rent.",
+          "zh": "租约"
         },
         "medium": {
-          "en": "(chiefly dialectal) To gather.",
-          "zh": "租"
+          "en": "A contract granting use of property for a specified period in exchange for rent.",
+          "zh": "租约"
         },
         "hard": {
-          "en": "(chiefly dialectal) To gather.",
-          "zh": "租"
+          "en": "A contract granting use of property for a specified period in exchange for rent.",
+          "zh": "租约"
         }
       }
     },
@@ -61065,23 +61048,6 @@
         "hard": {
           "en": "A bed or cot for a baby, oscillating on rockers or swinging on pivots.",
           "zh": "摇篮"
-        }
-      }
-    },
-    "MAMBO": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
-        },
-        "medium": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
-        },
-        "hard": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
         }
       }
     },

@@ -8,61 +8,61 @@
       null,
       null,
       null,
+      "O",
+      null,
+      null,
+      "E"
+    ],
+    [
+      null,
+      "G",
+      null,
+      "U",
       "S",
-      null,
-      null,
-      "A"
+      "E",
+      "D"
     ],
     [
       null,
+      "A",
       "L",
+      "T",
+      "O",
       null,
-      "P",
-      "R",
-      "E",
-      "P"
+      "G"
     ],
     [
-      null,
-      "I",
-      "D",
       "E",
+      "P",
+      "I",
+      "S",
+      "O",
+      "D",
+      "E"
+    ],
+    [
       "A",
       null,
-      "P"
-    ],
-    [
-      "S",
-      "P",
-      "E",
-      "C",
-      "I",
-      "E",
-      "S"
-    ],
-    [
-      "I",
-      null,
-      "P",
+      "N",
       "I",
       "N",
-      "G",
-      null
-    ],
-    [
-      "M",
       "E",
-      "T",
-      "A",
-      null,
-      "G",
       null
     ],
     [
       "S",
+      "H",
+      "E",
+      "D",
+      null,
+      "N",
+      null
+    ],
+    [
+      "T",
       null,
       null,
-      "L",
+      "E",
       null,
       null,
       null
@@ -71,60 +71,60 @@
   "prefilled": {
     "easy": [
       [
-        5,
-        1
-      ],
-      [
         4,
         0
       ],
       [
-        0,
-        6
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        4,
-        4
+        3,
+        5
       ],
       [
         2,
-        3
+        1
       ],
       [
-        1,
-        3
+        3,
+        0
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
       ]
     ],
     "medium": [
       [
-        5,
-        1
-      ],
-      [
         4,
         0
       ],
       [
-        0,
-        6
+        3,
+        5
       ],
       [
-        1,
-        4
+        2,
+        1
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        5,
-        1
-      ],
-      [
         4,
         0
+      ],
+      [
+        3,
+        5
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
-          "zh": "准备"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Type or kind. (Compare race.)",
-          "zh": "物种"
+          "en": "An incident, action, or time period standing out by itself, but more or less connected with a complete series of events.",
+          "zh": "插曲"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A high-pitched, short and somewhat sharp sound.",
-          "zh": "平"
+          "en": "The digit or figure 9.",
+          "zh": "九"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
+          "en": "To part, separate or divide.",
+          "zh": "棚"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
-          "zh": "特别的"
+          "en": "The part of something that faces out; the outer surface.",
+          "zh": "外部"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
-          "zh": "唇"
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Condensed water falling from a cloud.",
-          "zh": "雨"
+          "en": "Short in length of time from the present.",
+          "zh": "很快"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "A part, portion, or subdivision.",
-          "zh": "部门"
+          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+          "zh": "线"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A simulation or simulator.",
-          "zh": "模拟或模拟器。"
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       }
     ]

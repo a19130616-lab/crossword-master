@@ -5,177 +5,124 @@
   "cols": 5,
   "solution": [
     [
+      "S",
       null,
-      "D",
-      "E",
-      "B",
-      "T"
-    ],
-    [
-      "B",
       null,
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "O",
-      "P",
-      "E",
-      "R",
-      "A"
-    ],
-    [
-      "M",
-      "I",
-      "N",
       null,
       "P"
     ],
     [
-      "B",
+      "W",
+      "H",
       "E",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      null,
+      "G",
+      null,
+      "A"
+    ],
+    [
+      "F",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
       "T",
-      "A",
-      null
+      null,
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
         4,
-        3
+        4
       ],
       [
-        3,
+        1,
+        0
+      ],
+      [
+        1,
         1
       ],
       [
-        2,
+        3,
         3
       ]
     ],
     "medium": [
       [
-        2,
-        1
-      ],
-      [
-        3,
-        2
-      ],
-      [
         4,
-        3
+        4
+      ],
+      [
+        1,
+        0
       ]
     ],
     "hard": [
       [
-        2,
-        1
+        4,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another.",
-          "zh": "债务"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
-          "zh": "变量"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
+          "en": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",
+          "zh": "车轮"
         }
       },
       {
-        "num": 9,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
-          "zh": "测试版"
+          "en": "To contend in physical conflict, either singly or in war, battle etc.",
+          "zh": "斗争"
         }
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An occurrence; something that happens.",
-          "zh": "事件"
+          "en": "A small plain-colored bird of the family Apodidae that resembles a swallow and is noted for its rapid flight.",
+          "zh": "迅速"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
-          "zh": "酒吧"
+          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
+          "zh": "盘子"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A machine or other device designed to catch (and sometimes kill) animals, either by holding them in a container, or by catching hold of part of the body.",
-          "zh": "陷阱"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "An explosive device used or intended as a weapon.",
-          "zh": "炸弹"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A type of pastry that consists of an outer crust and a filling.",
-          "zh": "馅饼"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]

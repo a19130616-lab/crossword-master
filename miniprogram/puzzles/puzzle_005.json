@@ -5,45 +5,45 @@
   "cols": 5,
   "solution": [
     [
-      null,
-      "G",
-      "I",
       "S",
-      null
-    ],
-    [
-      "O",
-      "R",
       null,
-      "A",
-      "D"
+      "L",
+      "I",
+      "P"
     ],
     [
-      "N",
+      "C",
       "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "U",
+      "V",
+      null,
+      "O",
+      "W"
+    ],
+    [
       "B",
+      "E",
+      "L",
       "L",
       "E"
     ],
     [
-      "E",
-      "V",
-      null,
       "A",
-      "N"
-    ],
-    [
+      "R",
+      "M",
       null,
-      "E",
-      "N",
-      "D",
-      null
+      "R"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        3,
         1
       ],
       [
@@ -51,27 +51,35 @@
         3
       ],
       [
-        2,
-        4
+        3,
+        3
       ],
       [
-        4,
-        1
+        3,
+        0
+      ],
+      [
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        1,
+        3,
         1
       ],
       [
         0,
+        3
+      ],
+      [
+        3,
         3
       ]
     ],
     "hard": [
       [
-        1,
+        3,
         1
       ]
     ]
@@ -79,30 +87,39 @@
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
-          "zh": "地理信息系统"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "An aristocrat; one of aristocratic blood.",
-          "zh": "高贵"
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "An attractive woman.",
+          "zh": "美女"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         }
       }
     ],
@@ -110,37 +127,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "A small forest.",
-          "zh": "树林"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.",
-          "zh": "沙拉"
+          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
+          "zh": "水肺潜水"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
+          "zh": "偶像"
         }
       },
       {
-        "num": 5,
-        "row": 1,
+        "num": 4,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "Ability to do or undergo something.",
+          "zh": "力量"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Above or higher than something else, with or without touching it.",
+          "zh": "超过"
         }
       }
     ]

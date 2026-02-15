@@ -7,63 +7,63 @@
     [
       null,
       null,
-      "S",
-      "K",
-      "Y",
+      "L",
+      "A",
+      "W",
       null,
-      "M"
+      "N"
     ],
     [
-      "S",
-      "U",
       "P",
       "R",
-      "E",
-      "M",
+      "O",
+      "P",
+      "O",
+      "S",
       "E"
     ],
     [
       null,
-      "N",
-      "Y",
+      "O",
+      "T",
       null,
       "N",
       "O",
-      "N"
+      "W"
     ],
     [
-      "E",
       "T",
-      null,
-      null,
-      null,
       "V",
-      "U"
+      null,
+      null,
+      null,
+      "C",
+      "S"
     ],
     [
-      "V",
-      "I",
-      "A",
-      null,
-      "H",
+      "Y",
       "E",
+      "N",
+      null,
+      "S",
+      "K",
       null
     ],
     [
-      "I",
-      "L",
-      "L",
-      "N",
+      "P",
+      "R",
+      "O",
+      "C",
       "E",
       "S",
       "S"
     ],
     [
-      "L",
+      "E",
       null,
+      "N",
+      "U",
       "T",
-      "O",
-      "Y",
       null,
       null
     ]
@@ -71,72 +71,72 @@
   "prefilled": {
     "easy": [
       [
-        1,
-        2
-      ],
-      [
-        0,
-        4
+        5,
+        6
       ],
       [
         4,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
         4
       ],
       [
-        0,
-        2
+        6,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        3
       ],
       [
         2,
-        1
-      ],
-      [
-        4,
-        1
-      ],
+        6
+      ]
+    ],
+    "medium": [
       [
         5,
         6
       ],
       [
-        3,
+        4,
         1
       ],
-      [
-        2,
-        2
-      ]
-    ],
-    "medium": [
       [
         1,
-        2
-      ],
-      [
-        0,
-        4
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        2,
         1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        3
       ]
     ],
     "hard": [
       [
-        1,
-        2
+        5,
+        6
       ],
       [
-        0,
-        4
+        4,
+        1
       ]
     ]
   },
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
-          "zh": "天空"
+          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+          "zh": "法律"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The highest point.",
-          "zh": "最高"
+          "en": "An objective or aim.",
+          "zh": "提出"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "The present time.",
+          "zh": "现在"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "Traveling through a place on the way to a destination; by way of.",
-          "zh": "通过"
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
         }
       },
       {
@@ -183,8 +183,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "An instance of a disease or poor health.",
-          "zh": "疾病"
+          "en": "A series of events which produce a result (the product).",
+          "zh": "过程"
         }
       },
       {
@@ -192,8 +192,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
         }
       }
     ],
@@ -203,8 +203,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).",
-          "zh": "间谍"
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
         }
       },
       {
@@ -212,8 +212,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
+          "en": "To conquer, defeat.",
+          "zh": "韩元"
         }
       },
       {
@@ -221,8 +221,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "The details of the food to be served at a banquet; a bill of fare.",
-          "zh": "菜单"
+          "en": "New information of interest.",
+          "zh": "感兴趣的新信息。"
         }
       },
       {
@@ -230,8 +230,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Up to the time of (something happening).",
-          "zh": "直到"
+          "en": "(usually in the plural) A randomly selected target.",
+          "zh": "漫游者"
         }
       },
       {
@@ -239,8 +239,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "The act of moving; a movement.",
-          "zh": "移动的行为；一个动作。"
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜子"
         }
       },
       {
@@ -248,8 +248,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
-          "zh": "邪恶的"
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         }
       },
       {
@@ -257,8 +257,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       },
       {
@@ -266,8 +266,8 @@
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "An exclamation to get attention.",
-          "zh": "嘿"
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
         }
       }
     ]

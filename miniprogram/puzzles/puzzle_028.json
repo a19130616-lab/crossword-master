@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "G",
-      "U",
+      "T",
+      null,
+      null,
+      "F",
+      null,
+      "W",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "A",
       "N",
       null,
-      null,
-      null,
+      "L",
+      "A",
+      "I",
       "D"
     ],
     [
-      "A",
-      "G",
-      "E",
-      null,
-      "O",
-      "Z",
-      "O",
-      "N",
-      "E"
-    ],
-    [
       null,
       "A",
-      "M",
-      "I",
-      "N",
-      "O",
-      null,
-      "O",
-      "N"
-    ],
-    [
-      "W",
-      "Z",
-      null,
-      "M",
-      "E",
       "N",
       null,
-      "V",
-      "T"
-    ],
-    [
-      "H",
-      "E",
-      "L",
-      "P",
-      null,
-      "I",
-      "D",
-      "E",
-      "A"
-    ],
-    [
-      "I",
-      "T",
       null,
       "O",
-      "W",
-      "N",
-      null,
-      "L",
-      "L"
-    ],
-    [
-      "L",
-      "T",
       null,
       "S",
-      "I",
-      "G",
-      "H",
+      "S"
+    ],
+    [
+      null,
       "T",
+      null,
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
       null
     ],
     [
-      "S",
-      "E",
-      "V",
-      "E",
-      "N",
-      null,
-      "E",
       "Y",
+      "E",
+      "A",
+      "R",
+      null,
+      "R",
+      null,
+      "L",
+      null
+    ],
+    [
+      null,
+      "G",
+      "R",
+      "I",
+      "P",
+      null,
+      null,
+      "I",
+      null
+    ],
+    [
+      "M",
+      "O",
+      null,
+      "G",
+      "A",
+      "I",
+      "N",
+      "S",
+      null
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      null,
+      "N",
+      "O",
+      "T",
       "E"
     ],
     [
+      "P",
+      "Y",
+      null,
       "T",
       null,
-      null,
-      null,
-      "G",
-      "U",
-      "Y",
+      "N",
+      "N",
       null,
       null
     ]
@@ -107,107 +107,43 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        7
-      ],
-      [
         7,
-        1
+        8
       ],
       [
-        2,
-        4
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        2,
+        1,
         3
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        8,
-        5
       ],
       [
         8,
         6
       ],
       [
-        3,
-        3
-      ]
-    ],
-    "medium": [
-      [
-        6,
-        7
-      ],
-      [
-        7,
-        1
+        8,
+        0
       ],
       [
         2,
-        4
+        2
       ],
       [
-        4,
-        0
+        1,
+        1
       ],
       [
-        5,
-        0
+        0,
+        5
       ],
       [
         4,
         5
       ],
       [
-        2,
+        7,
         3
       ],
       [
-        7,
-        2
-      ],
-      [
-        6,
-        0
-      ]
-    ],
-    "hard": [
-      [
-        6,
+        3,
         7
       ],
       [
@@ -215,11 +151,63 @@
         1
       ],
       [
-        2,
+        5,
         4
       ],
       [
         4,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        8
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        8
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
         0
       ]
     ]
@@ -227,111 +215,75 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
-          "zh": "枪"
-        }
-      },
-      {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
+          "en": "Close investigation.",
+          "zh": "扫描"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
-          "zh": "臭氧"
+          "en": "(of paper) Marked with parallel lines, as if ribbed, from wires in the mould.",
+          "zh": "铺设"
         }
       },
       {
-        "num": 9,
-        "row": 2,
-        "col": 1,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "The amine functional group.",
-          "zh": "氨基"
+          "en": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
+          "zh": "刷子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
         }
       },
       {
         "num": 13,
-        "row": 3,
-        "col": 3,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "Action given to provide assistance; aid.",
-          "zh": "帮助"
+          "en": "To take hold of, particularly with the hand.",
+          "zh": "紧握"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "(in the singular) The ability to see.",
-          "zh": "视线"
+          "en": "The act of gaining; acquisition.",
+          "zh": "获得的行为；获得。"
         }
       },
       {
-        "num": 24,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "The digit/figure 7 or an occurrence thereof.",
-          "zh": "七"
+          "en": "An inverted U shape.",
+          "zh": "拱"
         }
       },
       {
-        "num": 25,
+        "num": 20,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
-          "zh": "家伙"
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
         }
       }
     ],
@@ -341,89 +293,80 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
-          "zh": "宝石"
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Not any; no amount or part of something.",
-          "zh": "没有任何"
+          "en": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
+          "zh": "面粉"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "Cleaning and polishing of an animal's teeth.",
-          "zh": "牙科"
+          "en": "A list of desired things.",
+          "zh": "愿望清单"
         }
       },
       {
-        "num": 5,
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        }
+      },
+      {
+        "num": 6,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A newspaper; a printed sheet published periodically; especially, the official journal published by the British government, containing legal and state notices.",
-          "zh": "公报"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "To divide into or assign sections or areas.",
-          "zh": "分区"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The state of being new or novel; newness.",
-          "zh": "新奇"
+          "en": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+          "zh": "类别"
         }
       },
       {
         "num": 10,
-        "row": 2,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "To establish or apply by authority.",
-          "zh": "强加"
+          "en": "An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head.",
+          "zh": "明亮的"
         }
       },
       {
-        "num": 12,
-        "row": 3,
+        "num": 15,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "(rare or literary in North America) While, at the same time.",
-          "zh": "同时"
+          "en": "A visual representation of an area, whether real or imaginary.",
+          "zh": "地图"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 4,
+        "num": 17,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "An appendage of an animal's (bird, bat, insect) body that enables it to fly; a similar fin at the side of a ray or similar fish",
-          "zh": "翼"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
         }
       },
       {
-        "num": 23,
+        "num": 18,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "An exclamation to get attention.",
-          "zh": "嘿"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       }
     ]

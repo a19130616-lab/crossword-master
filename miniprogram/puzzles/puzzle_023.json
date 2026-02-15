@@ -6,332 +6,288 @@
   "solution": [
     [
       null,
-      null,
-      "G",
-      "Y",
-      "M",
+      "J",
       null,
       null,
-      null,
-      "S"
-    ],
-    [
-      "P",
-      "A",
-      "N",
-      null,
-      "E",
-      "L",
-      "E",
-      "C",
-      "T"
-    ],
-    [
-      null,
-      "S",
-      "U",
-      "I",
-      "T",
-      "E",
-      null,
-      "H",
-      "R"
-    ],
-    [
-      "A",
-      "S",
-      null,
-      "M",
-      "A",
-      "T",
       null,
       "A",
+      null,
+      null,
       "I"
     ],
     [
-      "C",
-      "A",
-      "M",
-      "P",
+      "H",
+      "O",
+      "O",
+      "D",
       null,
-      "T",
+      "P",
+      "I",
+      "C",
+      "S"
+    ],
+    [
       "A",
-      "N",
-      "K"
+      "K",
+      null,
+      "O",
+      "O",
+      "P",
+      "S",
+      null,
+      "O"
     ],
     [
       "R",
+      "E",
+      "A",
+      "C",
+      "H",
+      "E",
+      "S",
+      null,
+      "L"
+    ],
+    [
+      "D",
+      null,
+      "W",
       "U",
       null,
-      "O",
-      "N",
-      "E",
+      "T",
+      "U",
       null,
+      "A"
+    ],
+    [
+      "W",
+      null,
+      "A",
+      "M",
+      "B",
+      "I",
+      "E",
       "N",
+      "T"
+    ],
+    [
+      "O",
+      null,
+      "R",
+      "E",
+      "N",
+      "T",
+      null,
+      "E",
       "E"
     ],
     [
       "O",
-      "L",
+      "V",
+      "E",
+      "N",
       null,
-      "S",
-      "U",
-      "R",
-      "G",
       "E",
-      null
-    ],
-    [
-      "S",
-      "T",
+      "Y",
       "E",
-      "E",
-      "L",
-      null,
-      "O",
-      "L",
       "D"
     ],
     [
-      "S",
+      "D",
       null,
       null,
-      null,
-      "L",
-      "O",
       "T",
       null,
+      null,
+      null,
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        8
-      ],
-      [
-        3,
-        5
-      ],
-      [
         7,
-        1
-      ],
-      [
-        4,
-        8
+        0
       ],
       [
         1,
-        7
+        1
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        5,
+        0
       ],
       [
         6,
         3
       ],
       [
-        7,
-        8
+        2,
+        5
       ],
       [
-        4,
-        7
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        3,
-        3
+        2,
+        1
       ],
       [
         5,
         4
       ],
       [
-        0,
-        2
+        2,
+        4
       ],
       [
-        6,
-        7
-      ],
-      [
-        8,
-        6
-      ]
-    ],
-    "medium": [
-      [
-        0,
+        3,
         8
       ],
       [
         3,
-        5
+        6
       ],
+      [
+        8,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "medium": [
       [
         7,
-        1
-      ],
-      [
-        4,
-        8
+        0
       ],
       [
         1,
-        7
+        1
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        5,
+        0
       ],
       [
         6,
         3
       ],
       [
-        7,
-        8
+        2,
+        5
       ],
       [
-        4,
-        7
+        2,
+        1
       ],
       [
-        8,
+        5,
         4
       ]
     ],
     "hard": [
       [
-        0,
-        8
-      ],
-      [
-        3,
-        5
-      ],
-      [
         7,
+        0
+      ],
+      [
+        1,
         1
       ],
       [
-        4,
-        8
+        7,
+        5
+      ],
+      [
+        5,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
-        }
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A wide, flat receptacle used around the house, especially for cooking.",
-          "zh": "平底锅"
+          "en": "A covering for the head attached to a larger garment such as a jacket or cloak.",
+          "zh": "兜帽"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "One chosen or set apart.",
-          "zh": "选"
+          "en": "A picture, especially a photographic image.",
+          "zh": "图片，尤其是摄影图像。"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A retinue or company of attendants, as of a distinguished personage",
-          "zh": "套房"
+          "en": "A minor mistake or unforseen difficulty.",
+          "zh": "哎呀"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
-          "zh": "垫"
+          "en": "The act of stretching or extending; extension.",
+          "zh": "达到"
         }
       },
       {
         "num": 15,
-        "row": 4,
-        "col": 0,
+        "row": 5,
+        "col": 2,
         "clue": {
-          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
-          "zh": "营"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "A closed container for liquids or gases.",
-          "zh": "坦克"
+          "en": "Something that surrounds; encompassing material, substance or shape.",
+          "zh": "周围的"
         }
       },
       {
         "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A sudden transient rush, flood or increase.",
-          "zh": "涌"
+          "en": "A payment made by a tenant at intervals in order to occupy a property.",
+          "zh": "租"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
-          "zh": "钢"
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
         }
       },
       {
-        "num": 25,
+        "num": 21,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "A large quantity or number; a great deal.",
-          "zh": "很多"
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
         }
       }
     ],
@@ -339,19 +295,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "An amusing story.",
+          "zh": "开玩笑"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
+          "en": "Desire to eat food or consume drink.",
+          "zh": "食欲"
         }
       },
       {
@@ -359,71 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A refusal to work organized by employees as a form of protest.",
-          "zh": "罢工"
+          "en": "To set apart or cut off from others.",
+          "zh": "孤立"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(mostly in botany and forestry) The wood from any dicotyledonous tree, without regard to its hardness.",
+          "zh": "硬木"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
-          "zh": "突击"
+          "en": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+          "zh": "文档"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A symbol in an alphabet.",
-          "zh": "信"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The physical confine of a river or slough, consisting of a bed and banks.",
-          "zh": "渠道"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To establish or apply by authority.",
-          "zh": "强加"
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue.",
-          "zh": "穿过"
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
         }
       },
       {
-        "num": 19,
+        "num": 17,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "A non-existent or empty value or set of values.",
-          "zh": "无效的"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "(ditransitive) To obtain; to acquire.",
-          "zh": "得到"
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
         }
       }
     ]

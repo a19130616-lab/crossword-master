@@ -6,212 +6,212 @@
   "solution": [
     [
       null,
+      "E",
+      null,
+      null,
+      null,
+      null,
       "A",
-      null,
-      null,
-      null,
-      null,
-      "V",
       null,
       "T"
     ],
     [
-      "S",
-      "C",
-      "U",
-      "B",
+      "P",
+      "L",
+      "A",
+      "Z",
       "A",
       null,
-      "A",
-      "I",
-      "R"
+      "L",
+      "O",
+      "W"
     ],
     [
       null,
-      "R",
       "S",
+      "L",
       null,
       "B",
-      "U",
-      "N",
-      "N",
-      "Y"
+      "E",
+      "L",
+      "L",
+      "E"
     ],
     [
+      "P",
+      "E",
       "T",
-      "E",
-      "E",
       null,
-      "A",
       "S",
+      "A",
       null,
-      "G",
-      "I"
-    ],
-    [
-      "R",
-      null,
-      "R",
-      "E",
-      "N",
-      "E",
-      "W",
-      null,
+      "D",
       "N"
     ],
     [
-      "I",
-      "M",
-      null,
-      "Y",
-      "D",
-      null,
       "E",
-      "G",
-      "G"
+      null,
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      null,
+      "T"
     ],
     [
-      "V",
-      "I",
-      "D",
-      "E",
-      "O",
+      "R",
+      "T",
       null,
+      "H",
+      "N",
+      null,
+      "D",
+      "R",
+      "Y"
+    ],
+    [
+      "M",
       "A",
-      "E",
+      "G",
+      "I",
+      "C",
+      null,
+      "D",
+      "O",
       null
     ],
     [
       "I",
-      "C",
-      "E",
-      null,
       "N",
-      "A",
-      "K",
+      "N",
+      null,
       "E",
-      "D"
+      "S",
+      "S",
+      "A",
+      "Y"
     ],
     [
-      "A",
+      "T",
       null,
-      "N",
-      null,
-      null,
+      "U",
       null,
       null,
-      "K",
+      null,
+      null,
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        6
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        7,
-        7
+        2,
+        1
       ],
       [
         5,
-        7
-      ],
-      [
-        5,
-        4
+        1
       ],
       [
         4,
         5
       ],
       [
-        7,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        1,
-        4
+        5,
+        0
       ],
       [
         2,
         2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
       ]
     ],
     "medium": [
       [
+        2,
+        1
+      ],
+      [
         5,
-        6
+        1
       ],
       [
-        7,
+        4,
+        5
+      ],
+      [
+        5,
         0
       ],
       [
-        8,
-        7
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        1,
+        2,
         2
       ],
       [
-        7,
-        7
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        5,
+        6,
         4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        1
       ]
     ],
     "hard": [
       [
+        2,
+        1
+      ],
+      [
         5,
-        6
+        1
       ],
       [
-        7,
-        0
+        4,
+        5
       ],
       [
-        8,
-        7
-      ],
-      [
-        3,
+        5,
         0
       ]
     ]
@@ -223,8 +223,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
-          "zh": "水肺潜水"
+          "en": "A town's public square.",
+          "zh": "广场"
         }
       },
       {
@@ -232,8 +232,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "The substance constituting earth's atmosphere, particularly:",
-          "zh": "空气"
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
         }
       },
       {
@@ -241,8 +241,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "A rabbit, especially a juvenile.",
-          "zh": "兔子"
+          "en": "An attractive woman.",
+          "zh": "美女"
         }
       },
       {
@@ -250,8 +250,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
-          "zh": "球座"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       },
       {
@@ -259,8 +259,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "To make (something) new again; to restore to freshness or original condition.",
-          "zh": "更新"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         }
       },
       {
@@ -268,8 +268,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
         }
       },
       {
@@ -277,8 +277,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "Television, television show, movie.",
-          "zh": "视频"
+          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+          "zh": "魔法"
         }
       },
       {
@@ -286,8 +286,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
         }
       },
       {
@@ -295,8 +295,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "Bare, not covered by clothing.",
-          "zh": "裸"
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
         }
       }
     ],
@@ -306,8 +306,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
-          "zh": "英亩"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         }
       },
       {
@@ -315,8 +315,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
-          "zh": "面包车"
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
         }
       },
       {
@@ -324,8 +324,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "To attempt; to endeavour. Followed by infinitive.",
-          "zh": "尝试"
+          "en": "A banknote with a denomination of 20.",
+          "zh": "二十"
         }
       },
       {
@@ -333,8 +333,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A person who uses or operates something, especially a computer or service.",
-          "zh": "用户"
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
         }
       },
       {
@@ -342,8 +342,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
-          "zh": "放弃"
+          "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+          "zh": "缺席"
         }
       },
       {
@@ -351,8 +351,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
@@ -360,8 +360,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       },
       {
@@ -369,8 +369,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Insignificant trifles of little importance, especially items of unimportant information",
-          "zh": "琐事"
+          "en": "An artifact or document rendering something allowed or legal.",
+          "zh": "允许"
         }
       },
       {
@@ -378,8 +378,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
         }
       },
       {
@@ -387,8 +387,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "Lacking in force (usually strength) or ability.",
-          "zh": "虚弱的"
+          "en": "An act or instance of adding.",
+          "zh": "添加的行为或实例。"
         }
       },
       {
@@ -396,8 +396,8 @@
         "row": 5,
         "col": 1,
         "clue": {
-          "en": "Alternative form of mike",
-          "zh": "麦克风"
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
         }
       },
       {
@@ -405,8 +405,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "A carnival performer specializing in bizarre and unappetizing behavior.",
-          "zh": "极客"
+          "en": "A wide way leading from one place to another, especially one paved and used by vehicles.",
+          "zh": "路"
         }
       },
       {
@@ -414,8 +414,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       }
     ]

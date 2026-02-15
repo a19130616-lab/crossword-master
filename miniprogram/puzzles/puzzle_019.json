@@ -5,190 +5,195 @@
   "cols": 7,
   "solution": [
     [
+      "S",
       null,
-      "H",
+      null,
+      "G",
       null,
       null,
-      "C",
-      "O",
-      "W"
+      "S"
     ],
     [
-      "P",
-      "E",
-      "R",
-      "F",
-      "U",
-      "M",
-      "E"
-    ],
-    [
-      "I",
-      "R",
-      null,
-      "I",
       "T",
-      null,
-      "A"
-    ],
-    [
-      "C",
-      "O",
-      "U",
+      "R",
+      "A",
       "N",
       "S",
-      "E",
-      "L"
-    ],
-    [
-      "K",
-      null,
-      "R",
-      "A",
-      null,
-      "A",
+      "I",
       "T"
     ],
     [
-      "E",
+      "Y",
+      null,
       "N",
-      "G",
-      "L",
-      "I",
-      "S",
-      "H"
+      "U",
+      "T",
+      null,
+      "U"
     ],
     [
-      "D",
+      "L",
+      "E",
+      "G",
+      null,
+      "O",
+      "L",
+      "D"
+    ],
+    [
       "I",
-      "E",
-      null,
       null,
       "E",
-      null
+      "A",
+      "R",
+      null,
+      "E"
+    ],
+    [
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        1,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
         5,
         1
       ],
       [
-        0,
-        5
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        2,
+        5,
         0
       ],
       [
-        4,
-        5
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        6,
-        2
-      ],
+        1,
+        6
+      ]
+    ],
+    "medium": [
       [
         1,
         3
       ],
       [
-        1,
-        4
-      ]
-    ],
-    "medium": [
+        5,
+        3
+      ],
       [
         5,
-        1
-      ],
-      [
-        0,
         5
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        2,
-        0
       ],
       [
         4,
-        5
+        3
+      ],
+      [
+        2,
+        4
       ]
     ],
     "hard": [
       [
+        1,
+        3
+      ],
+      [
         5,
-        1
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        3,
-        5
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
-          "zh": "奶牛"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A pleasant smell; the scent, odor, or odoriferous particles emitted from a sweet-smelling substance; a pleasant odor",
-          "zh": "香水"
+          "en": "The act of passing over, across, or through something.",
+          "zh": "过境"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "The exchange of opinions and advice especially in legal issues; consultation.",
-          "zh": "法律顾问"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
-        "num": 14,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        }
+      },
+      {
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling.",
-          "zh": "英语"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "死"
+          "en": "One who performs surgery; a doctor who performs operations on people or animals.",
+          "zh": "外科医生"
         }
       }
     ],
@@ -196,64 +201,55 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
-          "zh": "英雄"
+          "en": "Having elegance or taste or refinement in manners or dress.",
+          "zh": "时髦的"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The act of cutting.",
-          "zh": "切割的动作。"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Riches; valuable material possessions.",
-          "zh": "财富"
+          "en": "A person who studies or learns about a particular subject.",
+          "zh": "学生"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "挑选的"
+          "en": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+          "zh": "愤怒"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "Coming at the end of a series; the last game in a sports tournament.",
-          "zh": "最终的"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "A retail establishment selling items to the public.",
+          "zh": "店铺"
         }
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 5,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       }
     ]

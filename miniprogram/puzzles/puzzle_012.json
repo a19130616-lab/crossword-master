@@ -8,61 +8,61 @@
       null,
       null,
       null,
-      "H",
+      "P",
       null,
       null,
-      "L"
+      "S"
     ],
     [
       null,
-      "C",
+      "M",
       null,
+      "E",
+      "D",
       "I",
-      "S",
-      "L",
-      "E"
+      "T"
     ],
     [
       null,
       "A",
-      "L",
-      "T",
-      "O",
+      "C",
+      "N",
+      "E",
       null,
       "A"
     ],
     [
-      "E",
-      "D",
-      "I",
-      "T",
-      "I",
-      "O",
-      "N"
-    ],
-    [
       "A",
-      null,
-      "F",
-      "I",
-      "L",
-      "L",
-      null
+      "C",
+      "A",
+      "D",
+      "E",
+      "M",
+      "Y"
     ],
     [
       "S",
+      null,
+      "F",
+      "A",
+      "R",
+      "E",
+      null
+    ],
+    [
+      "K",
       "E",
       "E",
       "N",
       null,
-      "D",
+      "T",
       null
     ],
     [
+      "S",
+      null,
+      null,
       "T",
-      null,
-      null,
-      "G",
       null,
       null,
       null
@@ -71,8 +71,12 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        3
+        4,
+        5
+      ],
+      [
+        3,
+        5
       ],
       [
         5,
@@ -80,29 +84,29 @@
       ],
       [
         3,
-        5
+        3
+      ],
+      [
+        5,
+        3
       ],
       [
         2,
         4
       ],
       [
-        4,
-        2
-      ],
-      [
         1,
-        5
-      ],
-      [
-        0,
-        3
+        6
       ]
     ],
     "medium": [
       [
-        6,
-        3
+        4,
+        5
+      ],
+      [
+        3,
+        5
       ],
       [
         5,
@@ -110,21 +114,17 @@
       ],
       [
         3,
-        5
-      ],
-      [
-        2,
-        4
+        3
       ]
     ],
     "hard": [
       [
-        6,
-        3
+        4,
+        5
       ],
       [
-        5,
-        2
+        3,
+        5
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
-          "zh": "中音"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A written work edited and published, as by a certain editor or in a certain manner.",
-          "zh": "版"
+          "en": "(usually capitalized) The garden where Plato taught.",
+          "zh": "学院"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "To occupy fully, to take up all of.",
-          "zh": "充满"
+          "en": "A going; journey; travel; voyage; course; passage.",
+          "zh": "票价"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "见过"
+          "en": "To make cold, to sharpen.",
+          "zh": "敏锐的"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "(heading, physical) To strike.",
-          "zh": "击中"
+          "en": "A supporting post attached to the main rafter.",
+          "zh": "吊坠"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "(of an object taller than its width and depth) An inclination away from the vertical.",
-          "zh": "倾斜"
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "停留"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A low-bred, presuming person; a mean, vulgar fellow.",
-          "zh": "计算机辅助设计"
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A mixture of mineral particles and organic material, used to support plant growth.",
-          "zh": "土壤"
+          "en": "A ruminant mammal with antlers and hooves of the family Cervidae, or one of several similar animals from related families of the order Artiodactyla",
+          "zh": "鹿"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-          "zh": "生活"
+          "en": "A convenience store, originally one that sold coffee and similar basic items.",
+          "zh": "咖啡店"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "东方"
+          "en": "To request (information, or an answer to a question).",
+          "zh": "请求（信息或问题的答案）。"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       }
     ]

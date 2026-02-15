@@ -5,67 +5,67 @@
   "cols": 7,
   "solution": [
     [
-      "A",
-      null,
       null,
       "A",
+      "I",
+      "R",
       null,
-      null,
-      "A"
+      "B",
+      "S"
     ],
     [
-      "D",
-      "I",
+      "O",
+      null,
+      "N",
+      "E",
+      "W",
+      "L",
+      "Y"
+    ],
+    [
+      "B",
+      "E",
       "S",
       "T",
-      "A",
-      "N",
+      null,
+      "E",
+      "S"
+    ],
+    [
+      "J",
+      "I",
+      null,
+      "R",
+      null,
+      "S",
       "T"
     ],
     [
-      "V",
-      null,
-      "L",
       "E",
       "G",
       null,
-      "T"
-    ],
-    [
+      "E",
       "A",
-      "G",
-      "O",
-      null,
-      "A",
-      "G",
+      "S",
       "E"
     ],
     [
-      "N",
-      null,
-      "P",
+      "C",
       "H",
-      "I",
+      "E",
+      "A",
+      "T",
       null,
       "M"
     ],
     [
-      "C",
-      "L",
-      "E",
-      "A",
-      "N",
-      "U",
-      "P"
-    ],
-    [
-      "E",
-      null,
-      null,
+      "T",
       "T",
       null,
-      null,
-      "T"
+      "T",
+      "E",
+      "E",
+      null
     ]
   ],
   "prefilled": {
@@ -75,36 +75,36 @@
         2
       ],
       [
-        4,
-        2
+        1,
+        6
       ],
       [
-        2,
-        0
+        5,
+        3
       ],
       [
-        3,
-        2
+        5,
+        6
       ],
       [
         3,
         5
       ],
       [
-        2,
-        6
-      ],
-      [
-        5,
+        6,
         4
       ],
       [
-        2,
-        3
+        1,
+        4
       ],
       [
-        5,
-        0
+        1,
+        5
+      ],
+      [
+        6,
+        5
       ]
     ],
     "medium": [
@@ -113,16 +113,16 @@
         2
       ],
       [
-        4,
-        2
+        1,
+        6
       ],
       [
-        2,
-        0
+        5,
+        3
       ],
       [
-        3,
-        2
+        5,
+        6
       ],
       [
         3,
@@ -135,121 +135,134 @@
         2
       ],
       [
-        4,
-        2
+        1,
+        6
+      ],
+      [
+        5,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "Far off (physically, logically or mentally).",
-          "zh": "遥远"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
+          "en": "Very recently; in the immediate past.",
+          "zh": "新"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "The supreme effort one can make, or has made.",
+          "zh": "最好的"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        }
-      },
-      {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
-          "zh": "菲"
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
         }
       },
       {
-        "num": 12,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The act of cleaning or tidying something.",
-          "zh": "清理"
+          "en": "To violate rules in order to gain advantage from a situation.",
+          "zh": "欺骗"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "A forward move; improvement or progression.",
-          "zh": "进步"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "The action of trying at something.",
-          "zh": "试图"
+          "en": "The act of pulling back or withdrawing, as from something dangerous, or unpleasant.",
+          "zh": "撤退"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "保佑"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "An area of ground that tends evenly upward or downward.",
-          "zh": "坡"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "Another time; once more.",
-          "zh": "再次"
+          "en": "A thing that has physical existence.",
+          "zh": "目的"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
-          "zh": "帽子"
+          "en": "The digit/figure 8.",
+          "zh": "八"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ]

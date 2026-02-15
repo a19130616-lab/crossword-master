@@ -6,80 +6,80 @@
   "solution": [
     [
       null,
-      "R",
-      "U",
-      "L",
-      "E"
-    ],
-    [
-      "I",
-      null,
-      "S",
-      "A",
-      "Y"
-    ],
-    [
-      "S",
-      "H",
-      "A",
       "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      null,
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "H",
+      "O",
+      "N",
       "E"
     ],
     [
-      "L",
-      "E",
-      "G",
+      "P",
+      "I",
+      "N",
       null,
-      "D"
+      "P"
     ],
     [
+      "S",
+      "T",
       "E",
-      "Y",
-      "E",
-      "D",
+      "P",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        3,
         2
       ],
       [
-        2,
-        0
+        1,
+        3
       ],
       [
-        4,
-        3
+        2,
+        1
+      ],
+      [
+        3,
+        4
       ],
       [
         0,
-        3
-      ],
-      [
-        1,
-        0
+        2
       ]
     ],
     "medium": [
       [
-        1,
+        3,
         2
       ],
       [
-        2,
-        0
+        1,
+        3
       ],
       [
-        4,
-        3
+        2,
+        1
       ]
     ],
     "hard": [
       [
-        1,
+        3,
         2
       ]
     ]
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A regulation, law, guideline.",
-          "zh": "规则"
+          "en": "To change place.",
+          "zh": "要换地方。"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A chance to speak; the right or power to influence or make a decision.",
-          "zh": "说"
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "The status or condition of something",
-          "zh": "形状"
+          "en": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+          "zh": "电话"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
+          "en": "A needle without an eye (usually) made of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.",
+          "zh": "别针"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "The manner or the amount of using; use.",
-          "zh": "用法"
+          "en": "By oneself, solitary.",
+          "zh": "独自的"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "圈"
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "An exclamation to get attention.",
-          "zh": "嘿"
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         }
       }
     ]

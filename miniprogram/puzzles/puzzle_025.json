@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "P",
-      null,
-      null,
-      "U",
-      null,
-      "M",
-      "U"
-    ],
-    [
+      "L",
       "A",
-      "C",
-      "R",
-      "E",
-      null,
-      "S",
-      "H",
-      "O",
-      "P"
-    ],
-    [
-      null,
-      "O",
-      "O",
+      "W",
       null,
       null,
-      "U",
       null,
-      "D",
       "S"
     ],
     [
-      null,
-      "O",
-      null,
+      "C",
+      "H",
       "I",
-      "M",
+      null,
+      "A",
+      "P",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      null,
+      "A",
+      "P",
+      "P",
+      "L",
+      "Y",
+      null,
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "B",
+      null,
+      "A",
+      "L",
+      "T",
+      null,
+      "A",
+      "O"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      null,
+      "H",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "R",
+      "T",
+      null,
       "A",
       "G",
-      "E",
-      null
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      "N",
-      null,
-      "L",
-      null,
-      "R",
-      null
-    ],
-    [
-      null,
-      "B",
-      "Y",
-      "T",
-      "E",
-      null,
-      null,
-      "A",
-      null
-    ],
-    [
-      "F",
       "O",
       null,
+      "H",
+      "E"
+    ],
+    [
+      "E",
       "A",
+      null,
       "D",
-      "M",
-      "I",
-      "T",
-      null
-    ],
-    [
-      "L",
-      "O",
+      "A",
+      "N",
       "C",
-      "K",
-      null,
-      "I",
-      "D",
       "E",
-      "A"
+      null
     ],
     [
-      "Y",
-      "K",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "S",
+      null,
+      null,
       null,
       "E",
-      null,
       "N",
-      "S",
+      "D",
       null,
       null
     ]
@@ -108,182 +108,230 @@
     "easy": [
       [
         7,
-        5
+        2
       ],
       [
-        6,
-        4
-      ],
-      [
-        7,
+        3,
         1
       ],
       [
-        8,
-        5
+        0,
+        4
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        0
       ],
       [
         7,
         6
       ],
       [
-        8,
-        3
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        5,
+        1,
         1
       ],
       [
         6,
-        0
+        3
       ],
       [
         3,
         3
       ],
       [
-        4,
+        2,
         2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        3
       ]
     ],
     "medium": [
       [
         7,
-        5
+        2
       ],
       [
-        6,
-        4
-      ],
-      [
-        7,
+        3,
         1
       ],
       [
-        8,
-        5
+        0,
+        4
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        0
       ],
       [
         7,
         6
       ],
       [
-        8,
+        1,
+        1
+      ],
+      [
+        6,
         3
       ],
       [
-        5,
-        2
-      ],
-      [
-        2,
-        2
+        3,
+        3
       ]
     ],
     "hard": [
       [
         7,
-        5
+        2
       ],
       [
-        6,
-        4
-      ],
-      [
-        7,
+        3,
         1
       ],
       [
-        8,
-        5
+        0,
+        4
+      ],
+      [
+        5,
+        7
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+          "zh": "法律"
+        }
+      },
+      {
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
-          "zh": "英亩"
+          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+          "zh": "气"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
-          "zh": "店铺"
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
         }
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "图像"
-        }
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The outer protective layer of the body of any animal, including of a human.",
-          "zh": "皮肤"
+          "en": "To lay or place; to put (one thing to another)",
+          "zh": "申请"
         }
       },
       {
         "num": 13,
-        "row": 5,
-        "col": 1,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
-          "zh": "字节"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
         }
       },
       {
         "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A tool for chopping.",
+          "zh": "黑客"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      },
+      {
+        "num": 22,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
-          "zh": "承认"
+          "en": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+          "zh": "舞蹈"
         }
       },
       {
-        "num": 19,
+        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Something used for fastening, which can only be opened with a key or combination.",
-          "zh": "锁"
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
         }
       },
       {
-        "num": 20,
+        "num": 25,
         "row": 7,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -293,80 +341,89 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
-          "zh": "专业人士"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "The typical state of something, or something that is typical.",
-          "zh": "通常"
+          "en": "A rampart of earth, stones etc. built up for defensive purposes.",
+          "zh": "墙"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
-        "clue": {
-          "en": "One who holds an intermediate position between extremes, as in politics.",
-          "zh": "缓和"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
         "col": 8,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
+          "en": "An act of stroking (moving one's hand over a surface).",
+          "zh": "中风"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A book or an encyclopedia of recipes and cookery tips.",
-          "zh": "食谱"
+          "en": "Conditions suitable for an organism or population of organisms to live.",
+          "zh": "栖息地"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A type of large constricting snake.",
+          "zh": "蟒蛇"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The act of stretching or extending; extension.",
+          "zh": "达到"
         }
       },
       {
         "num": 10,
-        "row": 3,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
-          "zh": "摄入量"
+          "en": "An organized procession consisting of a series of consecutive displays, performances, exhibits, etc. displayed by moving down a street past a crowd of spectators.",
+          "zh": "游行"
         }
       },
       {
-        "num": 15,
-        "row": 6,
+        "num": 12,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
-          "zh": "飞"
+          "en": "(Cause of) discomfort.",
+          "zh": "压力"
         }
       },
       {
-        "num": 17,
-        "row": 6,
-        "col": 5,
+        "num": 19,
+        "row": 5,
+        "col": 4,
         "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
+          "en": "To sing; charm; enchant.",
+          "zh": "大风"
         }
       },
       {
-        "num": 18,
+        "num": 23,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "A low-bred, presuming person; a mean, vulgar fellow.",
+          "zh": "计算机辅助设计"
         }
       }
     ]

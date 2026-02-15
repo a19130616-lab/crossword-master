@@ -6,221 +6,213 @@
   "solution": [
     [
       null,
+      "M",
+      null,
+      null,
       null,
       "S",
       null,
       null,
-      "Z",
+      "P"
+    ],
+    [
+      "F",
+      "E",
+      "L",
+      "L",
       null,
+      "U",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "S",
       null,
+      "A",
+      "C",
+      "N",
+      "E",
+      null,
+      "O"
+    ],
+    [
+      "B",
+      "A",
+      "P",
+      "T",
+      "I",
+      "S",
+      "T",
+      null,
+      "P"
+    ],
+    [
+      "U",
+      null,
+      "A",
+      "I",
+      null,
+      "H",
+      "U",
+      null,
+      "O"
+    ],
+    [
+      "L",
+      null,
+      "S",
+      "T",
+      "R",
+      "I",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      null,
+      "T",
+      "U",
+      "R",
+      "N",
+      null,
+      "A",
       "A"
     ],
     [
-      "R",
-      "A",
-      "P",
-      null,
-      "W",
-      "I",
-      "V",
+      "U",
+      "S",
       "E",
-      "S"
-    ],
-    [
-      null,
-      "L",
-      "A",
       "D",
-      "E",
-      "N",
       null,
-      "X",
-      "S"
-    ],
-    [
+      "E",
       "A",
       "R",
-      null,
-      "E",
+      "L"
+    ],
+    [
       "S",
-      "C",
-      "A",
-      "P",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "A",
-      "S",
-      "T",
       null,
-      "P",
-      "O",
-      "S"
-    ],
-    [
-      "P",
-      "A",
-      "C",
-      "K",
-      "E",
-      "T",
       null,
-      "S",
-      "S"
-    ],
-    [
-      "I",
-      "D",
-      null,
-      "T",
-      "R",
-      "I",
-      "B",
       "E",
-      null
-    ],
-    [
+      null,
+      null,
+      null,
       "N",
-      "Y",
-      "L",
-      "O",
-      "N",
-      null,
-      "I",
-      "D",
-      "S"
-    ],
-    [
-      "E",
-      null,
-      null,
-      "P",
-      null,
-      null,
-      "D",
-      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        3
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        7,
-        0
-      ],
-      [
         2,
-        5
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        4,
         0
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        2,
-        1
       ],
       [
         5,
-        7
+        8
       ],
       [
-        8,
+        6,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        6,
         3
       ],
       [
         6,
-        0
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        7,
-        3
-      ]
-    ],
-    "medium": [
-      [
-        4,
-        3
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        2,
         5
       ],
       [
         3,
-        1
+        2
+      ],
+      [
+        3,
+        4
       ],
       [
         4,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        2,
         0
       ],
       [
-        4,
+        5,
+        8
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        2,
         4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        8
       ]
     ],
     "hard": [
       [
-        4,
-        3
-      ],
-      [
-        1,
+        2,
         0
       ],
       [
-        8,
-        6
+        5,
+        8
       ],
       [
-        0,
+        6,
         2
+      ],
+      [
+        2,
+        4
       ]
     ]
   },
@@ -231,145 +223,17 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A sharp blow with something hard.",
-          "zh": "说唱"
+          "en": "A cutting-down of timber.",
+          "zh": "跌倒了"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A married woman, especially in relation to her spouse.",
-          "zh": "妻子们"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "To fill or load (related to cargo or a shipment).",
-          "zh": "拉登"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "The act of leaving a dangerous or unpleasant situation.",
-          "zh": "逃脱"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "Something of the smallest possible extent; an indivisible unit.",
-          "zh": "至少"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A small pack or package; a little bundle or parcel",
-          "zh": "包"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A socially, ethnically, or politically cohesive group of people.",
-          "zh": "部落"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
         "col": 5,
         "clue": {
-          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
-          "zh": "锌"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "To determine, estimate or judge the value of; to evaluate",
-          "zh": "评估"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
-          "zh": "已经"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A film, or some other dramatic work, set in, the historic (c. 1850-1910) American West (west of the Mississippi river) focusing on conflict between whites and Indians, lawmen and outlaws, ranchers and farmers, or industry (railroads, mining) and agriculture.",
-          "zh": "西"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "To reveal, uncover, make visible, bring to light, introduce to.",
-          "zh": "裸露"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         }
       },
       {
@@ -377,8 +241,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "The top surface of a desk.",
-          "zh": "桌面"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
@@ -386,17 +250,118 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any of several plants, native to mountain habitats, often grown in a rock garden",
-          "zh": "高山"
+          "en": "A person who baptizes",
+          "zh": "浸信会"
         }
       },
       {
-        "num": 22,
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "A long, relatively straight region of a single colour.",
+          "zh": "条纹"
+        }
+      },
+      {
+        "num": 18,
         "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+          "zh": "台面"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The direct rays, light or warmth of the sun.",
+          "zh": "阳光"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Something which is proposed, or offered for consideration or acceptance",
+          "zh": "提议"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Of or relating to fable, myth or legend.",
+          "zh": "神话般的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "The angular distance north or south from a planet's equator, measured along the meridian of that particular point.",
+          "zh": "纬度"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
         "col": 6,
         "clue": {
-          "en": "To issue a command; to tell.",
-          "zh": "出价"
+          "en": "Equipment designed for a particular purpose; an apparatus.",
+          "zh": "设置"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A soft moist mixture, in particular:",
+          "zh": "粘贴"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
         }
       }
     ]

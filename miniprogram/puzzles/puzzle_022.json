@@ -6,79 +6,79 @@
   "solution": [
     [
       null,
-      "H",
-      null,
-      null,
-      null,
-      null,
       "S",
       null,
-      "S"
+      null,
+      null,
+      null,
+      "U",
+      null,
+      "E"
     ],
     [
-      "P",
-      "A",
-      "S",
+      "D",
+      "E",
+      "L",
       "T",
       "A",
       null,
-      "K",
-      "I",
-      "T"
+      "S",
+      "O",
+      "X"
     ],
     [
       null,
-      "L",
-      "A",
+      "G",
+      "O",
       null,
-      "S",
+      "C",
       "H",
+      "E",
+      "A",
+      "P"
+    ],
+    [
+      "F",
+      "A",
+      "R",
+      null,
+      "T",
+      "U",
+      null,
+      "K",
+      "A"
+    ],
+    [
       "I",
+      null,
+      "D",
+      "E",
+      "R",
+      "B",
+      "Y",
+      null,
+      "N"
+    ],
+    [
+      "S",
+      "B",
+      null,
       "N",
-      "E"
+      "E",
+      null,
+      "O",
+      "L",
+      "D"
     ],
     [
       "C",
-      "O",
-      "N",
-      null,
-      "S",
       "A",
-      null,
-      "S",
-      "R"
-    ],
-    [
-      "A",
-      null,
-      "D",
       "R",
-      "A",
-      "M",
-      "A",
+      "D",
+      "S",
       null,
-      "E"
-    ],
-    [
-      "N",
-      "P",
-      null,
-      "A",
-      "U",
-      null,
-      "T",
-      "W",
-      "O"
-    ],
-    [
-      "V",
+      "G",
       "I",
-      "N",
-      "Y",
-      "L",
-      null,
-      "O",
-      "O",
       null
     ],
     [
@@ -86,21 +86,21 @@
       "G",
       "O",
       null,
-      "T",
-      "U",
-      "M",
-      "O",
-      "R"
+      "S",
+      "H",
+      "A",
+      "F",
+      "T"
     ],
     [
-      "S",
-      null,
-      "N",
-      null,
-      null,
-      null,
-      null,
       "L",
+      null,
+      "D",
+      null,
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
@@ -108,89 +108,89 @@
     "easy": [
       [
         0,
-        8
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        2,
         1
       ],
       [
+        6,
+        0
+      ],
+      [
         1,
-        4
+        0
       ],
       [
-        2,
-        4
+        3,
+        8
       ],
       [
-        8,
-        7
+        6,
+        2
       ],
       [
         1,
         6
       ],
       [
-        8,
-        2
+        5,
+        6
       ],
       [
-        6,
-        1
+        2,
+        4
       ],
       [
         7,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
         2
       ],
       [
-        8,
-        0
+        5,
+        7
       ]
     ],
     "medium": [
       [
         0,
-        8
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        2,
         1
       ],
       [
+        6,
+        0
+      ],
+      [
         1,
-        4
+        0
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        6
       ],
       [
         2,
@@ -200,18 +200,18 @@
     "hard": [
       [
         0,
-        8
+        1
       ],
       [
-        5,
+        6,
         0
       ],
       [
-        5,
-        7
+        1,
+        0
       ],
       [
-        4,
+        3,
         8
       ]
     ]
@@ -223,8 +223,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
-          "zh": "面食"
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
         }
       },
       {
@@ -232,8 +232,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "A circular wooden vessel, made of hooped staves.",
-          "zh": "成套工具"
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜队"
         }
       },
       {
@@ -241,8 +241,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "Brightness from a source of light.",
-          "zh": "闪耀"
+          "en": "Low in price; not expensive.",
+          "zh": "便宜的"
         }
       },
       {
@@ -250,8 +250,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
-          "zh": "骗局"
+          "en": "Distant; remote in space.",
+          "zh": "远的"
         }
       },
       {
@@ -259,8 +259,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
-          "zh": "戏剧"
+          "en": "Any of several annual horse races.",
+          "zh": "德比"
         }
       },
       {
@@ -268,8 +268,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
@@ -277,8 +277,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "The univalent radical CH2=CH−, derived from ethylene.",
-          "zh": "乙烯基塑料"
+          "en": "A playing card.",
+          "zh": "一张扑克牌。"
         }
       },
       {
@@ -295,8 +295,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "An abnormal growth; differential diagnosis includes abscess, metaplasia, and neoplasia.",
-          "zh": "瘤"
+          "en": "The entire body of a long weapon, such as an arrow.",
+          "zh": "轴"
         }
       }
     ],
@@ -306,8 +306,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
-          "zh": "晕"
+          "en": "A genre of popular music mainly associated with Mauritius.",
+          "zh": "世嘉"
         }
       },
       {
@@ -315,8 +315,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "The act of using.",
+          "zh": "使用"
         }
       },
       {
@@ -324,8 +324,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A system of recording or reproducing sound that uses two channels, each playing a portion of the original sound in such a way as to create the illusion of locating the sound at a particular position, each offset from the other, thereby more accurately imitating the location of the original sound when the recorded or reproduced sound is heard.",
-          "zh": "立体声"
+          "en": "To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.",
+          "zh": "扩张"
         }
       },
       {
@@ -333,8 +333,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
-          "zh": "沙"
+          "en": "The master of the servants of a household; the master of a feudal manor",
+          "zh": "主"
         }
       },
       {
@@ -342,8 +342,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
-          "zh": "突击"
+          "en": "A female who performs on the stage or in films.",
+          "zh": "演员"
         }
       },
       {
@@ -351,8 +351,8 @@
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       },
       {
@@ -360,8 +360,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "The region back of the knee joint; the popliteal space; the hock.",
-          "zh": "火腿"
+          "en": "The central part, usually cylindrical, of a wheel; the nave.",
+          "zh": "中心"
         }
       },
       {
@@ -369,8 +369,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.",
-          "zh": "帆布"
+          "en": "A public official in certain countries having control of public revenue.",
+          "zh": "财"
         }
       },
       {
@@ -378,8 +378,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "A beam of light or radiation.",
-          "zh": "射线"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
@@ -387,8 +387,8 @@
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
+          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
+          "zh": "瑜伽"
         }
       },
       {
@@ -396,8 +396,8 @@
         "row": 5,
         "col": 1,
         "clue": {
-          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
-          "zh": "猪"
+          "en": "A flexible container made of cloth, paper, plastic, etc.",
+          "zh": "包"
         }
       },
       {
@@ -405,8 +405,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "The hair of the sheep, llama and some other ruminants.",
-          "zh": "羊毛"
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
         }
       },
       {
@@ -414,8 +414,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
         }
       }
     ]

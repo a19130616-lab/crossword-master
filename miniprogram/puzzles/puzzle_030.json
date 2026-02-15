@@ -6,179 +6,141 @@
   "solution": [
     [
       null,
-      "B",
-      null,
-      null,
-      null,
-      null,
-      "I",
-      null,
-      "E"
-    ],
-    [
-      "P",
-      "A",
-      "S",
-      "T",
-      "A",
-      null,
-      "D",
-      "A",
-      "M"
-    ],
-    [
-      null,
-      "S",
-      "E",
-      null,
-      "P",
-      "A",
-      "S",
-      "T",
-      "E"
-    ],
-    [
-      "B",
-      "E",
-      "E",
-      null,
-      "P",
       "G",
       null,
-      "E",
-      "R"
-    ],
-    [
-      "E",
-      null,
-      "M",
-      "A",
-      "L",
-      "E",
       "S",
+      "E",
+      "N",
       null,
-      "G"
+      null,
+      "D"
     ],
     [
-      "C",
-      "U",
+      "B",
+      "R",
+      "A",
+      "N",
+      "D",
       null,
-      "I",
-      "I",
+      "P",
+      "H",
+      "I"
+    ],
+    [
       null,
       "O",
+      "M",
+      null,
+      "G",
+      "E",
+      "O",
+      null,
+      "S"
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      null,
+      "E",
+      "A",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "E",
+      null,
       "N",
+      "S",
+      null,
+      "R",
+      "T",
+      null,
       "E"
     ],
     [
+      "M",
       "A",
-      "S",
+      "G",
+      "I",
+      "C",
+      null,
       "I",
       "D",
-      "E",
+      "S"
+    ],
+    [
+      "P",
       null,
-      "U",
+      "S",
+      "P",
       "A",
+      null,
+      "O",
+      "R",
       null
     ],
     [
-      "M",
-      "E",
-      "N",
-      null,
-      "S",
-      "P",
       "L",
+      "O",
+      "T",
+      null,
+      "F",
       "I",
-      "T"
+      "N",
+      "A",
+      "L"
     ],
     [
       "E",
       null,
-      "G",
       null,
+      "M",
+      "E",
+      "T",
       null,
-      null,
-      null,
-      "L",
+      "W",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        5
-      ],
-      [
         7,
-        8
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        4,
-        8
+        6
       ],
       [
         4,
         6
       ],
       [
-        6,
+        7,
         4
+      ],
+      [
+        7,
+        1
       ],
       [
         2,
-        8
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        7,
-        5
-      ]
-    ],
-    "medium": [
-      [
-        4,
-        5
-      ],
-      [
-        7,
-        8
+        2
       ],
       [
         7,
         7
       ],
       [
-        4,
-        0
+        5,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        6,
+        6
       ],
       [
         3,
@@ -186,45 +148,100 @@
       ],
       [
         1,
+        0
+      ],
+      [
+        1,
         7
       ],
       [
-        6,
-        2
+        1,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        6
       ],
       [
         4,
-        8
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        6,
+        6
       ]
     ],
     "hard": [
       [
-        4,
-        5
-      ],
-      [
         7,
-        8
-      ],
-      [
-        7,
-        7
+        6
       ],
       [
         4,
-        0
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
-          "zh": "面食"
+          "en": "A conflagration; a flame.",
+          "zh": "品牌"
         }
       },
       {
@@ -232,71 +249,89 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
-          "zh": "坝"
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "A soft moist mixture, in particular:",
-          "zh": "粘贴"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 2.",
+          "zh": "二"
         }
       },
       {
         "num": 12,
         "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The third planet of the Solar System; the world upon which humans live.",
+          "zh": "地球"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-          "zh": "蜜蜂"
+          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+          "zh": "魔法"
         }
       },
       {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性（男性）性别或性别之一。"
-        }
-      },
-      {
-        "num": 21,
+        "num": 18,
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        }
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
         }
       },
       {
         "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "To one side; out of the way.",
-          "zh": "放在一边"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
-        }
-      },
-      {
-        "num": 27,
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "A crack or longitudinal fissure.",
-          "zh": "分裂"
+          "en": "Coming at the end of a series; the last game in a sports tournament.",
+          "zh": "最终的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       }
     ],
@@ -306,116 +341,89 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Something from which other things extend; a foundation.",
-          "zh": "根据"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "To become larger, to increase in magnitude.",
+          "zh": "生长"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "To come into view.",
-          "zh": "出现"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "To appear; to look outwardly; to be perceived as.",
-          "zh": "似乎"
+          "en": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
+          "zh": "菜肴"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "适用"
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
+          "zh": "其中"
         }
       },
       {
-        "num": 8,
+        "num": 7,
         "row": 1,
-        "col": 7,
+        "col": 6,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "An allocated amount.",
+          "zh": "部分"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       },
       {
         "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        }
-      },
-      {
-        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To arrive, come (to a place).",
-          "zh": "成为"
+          "en": "A house of worship, especially:",
+          "zh": "寺庙"
         }
       },
       {
-        "num": 16,
+        "num": 14,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
+        "row": 5,
+        "col": 4,
         "clue": {
-          "en": "The spirit or essence of a person usually thought to consist of one's thoughts and personality. Often believed to live on after the person's death.",
-          "zh": "灵魂"
+          "en": "A convenience store, originally one that sold coffee and similar basic items.",
+          "zh": "咖啡店"
         }
       },
       {
         "num": 19,
         "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 22,
-        "row": 5,
         "col": 7,
         "clue": {
-          "en": "The thin, horny plate at the ends of fingers and toes on humans and some other animals.",
-          "zh": "指甲"
-        }
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "The result of a contest that neither side has won; a tie.",
+          "zh": "画"
         }
       }
     ]

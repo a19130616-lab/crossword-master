@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      "B",
+      "H",
       null,
-      "S",
+      "H",
+      "I",
+      "P"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "R",
+      "A"
+    ],
+    [
       "U",
-      "M"
-    ],
-    [
       "R",
-      "E",
-      "T",
-      "R",
-      "O"
-    ],
-    [
-      "E",
-      "D",
       null,
-      "G",
-      "N"
+      "O",
+      "S"
     ],
     [
+      "S",
       "A",
-      "G",
-      "R",
-      "E",
-      "E"
+      "I",
+      "N",
+      "T"
     ],
     [
-      "D",
       "E",
-      "N",
+      "Y",
+      "E",
       null,
-      "Y"
+      "A"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        0
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
+        0,
         3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
       ],
       [
         2,
-        1
+        0
       ],
       [
-        0,
-        3
+        4,
+        1
       ]
     ],
     "medium": [
       [
-        4,
-        0
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
+        0,
         3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        0
+        0,
+        3
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A quantity obtained by addition or aggregation.",
-          "zh": "和"
+          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
+          "zh": "臀部"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Past fashions or trends.",
-          "zh": "复古的"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
+          "en": "A person whom a church or another religious group has officially recognised as especially holy or godly; one eminent for piety and virtue.",
+          "zh": "圣"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ],
@@ -129,8 +129,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A foodstuff made by baking dough made from cereals.",
-          "zh": "面包"
+          "en": "A structure built or serving as an abode of human beings.",
+          "zh": "房子"
         }
       },
       {
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
-          "zh": "钱"
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+          "zh": "祈祷"
         }
       }
     ]
