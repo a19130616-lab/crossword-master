@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "word_count": 3632,
+    "word_count": 3630,
     "source": "enriched_words.json"
   },
   "words": {
@@ -94,15 +94,15 @@
       "clues": {
         "easy": {
           "en": "New information of interest.",
-          "zh": "感兴趣的新信息。"
+          "zh": "新闻"
         },
         "medium": {
           "en": "New information of interest.",
-          "zh": "感兴趣的新信息。"
+          "zh": "新闻"
         },
         "hard": {
           "en": "New information of interest.",
-          "zh": "感兴趣的新信息。"
+          "zh": "新闻"
         }
       }
     },
@@ -2508,15 +2508,15 @@
       "clues": {
         "easy": {
           "en": "A smaller amount or quantity.",
-          "zh": "较小的金额或数量。"
+          "zh": "更少的"
         },
         "medium": {
           "en": "A smaller amount or quantity.",
-          "zh": "较小的金额或数量。"
+          "zh": "更少的"
         },
         "hard": {
           "en": "A smaller amount or quantity.",
-          "zh": "较小的金额或数量。"
+          "zh": "更少的"
         }
       }
     },
@@ -3239,15 +3239,15 @@
       "clues": {
         "easy": {
           "en": "A playing card.",
-          "zh": "一张扑克牌。"
+          "zh": "卡片"
         },
         "medium": {
           "en": "A playing card.",
-          "zh": "一张扑克牌。"
+          "zh": "卡片"
         },
         "hard": {
           "en": "A playing card.",
-          "zh": "一张扑克牌。"
+          "zh": "卡片"
         }
       }
     },
@@ -4140,15 +4140,15 @@
       "clues": {
         "easy": {
           "en": "The tip of the external ear.",
-          "zh": "外耳的尖端。"
+          "zh": "提示"
         },
         "medium": {
           "en": "The tip of the external ear.",
-          "zh": "外耳的尖端。"
+          "zh": "提示"
         },
         "hard": {
           "en": "The tip of the external ear.",
-          "zh": "外耳的尖端。"
+          "zh": "提示"
         }
       }
     },
@@ -17604,15 +17604,15 @@
       "clues": {
         "easy": {
           "en": "A picture, especially a photographic image.",
-          "zh": "图片，尤其是摄影图像。"
+          "zh": "图片"
         },
         "medium": {
           "en": "A picture, especially a photographic image.",
-          "zh": "图片，尤其是摄影图像。"
+          "zh": "图片"
         },
         "hard": {
           "en": "A picture, especially a photographic image.",
-          "zh": "图片，尤其是摄影图像。"
+          "zh": "图片"
         }
       }
     },
@@ -17706,15 +17706,15 @@
       "clues": {
         "easy": {
           "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "给予满足或满足；满足；使快乐。"
+          "zh": "内容"
         },
         "medium": {
           "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "给予满足或满足；满足；使快乐。"
+          "zh": "内容"
         },
         "hard": {
           "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "给予满足或满足；满足；使快乐。"
+          "zh": "内容"
         }
       }
     },
@@ -18403,15 +18403,15 @@
       "clues": {
         "easy": {
           "en": "To set apart; separate.",
-          "zh": "分开；分离。"
+          "zh": "技能"
         },
         "medium": {
           "en": "To set apart; separate.",
-          "zh": "分开；分离。"
+          "zh": "技能"
         },
         "hard": {
           "en": "To set apart; separate.",
-          "zh": "分开；分离。"
+          "zh": "技能"
         }
       }
     },
@@ -18709,15 +18709,15 @@
       "clues": {
         "easy": {
           "en": "The act of returning.",
-          "zh": "回归的动作。"
+          "zh": "返回"
         },
         "medium": {
           "en": "The act of returning.",
-          "zh": "回归的动作。"
+          "zh": "返回"
         },
         "hard": {
           "en": "The act of returning.",
-          "zh": "回归的动作。"
+          "zh": "返回"
         }
       }
     },
@@ -20358,15 +20358,15 @@
       "clues": {
         "easy": {
           "en": "To change place.",
-          "zh": "要换地方。"
+          "zh": "通过"
         },
         "medium": {
           "en": "To change place.",
-          "zh": "要换地方。"
+          "zh": "通过"
         },
         "hard": {
           "en": "To change place.",
-          "zh": "要换地方。"
+          "zh": "通过"
         }
       }
     },
@@ -23129,15 +23129,15 @@
       "clues": {
         "easy": {
           "en": "(physical) Matter, material.",
-          "zh": "（物理）物质，物质。"
+          "zh": "质量"
         },
         "medium": {
           "en": "(physical) Matter, material.",
-          "zh": "（物理）物质，物质。"
+          "zh": "质量"
         },
         "hard": {
           "en": "(physical) Matter, material.",
-          "zh": "（物理）物质，物质。"
+          "zh": "质量"
         }
       }
     },
@@ -29113,15 +29113,15 @@
       "clues": {
         "easy": {
           "en": "Knowledge; the state of knowing.",
-          "zh": "知识;知道的状态。"
+          "zh": "知道"
         },
         "medium": {
           "en": "Knowledge; the state of knowing.",
-          "zh": "知识;知道的状态。"
+          "zh": "知道"
         },
         "hard": {
           "en": "Knowledge; the state of knowing.",
-          "zh": "知识;知道的状态。"
+          "zh": "知道"
         }
       }
     },
@@ -30133,15 +30133,15 @@
       "clues": {
         "easy": {
           "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始、开始或迈出某事的第一步。"
+          "zh": "开始"
         },
         "medium": {
           "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始、开始或迈出某事的第一步。"
+          "zh": "开始"
         },
         "hard": {
           "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始、开始或迈出某事的第一步。"
+          "zh": "开始"
         }
       }
     },
@@ -30405,15 +30405,15 @@
       "clues": {
         "easy": {
           "en": "A laptop computer.",
-          "zh": "一台笔记本电脑。"
+          "zh": "笔记本电脑"
         },
         "medium": {
           "en": "A laptop computer.",
-          "zh": "一台笔记本电脑。"
+          "zh": "笔记本电脑"
         },
         "hard": {
           "en": "A laptop computer.",
-          "zh": "一台笔记本电脑。"
+          "zh": "笔记本电脑"
         }
       }
     },
@@ -32292,15 +32292,15 @@
       "clues": {
         "easy": {
           "en": "The act of standing.",
-          "zh": "站立的动作。"
+          "zh": "站立"
         },
         "medium": {
           "en": "The act of standing.",
-          "zh": "站立的动作。"
+          "zh": "站立"
         },
         "hard": {
           "en": "The act of standing.",
-          "zh": "站立的动作。"
+          "zh": "站立"
         }
       }
     },
@@ -32661,23 +32661,6 @@
         }
       }
     },
-    "EXISTS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "（静态）成为；存在；存在或现实"
-        },
-        "medium": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "（静态）成为；存在；存在或现实"
-        },
-        "hard": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "（静态）成为；存在；存在或现实"
-        }
-      }
-    },
     "FLASHING": {
       "length": 8,
       "clues": {
@@ -32717,15 +32700,15 @@
       "clues": {
         "easy": {
           "en": "The act of surveying; a general view.",
-          "zh": "测量行为；总体看法。"
+          "zh": "调查"
         },
         "medium": {
           "en": "The act of surveying; a general view.",
-          "zh": "测量行为；总体看法。"
+          "zh": "调查"
         },
         "hard": {
           "en": "The act of surveying; a general view.",
-          "zh": "测量行为；总体看法。"
+          "zh": "调查"
         }
       }
     },
@@ -33091,15 +33074,15 @@
       "clues": {
         "easy": {
           "en": "A single act of visiting.",
-          "zh": "单一的访问行为。"
+          "zh": "访问"
         },
         "medium": {
           "en": "A single act of visiting.",
-          "zh": "单一的访问行为。"
+          "zh": "访问"
         },
         "hard": {
           "en": "A single act of visiting.",
-          "zh": "单一的访问行为。"
+          "zh": "访问"
         }
       }
     },
@@ -33975,15 +33958,15 @@
       "clues": {
         "easy": {
           "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "跺脚、爪子或蹄子的行为。"
+          "zh": "邮票"
         },
         "medium": {
           "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "跺脚、爪子或蹄子的行为。"
+          "zh": "邮票"
         },
         "hard": {
           "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "跺脚、爪子或蹄子的行为。"
+          "zh": "邮票"
         }
       }
     },
@@ -34315,15 +34298,15 @@
       "clues": {
         "easy": {
           "en": "A tool used for digging; a pickaxe.",
-          "zh": "用于挖掘的工具；一把镐。"
+          "zh": "挑选"
         },
         "medium": {
           "en": "A tool used for digging; a pickaxe.",
-          "zh": "用于挖掘的工具；一把镐。"
+          "zh": "挑选"
         },
         "hard": {
           "en": "A tool used for digging; a pickaxe.",
-          "zh": "用于挖掘的工具；一把镐。"
+          "zh": "挑选"
         }
       }
     },
@@ -34842,15 +34825,15 @@
       "clues": {
         "easy": {
           "en": "An instance of breaking something into two or more pieces.",
-          "zh": "将某物分成两块或更多块的实例。"
+          "zh": "打破"
         },
         "medium": {
           "en": "An instance of breaking something into two or more pieces.",
-          "zh": "将某物分成两块或更多块的实例。"
+          "zh": "打破"
         },
         "hard": {
           "en": "An instance of breaking something into two or more pieces.",
-          "zh": "将某物分成两块或更多块的实例。"
+          "zh": "打破"
         }
       }
     },
@@ -35029,15 +35012,15 @@
       "clues": {
         "easy": {
           "en": "The act of moving; a movement.",
-          "zh": "移动的行为；一个动作。"
+          "zh": "移动"
         },
         "medium": {
           "en": "The act of moving; a movement.",
-          "zh": "移动的行为；一个动作。"
+          "zh": "移动"
         },
         "hard": {
           "en": "The act of moving; a movement.",
-          "zh": "移动的行为；一个动作。"
+          "zh": "移动"
         }
       }
     },
@@ -35063,15 +35046,15 @@
       "clues": {
         "easy": {
           "en": "To change place.",
-          "zh": "扔"
+          "zh": "投掷"
         },
         "medium": {
           "en": "To change place.",
-          "zh": "扔"
+          "zh": "投掷"
         },
         "hard": {
           "en": "To change place.",
-          "zh": "扔"
+          "zh": "投掷"
         }
       }
     },
@@ -35335,15 +35318,15 @@
       "clues": {
         "easy": {
           "en": "The act of counting or tallying a quantity.",
-          "zh": "计算或统计数量的行为。"
+          "zh": "计数"
         },
         "medium": {
           "en": "The act of counting or tallying a quantity.",
-          "zh": "计算或统计数量的行为。"
+          "zh": "计数"
         },
         "hard": {
           "en": "The act of counting or tallying a quantity.",
-          "zh": "计算或统计数量的行为。"
+          "zh": "计数"
         }
       }
     },
@@ -35811,15 +35794,15 @@
       "clues": {
         "easy": {
           "en": "An act or instance of adding.",
-          "zh": "添加的行为或实例。"
+          "zh": "添加"
         },
         "medium": {
           "en": "An act or instance of adding.",
-          "zh": "添加的行为或实例。"
+          "zh": "添加"
         },
         "hard": {
           "en": "An act or instance of adding.",
-          "zh": "添加的行为或实例。"
+          "zh": "添加"
         }
       }
     },
@@ -37579,15 +37562,15 @@
       "clues": {
         "easy": {
           "en": "A short circuit.",
-          "zh": "短路。"
+          "zh": "短裤"
         },
         "medium": {
           "en": "A short circuit.",
-          "zh": "短路。"
+          "zh": "短裤"
         },
         "hard": {
           "en": "A short circuit.",
-          "zh": "短路。"
+          "zh": "短裤"
         }
       }
     },
@@ -37783,15 +37766,15 @@
       "clues": {
         "easy": {
           "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
+          "zh": "几率"
         },
         "medium": {
           "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
+          "zh": "几率"
         },
         "hard": {
           "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
+          "zh": "几率"
         }
       }
     },
@@ -38327,15 +38310,15 @@
       "clues": {
         "easy": {
           "en": "The act of cutting.",
-          "zh": "切割的动作。"
+          "zh": "切割"
         },
         "medium": {
           "en": "The act of cutting.",
-          "zh": "切割的动作。"
+          "zh": "切割"
         },
         "hard": {
           "en": "The act of cutting.",
-          "zh": "切割的动作。"
+          "zh": "切割"
         }
       }
     },
@@ -39806,15 +39789,15 @@
       "clues": {
         "easy": {
           "en": "An operation in which data is received.",
-          "zh": "接收数据的操作。"
+          "zh": "接收"
         },
         "medium": {
           "en": "An operation in which data is received.",
-          "zh": "接收数据的操作。"
+          "zh": "接收"
         },
         "hard": {
           "en": "An operation in which data is received.",
-          "zh": "接收数据的操作。"
+          "zh": "接收"
         }
       }
     },
@@ -40401,15 +40384,15 @@
       "clues": {
         "easy": {
           "en": "(always meter) A device that measures things.",
-          "zh": "（始终计量）测量事物的设备。"
+          "zh": "米"
         },
         "medium": {
           "en": "(always meter) A device that measures things.",
-          "zh": "（始终计量）测量事物的设备。"
+          "zh": "米"
         },
         "hard": {
           "en": "(always meter) A device that measures things.",
-          "zh": "（始终计量）测量事物的设备。"
+          "zh": "米"
         }
       }
     },
@@ -41761,15 +41744,15 @@
       "clues": {
         "easy": {
           "en": "A deal to swap goods or services.",
-          "zh": "交换商品或服务的交易。"
+          "zh": "柜台"
         },
         "medium": {
           "en": "A deal to swap goods or services.",
-          "zh": "交换商品或服务的交易。"
+          "zh": "柜台"
         },
         "hard": {
           "en": "A deal to swap goods or services.",
-          "zh": "交换商品或服务的交易。"
+          "zh": "柜台"
         }
       }
     },
@@ -42883,15 +42866,15 @@
       "clues": {
         "easy": {
           "en": "The act of repairing something.",
-          "zh": "修理某物的行为。"
+          "zh": "修理"
         },
         "medium": {
           "en": "The act of repairing something.",
-          "zh": "修理某物的行为。"
+          "zh": "修理"
         },
         "hard": {
           "en": "The act of repairing something.",
-          "zh": "修理某物的行为。"
+          "zh": "修理"
         }
       }
     },
@@ -43036,15 +43019,15 @@
       "clues": {
         "easy": {
           "en": "The act of gaining; acquisition.",
-          "zh": "获得的行为；获得。"
+          "zh": "收获"
         },
         "medium": {
           "en": "The act of gaining; acquisition.",
-          "zh": "获得的行为；获得。"
+          "zh": "收获"
         },
         "hard": {
           "en": "The act of gaining; acquisition.",
-          "zh": "获得的行为；获得。"
+          "zh": "收获"
         }
       }
     },
@@ -43240,15 +43223,15 @@
       "clues": {
         "easy": {
           "en": "An act of thinking; consideration (of something).",
-          "zh": "一种思考的行为；考虑（某事）。"
+          "zh": "思考"
         },
         "medium": {
           "en": "An act of thinking; consideration (of something).",
-          "zh": "一种思考的行为；考虑（某事）。"
+          "zh": "思考"
         },
         "hard": {
           "en": "An act of thinking; consideration (of something).",
-          "zh": "一种思考的行为；考虑（某事）。"
+          "zh": "思考"
         }
       }
     },
@@ -45246,15 +45229,15 @@
       "clues": {
         "easy": {
           "en": "A hole or break caused by tearing.",
-          "zh": "因撕裂而造成的孔洞或断裂。"
+          "zh": "眼泪"
         },
         "medium": {
           "en": "A hole or break caused by tearing.",
-          "zh": "因撕裂而造成的孔洞或断裂。"
+          "zh": "眼泪"
         },
         "hard": {
           "en": "A hole or break caused by tearing.",
-          "zh": "因撕裂而造成的孔洞或断裂。"
+          "zh": "眼泪"
         }
       }
     },
@@ -46317,15 +46300,15 @@
       "clues": {
         "easy": {
           "en": "To request (information, or an answer to a question).",
-          "zh": "请求（信息或问题的答案）。"
+          "zh": "询问"
         },
         "medium": {
           "en": "To request (information, or an answer to a question).",
-          "zh": "请求（信息或问题的答案）。"
+          "zh": "询问"
         },
         "hard": {
           "en": "To request (information, or an answer to a question).",
-          "zh": "请求（信息或问题的答案）。"
+          "zh": "询问"
         }
       }
     },
@@ -46419,15 +46402,15 @@
       "clues": {
         "easy": {
           "en": "An act of selling.",
-          "zh": "一种销售行为。"
+          "zh": "销售"
         },
         "medium": {
           "en": "An act of selling.",
-          "zh": "一种销售行为。"
+          "zh": "销售"
         },
         "hard": {
           "en": "An act of selling.",
-          "zh": "一种销售行为。"
+          "zh": "销售"
         }
       }
     },
@@ -46708,15 +46691,15 @@
       "clues": {
         "easy": {
           "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性（男性）性别或性别之一。"
+          "zh": "男性"
         },
         "medium": {
           "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性（男性）性别或性别之一。"
+          "zh": "男性"
         },
         "hard": {
           "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性（男性）性别或性别之一。"
+          "zh": "男性"
         }
       }
     },
@@ -46912,15 +46895,15 @@
       "clues": {
         "easy": {
           "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "一种中型啮齿动物，属于黄鼠属。"
+          "zh": "老鼠"
         },
         "medium": {
           "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "一种中型啮齿动物，属于黄鼠属。"
+          "zh": "老鼠"
         },
         "hard": {
           "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "一种中型啮齿动物，属于黄鼠属。"
+          "zh": "老鼠"
         }
       }
     },
@@ -47150,15 +47133,15 @@
       "clues": {
         "easy": {
           "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性（女性）性别或性别之一。"
+          "zh": "女性"
         },
         "medium": {
           "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性（女性）性别或性别之一。"
+          "zh": "女性"
         },
         "hard": {
           "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性（女性）性别或性别之一。"
+          "zh": "女性"
         }
       }
     },
@@ -49615,15 +49598,15 @@
       "clues": {
         "easy": {
           "en": "A low class bar, a speakeasy.",
-          "zh": "一个低级酒吧，一个地下酒吧。"
+          "zh": "说话"
         },
         "medium": {
           "en": "A low class bar, a speakeasy.",
-          "zh": "一个低级酒吧，一个地下酒吧。"
+          "zh": "说话"
         },
         "hard": {
           "en": "A low class bar, a speakeasy.",
-          "zh": "一个低级酒吧，一个地下酒吧。"
+          "zh": "说话"
         }
       }
     },
@@ -49938,15 +49921,15 @@
       "clues": {
         "easy": {
           "en": "A simulation or simulator.",
-          "zh": "模拟或模拟器。"
+          "zh": "模拟"
         },
         "medium": {
           "en": "A simulation or simulator.",
-          "zh": "模拟或模拟器。"
+          "zh": "模拟"
         },
         "hard": {
           "en": "A simulation or simulator.",
-          "zh": "模拟或模拟器。"
+          "zh": "模拟"
         }
       }
     },
@@ -50720,15 +50703,15 @@
       "clues": {
         "easy": {
           "en": "An instance of exhibiting.",
-          "zh": "一个展示的例子。"
+          "zh": "展览"
         },
         "medium": {
           "en": "An instance of exhibiting.",
-          "zh": "一个展示的例子。"
+          "zh": "展览"
         },
         "hard": {
           "en": "An instance of exhibiting.",
-          "zh": "一个展示的例子。"
+          "zh": "展览"
         }
       }
     },
@@ -51298,15 +51281,15 @@
       "clues": {
         "easy": {
           "en": "The act of examining.",
-          "zh": "检查的行为。"
+          "zh": "考试"
         },
         "medium": {
           "en": "The act of examining.",
-          "zh": "检查的行为。"
+          "zh": "考试"
         },
         "hard": {
           "en": "The act of examining.",
-          "zh": "检查的行为。"
+          "zh": "考试"
         }
       }
     },
@@ -54443,15 +54426,15 @@
       "clues": {
         "easy": {
           "en": "The act of killing.",
-          "zh": "杀人的行为。"
+          "zh": "击杀"
         },
         "medium": {
           "en": "The act of killing.",
-          "zh": "杀人的行为。"
+          "zh": "击杀"
         },
         "hard": {
           "en": "The act of killing.",
-          "zh": "杀人的行为。"
+          "zh": "击杀"
         }
       }
     },
@@ -56220,23 +56203,6 @@
         "hard": {
           "en": "(heading, physical) To strike.",
           "zh": "击中"
-        }
-      }
-    },
-    "BEINGS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A living creature.",
-          "zh": "一个活物。"
-        },
-        "medium": {
-          "en": "A living creature.",
-          "zh": "一个活物。"
-        },
-        "hard": {
-          "en": "A living creature.",
-          "zh": "一个活物。"
         }
       }
     },
@@ -58098,15 +58064,15 @@
       "clues": {
         "easy": {
           "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "用于沐浴的浴缸或水池：浴缸。"
+          "zh": "浴室"
         },
         "medium": {
           "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "用于沐浴的浴缸或水池：浴缸。"
+          "zh": "浴室"
         },
         "hard": {
           "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "用于沐浴的浴缸或水池：浴缸。"
+          "zh": "浴室"
         }
       }
     },
@@ -60920,15 +60886,15 @@
       "clues": {
         "easy": {
           "en": "A hill or mountain.",
-          "zh": "小山或山。"
+          "zh": "安装"
         },
         "medium": {
           "en": "A hill or mountain.",
-          "zh": "小山或山。"
+          "zh": "安装"
         },
         "hard": {
           "en": "A hill or mountain.",
-          "zh": "小山或山。"
+          "zh": "安装"
         }
       }
     },
