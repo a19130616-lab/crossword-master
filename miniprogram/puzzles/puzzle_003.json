@@ -5,95 +5,121 @@
   "cols": 5,
   "solution": [
     [
-      "A",
+      "H",
       null,
-      null,
-      null,
-      "I"
+      "H",
+      "I",
+      "P"
     ],
     [
-      "B",
-      "A",
-      "S",
+      "O",
+      "P",
       "E",
-      "D"
-    ],
-    [
-      "U",
-      null,
-      "I",
-      null,
-      "E"
-    ],
-    [
-      "S",
-      "I",
-      "G",
-      "M",
+      "R",
       "A"
     ],
     [
+      "U",
+      "R",
+      null,
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "E",
+      "Y",
       "E",
       null,
-      null,
-      null,
-      "L"
+      "A"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
         2,
         0
       ],
       [
-        3,
+        4,
         1
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        3,
-        4
       ]
     ],
     "medium": [
       [
-        2,
-        0
+        0,
+        3
       ],
       [
         3,
-        1
+        2
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        2,
-        0
+        0,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "To give as its foundation or starting point; to lay the foundation of.",
-          "zh": "基于"
+          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
+          "zh": "臀部"
         }
       },
       {
         "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
-          "zh": "希腊字母σ"
+          "en": "A person whom a church or another religious group has officially recognised as especially holy or godly; one eminent for piety and virtue.",
+          "zh": "圣"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ],
@@ -103,26 +129,35 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
-          "zh": "虐待"
+          "en": "A structure built or serving as an abode of human beings.",
+          "zh": "房子"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "A __nature, especially on emails or newsgroup postings.",
-          "zh": "信号"
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+          "zh": "祈祷"
         }
       }
     ]

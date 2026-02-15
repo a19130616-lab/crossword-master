@@ -6,221 +6,213 @@
   "solution": [
     [
       null,
-      null,
-      "A",
-      null,
-      null,
-      "Z",
+      "M",
       null,
       null,
-      "H"
-    ],
-    [
-      "T",
-      "O",
-      "Y",
       null,
-      "V",
-      "I",
-      "D",
-      "E",
-      "O"
-    ],
-    [
-      null,
-      "B",
-      "E",
-      "G",
-      "I",
-      "N",
-      null,
-      "X",
-      "L"
-    ],
-    [
-      "E",
       "S",
       null,
-      "L",
-      "O",
-      "C",
-      "K",
-      "E",
-      "D"
-    ],
-    [
-      "M",
-      "E",
-      "D",
-      "A",
-      "L",
       null,
-      "I",
-      "C",
-      "E"
+      "P"
     ],
     [
-      "P",
-      "R",
-      "I",
-      "C",
+      "F",
       "E",
-      "D",
+      "L",
+      "L",
       null,
       "U",
+      "S",
+      "E",
       "R"
     ],
     [
-      "I",
-      "V",
+      "A",
+      "S",
       null,
-      "I",
+      "A",
+      "C",
       "N",
-      "P",
-      "U",
-      "T",
-      null
+      "E",
+      null,
+      "O"
     ],
     [
+      "B",
+      "A",
+      "P",
+      "T",
+      "I",
+      "S",
+      "T",
+      null,
+      "P"
+    ],
+    [
+      "U",
+      null,
+      "A",
+      "I",
+      null,
+      "H",
+      "U",
+      null,
+      "O"
+    ],
+    [
+      "L",
+      null,
+      "S",
+      "T",
       "R",
+      "I",
+      "P",
       "E",
+      "S"
+    ],
+    [
+      "O",
+      null,
+      "T",
+      "U",
+      "R",
+      "N",
+      null,
+      "A",
+      "A"
+    ],
+    [
+      "U",
       "S",
       "E",
-      "T",
+      "D",
       null,
-      "N",
       "E",
-      "W"
+      "A",
+      "R",
+      "L"
     ],
     [
+      "S",
+      null,
+      null,
       "E",
       null,
       null,
-      "R",
       null,
-      null,
-      "I",
-      null,
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
+        2,
         0
-      ],
-      [
-        1,
-        8
       ],
       [
         5,
-        1
+        8
       ],
       [
         6,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        7,
-        0
+        2
       ],
       [
         2,
         4
       ],
       [
-        0,
-        2
+        3,
+        0
       ],
       [
         3,
         3
       ],
       [
-        8,
-        0
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        3,
+        5,
         6
       ],
       [
-        7,
-        1
+        2,
+        8
       ],
       [
-        2,
+        7,
         5
       ],
       [
-        5,
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
         5
       ]
     ],
     "medium": [
       [
-        6,
+        2,
         0
-      ],
-      [
-        1,
-        8
       ],
       [
         5,
-        1
+        8
       ],
       [
         6,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        7,
-        0
+        2
       ],
       [
         2,
         4
       ],
       [
-        0,
-        2
+        3,
+        0
       ],
       [
         3,
         3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        8
       ]
     ],
     "hard": [
       [
-        6,
+        2,
         0
       ],
       [
-        1,
+        5,
         8
       ],
       [
-        5,
-        1
+        6,
+        2
       ],
       [
-        6,
-        1
+        2,
+        4
       ]
     ]
   },
@@ -231,145 +223,17 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
+          "en": "A cutting-down of timber.",
+          "zh": "跌倒了"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Television, television show, movie.",
-          "zh": "视频"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "__ning; start.",
-          "zh": "开始"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To become fastened in place.",
-          "zh": "锁定"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "A stamped metal disc used as a personal ornament, a charm, or a religious object.",
-          "zh": "勋章"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "To determine the monetary value of (an item); to put a price on.",
-          "zh": "定价"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The act or process of putting in; infusion.",
-          "zh": "输入"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "To set back to the initial state.",
-          "zh": "重置"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "Things that are __.",
-          "zh": "新的"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Ever, always",
-          "zh": "是啊"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
         "col": 5,
         "clue": {
-          "en": "A chemical element (symbol Zn) with an atomic number of 30, a slightly brittle blue-silvery metal.",
-          "zh": "锌"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A thing that holds.",
-          "zh": "持有者"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "To notice or view, especially carefully or with attention to detail.",
-          "zh": "观察"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "An assailant.",
-          "zh": "暴力"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "To kill as punishment for capital crimes.",
-          "zh": "执行"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         }
       },
       {
@@ -377,8 +241,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "A large body of ice which flows under its own mass, usually downhill.",
-          "zh": "冰川"
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       },
       {
@@ -386,17 +250,118 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(furniture) Following or imitating a style popular during the First French __ (1804–1814).",
-          "zh": "帝国"
+          "en": "A person who baptizes",
+          "zh": "浸信会"
         }
       },
       {
-        "num": 22,
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "A long, relatively straight region of a single colour.",
+          "zh": "条纹"
+        }
+      },
+      {
+        "num": 18,
         "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+          "zh": "台面"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The direct rays, light or warmth of the sun.",
+          "zh": "阳光"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Something which is proposed, or offered for consideration or acceptance",
+          "zh": "提议"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Of or relating to fable, myth or legend.",
+          "zh": "神话般的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "The angular distance north or south from a planet's equator, measured along the meridian of that particular point.",
+          "zh": "纬度"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
         "col": 6,
         "clue": {
-          "en": "__versity.",
-          "zh": "大学"
+          "en": "Equipment designed for a particular purpose; an apparatus.",
+          "zh": "设置"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A soft moist mixture, in particular:",
+          "zh": "粘贴"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
         }
       }
     ]

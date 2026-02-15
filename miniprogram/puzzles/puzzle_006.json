@@ -5,73 +5,73 @@
   "cols": 5,
   "solution": [
     [
-      null,
       "A",
-      "R",
-      "M",
-      null
-    ],
-    [
-      "L",
-      "T",
       null,
-      "E",
-      "M"
+      null,
+      null,
+      "H"
     ],
     [
-      "B",
-      "L",
-      "A",
-      "D",
-      "E"
+      "P",
+      "I",
+      "Z",
+      "Z",
+      "A"
     ],
     [
-      "S",
       "A",
       null,
       "I",
-      "T"
+      null,
+      "N"
     ],
     [
-      null,
-      "S",
-      "P",
+      "R",
       "A",
-      null
+      "P",
+      "I",
+      "D"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        4
-      ],
-      [
         3,
         4
       ],
       [
-        3,
-        0
+        0,
+        4
       ],
       [
         2,
+        2
+      ],
+      [
+        4,
         4
       ]
     ],
     "medium": [
       [
-        1,
+        3,
         4
       ],
       [
-        3,
+        0,
         4
       ]
     ],
     "hard": [
       [
-        1,
+        3,
         4
       ]
     ]
@@ -79,30 +79,21 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
+        "num": 3,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "The sharp cutting edge of a knife, chisel, or other tool, a razor __/sword.",
-          "zh": "刀刃"
+          "en": "A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit",
+          "zh": "比萨"
         }
       },
       {
-        "num": 9,
-        "row": 4,
-        "col": 1,
+        "num": 5,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
+          "en": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
+          "zh": "迅速的"
         }
       }
     ],
@@ -110,37 +101,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "A bound collection of maps often including tables, illustrations or other text.",
-          "zh": "地图集"
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
-          "zh": "媒体"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A pound (unit of weight).",
-          "zh": "磅"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "Easy to use, useful.",
+          "zh": "便利"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A twist or fold.",
+          "zh": "拉链"
         }
       }
     ]

@@ -6,332 +6,314 @@
   "solution": [
     [
       null,
-      "W",
       null,
       "D",
-      "P",
-      "I",
       null,
       null,
-      "B"
+      "S",
+      null,
+      null,
+      "S"
     ],
     [
-      "S",
-      "I",
-      "G",
-      "M",
+      "C",
       "A",
+      "R",
       null,
-      "I",
-      "L",
+      "M",
+      "O",
+      "R",
+      "A",
       "L"
     ],
     [
       null,
-      "K",
-      "R",
-      null,
-      "I",
       "N",
-      "N",
-      null,
-      "O"
-    ],
-    [
-      "D",
-      "I",
-      "E",
-      null,
-      "D",
-      "E",
-      "V",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      null,
-      "A",
-      "T",
-      null,
-      "W",
-      "A",
-      null,
-      "D"
-    ],
-    [
-      "U",
+      "Y",
       "L",
-      "T",
-      "R",
-      "A",
+      "O",
+      "N",
       null,
       "L",
-      "I",
       "E"
     ],
     [
-      "B",
+      "P",
+      "O",
       null,
+      "E",
+      "N",
+      "G",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "T",
       "L",
-      "I",
-      "T",
+      "A",
+      "S",
       null,
-      "I",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
       "T",
+      "S",
+      null,
+      "B",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      null,
+      "N",
+      "E",
+      "W",
+      "E",
+      "R",
       null
     ],
     [
-      "L",
-      "A",
-      "Y",
-      null,
       "O",
-      "L",
+      "R",
       "D",
       "E",
-      "R"
+      "R",
+      null,
+      "G",
+      "A",
+      "P"
     ],
     [
-      "E",
+      "R",
       null,
       null,
-      "A",
-      "M",
-      "P",
+      "D",
       null,
-      "M",
+      null,
+      "G",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        4,
+        2
+      ],
+      [
         1,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        3,
         6
       ],
       [
-        5,
-        2
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        6,
-        0
-      ],
-      [
         3,
-        2
+        3
       ],
       [
-        7,
+        2,
         8
       ],
       [
-        6,
-        6
+        5,
+        4
       ],
       [
-        1,
-        6
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        7,
-        1
+        8,
+        0
       ],
       [
         3,
-        1
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        4,
+        7
       ],
       [
         6,
         7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        1,
+        8
       ]
     ],
     "medium": [
       [
+        4,
+        2
+      ],
+      [
         1,
-        4
+        6
       ],
       [
         3,
-        5
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        8,
+        0
       ],
       [
         3,
         6
       ],
       [
-        5,
-        2
+        7,
+        6
       ],
       [
-        7,
-        0
-      ],
-      [
-        7,
+        4,
         7
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        7,
-        8
       ]
     ],
     "hard": [
       [
+        4,
+        2
+      ],
+      [
         1,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        3,
         6
       ],
       [
-        5,
-        2
+        3,
+        3
+      ],
+      [
+        2,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Dots per inch",
-          "zh": "分辨率"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
-          "zh": "希腊字母σ"
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
         "col": 4,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "(of a narrative) The ethical significance or practical lesson.",
+          "zh": "道德"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 0,
+        "num": 8,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "死"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "(Eastern Australia) A type of processed meat sausage.",
-          "zh": "德文郡"
+          "en": "(heading) To interact socially.",
+          "zh": "从事"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
         }
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "An __royalist in France.",
-          "zh": "极端主义者"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
+        "row": 4,
         "col": 6,
         "clue": {
-          "en": "The terrain and conditions surrounding the ball before it is struck.",
-          "zh": "说谎"
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
         }
       },
       {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "To start (a fire).",
-          "zh": "点亮"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
+        "num": 17,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "Arrangement or relationship; __out.",
-          "zh": "躺着"
+          "en": "A short circuit.",
+          "zh": "短路。"
+        }
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Recently made, or created.",
+          "zh": "较新的"
         }
       },
       {
         "num": 23,
         "row": 7,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
-          "zh": "较老的"
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 24,
+        "row": 7,
+        "col": 6,
         "clue": {
-          "en": "Short for __ere.",
-          "zh": "放大器"
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
         }
       }
     ],
@@ -339,55 +321,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A collaborative website which can be directly edited merely by using a web browser, often by anyone with access to it.",
-          "zh": "维基百科"
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A musical composition with lyrics for voice or voices, performed by singing.",
+          "zh": "歌曲"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "To give money or other compensation to in exchange for goods or services.",
-          "zh": "有薪酬的"
+          "en": "The part of a garment that covers the arm.",
+          "zh": "袖子"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发女郎"
+          "en": "An additional one of the same kind.",
+          "zh": "其他"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "To a great extent or degree.",
-          "zh": "大大地"
+          "en": "A terrifying and dangerous creature.",
+          "zh": "怪物"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "Not valid; not true, correct, acceptable or appropriate.",
-          "zh": "无效的"
+          "en": "A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
+          "zh": "代数"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "Things that are __.",
-          "zh": "新的"
+          "en": "Having much learning, knowledgeable, erudite; highly educated.",
+          "zh": "学到了"
         }
       },
       {
@@ -395,35 +386,17 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Twice the number, amount, size, etc.",
-          "zh": "双倍的"
+          "en": "A shepherd; someone who tends to a flock of animals.",
+          "zh": "牧师"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
+        "num": 22,
+        "row": 6,
+        "col": 6,
         "clue": {
-          "en": "__athlon",
-          "zh": "三"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "A distinct physical object.",
-          "zh": "物品"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]

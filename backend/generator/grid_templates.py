@@ -4,7 +4,7 @@ Use '.' for empty cells and '#' for black cells.
 
 TEMPLATES = {
     5: [
-        # 3-6 black cells, avoid heavy 5-letter intersections
+        # 3-6 black cells, asymmetric to avoid duplicate across/down words
         [
             "#...#",
             "..#..",
@@ -34,11 +34,11 @@ TEMPLATES = {
             "#....",
         ],
         [
-            ".#.#.",
+            ".#...",
             ".....",
             "..#..",
             ".....",
-            ".#.#.",
+            "...#.",
         ],
         [
             ".....",

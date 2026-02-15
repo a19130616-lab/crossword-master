@@ -6,140 +6,140 @@
   "solution": [
     [
       null,
-      "S",
+      "A",
       "I",
-      "M",
+      "R",
       null,
-      "C",
-      "B"
+      "B",
+      "S"
     ],
     [
-      "S",
+      "O",
       null,
       "N",
-      "A",
-      "V",
-      "A",
-      "L"
+      "E",
+      "W",
+      "L",
+      "Y"
     ],
     [
-      "C",
-      "A",
+      "B",
+      "E",
       "S",
       "T",
       null,
-      "N",
-      "O"
+      "E",
+      "S"
     ],
     [
-      "R",
+      "J",
+      "I",
+      null,
       "R",
       null,
-      "C",
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "G",
       null,
+      "E",
       "A",
-      "N"
-    ],
-    [
-      "O",
-      "M",
-      null,
-      "H",
-      "E",
-      "L",
-      "D"
-    ],
-    [
-      "L",
-      "O",
-      "W",
-      "E",
-      "R",
-      null,
+      "S",
       "E"
     ],
     [
-      "L",
-      "R",
-      null,
-      "D",
+      "C",
+      "H",
+      "E",
       "A",
       "T",
+      null,
+      "M"
+    ],
+    [
+      "T",
+      "T",
+      null,
+      "T",
+      "E",
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        0
+        1,
+        2
       ],
       [
-        0,
+        1,
         6
       ],
       [
-        6,
+        5,
         3
       ],
       [
-        0,
-        3
-      ],
-      [
-        2,
-        3
+        5,
+        6
       ],
       [
         3,
-        1
+        5
       ],
       [
-        4,
-        5
+        6,
+        4
+      ],
+      [
+        1,
+        4
       ],
       [
         1,
         5
       ],
       [
-        1,
-        3
+        6,
+        5
       ]
     ],
     "medium": [
       [
-        5,
-        0
+        1,
+        2
       ],
       [
-        0,
+        1,
         6
       ],
       [
-        6,
+        5,
         3
       ],
       [
-        0,
-        3
+        5,
+        6
       ],
       [
-        2,
-        3
+        3,
+        5
       ]
     ],
     "hard": [
       [
-        5,
-        0
+        1,
+        2
       ],
       [
-        0,
+        1,
         6
       ],
       [
-        6,
+        5,
         3
       ]
     ]
@@ -151,8 +151,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A __ulation or __ulator.",
-          "zh": "模拟"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
@@ -160,8 +160,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "Of or relating to a navy.",
-          "zh": "海军"
+          "en": "Very recently; in the immediate past.",
+          "zh": "新"
         }
       },
       {
@@ -169,8 +169,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "An act of throwing.",
-          "zh": "投掷"
+          "en": "The supreme effort one can make, or has made.",
+          "zh": "最好的"
         }
       },
       {
@@ -178,8 +178,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "To grasp or grip.",
-          "zh": "握住"
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
         }
       },
       {
@@ -187,8 +187,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
-          "zh": "降低"
+          "en": "To violate rules in order to gain advantage from a situation.",
+          "zh": "欺骗"
         }
       },
       {
@@ -196,8 +196,8 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "(degree) To a given extent or degree.",
-          "zh": "数据"
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
         }
       }
     ],
@@ -216,8 +216,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配的"
+          "en": "The act of pulling back or withdrawing, as from something dangerous, or unpleasant.",
+          "zh": "撤退"
         }
       },
       {
@@ -225,8 +225,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "An artificial waterway or artificially improved river used for travel, shipping, or irrigation.",
-          "zh": "运河"
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "保佑"
         }
       },
       {
@@ -234,8 +234,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发女郎"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
@@ -243,8 +243,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A roll of paper or parchment; a writing formed into a roll.",
-          "zh": "滚动"
+          "en": "A thing that has physical existence.",
+          "zh": "目的"
         }
       },
       {
@@ -252,8 +252,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
-          "zh": "盔甲"
+          "en": "The digit/figure 8.",
+          "zh": "八"
         }
       },
       {
@@ -261,8 +261,8 @@
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "A time period of indeterminate length, gen__lly more than one year.",
-          "zh": "时代"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ]

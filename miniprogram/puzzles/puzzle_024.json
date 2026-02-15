@@ -6,242 +6,225 @@
   "solution": [
     [
       null,
-      "N",
-      null,
-      "I",
-      "C",
       "E",
       null,
       null,
-      "S"
-    ],
-    [
-      "K",
-      "A",
-      "R",
-      "M",
-      "A",
+      null,
       null,
       "A",
-      "R",
-      "C"
+      null,
+      "T"
     ],
     [
-      null,
-      "T",
+      "P",
+      "L",
       "A",
+      "Z",
+      "A",
+      null,
+      "L",
+      "O",
+      "W"
+    ],
+    [
       null,
       "S",
-      "O",
-      "C",
+      "L",
       null,
-      "H"
-    ],
-    [
-      "D",
-      "O",
-      "N",
-      null,
-      "A",
-      "W",
-      "A",
-      "R",
+      "B",
+      "E",
+      "L",
+      "L",
       "E"
     ],
     [
-      "O",
-      null,
-      "G",
-      "U",
-      null,
-      "N",
-      "D",
-      null,
-      "M"
-    ],
-    [
-      "S",
       "P",
-      "I",
-      "N",
       "E",
+      "T",
       null,
-      "E",
-      "R",
-      "A"
-    ],
-    [
+      "S",
       "A",
       null,
-      "N",
-      "I",
-      "L",
+      "D",
+      "N"
+    ],
+    [
+      "E",
       null,
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      null,
+      "T"
+    ],
+    [
+      "R",
+      "T",
+      null,
+      "H",
+      "N",
+      null,
+      "D",
+      "R",
+      "Y"
+    ],
+    [
       "M",
+      "A",
+      "G",
+      "I",
+      "C",
+      null,
+      "D",
       "O",
       null
     ],
     [
-      "G",
       "I",
-      "G",
+      "N",
+      "N",
       null,
+      "E",
       "S",
-      "T",
-      "Y",
-      "L",
-      "E"
+      "S",
+      "A",
+      "Y"
     ],
     [
-      "E",
+      "T",
+      null,
+      "U",
       null,
       null,
-      "B",
-      "E",
-      "E",
       null,
-      "L",
+      null,
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        2,
         1
       ],
       [
         5,
-        3
+        1
+      ],
+      [
+        4,
+        5
       ],
       [
         5,
         0
       ],
       [
-        0,
-        5
-      ],
-      [
-        6,
+        2,
         2
       ],
       [
-        5,
-        7
+        6,
+        4
       ],
       [
-        7,
+        6,
         1
       ],
       [
         0,
-        8
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
       ],
       [
         2,
-        1
-      ],
-      [
-        6,
-        4
+        6
       ],
       [
         4,
-        6
+        8
       ],
       [
-        6,
-        6
+        3,
+        0
       ],
       [
-        0,
-        4
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        0,
-        3
+        4,
+        0
       ]
     ],
     "medium": [
       [
-        1,
+        2,
         1
       ],
       [
         5,
-        3
+        1
+      ],
+      [
+        4,
+        5
       ],
       [
         5,
         0
       ],
       [
-        0,
-        5
-      ],
-      [
-        6,
+        2,
         2
       ],
       [
-        5,
-        7
+        6,
+        4
       ],
       [
-        7,
+        6,
         1
       ],
       [
         0,
-        8
-      ],
-      [
-        2,
         1
       ]
     ],
     "hard": [
       [
-        1,
+        2,
         1
       ],
       [
         5,
-        3
+        1
+      ],
+      [
+        4,
+        5
       ],
       [
         5,
         0
-      ],
-      [
-        0,
-        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
-          "zh": "业力"
+          "en": "A town's public square.",
+          "zh": "广场"
         }
       },
       {
@@ -249,89 +232,71 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
-          "zh": "弧"
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "__iology or __ial science.",
-          "zh": "社会组织"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A university professor, particularly one at Oxford or Cambridge.",
-          "zh": "大学教师"
+          "en": "An attractive woman.",
+          "zh": "美女"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Vigilant or on one's guard against danger or difficulty.",
-          "zh": "意识到的"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
         "col": 0,
         "clue": {
-          "en": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.",
-          "zh": "脊柱"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       },
       {
-        "num": 18,
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        }
+      },
+      {
+        "num": 21,
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "A time period of indeterminate length, gen__lly more than one year.",
-          "zh": "时代"
-        }
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Nothing; zero.",
-          "zh": "零"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
-          "zh": "演出"
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
         }
       },
       {
         "num": 23,
-        "row": 7,
-        "col": 4,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "Senses relating to a thin, pointed object.",
-          "zh": "风格"
+          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+          "zh": "魔法"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 26,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-          "zh": "蜜蜂"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
         }
       }
     ],
@@ -341,89 +306,116 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A tree of the genus Mora",
-          "zh": "北约"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "House",
-          "zh": "卡萨"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body __).",
-          "zh": "图式"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "To travel over (an area, etc); to roam, wander.",
-          "zh": "测距"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "(usually capitalized) The garden where Plato taught.",
-          "zh": "学院"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The administration of a medication etc, in a measured amount; dosing.",
-          "zh": "剂量"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "__versity.",
-          "zh": "大学"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
           "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
           "zh": "别的"
         }
       },
       {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A banknote with a denomination of 20.",
+          "zh": "二十"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+          "zh": "缺席"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An artifact or document rendering something allowed or legal.",
+          "zh": "允许"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "An act or instance of adding.",
+          "zh": "添加的行为或实例。"
+        }
+      },
+      {
         "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
+        }
+      },
+      {
+        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "The act or result of __ing, or state of being __ed.",
-          "zh": "卷"
+          "en": "A wide way leading from one place to another, especially one paved and used by vehicles.",
+          "zh": "路"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       }
     ]

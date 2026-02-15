@@ -5,264 +5,251 @@
   "cols": 7,
   "solution": [
     [
+      "M",
       null,
-      "D",
-      "I",
-      "V",
       null,
-      "E",
-      "S"
-    ],
-    [
-      "C",
-      null,
-      "D",
-      "E",
-      "R",
-      "B",
-      "Y"
-    ],
-    [
-      "H",
       "A",
-      "S",
-      "H",
       null,
-      "O",
-      "S"
-    ],
-    [
-      "A",
-      "W",
       null,
-      "I",
-      null,
-      "O",
       "T"
     ],
     [
-      "N",
-      "F",
-      null,
-      "C",
       "A",
-      "K",
+      "M",
+      "A",
+      "T",
+      "E",
+      "U",
+      "R"
+    ],
+    [
+      "N",
+      null,
+      "R",
+      "E",
+      "V",
+      null,
+      "I"
+    ],
+    [
+      "D",
+      "U",
+      "I",
+      null,
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "A",
+      null,
+      "S",
+      "O",
+      "N",
+      null,
+      "G"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "A",
+      "T",
+      "R",
       "E"
     ],
     [
-      "G",
-      "U",
-      "I",
-      "L",
-      "D",
-      null,
-      "M"
-    ],
-    [
       "E",
-      "L",
       null,
-      "E",
-      "S",
-      "T",
-      null
+      null,
+      "K",
+      null,
+      null,
+      "R"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        6
-      ],
-      [
         5,
-        6
+        4
       ],
       [
         2,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        0,
-        3
+        2
       ],
       [
         1,
-        0
+        4
       ],
       [
-        3,
-        5
+        4,
+        4
       ],
       [
         1,
         2
       ],
       [
-        3,
+        2,
         6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        2,
-        6
-      ],
-      [
         5,
-        6
+        4
       ],
       [
         2,
-        1
+        2
+      ],
+      [
+        1,
+        4
       ],
       [
         4,
-        1
+        4
       ],
       [
-        0,
-        3
+        1,
+        2
       ]
     ],
     "hard": [
       [
-        2,
-        6
-      ],
-      [
         5,
-        6
+        4
       ],
       [
         2,
-        1
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A function, implemented in many programming languages, that returns the result of a __ision of two integers.",
-          "zh": "分区"
+          "en": "A lover of something.",
+          "zh": "业余"
         }
       },
       {
         "num": 7,
-        "row": 1,
+        "row": 2,
         "col": 2,
         "clue": {
-          "en": "Any of several annual horse races.",
-          "zh": "德比"
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
         }
       },
       {
         "num": 8,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Food, especially meat and potatoes, chopped and mixed together.",
-          "zh": "散列"
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing.",
-          "zh": "蛋糕"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       },
       {
-        "num": 16,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "One's male offspring.",
+          "zh": "儿子"
+        }
+      },
+      {
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A group or association mainly of tradespeople made up of merchants, craftspeople, or artisans for mutual aid, particularly in the Middle Ages.",
-          "zh": "公会"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "Grace; favour.",
-          "zh": "东部时间"
+          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+          "zh": "剧院"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
+          "zh": "授权"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
-          "zh": "车辆"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "(authorship) Electronic book, a book published in electronic form.",
-          "zh": "电子书"
+          "en": "A finger-operated lever used to fire a gun.",
+          "zh": "扳机"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
+          "en": "To come up from a lower to a higher position.",
+          "zh": "出现"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "The process of becoming different.",
-          "zh": "改变"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Very bad.",
-          "zh": "可怕"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
         "col": 4,
         "clue": {
-          "en": "Advertisement.",
-          "zh": "广告"
+          "en": "An occurrence; something that happens.",
+          "zh": "事件"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       }
     ]

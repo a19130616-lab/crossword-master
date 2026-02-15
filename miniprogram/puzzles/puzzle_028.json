@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "I",
-      "N",
       "T",
-      null,
-      null,
-      null,
-      "S"
-    ],
-    [
-      "A",
-      "D",
-      "S",
-      null,
-      "A",
-      "S",
-      "S",
-      "E",
-      "T"
-    ],
-    [
-      null,
-      "A",
-      "P",
-      "P",
-      "L",
-      "Y",
-      null,
-      "M",
-      "E"
-    ],
-    [
-      "S",
-      "M",
-      null,
-      "L",
-      "E",
-      "S",
-      null,
-      "P",
-      "A"
-    ],
-    [
-      "C",
-      "A",
-      "S",
-      "A",
-      null,
-      "T",
-      "I",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      "G",
-      null,
-      "S",
-      "H",
-      "E",
-      null,
-      "R",
-      "Y"
-    ],
-    [
-      "N",
-      "E",
-      null,
-      "M",
-      "A",
-      "M",
-      "B",
-      "O",
-      null
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
-      "L",
-      null,
-      "A",
-      "R",
-      "T"
-    ],
-    [
-      "C",
-      null,
       null,
       null,
       "F",
+      null,
+      "W",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "N",
+      null,
+      "L",
+      "A",
       "I",
+      "D"
+    ],
+    [
+      null,
+      "A",
+      "N",
+      null,
+      null,
+      "O",
+      null,
+      "S",
+      "S"
+    ],
+    [
+      null,
       "T",
+      null,
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
+      null
+    ],
+    [
+      "Y",
+      "E",
+      "A",
+      "R",
+      null,
+      "R",
+      null,
+      "L",
+      null
+    ],
+    [
+      null,
+      "G",
+      "R",
+      "I",
+      "P",
+      null,
+      null,
+      "I",
+      null
+    ],
+    [
+      "M",
+      "O",
+      null,
+      "G",
+      "A",
+      "I",
+      "N",
+      "S",
+      null
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      null,
+      "N",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "Y",
+      null,
+      "T",
+      null,
+      "N",
+      "N",
       null,
       null
     ]
@@ -107,231 +107,183 @@
   "prefilled": {
     "easy": [
       [
-        6,
-        5
+        7,
+        8
+      ],
+      [
+        1,
+        3
       ],
       [
         8,
         6
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        0,
-        4
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        2,
-        3
       ],
       [
         8,
         0
       ],
       [
-        5,
+        2,
+        2
+      ],
+      [
+        1,
         1
       ],
       [
         0,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        7,
         3
       ],
       [
-        0,
-        8
+        3,
+        7
       ],
       [
-        1,
-        2
+        7,
+        1
       ],
       [
-        2,
-        2
+        5,
+        4
+      ],
+      [
+        4,
+        1
       ]
     ],
     "medium": [
       [
-        6,
-        5
+        7,
+        8
+      ],
+      [
+        1,
+        3
       ],
       [
         8,
         6
       ],
       [
-        3,
-        4
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
       ],
       [
         0,
-        4
+        5
       ],
       [
-        3,
-        8
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        2,
-        3
+        4,
+        5
       ]
     ],
     "hard": [
       [
-        6,
-        5
+        7,
+        8
+      ],
+      [
+        1,
+        3
       ],
       [
         8,
         6
       ],
       [
-        3,
-        4
-      ],
-      [
-        0,
-        4
+        8,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A number that is not a fraction; an element of the infinite and numerable set {..., -3, -2, -1, 0, 1, 2, 3, ...}.",
-          "zh": "整数"
-        }
-      },
-      {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Advertisement.",
-          "zh": "广告"
+          "en": "Close investigation.",
+          "zh": "扫描"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
-          "zh": "资产"
+          "en": "(of paper) Marked with parallel lines, as if ribbed, from wires in the mould.",
+          "zh": "铺设"
         }
       },
       {
-        "num": 9,
-        "row": 2,
-        "col": 1,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
+          "en": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
+          "zh": "刷子"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
         }
       },
       {
         "num": 13,
-        "row": 3,
-        "col": 3,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "A homosexual woman, one who is mostly or exclusively sexually or romantically attracted to other women.",
-          "zh": "莱斯"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "House",
-          "zh": "卡萨"
+          "en": "To take hold of, particularly with the hand.",
+          "zh": "紧握"
         }
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "To twist (a string, rope, or the like) around itself securely.",
-          "zh": "捆绑"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "A female.",
-          "zh": "她"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
+          "en": "The act of gaining; acquisition.",
+          "zh": "获得的行为；获得。"
         }
       },
       {
-        "num": 24,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
+          "en": "An inverted U shape.",
+          "zh": "拱"
         }
       },
       {
-        "num": 25,
+        "num": 20,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "The degree to which something __s.",
-          "zh": "合身"
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
         }
       }
     ],
@@ -341,89 +293,80 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Any species known only from trace fossils, such as footprints, coprolites or nests.",
-          "zh": "互联网服务供应商"
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
-          "zh": "故事"
+          "en": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
+          "zh": "面粉"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "A rest or support, as for the hand, a tool, or a piece of work.",
-          "zh": "稳定的"
+          "en": "A list of desired things.",
+          "zh": "愿望清单"
         }
       },
       {
-        "num": 5,
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        }
+      },
+      {
+        "num": 6,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "To impair the soundness, goodness, or value of; to harm or cause destruction.",
-          "zh": "损坏的"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The male monarch or ruler of an empire.",
-          "zh": "皇帝"
+          "en": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+          "zh": "类别"
         }
       },
       {
         "num": 10,
-        "row": 2,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A state of matter consisting of partially ionized gas and electrons",
-          "zh": "等离子体"
+          "en": "An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head.",
+          "zh": "明亮的"
         }
       },
       {
-        "num": 12,
-        "row": 3,
+        "num": 15,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "A depiction of scenery",
-          "zh": "风景优美的"
+          "en": "A visual representation of an area, whether real or imaginary.",
+          "zh": "地图"
         }
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 4,
+        "num": 17,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
-          "zh": "一半"
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
         }
       },
       {
-        "num": 23,
+        "num": 18,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
-          "zh": "蝙蝠"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       }
     ]

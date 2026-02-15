@@ -5,133 +5,177 @@
   "cols": 5,
   "solution": [
     [
+      null,
+      "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
       "A",
       null,
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "H",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      "N",
       null,
-      null,
-      "S"
+      "P"
     ],
     [
       "S",
       "T",
-      "R",
-      "A",
-      "P"
-    ],
-    [
-      "C",
-      "A",
-      null,
-      "C",
-      "O"
-    ],
-    [
-      "I",
-      "N",
-      "T",
       "E",
-      "R"
-    ],
-    [
-      "I",
-      null,
-      null,
-      null,
-      "T"
+      "P",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         3,
-        0
+        2
       ],
       [
         1,
-        1
-      ],
-      [
-        2,
         3
       ],
       [
         2,
-        0
+        1
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        2
       ]
     ],
     "medium": [
       [
         3,
-        0
+        2
       ],
       [
         1,
+        3
+      ],
+      [
+        2,
         1
       ]
     ],
     "hard": [
       [
         3,
-        0
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A long, narrow, pliable strip of leather, cloth, or the like.",
-          "zh": "带子"
+          "en": "To change place.",
+          "zh": "要换地方。"
         }
       },
       {
-        "num": 8,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+          "zh": "电话"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To bury in a grave.",
-          "zh": "国际米兰"
+          "en": "A needle without an eye (usually) made of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.",
+          "zh": "别针"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "Person or thing without a shadow",
-          "zh": "ASCII码"
+          "en": "By oneself, solitary.",
+          "zh": "独自的"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
-          "zh": "运动"
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 1,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A single point or spot on a playing card or die.",
-          "zh": "高手"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         }
       }
     ]

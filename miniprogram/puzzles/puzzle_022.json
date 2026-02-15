@@ -6,129 +6,125 @@
   "solution": [
     [
       null,
+      "S",
       null,
+      null,
+      null,
+      null,
+      "U",
+      null,
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "T",
       "A",
       null,
-      null,
-      "B",
-      null,
-      null,
-      "H"
+      "S",
+      "O",
+      "X"
     ],
     [
+      null,
+      "G",
+      "O",
+      null,
       "C",
-      "O",
-      "N",
-      null,
-      "L",
-      "O",
-      "B",
-      "B",
-      "Y"
+      "H",
+      "E",
+      "A",
+      "P"
     ],
     [
-      null,
-      "N",
-      "Y",
-      "L",
-      "O",
-      "N",
-      null,
+      "F",
+      "A",
       "R",
-      "B"
+      null,
+      "T",
+      "U",
+      null,
+      "K",
+      "A"
+    ],
+    [
+      "I",
+      null,
+      "D",
+      "E",
+      "R",
+      "B",
+      "Y",
+      null,
+      "N"
     ],
     [
       "S",
-      "G",
+      "B",
       null,
-      "I",
       "N",
-      "D",
-      "O",
-      "O",
-      "R"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "N",
-      "G",
-      null,
-      "K",
-      "A",
-      "I"
-    ],
-    [
-      "N",
-      "I",
-      "C",
-      "K",
       "E",
-      "L",
       null,
-      "D",
+      "O",
+      "L",
       "D"
     ],
     [
-      "T",
-      "N",
+      "C",
+      "A",
+      "R",
+      "D",
+      "S",
       null,
+      "G",
       "I",
-      "S",
-      "S",
-      "U",
-      "E",
       null
     ],
     [
       "A",
       "G",
-      "E",
-      "N",
-      "T",
-      null,
-      "P",
-      "R",
-      "O"
-    ],
-    [
-      "X",
-      null,
-      null,
-      "G",
-      null,
+      "O",
       null,
       "S",
+      "H",
+      "A",
+      "F",
+      "T"
+    ],
+    [
+      "L",
       null,
+      "D",
+      null,
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        0
-      ],
-      [
-        2,
+        0,
         1
       ],
       [
         6,
-        7
+        0
+      ],
+      [
+        1,
+        0
       ],
       [
         3,
-        4
+        8
       ],
       [
-        2,
-        4
-      ],
-      [
-        4,
-        3
+        6,
+        2
       ],
       [
         1,
@@ -136,31 +132,31 @@
       ],
       [
         5,
-        5
+        6
       ],
       [
-        5,
+        2,
         4
       ],
       [
-        2,
-        5
-      ],
-      [
         7,
-        8
+        7
       ],
       [
-        2,
-        2
+        4,
+        3
       ],
       [
-        5,
+        4,
         0
       ],
       [
         0,
-        8
+        6
+      ],
+      [
+        1,
+        2
       ],
       [
         5,
@@ -169,28 +165,24 @@
     ],
     "medium": [
       [
-        4,
-        0
-      ],
-      [
-        2,
+        0,
         1
       ],
       [
         6,
-        7
+        0
+      ],
+      [
+        1,
+        0
       ],
       [
         3,
-        4
+        8
       ],
       [
-        2,
-        4
-      ],
-      [
-        4,
-        3
+        6,
+        2
       ],
       [
         1,
@@ -198,29 +190,29 @@
       ],
       [
         5,
-        5
+        6
       ],
       [
-        5,
+        2,
         4
       ]
     ],
     "hard": [
       [
-        4,
-        0
-      ],
-      [
-        2,
+        0,
         1
       ],
       [
         6,
-        7
+        0
+      ],
+      [
+        1,
+        0
       ],
       [
         3,
-        4
+        8
       ]
     ]
   },
@@ -231,89 +223,80 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
-          "zh": "骗局"
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜队"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
         "col": 4,
         "clue": {
-          "en": "An entryway or reception area; vestibule; passageway; corridor.",
-          "zh": "大堂"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
+          "en": "Low in price; not expensive.",
+          "zh": "便宜的"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
-          "zh": "室内的"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
         "col": 0,
         "clue": {
-          "en": "People who are __; __ people, collectively; youth.",
-          "zh": "年轻的"
+          "en": "Distant; remote in space.",
+          "zh": "远的"
         }
       },
       {
-        "num": 16,
+        "num": 15,
         "row": 4,
-        "col": 6,
+        "col": 2,
         "clue": {
-          "en": "Food",
-          "zh": "凯"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
-          "zh": "镍"
+          "en": "Any of several annual horse races.",
+          "zh": "德比"
         }
       },
       {
         "num": 21,
-        "row": 6,
-        "col": 3,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
-          "zh": "问题"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
         "num": 23,
-        "row": 7,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "One who exerts power, or has the power to act",
-          "zh": "代理人"
+          "en": "A playing card.",
+          "zh": "一张扑克牌。"
         }
       },
       {
-        "num": 24,
+        "num": 26,
         "row": 7,
-        "col": 6,
+        "col": 0,
         "clue": {
-          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
-          "zh": "专业人士"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The entire body of a long weapon, such as an arrow.",
+          "zh": "轴"
         }
       }
     ],
@@ -321,19 +304,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "To even the slightest extent, at all.",
-          "zh": "任何"
+          "en": "A genre of popular music mainly associated with Mauritius.",
+          "zh": "世嘉"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Evidence of a long-term debt, by which the __ issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the __ certificate. The rights of the holder are specified in the __ indenture, which contains the legal terms and conditions under which the __ was issued. __s are available in two forms: registered __s, and bearer __s.",
-          "zh": "纽带"
+          "en": "The act of using.",
+          "zh": "使用"
         }
       },
       {
@@ -341,17 +324,17 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains.",
-          "zh": "杂交种"
+          "en": "To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.",
+          "zh": "扩张"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "To be __ (occurring, happening); to last, proceed or continue.",
-          "zh": "正在进行的"
+          "en": "The master of the servants of a household; the master of a feudal manor",
+          "zh": "主"
         }
       },
       {
@@ -359,44 +342,80 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "To take a long position in.",
-          "zh": "最长"
+          "en": "A female who performs on the stage or in films.",
+          "zh": "演员"
         }
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "Wide in extent or scope.",
-          "zh": "更广泛的"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To connect two or more things.",
-          "zh": "链接"
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       },
       {
         "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The central part, usually cylindrical, of a wheel; the nave.",
+          "zh": "中心"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A set of rules that govern how words are combined to form phrases and sentences.",
-          "zh": "句法"
+          "en": "A public official in certain countries having control of public revenue.",
+          "zh": "财"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
+          "zh": "瑜伽"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A flexible container made of cloth, paper, plastic, etc.",
+          "zh": "包"
         }
       },
       {
         "num": 22,
-        "row": 6,
-        "col": 6,
+        "row": 5,
+        "col": 7,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
         }
       }
     ]

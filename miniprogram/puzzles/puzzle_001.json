@@ -5,177 +5,124 @@
   "cols": 5,
   "solution": [
     [
+      "E",
       null,
-      "S",
-      "O",
-      "M",
+      null,
+      null,
       "A"
     ],
     [
-      "M",
-      null,
-      "M",
-      "O",
-      "N"
-    ],
-    [
-      "E",
-      "V",
-      "E",
       "N",
-      "T"
+      "E",
+      "W",
+      "E",
+      "R"
     ],
     [
-      "M",
-      "A",
-      "G",
+      "T",
       null,
-      "I"
+      "I",
+      null,
+      "M"
     ],
     [
-      "O",
       "R",
       "A",
-      "L",
-      null
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "Y",
+      null,
+      null,
+      null,
+      "R"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        2
+        3,
+        0
       ],
       [
-        0,
+        1,
         1
       ],
       [
-        3,
-        4
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        4,
+        2,
         0
+      ],
+      [
+        1,
+        3
       ]
     ],
     "medium": [
       [
-        0,
-        2
-      ],
-      [
-        0,
-        1
-      ],
-      [
         3,
-        4
+        0
+      ],
+      [
+        1,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        2
+        3,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
-          "zh": "索马"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "An occurrence; something that happens.",
-          "zh": "事件"
+          "en": "Recently made, or created.",
+          "zh": "较新的"
         }
       },
       {
-        "num": 9,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(abbreviation) __azine (publication or ammunition)",
-          "zh": "杂志"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "A number representing a comparison between two named things.",
+          "zh": "比率"
         }
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
+          "en": "The act of entering.",
+          "zh": "入口"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
+          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "zh": "盔甲"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A short note; a __randum.",
-          "zh": "备忘录"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
-          "zh": "变量"
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
         }
       }
     ]

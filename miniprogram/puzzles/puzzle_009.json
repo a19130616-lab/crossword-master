@@ -6,37 +6,37 @@
   "solution": [
     [
       null,
-      "C",
+      "O",
+      "D",
+      "D",
+      "S"
+    ],
+    [
+      "O",
+      null,
+      "R",
       "A",
-      "S",
+      "W"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
       "A"
     ],
     [
-      "A",
-      null,
-      "M",
-      "A",
-      "C"
-    ],
-    [
-      "C",
-      "R",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "N",
-      "O",
-      "N",
-      null,
-      "E"
-    ],
-    [
-      "E",
       "D",
-      "G",
-      "E",
+      "A",
+      "M",
+      null,
+      "P"
+    ],
+    [
+      "S",
+      "W",
+      "A",
+      "P",
       null
     ]
   ],
@@ -44,14 +44,10 @@
     "easy": [
       [
         4,
-        1
+        0
       ],
       [
-        2,
-        4
-      ],
-      [
-        1,
+        0,
         4
       ],
       [
@@ -59,28 +55,32 @@
         3
       ],
       [
-        3,
+        4,
+        1
+      ],
+      [
+        1,
         2
       ]
     ],
     "medium": [
       [
         4,
-        1
+        0
       ],
       [
-        2,
+        0,
         4
       ],
       [
         1,
-        4
+        3
       ]
     ],
     "hard": [
       [
         4,
-        1
+        0
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "House",
-          "zh": "卡萨"
+          "en": "(diminutive) An odd number.",
+          "zh": "（小数）奇数。"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A waterproof long coat made of rubberized cloth.",
-          "zh": "防水外套"
+          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
+          "zh": "生的"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A royal, imperial or princely headdress; a diadem.",
-          "zh": "王冠"
+          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
+          "zh": "戏剧"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
+          "zh": "坝"
         }
       },
       {
@@ -127,8 +127,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "To exchange or give (something) in an exchange (for something else).",
+          "zh": "交换"
         }
       }
     ],
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
-          "zh": "之中"
+          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
+          "zh": "戏剧"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
-          "zh": "锯"
+          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
+          "zh": "坝"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "To exchange or give (something) in an exchange (for something else).",
+          "zh": "交换"
         }
       },
       {
@@ -165,8 +165,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "(diminutive) An odd number.",
+          "zh": "（小数）奇数。"
         }
       },
       {
@@ -174,8 +174,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A straight, round stick, shaft, bar, cane, or staff.",
-          "zh": "杆"
+          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
+          "zh": "生的"
         }
       }
     ]

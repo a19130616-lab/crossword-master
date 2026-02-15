@@ -8,61 +8,61 @@
       null,
       null,
       null,
-      "A",
+      "O",
       null,
       null,
-      "B"
+      "E"
     ],
     [
       null,
       "G",
       null,
-      "M",
-      "I",
-      "M",
-      "E"
-    ],
-    [
-      null,
       "U",
       "S",
       "E",
-      "D",
-      null,
-      "A"
+      "D"
     ],
     [
-      "U",
-      "N",
-      "K",
-      "N",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "N",
       null,
-      "I",
-      "D",
+      "A",
       "L",
-      "E",
-      null
+      "T",
+      "O",
+      null,
+      "G"
     ],
     [
-      "D",
+      "E",
+      "P",
+      "I",
+      "S",
       "O",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "N",
+      "I",
       "N",
       "E",
-      null,
-      "B",
       null
     ],
     [
-      "O",
-      null,
-      null,
+      "S",
+      "H",
+      "E",
       "D",
+      null,
+      "N",
+      null
+    ],
+    [
+      "T",
+      null,
+      null,
+      "E",
       null,
       null,
       null
@@ -71,60 +71,60 @@
   "prefilled": {
     "easy": [
       [
-        3,
+        4,
         0
-      ],
-      [
-        5,
-        1
       ],
       [
         3,
         5
       ],
       [
-        0,
-        3
-      ],
-      [
-        1,
+        2,
         1
       ],
       [
-        1,
-        3
+        3,
+        0
       ],
       [
-        6,
-        3
+        4,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
       ]
     ],
     "medium": [
       [
-        3,
+        4,
         0
-      ],
-      [
-        5,
-        1
       ],
       [
         3,
         5
       ],
       [
-        0,
-        3
+        2,
+        1
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        3,
+        4,
         0
       ],
       [
-        5,
-        1
+        3,
+        5
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "A form of acting without words; panto__.",
-          "zh": "哑剧"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To undo the process of knowing, to lose knowledge of something.",
-          "zh": "未知"
+          "en": "An incident, action, or time period standing out by itself, but more or less connected with a complete series of events.",
+          "zh": "插曲"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "An __ animation.",
-          "zh": "闲置的"
+          "en": "The digit or figure 9.",
+          "zh": "九"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(auxiliary) A syntactic marker.",
-          "zh": "完毕"
+          "en": "To part, separate or divide.",
+          "zh": "棚"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "To make better; improve.",
-          "zh": "修正的"
+          "en": "The part of something that faces out; the outer surface.",
+          "zh": "外部"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A reusable software component written in Java.",
-          "zh": "豆"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
-          "zh": "枪"
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
-          "zh": "偶像"
+          "en": "Short in length of time from the present.",
+          "zh": "很快"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "The outer protective layer of the body of any animal, including of a human.",
-          "zh": "皮肤"
+          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+          "zh": "线"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An operation that reverses a previous action.",
-          "zh": "撤消"
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "The World Wide __.",
-          "zh": "网"
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       }
     ]

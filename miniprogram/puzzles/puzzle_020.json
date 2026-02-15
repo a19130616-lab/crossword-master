@@ -6,65 +6,65 @@
   "solution": [
     [
       null,
-      "P",
-      "O",
-      "S",
       null,
-      "P",
-      "S"
-    ],
-    [
-      "I",
       null,
-      "U",
-      "P",
-      "S",
-      "E",
-      "T"
-    ],
-    [
-      "N",
-      "O",
-      "T",
-      "E",
+      "V",
       null,
-      "A",
+      null,
       "O"
     ],
     [
-      "T",
-      "Z",
       null,
-      "C",
+      "V",
       null,
-      "R",
-      "R"
-    ],
-    [
       "A",
-      "O",
-      null,
+      "C",
       "I",
-      "S",
-      "L",
-      "E"
+      "D"
     ],
     [
-      "K",
-      "N",
-      "I",
-      "F",
-      "E",
+      null,
+      "A",
+      "R",
+      "C",
+      "H",
       null,
       "D"
     ],
     [
-      "E",
-      "E",
-      null,
-      "Y",
+      "P",
+      "R",
+      "O",
+      "C",
       "E",
       "S",
+      "S"
+    ],
+    [
+      "A",
+      null,
+      "L",
+      "I",
+      "F",
+      "E",
+      null
+    ],
+    [
+      "G",
+      "L",
+      "E",
+      "N",
+      null,
+      "E",
+      null
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      null,
+      null,
       null
     ]
   ],
@@ -72,194 +72,169 @@
     "easy": [
       [
         5,
-        6
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        1,
-        6
+        3
       ],
       [
         4,
         0
       ],
       [
-        0,
-        6
+        4,
+        5
       ],
       [
         3,
         6
       ],
       [
-        2,
+        1,
+        1
+      ],
+      [
+        3,
         5
+      ],
+      [
+        2,
+        2
       ]
     ],
     "medium": [
       [
         5,
-        6
+        3
       ],
       [
         4,
-        4
+        0
       ],
       [
-        5,
-        4
+        4,
+        5
       ],
       [
-        6,
-        4
-      ],
-      [
-        1,
+        3,
         6
       ]
     ],
     "hard": [
       [
         5,
-        6
+        3
       ],
       [
         4,
-        4
-      ],
-      [
-        5,
-        4
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 3,
         "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
+          "en": "A sour substance.",
+          "zh": "酸"
         }
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 2,
+        "num": 6,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Disturbance or disruption.",
-          "zh": "沮丧的"
+          "en": "An inverted U shape.",
+          "zh": "拱"
         }
       },
       {
         "num": 8,
-        "row": 2,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "(heading) A symbol or annotation.",
-          "zh": "笔记"
+          "en": "A series of events which produce a result (the product).",
+          "zh": "过程"
         }
       },
       {
-        "num": 14,
+        "num": 10,
         "row": 4,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
         }
       },
       {
-        "num": 16,
+        "num": 11,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.",
-          "zh": "刀"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An affirmative expression; an answer that shows agreement or acceptance.",
-          "zh": "是的"
+          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
+          "zh": "峡谷"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A substance given to stimulate the body's production of antibodies and provide immunity against a disease without causing the disease itself in the treatment, prepared from the agent that causes the disease (or a related, also effective, but safer disease), or a synthetic substitute.",
+          "zh": "疫苗"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "A means of exit, escape, reprieve, etc.",
-          "zh": "出去"
+          "en": "(diminutive) An odd number.",
+          "zh": "（小数）奇数。"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "To state explicitly, or in detail, or as a condition.",
-          "zh": "指定"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A shelly concretion, usually rounded, and having a brilliant luster, with varying tints, found in the mantle, or between the mantle and shell, of certain bivalve mollusks, especially in the __ oysters and river mussels, and sometimes in certain univalves. It is usually due to a secretion of shelly substance around some irritating foreign particle. Its substance is the same as nacre, or mother-of-__. Round lustrous __s are used in jewellery.",
-          "zh": "珍珠"
+          "en": "A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.",
+          "zh": "变量"
         }
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
+        "row": 1,
+        "col": 4,
         "clue": {
-          "en": "To keep (something) while not in use, generally in a place meant for that purpose.",
-          "zh": "已存储"
+          "en": "The presiding cook in the kitchen of a large household.",
+          "zh": "厨师"
         }
       },
       {
-        "num": 6,
-        "row": 1,
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A character or part played by a performer or actor.",
+          "zh": "角色"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
-          "zh": "摄入量"
+          "en": "One of the many pieces of paper bound together within a book or similar document.",
+          "zh": "页"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
-          "zh": "臭氧"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 4,
+        "row": 3,
+        "col": 5,
         "clue": {
           "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
           "zh": "看"

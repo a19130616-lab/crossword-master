@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      "A",
-      "T",
+      null,
+      "S",
       "O",
       "M",
-      null
+      "A"
     ],
     [
       "G",
-      "A",
-      "P",
       null,
-      "M"
-    ],
-    [
-      "E",
-      "N",
-      "E",
       "M",
-      "Y"
+      "I",
+      "C"
     ],
     [
-      "D",
-      null,
-      "R",
+      "O",
+      "C",
+      "E",
       "A",
-      "T"
+      "N"
     ],
     [
+      "L",
+      "O",
+      "G",
       null,
-      "P",
+      "E"
+    ],
+    [
+      "F",
+      "L",
       "A",
       "T",
-      "H"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        0
+        1,
+        4
       ],
       [
         0,
-        2
+        1
       ],
       [
         1,
-        0
-      ],
-      [
-        3,
         2
       ],
       [
-        4,
+        2,
+        3
+      ],
+      [
+        1,
         3
       ]
     ],
     "medium": [
       [
-        0,
-        0
+        1,
+        4
       ],
       [
         0,
-        2
+        1
       ],
       [
         1,
-        0
+        2
       ]
     ],
     "hard": [
       [
-        0,
-        0
+        1,
+        4
       ]
     ]
   },
@@ -89,93 +89,93 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
+          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
+          "zh": "索马"
         }
       },
       {
         "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
-          "zh": "敌人"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A medium-sized rodent belonging to the genus __tus.",
-          "zh": "老鼠"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "A trail for the use of, or worn by, pedestrians.",
-          "zh": "小路"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "To cause to grow old; to impart the characteristics of age to.",
-          "zh": "老年的"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
-        }
-      },
-      {
-        "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
-          "zh": "神话"
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
         }
       },
       {
         "num": 7,
         "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An area of level ground.",
+          "zh": "平坦的"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
         "col": 3,
         "clue": {
-          "en": "A flat piece of coarse __erial used for wiping one’s feet, or as a decorative or protective floor covering.",
-          "zh": "垫"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+          "zh": "高尔夫球"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
         }
       }
     ]

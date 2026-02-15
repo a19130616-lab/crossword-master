@@ -5,39 +5,39 @@
   "cols": 5,
   "solution": [
     [
-      "M",
+      "S",
       null,
-      null,
-      null,
-      "S"
+      "L",
+      "I",
+      "P"
     ],
     [
-      "A",
-      "G",
-      "E",
+      "C",
+      "O",
       "N",
-      "T"
+      "D",
+      "O"
     ],
     [
-      "M",
-      "E",
+      "U",
+      "V",
       null,
-      "E",
-      "U"
+      "O",
+      "W"
     ],
     [
       "B",
+      "E",
       "L",
-      "O",
-      "O",
-      "D"
+      "L",
+      "E"
     ],
     [
-      "O",
+      "A",
+      "R",
+      "M",
       null,
-      null,
-      null,
-      "Y"
+      "R"
     ]
   ],
   "prefilled": {
@@ -47,22 +47,30 @@
         1
       ],
       [
+        0,
+        3
+      ],
+      [
         3,
         3
       ],
       [
-        1,
+        3,
         0
       ],
       [
-        3,
-        4
+        2,
+        3
       ]
     ],
     "medium": [
       [
         3,
         1
+      ],
+      [
+        0,
+        3
       ],
       [
         3,
@@ -79,21 +87,39 @@
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 2,
         "clue": {
-          "en": "One who exerts power, or has the power to act",
-          "zh": "代理人"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
-        "num": 8,
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A member of the Los Angeles gang The __s.",
-          "zh": "血"
+          "en": "An attractive woman.",
+          "zh": "美女"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         }
       }
     ],
@@ -103,35 +129,35 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A voodoo priestess (in Haiti)",
-          "zh": "曼波"
+          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
+          "zh": "水肺潜水"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
-          "zh": "学习"
+          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
+          "zh": "偶像"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 1,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "A semi-solid to almost solid colloid of a solid and a liquid, such as jelly, cheese or opal.",
-          "zh": "凝胶"
+          "en": "Ability to do or undergo something.",
+          "zh": "力量"
         }
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
-          "zh": "新"
+          "en": "Above or higher than something else, with or without touching it.",
+          "zh": "超过"
         }
       }
     ]

@@ -6,284 +6,332 @@
   "solution": [
     [
       null,
-      null,
-      "H",
-      null,
+      "G",
       null,
       "S",
-      null,
+      "E",
       "N",
-      "A"
+      null,
+      null,
+      "D"
     ],
     [
-      "E",
-      "P",
-      "I",
-      "C",
-      null,
-      "T",
-      "R",
-      "I",
-      "M"
-    ],
-    [
-      null,
-      "H",
-      "P",
-      null,
-      null,
-      "A",
-      null,
-      "T",
-      "P"
-    ],
-    [
-      null,
-      "A",
-      null,
       "B",
-      "A",
-      "K",
-      "E",
-      "R",
-      null
-    ],
-    [
-      "O",
       "R",
       "A",
-      "L",
-      null,
-      "E",
-      null,
-      "O",
-      null
-    ],
-    [
-      null,
-      "M",
-      "O",
-      "O",
+      "N",
       "D",
       null,
+      "P",
+      "H",
+      "I"
+    ],
+    [
+      null,
+      "O",
+      "M",
       null,
       "G",
-      null
-    ],
-    [
-      "B",
-      "A",
-      null,
-      "N",
-      "O",
-      "I",
-      "S",
       "E",
-      null
+      "O",
+      null,
+      "S"
     ],
     [
+      "T",
+      "W",
+      "O",
+      null,
+      "E",
       "A",
-      "C",
-      "I",
-      "D",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "E",
       null,
       "N",
-      "O",
-      "N",
+      "S",
+      null,
+      "R",
+      "T",
+      null,
       "E"
     ],
     [
+      "M",
+      "A",
       "G",
-      "Y",
+      "I",
+      "C",
       null,
+      "I",
+      "D",
+      "S"
+    ],
+    [
+      "P",
+      null,
+      "S",
+      "P",
+      "A",
+      null,
+      "O",
+      "R",
+      null
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      null,
+      "F",
+      "I",
+      "N",
+      "A",
+      "L"
+    ],
+    [
       "E",
       null,
-      "K",
-      "X",
       null,
+      "M",
+      "E",
+      "T",
+      null,
+      "W",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        3
+        7,
+        6
       ],
       [
-        3,
+        4,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
         3
       ],
       [
         8,
-        1
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        0,
-        7
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        2,
         5
       ],
       [
-        4,
-        0
-      ],
-      [
         6,
-        4
-      ],
-      [
-        1,
-        2
+        6
       ],
       [
         3,
         7
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
       ]
     ],
     "medium": [
       [
-        5,
-        3
+        7,
+        6
       ],
       [
-        3,
+        4,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
         3
       ],
       [
         8,
-        1
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        0,
-        7
+        5
       ],
       [
         6,
-        7
+        6
       ]
     ],
     "hard": [
       [
-        5,
-        3
+        7,
+        6
       ],
       [
-        3,
-        3
+        4,
+        6
       ],
       [
-        8,
-        1
-      ],
-      [
-        5,
+        7,
         4
+      ],
+      [
+        7,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
+        }
+      },
+      {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic __), other legend or traditional hero.",
-          "zh": "史诗"
+          "en": "A conflagration; a flame.",
+          "zh": "品牌"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "Decoration; especially, decoration placed along edges or borders.",
-          "zh": "修剪"
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
         }
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 4,
         "clue": {
-          "en": "A person who bakes and sells bread, cakes and similar items.",
-          "zh": "面包师"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       },
       {
         "num": 11,
-        "row": 4,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "The digit/figure 2.",
+          "zh": "二"
         }
       },
       {
-        "num": 13,
-        "row": 5,
-        "col": 1,
+        "num": 12,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A mental or emotional state, composure.",
-          "zh": "情绪"
+          "en": "The third planet of the Solar System; the world upon which humans live.",
+          "zh": "地球"
         }
       },
       {
         "num": 16,
-        "row": 6,
-        "col": 3,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "噪音"
+          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+          "zh": "魔法"
         }
       },
       {
-        "num": 19,
-        "row": 7,
-        "col": 0,
+        "num": 18,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "A sour substance.",
-          "zh": "酸"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       },
       {
         "num": 20,
-        "row": 7,
-        "col": 5,
+        "row": 6,
+        "col": 2,
         "clue": {
-          "en": "A person without religious affiliation.",
-          "zh": "没有任何"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        }
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Coming at the end of a series; the last game in a sports tournament.",
+          "zh": "最终的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       }
     ],
@@ -291,28 +339,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
-          "zh": "臀部"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
-          "zh": "赌注"
+          "en": "To become larger, to increase in magnitude.",
+          "zh": "生长"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 4,
         "clue": {
-          "en": "The chemical element (symbol N) with an atomic number of 7 and atomic weight of 14.0067. It is a colorless and odorless gas.",
-          "zh": "氮"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         }
       },
       {
@@ -320,53 +359,71 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "Short for __ere.",
-          "zh": "放大器"
+          "en": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
+          "zh": "菜肴"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "(countable) A place where prescription drugs are dispensed; a dispensary.",
-          "zh": "药店"
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
+          "zh": "其中"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "An allocated amount.",
+          "zh": "部分"
         }
       },
       {
         "num": 10,
-        "row": 3,
-        "col": 3,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
-          "zh": "金发女郎"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       },
       {
-        "num": 15,
-        "row": 6,
+        "num": 11,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
+          "en": "A house of worship, especially:",
+          "zh": "寺庙"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
         }
       },
       {
         "num": 17,
-        "row": 6,
-        "col": 5,
+        "row": 5,
+        "col": 4,
         "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
+          "en": "A convenience store, originally one that sold coffee and similar basic items.",
+          "zh": "咖啡店"
         }
       },
       {
-        "num": 18,
-        "row": 6,
-        "col": 6,
+        "num": 19,
+        "row": 5,
+        "col": 7,
         "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "袜队"
+          "en": "The result of a contest that neither side has won; a tie.",
+          "zh": "画"
         }
       }
     ]

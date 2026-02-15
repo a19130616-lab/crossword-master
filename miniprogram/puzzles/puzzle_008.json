@@ -5,124 +5,177 @@
   "cols": 5,
   "solution": [
     [
-      "P",
       null,
-      null,
-      null,
-      "N"
+      "S",
+      "O",
+      "F",
+      "A"
     ],
     [
-      "H",
+      "S",
+      null,
+      "C",
+      "O",
+      "W"
+    ],
+    [
+      "O",
+      "M",
+      "E",
+      "G",
+      "A"
+    ],
+    [
+      "M",
+      "I",
       "A",
-      "P",
-      "P",
+      null,
       "Y"
     ],
     [
-      "O",
-      null,
       "A",
-      null,
-      "L"
-    ],
-    [
-      "T",
-      "U",
-      "R",
-      "B",
-      "O"
-    ],
-    [
-      "O",
-      null,
-      null,
-      null,
-      "N"
+      "C",
+      "N",
+      "E",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        3
-      ],
-      [
-        4,
-        0
-      ],
-      [
         0,
+        1
+      ],
+      [
+        3,
         4
       ],
       [
-        1,
+        0,
         2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
       ]
     ],
     "medium": [
       [
-        1,
-        3
+        0,
+        1
       ],
       [
-        4,
-        0
+        3,
+        4
+      ],
+      [
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        1,
-        3
+        0,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A __ event, thing, person, etc.",
-          "zh": "快乐的"
+          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+          "zh": "沙发"
         }
       },
       {
-        "num": 5,
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
+          "zh": "奶牛"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        }
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "__charger.",
-          "zh": "涡轮"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
+          "zh": "粉刺"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A __graph.",
-          "zh": "照片"
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
         }
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
+          "en": "A thick cloud that forms near the ground; the obscurity of such a cloud.",
+          "zh": "多雾路段"
         }
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
-          "zh": "标杆"
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
+          "zh": "索马"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Alternative form of mike",
+          "zh": "麦克风"
         }
       }
     ]

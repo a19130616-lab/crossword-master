@@ -8,61 +8,61 @@
       null,
       null,
       null,
-      "S",
+      "T",
       null,
-      null,
-      "S"
-    ],
-    [
-      null,
-      "A",
-      null,
-      "M",
-      "I",
-      "N",
-      "I"
-    ],
-    [
-      null,
-      "G",
-      "R",
-      "A",
-      "D",
       null,
       "G"
     ],
     [
-      "B",
+      null,
+      "M",
+      null,
+      "H",
       "O",
-      "O",
-      "L",
+      "P",
+      "E"
+    ],
+    [
+      null,
       "E",
-      "A",
+      "V",
+      "E",
+      "R",
+      null,
       "N"
     ],
     [
-      "Y",
-      null,
-      "P",
-      "L",
-      "A",
-      "N",
-      null
-    ],
-    [
+      "S",
       "T",
-      "H",
-      "E",
-      "E",
-      null,
-      "T",
-      null
-    ],
-    [
-      "E",
-      null,
-      null,
+      "O",
       "R",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "T",
+      "A",
+      "L",
+      "E",
+      null
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "P",
+      null,
+      "O",
+      null
+    ],
+    [
+      "T",
+      null,
+      null,
+      "Y",
       null,
       null,
       null
@@ -71,60 +71,60 @@
   "prefilled": {
     "easy": [
       [
+        5,
+        2
+      ],
+      [
         6,
-        0
+        3
+      ],
+      [
+        5,
+        3
       ],
       [
         3,
-        0
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
       ],
       [
         5,
         1
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        2,
-        2
       ]
     ],
     "medium": [
       [
+        5,
+        2
+      ],
+      [
         6,
-        0
+        3
+      ],
+      [
+        5,
+        3
       ],
       [
         3,
-        0
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        5,
-        0
+        2
       ]
     ],
     "hard": [
       [
-        6,
-        0
+        5,
+        2
       ],
       [
-        3,
-        0
+        6,
+        3
       ]
     ]
   },
@@ -135,8 +135,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "__ature, tiny, small.",
-          "zh": "小型的"
+          "en": "To want something to happen, with a sense of expectation that it might.",
+          "zh": "希望"
         }
       },
       {
@@ -144,8 +144,8 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A unit of angle equal to 0.9 degrees, so that there are 100 __ians in a right angle.",
-          "zh": "毕业生"
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
         }
       },
       {
@@ -153,8 +153,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A variable that can hold a single true/false (1/0) value.",
-          "zh": "布尔值"
+          "en": "The act of storing goods; the state of being stored.",
+          "zh": "贮存"
         }
       },
       {
@@ -162,8 +162,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
-          "zh": "计划"
+          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+          "zh": "故事"
         }
       },
       {
@@ -171,8 +171,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To address (a person) using the pronoun __.",
-          "zh": "你"
+          "en": "A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.",
+          "zh": "准备"
         }
       }
     ],
@@ -182,8 +182,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
+          "en": "Attempted remediation of a health problem following a diagnosis, usually synonymous with treatment.",
+          "zh": "治疗"
         }
       },
       {
@@ -191,8 +191,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "(sometimes also used uncountably) A visible indication.",
-          "zh": "符号"
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
         }
       },
       {
@@ -200,8 +200,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       },
       {
@@ -209,8 +209,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
         }
       },
       {
@@ -218,8 +218,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
-          "zh": "绳索"
+          "en": "A formalized choice on matters of administration or other democratic activities",
+          "zh": "投票"
         }
       },
       {
@@ -227,8 +227,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
-          "zh": "字节"
+          "en": "A clan, tribe, or family, proceeding from a common progenitor (used especially of the ancient clans in Ireland).",
+          "zh": "九月"
         }
       },
       {
@@ -236,8 +236,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       }
     ]

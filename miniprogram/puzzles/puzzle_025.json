@@ -6,288 +6,332 @@
   "solution": [
     [
       null,
+      null,
+      "L",
+      "A",
+      "W",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
       "C",
-      null,
-      null,
-      null,
-      "D",
-      null,
-      null,
-      "P"
-    ],
-    [
-      "B",
-      "A",
-      "B",
-      "E",
-      null,
+      "H",
       "I",
-      "D",
-      "E",
-      "A"
+      null,
+      "A",
+      "P",
+      "A",
+      "R",
+      "T"
     ],
     [
+      null,
       "A",
-      "M",
+      "P",
+      "P",
+      "L",
+      "Y",
       null,
-      "N",
-      "O",
-      "S",
       "E",
-      null,
       "R"
     ],
     [
       "S",
-      "P",
-      "A",
-      "T",
-      "I",
+      "B",
+      null,
       "A",
       "L",
+      "T",
       null,
+      "A",
+      "O"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      null,
+      "H",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "R",
+      "T",
+      null,
+      "A",
+      "G",
+      "O",
+      null,
+      "H",
       "E"
     ],
     [
       "E",
+      "A",
       null,
-      "P",
-      "I",
-      null,
-      "G",
-      "T",
-      null,
-      "N"
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      null
     ],
     [
+      "S",
+      "T",
+      "E",
+      "E",
       "L",
       null,
       "A",
-      "T",
-      "T",
-      "R",
-      "A",
-      "C",
-      "T"
+      "S",
+      "H"
     ],
     [
-      "I",
-      null,
-      "R",
-      "I",
-      "P",
-      "E",
-      null,
-      "A",
-      "A"
-    ],
-    [
-      "N",
-      "O",
-      "T",
-      "E",
-      null,
-      "E",
-      "A",
-      "R",
-      "L"
-    ],
-    [
-      "E",
-      null,
-      null,
       "S",
       null,
       null,
       null,
-      "T",
+      "E",
+      "N",
+      "D",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        7
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        5
+        7,
+        2
       ],
       [
         3,
         1
       ],
       [
-        1,
-        0
-      ],
-      [
         0,
-        5
-      ],
-      [
-        2,
         4
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        2,
-        0
       ],
       [
         5,
-        4
+        7
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        3
       ]
     ],
     "medium": [
       [
-        5,
-        7
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        4,
-        5
+        7,
+        2
       ],
       [
         3,
         1
       ],
       [
-        1,
-        0
-      ],
-      [
         0,
-        5
-      ]
-    ],
-    "hard": [
+        4
+      ],
       [
         5,
         7
       ],
       [
-        3,
+        4,
         0
       ],
       [
-        2,
-        5
+        7,
+        6
       ],
       [
         1,
-        8
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        5,
+        7
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+          "zh": "法律"
+        }
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A baby or infant; a very young human or animal.",
-          "zh": "宝贝"
+          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+          "zh": "气"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
-          "zh": "鼻子"
+          "en": "To lay or place; to put (one thing to another)",
+          "zh": "申请"
         }
       },
       {
-        "num": 11,
+        "num": 13,
         "row": 3,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "Pertaining to (the dimension of) space.",
-          "zh": "空间的"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
         "num": 15,
-        "row": 5,
-        "col": 2,
+        "row": 4,
+        "col": 0,
         "clue": {
-          "en": "To pull toward without touching.",
-          "zh": "吸引"
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A tool for chopping.",
+          "zh": "黑客"
         }
       },
       {
         "num": 18,
-        "row": 6,
-        "col": 2,
+        "row": 5,
+        "col": 3,
         "clue": {
-          "en": "A fruit or vegetable which has __ned.",
-          "zh": "成熟"
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
         }
       },
       {
-        "num": 20,
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+          "zh": "舞蹈"
+        }
+      },
+      {
+        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "(heading) A symbol or annotation.",
-          "zh": "笔记"
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
         }
       },
       {
-        "num": 21,
+        "num": 25,
         "row": 7,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
-          "zh": "伯爵"
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -295,19 +339,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "An outdoor place acting as temporary accommodation in tents or other temporary structures.",
-          "zh": "营"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "To fail to agree; to have a different opinion or belief.",
-          "zh": "不同意"
+          "en": "A rampart of earth, stones etc. built up for defensive purposes.",
+          "zh": "墙"
         }
       },
       {
@@ -315,53 +359,71 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A person fulfilling a __ role.",
-          "zh": "父母的"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A line that is a base for measurement or for construction.",
-          "zh": "基线"
+          "en": "An act of stroking (moving one's hand over a surface).",
+          "zh": "中风"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form.",
-          "zh": "实体"
+          "en": "Conditions suitable for an organism or population of organisms to live.",
+          "zh": "栖息地"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
-          "zh": "三角洲"
+          "en": "A type of large constricting snake.",
+          "zh": "蟒蛇"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The act of stretching or extending; extension.",
+          "zh": "达到"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "An organized procession consisting of a series of consecutive displays, performances, exhibits, etc. displayed by moving down a street past a crowd of spectators.",
+          "zh": "游行"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
-          "zh": "分开"
+          "en": "(Cause of) discomfort.",
+          "zh": "压力"
         }
       },
       {
-        "num": 17,
+        "num": 19,
         "row": 5,
-        "col": 7,
+        "col": 4,
         "clue": {
-          "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
-          "zh": "大车"
+          "en": "To sing; charm; enchant.",
+          "zh": "大风"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A low-bred, presuming person; a mean, vulgar fellow.",
+          "zh": "计算机辅助设计"
         }
       }
     ]

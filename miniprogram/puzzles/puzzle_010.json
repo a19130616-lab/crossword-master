@@ -5,43 +5,47 @@
   "cols": 5,
   "solution": [
     [
+      "S",
       null,
-      "M",
-      "I",
-      "D",
-      null
+      null,
+      null,
+      "P"
     ],
     [
-      "A",
-      "A",
-      null,
+      "W",
+      "H",
       "E",
-      "O"
-    ],
-    [
-      "G",
-      "R",
-      "I",
-      "L",
+      "E",
       "L"
     ],
     [
-      "O",
-      "C",
+      "I",
       null,
-      "A",
-      "D"
+      "G",
+      null,
+      "A"
     ],
     [
-      null,
+      "F",
+      "I",
+      "G",
       "H",
-      "E",
-      "Y",
-      null
+      "T"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
+      [
+        4,
+        4
+      ],
       [
         1,
         0
@@ -52,57 +56,44 @@
       ],
       [
         3,
-        1
-      ],
-      [
-        4,
-        2
+        3
       ]
     ],
     "medium": [
       [
-        1,
-        0
+        4,
+        4
       ],
       [
         1,
-        1
+        0
       ]
     ],
     "hard": [
       [
-        1,
-        0
+        4,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "Denoting the __dle part.",
-          "zh": "中"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
+        "num": 3,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "A grating; a grid of wire or a sheet of material with a pattern of holes or slots, usually used to protect something while allowing the passage of air and liquids. Typical uses: to allow air through a fan while preventing fingers or objects from passing; to allow people to talk to somebody, while preventing attack.",
-          "zh": "炙烤"
+          "en": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",
+          "zh": "车轮"
         }
       },
       {
-        "num": 9,
-        "row": 4,
-        "col": 1,
+        "num": 5,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "An exclamation to get attention.",
-          "zh": "嘿"
+          "en": "To contend in physical conflict, either singly or in war, battle etc.",
+          "zh": "斗争"
         }
       }
     ],
@@ -110,37 +101,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
-          "zh": "行进"
+          "en": "A small plain-colored bird of the family Apodidae that resembles a swallow and is noted for its rapid flight.",
+          "zh": "迅速"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A period of time before an event occurs; the act of __ing; procrastination; lingering inactivity.",
-          "zh": "延迟"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "(with the, invariable plural only) People who are __; __ beings; the __er generation, taken as a group.",
-          "zh": "老的"
+          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
+          "zh": "盘子"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ]
