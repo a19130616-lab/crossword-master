@@ -5,121 +5,104 @@
   "cols": 5,
   "solution": [
     [
-      "S",
       null,
-      "F",
-      "I",
-      "G"
+      "T",
+      "H",
+      "Y",
+      null
     ],
     [
-      "T",
+      "L",
+      "H",
+      null,
       "E",
-      "A",
-      "C",
-      "H"
+      "I"
     ],
     [
-      "A",
-      "A",
-      null,
-      "O",
-      "O"
-    ],
-    [
-      "T",
+      "B",
       "R",
+      "O",
       "A",
-      "N",
+      "D"
+    ],
+    [
+      "S",
+      "O",
+      null,
+      "S",
       "S"
     ],
     [
-      "E",
-      "N",
-      "D",
       null,
-      "T"
+      "W",
+      "I",
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         1,
-        4
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        2,
-        1
+        3
       ],
       [
         1,
         1
       ],
       [
-        3,
-        4
+        4,
+        1
+      ],
+      [
+        0,
+        3
       ]
     ],
     "medium": [
       [
         1,
-        4
+        3
       ],
       [
-        0,
-        2
-      ],
-      [
-        2,
+        1,
         1
       ]
     ],
     "hard": [
       [
         1,
-        4
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A fruit-bearing tree or shrub of the genus Ficus that is native mainly to the tropics.",
-          "zh": "如图"
+          "en": "Because, for sake, forwhy, since.",
+          "zh": "你的"
         }
       },
       {
-        "num": 5,
-        "row": 1,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "To show (someone) the way; to guide, conduct; to point, indicate.",
-          "zh": "教"
+          "en": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
+          "zh": "广阔"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "To cross from one side to another of (gender, sex or something in that vein).",
-          "zh": "反式"
-        }
-      },
-      {
-        "num": 11,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
         }
       }
     ],
@@ -127,37 +110,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A condition; a set of circumstances applying at any given time.",
-          "zh": "状态"
+          "en": "To change place.",
+          "zh": "扔"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An often humid, yellowish froth produced by fermenting malt worts, and used to brew beer, leaven bread, and also used in certain medicines.",
+          "zh": "酵母"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
-          "zh": "图标"
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
         }
       },
       {
-        "num": 4,
-        "row": 0,
+        "num": 5,
+        "row": 1,
         "col": 4,
         "clue": {
-          "en": "The spirit; the soul of man.",
-          "zh": "鬼"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "To gain (success, reward, recognition) through applied effort or work.",
-          "zh": "赚"
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
         }
       }
     ]

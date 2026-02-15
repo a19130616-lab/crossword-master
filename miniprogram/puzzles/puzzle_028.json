@@ -6,125 +6,129 @@
   "solution": [
     [
       null,
+      "G",
+      null,
+      "A",
+      "P",
+      "T",
+      null,
+      null,
+      "V"
+    ],
+    [
       "S",
-      null,
-      "D",
-      "U",
-      "E",
-      null,
-      null,
-      "L"
-    ],
-    [
-      "C",
-      "H",
-      "O",
-      "I",
-      "R",
-      null,
+      "A",
       "M",
-      "I",
-      "A"
+      "B",
+      "A",
+      null,
+      "B",
+      "Y",
+      "E"
     ],
     [
-      null,
-      "O",
-      "B",
       null,
       "G",
       "A",
-      "Y",
       null,
-      "W"
+      "C",
+      "H",
+      "I",
+      null,
+      "S"
     ],
     [
-      "A",
-      "T",
+      "L",
       "E",
+      "D",
       null,
-      "E",
-      "S",
-      "S",
-      "A",
-      "Y"
+      "K",
+      "I",
+      "L",
+      "L",
+      "S"
     ],
     [
-      "U",
-      null,
-      "S",
       "O",
       null,
-      "H",
+      "N",
+      "O",
+      null,
       "T",
+      "L",
       null,
       "E"
     ],
     [
-      "B",
-      "R",
-      "I",
-      "N",
-      "G",
-      null,
+      "C",
+      "H",
       "E",
       "A",
-      "R"
+      "P",
+      null,
+      "I",
+      "L",
+      "L"
     ],
     [
-      "U",
-      null,
-      "T",
-      "E",
       "A",
       null,
-      "R",
-      "T",
+      "S",
+      "K",
+      "I",
+      null,
+      "O",
+      "A",
       null
     ],
     [
-      "R",
-      "A",
-      "Y",
+      "T",
+      "V",
+      "S",
       null,
-      "M",
-      "A",
-      "Y",
-      "O",
-      "R"
+      "P",
+      "E",
+      "N",
+      "N",
+      "Y"
     ],
     [
-      "N",
-      null,
-      null,
-      "G",
       "E",
-      "M",
       null,
-      "M",
+      null,
+      "R",
+      "E",
+      "V",
+      null,
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        4
+        6,
+        0
       ],
       [
-        3,
+        7,
         8
       ],
       [
-        2,
+        7,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
         1
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        4,
-        6
       ],
       [
         6,
@@ -132,31 +136,27 @@
       ],
       [
         1,
-        3
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        5,
         0
       ],
       [
-        7,
-        4
+        5,
+        1
       ],
       [
-        0,
+        8,
+        0
+      ],
+      [
+        1,
         1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        6
       ],
       [
         4,
@@ -164,29 +164,33 @@
       ],
       [
         7,
-        6
+        0
       ]
     ],
     "medium": [
       [
-        5,
-        4
+        6,
+        0
       ],
       [
-        3,
+        7,
         8
       ],
       [
-        2,
+        7,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
         1
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        4,
-        6
       ],
       [
         6,
@@ -194,33 +198,29 @@
       ],
       [
         1,
-        3
+        0
       ],
       [
-        2,
-        8
-      ],
-      [
-        2,
-        4
+        5,
+        1
       ]
     ],
     "hard": [
       [
-        5,
-        4
+        6,
+        0
       ],
       [
-        3,
+        7,
         8
       ],
       [
-        2,
-        1
+        7,
+        6
       ],
       [
-        2,
-        6
+        7,
+        7
       ]
     ]
   },
@@ -231,8 +231,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "Expected at or planned for at a certain time.",
-          "zh": "到期的"
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
         }
       },
       {
@@ -240,8 +240,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Singing group; group of people who sing together; company of people who are trained to sing together.",
-          "zh": "唱诗班"
+          "en": "A Brazilian ballroom dance or dance style.",
+          "zh": "桑巴舞"
         }
       },
       {
@@ -249,8 +249,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
         }
       },
       {
@@ -258,8 +258,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
-          "zh": "同性恋"
+          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+          "zh": "气"
         }
       },
       {
@@ -267,8 +267,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "(heading) To guide or conduct.",
+          "zh": "带领了"
         }
       },
       {
@@ -276,8 +276,8 @@
         "row": 3,
         "col": 4,
         "clue": {
-          "en": "A short piece of writing on a particular subject.",
-          "zh": "散文"
+          "en": "The act of killing.",
+          "zh": "杀人的行为。"
         }
       },
       {
@@ -285,8 +285,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "(ditransitive) To transport toward somebody/somewhere.",
-          "zh": "带来"
+          "en": "Low in price; not expensive.",
+          "zh": "便宜的"
         }
       },
       {
@@ -294,8 +294,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
         }
       },
       {
@@ -303,8 +303,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
@@ -312,8 +312,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A beam of light or radiation.",
-          "zh": "射线"
+          "en": "The assessed value of an asset from which the tax owing is computed.",
+          "zh": "电视"
         }
       },
       {
@@ -321,8 +321,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "The chief executive of the municipal government of a city, borough, &c., formerly usually appointed as a caretaker by European royal courts but now usually appointed or elected locally.",
-          "zh": "市长"
+          "en": "In the United Kingdom and Ireland, a copper coin worth 1/240 of a pound sterling or Irish pound before decimalisation. Abbreviation: d.",
+          "zh": "一分钱"
         }
       },
       {
@@ -330,8 +330,8 @@
         "row": 8,
         "col": 3,
         "clue": {
-          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
-          "zh": "宝石"
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
         }
       }
     ],
@@ -341,8 +341,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "To launch a projectile.",
-          "zh": "射击"
+          "en": "Something, such as a glove or other pledge, thrown down as a challenge to combat (now usually figurative).",
+          "zh": "量具"
         }
       },
       {
@@ -350,8 +350,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale.",
+          "zh": "盒"
         }
       },
       {
@@ -359,8 +359,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A professional person qualified (as by a law degree or bar exam) and authorized to practice law, i.e. represent parties in lawsuits or trials and give legal advice.",
-          "zh": "律师"
+          "en": "Any craft designed for transportation on water, such as a ship or boat.",
+          "zh": "血管"
         }
       },
       {
@@ -368,8 +368,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "The state of being obese due to an excess of body fat.",
-          "zh": "肥胖"
+          "en": "The state of being mad; insanity; mental disease.",
+          "zh": "疯狂"
         }
       },
       {
@@ -377,8 +377,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "Something secret or unexplainable; an unknown.",
-          "zh": "神秘"
+          "en": "(modern British & Australian, short scale) a thousand million (logic: 1,000 × 1,000^2): 1 followed by nine zeros, 109; a milliard",
+          "zh": "十亿"
         }
       },
       {
@@ -386,8 +386,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         }
       },
       {
@@ -395,8 +395,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A dark reddish-brown colour, often used to describe hair colour.",
-          "zh": "奥本"
+          "en": "To place; to set in a particular spot or position.",
+          "zh": "定位"
         }
       },
       {
@@ -404,8 +404,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       },
       {
@@ -413,8 +413,8 @@
         "row": 5,
         "col": 4,
         "clue": {
-          "en": "A playful or competitive activity.",
-          "zh": "游戏"
+          "en": "Meanings relating to a wind instrument.",
+          "zh": "管道"
         }
       },
       {
@@ -422,8 +422,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
+          "en": "(used in street names) A road, street, or similar thoroughfare.",
+          "zh": "车道"
         }
       }
     ]

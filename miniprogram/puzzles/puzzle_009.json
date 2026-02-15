@@ -5,104 +5,121 @@
   "cols": 5,
   "solution": [
     [
+      "F",
       null,
+      "P",
       "A",
-      "L",
-      "T",
-      null
+      "R"
     ],
     [
-      "V",
-      "R",
-      null,
-      "U",
-      "A"
-    ],
-    [
+      "I",
+      "M",
       "A",
       "G",
-      "I",
-      "N",
-      "G"
-    ],
-    [
-      "N",
-      "U",
-      null,
-      "E",
       "E"
     ],
     [
+      "N",
+      "E",
       null,
       "E",
+      "N"
+    ],
+    [
       "A",
-      "R",
-      null
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      null,
+      "W"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
         3
       ],
       [
         1,
-        0
+        3
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        2
       ],
       [
-        3,
-        0
+        1,
+        2
       ],
       [
         1,
         1
       ]
     ],
-    "medium": [
-      [
-        4,
-        3
-      ],
-      [
-        1,
-        0
-      ]
-    ],
     "hard": [
       [
-        4,
-        3
+        0,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
         }
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "To cause to grow old; to impart the characteristics of age to.",
-          "zh": "老化"
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "To one side; out of the way.",
+          "zh": "放在一边"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         }
       }
     ],
@@ -110,37 +127,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "To show grounds for concluding (that); to indicate, imply.",
-          "zh": "争论"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
+          "en": "Coming at the end of a series; the last game in a sports tournament.",
+          "zh": "最终的"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
-          "zh": "面包车"
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
         }
       },
       {
-        "num": 5,
-        "row": 1,
+        "num": 4,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
+          "en": "To make (something) new again; to restore to freshness or original condition.",
+          "zh": "更新"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+          "zh": "台面"
         }
       }
     ]

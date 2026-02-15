@@ -6,73 +6,81 @@
   "solution": [
     [
       null,
-      "A",
-      "R",
-      "T",
-      null
+      "F",
+      "U",
+      "J",
+      "I"
     ],
     [
-      "R",
-      "M",
+      "A",
       null,
-      "R",
+      "S",
+      "E",
       "T"
     ],
     [
-      "R",
-      "E",
-      "N",
-      "E",
-      "W"
+      "P",
+      "L",
+      "A",
+      "T",
+      "E"
     ],
     [
       "P",
-      "N",
+      "I",
+      "G",
       null,
-      "N",
-      "O"
+      "M"
     ],
     [
-      null,
-      "D",
-      "A",
-      "D",
+      "S",
+      "E",
+      "E",
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        1,
+        2
+      ],
+      [
         0,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        2,
-        0
+        3
       ],
       [
         3,
-        4
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        0,
-        1
+        1,
+        2
       ],
       [
-        4,
+        0,
+        3
+      ],
+      [
+        3,
         1
       ]
     ],
     "hard": [
       [
-        0,
-        1
+        1,
+        2
       ]
     ]
   },
@@ -83,64 +91,91 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
+          "en": "A plain spun silk fabric.",
+          "zh": "富士"
         }
       },
       {
         "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
+        }
+      },
+      {
+        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "To make (something) new again; to restore to freshness or original condition.",
-          "zh": "更新"
+          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
+          "zh": "盘子"
         }
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A father, a male parent.",
-          "zh": "爸爸"
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "见过"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "(usually in the plural) An act of righting a wrong; compensation.",
-          "zh": "修正"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "An inclination in a particular direction.",
-          "zh": "趋势"
+          "en": "The manner or the amount of using; use.",
+          "zh": "用法"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "Recommended retail price",
-          "zh": "回报率"
+          "en": "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
+          "zh": "喷气式飞机"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A distinct physical object.",
+          "zh": "物品"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
+        }
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
         }
       }
     ]

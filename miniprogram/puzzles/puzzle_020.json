@@ -5,137 +5,137 @@
   "cols": 7,
   "solution": [
     [
-      null,
-      null,
-      "B",
-      "I",
-      "D",
-      null,
-      "B"
-    ],
-    [
-      "R",
-      "O",
-      "U",
-      "T",
-      "I",
-      "N",
-      "E"
-    ],
-    [
-      null,
-      "F",
-      "S",
-      null,
-      "E",
-      "Y",
-      "E"
-    ],
-    [
-      "A",
-      "F",
-      null,
+      "M",
       null,
       null,
       "L",
-      "R"
-    ],
-    [
-      "P",
-      "E",
-      "T",
       null,
-      "S",
-      "O",
-      null
+      null,
+      "S"
     ],
     [
-      "P",
-      "R",
-      "E",
-      "V",
+      "A",
+      "N",
+      "C",
+      "I",
       "E",
       "N",
       "T"
     ],
     [
-      "S",
+      "N",
       null,
+      "R",
+      "E",
+      "V",
+      null,
+      "U"
+    ],
+    [
+      "D",
+      "U",
+      "I",
+      null,
+      "E",
+      "N",
+      "D"
+    ],
+    [
       "A",
-      "C",
-      "T",
       null,
-      null
+      "M",
+      "O",
+      "N",
+      null,
+      "I"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "A",
+      "T",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "K",
+      null,
+      null,
+      "S"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         5,
-        6
+        4
       ],
       [
-        3,
+        2,
         0
       ],
       [
-        4,
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
         2
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        0
       ],
       [
         1,
         6
       ],
       [
-        2,
-        5
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        1,
-        2
-      ],
-      [
         4,
-        5
+        3
       ]
     ],
     "medium": [
       [
         5,
-        6
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        1,
-        6
+        4
       ],
       [
         2,
-        5
+        0
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        2
       ]
     ],
     "hard": [
       [
         5,
-        6
+        4
       ],
       [
-        3,
+        2,
         0
       ]
     ]
@@ -143,57 +143,57 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "To issue a command; to tell.",
-          "zh": "出价"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A course of action to be followed regularly; a standard procedure.",
-          "zh": "常规"
+          "en": "A person who is very old.",
+          "zh": "古老的"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
         }
       },
       {
         "num": 9,
-        "row": 2,
+        "row": 3,
         "col": 4,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
         }
       },
       {
         "num": 12,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "An animal kept as a companion.",
-          "zh": "宠物"
-        }
-      },
-      {
-        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To stop (an outcome); to keep from (doing something).",
-          "zh": "防止"
-        }
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Something done, a deed.",
-          "zh": "行为"
+          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+          "zh": "剧院"
         }
       }
     ],
@@ -201,73 +201,55 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A motor vehicle for transporting large numbers of people along roads.",
-          "zh": "公共汽车"
+          "en": "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
+          "zh": "授权"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "死"
+          "en": "An academic field of study concerning the given subject.",
+          "zh": "研究"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 6,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
-          "zh": "啤酒"
+          "en": "A specific act committed in violation of the law.",
+          "zh": "犯罪"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "To present or proffer something for someone to accept or reject.",
-          "zh": "提供"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        }
-      },
-      {
-        "num": 13,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
         "col": 4,
         "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
+          "en": "An occurrence; something that happens.",
+          "zh": "事件"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       }
     ]

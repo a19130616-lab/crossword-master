@@ -6,99 +6,99 @@
   "solution": [
     [
       null,
-      "C",
+      "M",
       null,
-      "A",
-      "T",
-      "E",
-      null,
-      null,
-      "A"
-    ],
-    [
-      "C",
-      "A",
-      "C",
-      "H",
-      "E",
-      null,
+      "M",
       "I",
-      "D",
+      "X",
+      null,
+      null,
       "S"
     ],
     [
-      null,
-      "L",
-      "O",
-      null,
-      "N",
-      "O",
-      "N",
-      null,
-      "P"
-    ],
-    [
-      "A",
-      "L",
-      "L",
-      null,
-      "T",
+      "B",
       "A",
       "S",
-      "T",
-      "E"
-    ],
-    [
-      "M",
+      "I",
+      "C",
       null,
+      "A",
       "L",
-      "A",
-      null,
-      "K",
-      "T",
-      null,
-      "C"
-    ],
-    [
-      "O",
-      "M",
-      "E",
-      "G",
-      "A",
-      null,
-      "A",
-      "N",
       "T"
     ],
     [
-      "U",
       null,
-      "C",
+      "R",
+      "K",
+      null,
       "O",
       "L",
+      "D",
       null,
-      "N",
-      "U",
-      null
+      "O"
     ],
     [
-      "N",
-      "U",
-      "T",
-      null,
-      "T",
+      "S",
+      "K",
       "I",
-      "T",
+      null,
+      "N",
+      "O",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "Y",
+      null,
       "L",
+      "M",
+      null,
+      "G",
+      "A",
+      null,
       "E"
     ],
     [
+      "S",
+      "P",
+      "L",
+      "I",
       "T",
       null,
-      null,
-      "D",
+      "N",
       "O",
+      "N"
+    ],
+    [
+      "T",
+      null,
       "E",
+      "A",
+      "R",
+      null,
+      "C",
+      "R",
+      null
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      null,
+      "I",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "M",
+      null,
+      null,
+      "O",
+      "P",
+      "T",
       null,
       "L",
       null
@@ -107,19 +107,19 @@
   "prefilled": {
     "easy": [
       [
-        0,
-        4
-      ],
-      [
-        2,
+        5,
         8
       ],
       [
-        2,
-        4
+        1,
+        8
       ],
       [
-        7,
+        5,
+        0
+      ],
+      [
+        6,
         7
       ],
       [
@@ -127,15 +127,31 @@
         6
       ],
       [
+        8,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
         4,
         2
       ],
       [
-        6,
+        3,
         4
       ],
       [
-        3,
+        6,
         2
       ],
       [
@@ -143,45 +159,29 @@
         5
       ],
       [
-        8,
-        3
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        8,
+        5,
         4
       ],
       [
-        8,
-        0
-      ],
-      [
-        4,
-        8
+        1,
+        2
       ]
     ],
     "medium": [
       [
-        0,
-        4
-      ],
-      [
-        2,
+        5,
         8
       ],
       [
-        2,
-        4
+        1,
+        8
       ],
       [
-        7,
+        5,
+        0
+      ],
+      [
+        6,
         7
       ],
       [
@@ -189,37 +189,37 @@
         6
       ],
       [
-        4,
-        2
+        8,
+        5
+      ],
+      [
+        7,
+        8
       ],
       [
         6,
-        4
+        3
       ],
       [
         3,
-        2
-      ],
-      [
-        0,
-        5
+        8
       ]
     ],
     "hard": [
       [
-        0,
-        4
-      ],
-      [
-        2,
+        5,
         8
       ],
       [
-        2,
-        4
+        1,
+        8
       ],
       [
-        7,
+        5,
+        0
+      ],
+      [
+        6,
         7
       ]
     ]
@@ -231,8 +231,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "To stir together.",
+          "zh": "混合"
         }
       },
       {
@@ -240,8 +240,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A store of things that may be required in the future, which can be retrieved rapidly, protected or hidden in some way.",
-          "zh": "缓存"
+          "en": "A necessary commodity, a staple requirement.",
+          "zh": "基本的"
         }
       },
       {
@@ -249,8 +249,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
@@ -258,8 +258,8 @@
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
@@ -267,8 +267,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "(with a possessive pronoun) Everything that one is capable of.",
-          "zh": "全部"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
@@ -276,8 +276,8 @@
         "row": 3,
         "col": 4,
         "clue": {
-          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
-          "zh": "品尝"
+          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+          "zh": "小说"
         }
       },
       {
@@ -285,8 +285,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
+          "en": "A crack or longitudinal fissure.",
+          "zh": "分裂"
         }
       },
       {
@@ -294,8 +294,8 @@
         "row": 5,
         "col": 6,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "To no extent, in no way.",
+          "zh": "非"
         }
       },
       {
@@ -303,8 +303,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A dip on a mountain ridge between two peaks.",
-          "zh": "坳"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       },
       {
@@ -312,8 +312,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       },
       {
@@ -321,8 +321,8 @@
         "row": 7,
         "col": 4,
         "clue": {
-          "en": "The name of a book, composition, or other artistic work.",
-          "zh": "标题"
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
         }
       },
       {
@@ -330,8 +330,8 @@
         "row": 8,
         "col": 3,
         "clue": {
-          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
-          "zh": "母鹿"
+          "en": "To choose; select.",
+          "zh": "选择"
         }
       }
     ],
@@ -341,8 +341,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "To cry out to someone in order to summon them or attract their attention; a telephone conversation.",
-          "zh": "称呼"
+          "en": "A small area on a surface having a different color from its surroundings.",
+          "zh": "标记"
         }
       },
       {
@@ -350,8 +350,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A pavilion or portable lodge consisting of skins, canvas, or some strong cloth, stretched and sustained by poles, used for sheltering people from the weather.",
-          "zh": "帐篷"
+          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
+          "zh": "图标"
         }
       },
       {
@@ -359,8 +359,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "Any specific feature, part, or element of something.",
-          "zh": "方面"
+          "en": "To take illegally, or without the owner's permission, something owned by someone else.",
+          "zh": "被盗"
         }
       },
       {
@@ -368,8 +368,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "To gather together; amass.",
-          "zh": "收集"
+          "en": "Having or showing skill; skillful.",
+          "zh": "熟练"
         }
       },
       {
@@ -377,8 +377,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "A very short period of time; a moment.",
-          "zh": "立即的"
+          "en": "A forward move; improvement or progression.",
+          "zh": "进步"
         }
       },
       {
@@ -386,8 +386,8 @@
         "row": 2,
         "col": 5,
         "clue": {
-          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
-          "zh": "橡树"
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
         }
       },
       {
@@ -395,8 +395,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
-          "zh": "数量"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
@@ -404,8 +404,8 @@
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
         }
       },
       {
@@ -413,8 +413,8 @@
         "row": 5,
         "col": 4,
         "clue": {
-          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
-          "zh": "中音"
+          "en": "A journey; an excursion or jaunt",
+          "zh": "旅行"
         }
       },
       {
@@ -422,8 +422,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "A non-existent or empty value or set of values.",
-          "zh": "无效的"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
         }
       }
     ]

@@ -5,82 +5,82 @@
   "cols": 5,
   "solution": [
     [
-      "S",
-      null,
-      "P",
       "I",
-      "T"
+      null,
+      "L",
+      "A",
+      "P"
     ],
     [
-      "T",
+      "S",
       "H",
       "E",
+      "L",
+      "L"
+    ],
+    [
+      "S",
+      "U",
+      null,
       "T",
       "A"
     ],
     [
       "U",
+      "N",
       "I",
-      null,
-      "E",
-      "K"
-    ],
-    [
-      "F",
-      "R",
-      "A",
-      "M",
-      "E"
-    ],
-    [
-      "F",
-      "E",
-      "E",
-      null,
+      "O",
       "N"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        1
-      ],
-      [
         1,
         4
       ],
       [
-        3,
+        2,
         3
       ],
       [
         3,
+        0
+      ],
+      [
+        1,
         1
       ],
       [
-        2,
-        3
+        4,
+        1
       ]
     ],
     "medium": [
       [
-        2,
-        1
-      ],
-      [
         1,
         4
       ],
       [
-        3,
+        2,
         3
+      ],
+      [
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        2,
-        1
+        1,
+        4
       ]
     ]
   },
@@ -91,8 +91,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A hole in the ground.",
-          "zh": "坑"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         }
       },
       {
@@ -100,8 +100,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
-          "zh": "希腊字母θ"
+          "en": "A hard external covering of an animal.",
+          "zh": "壳"
         }
       },
       {
@@ -109,8 +109,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The structural elements of a building or other constructed object.",
-          "zh": "框架"
+          "en": "The act of uniting or joining two or more things into one.",
+          "zh": "联盟"
         }
       },
       {
@@ -118,8 +118,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
-          "zh": "费用"
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
         }
       }
     ],
@@ -129,8 +129,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "Miscellaneous items or objects; (with possessive) personal effects.",
-          "zh": "东西"
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
         }
       },
       {
@@ -138,8 +138,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A distinct physical object.",
-          "zh": "物品"
+          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
+          "zh": "中音"
         }
       },
       {
@@ -147,8 +147,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "To get into one's hands, possession or control, with or without force.",
-          "zh": "采取"
+          "en": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.",
+          "zh": "植物"
         }
       },
       {
@@ -156,8 +156,8 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Payment for the temporary use of something.",
-          "zh": "聘请"
+          "en": "To be or remain suspended.",
+          "zh": "挂"
         }
       }
     ]

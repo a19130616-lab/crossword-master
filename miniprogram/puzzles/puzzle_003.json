@@ -5,81 +5,73 @@
   "cols": 5,
   "solution": [
     [
-      "A",
-      "T",
-      "O",
+      null,
       "M",
+      "U",
+      "D",
       null
     ],
     [
-      "P",
-      "A",
-      "N",
+      "M",
+      "E",
       null,
-      "D"
-    ],
-    [
-      "P",
-      "R",
-      "I",
-      "O",
-      "R"
+      "Y",
+      "A"
     ],
     [
       "S",
+      "T",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "G",
+      "A",
       null,
-      "O",
       "N",
-      "E"
+      "T"
     ],
     [
       null,
-      "K",
-      "N",
-      "E",
-      "W"
+      "L",
+      "O",
+      "G",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        2,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
         1,
         0
       ],
       [
-        1,
-        4
-      ],
-      [
-        0,
+        3,
         1
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        0,
-        2
       ]
     ],
     "medium": [
       [
-        1,
+        2,
         0
       ],
       [
-        1,
-        4
-      ],
-      [
         0,
-        1
+        2
       ]
     ],
     "hard": [
       [
-        1,
+        2,
         0
       ]
     ]
@@ -89,19 +81,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A wide, flat receptacle used around the house, especially for cooking.",
-          "zh": "平底锅"
+          "en": "A mixture of water and soil or fine grained sediment.",
+          "zh": "泥"
         }
       },
       {
@@ -109,17 +92,8 @@
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
-          "zh": "事先的"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "A long, thin piece of land; any long, thin area.",
+          "zh": "条"
         }
       },
       {
@@ -127,8 +101,8 @@
         "row": 4,
         "col": 1,
         "clue": {
-          "en": "To perceive the truth or factuality of; to be certain of or that.",
-          "zh": "知道"
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
         }
       }
     ],
@@ -136,28 +110,28 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
+          "en": "(heading) Chemical elements or alloys, and the mines where their ores come from.",
+          "zh": "金属"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "垂死"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 2,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.",
-          "zh": "洋葱"
+          "en": "A communication, or what is communicated; any concept or information conveyed.",
+          "zh": "味精"
         }
       },
       {
@@ -165,17 +139,8 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "To move or develop something.",
-          "zh": "画了"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
         }
       }
     ]

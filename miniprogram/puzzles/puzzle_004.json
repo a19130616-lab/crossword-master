@@ -5,74 +5,74 @@
   "cols": 5,
   "solution": [
     [
-      "S",
+      "E",
       null,
       null,
       null,
-      "C"
+      "B"
     ],
     [
-      "T",
-      "O",
-      "W",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      null,
+      "N",
+      null,
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "G",
       "E",
-      "R"
+      "L"
     ],
     [
       "Y",
       null,
-      "O",
-      null,
-      "E"
-    ],
-    [
-      "L",
-      "A",
-      "N",
-      "C",
-      "E"
-    ],
-    [
-      "E",
       null,
       null,
-      null,
-      "K"
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        3,
+        4
+      ],
+      [
+        3,
         0
       ],
       [
         2,
-        0
-      ],
-      [
-        0,
-        0
+        4
       ],
       [
         1,
-        4
+        3
       ]
     ],
     "medium": [
       [
-        4,
-        0
+        3,
+        4
       ],
       [
-        2,
+        3,
         0
       ]
     ],
     "hard": [
       [
-        4,
-        0
+        3,
+        4
       ]
     ]
   },
@@ -83,8 +83,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
-          "zh": "塔"
+          "en": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.",
+          "zh": "微笑"
         }
       },
       {
@@ -92,8 +92,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen.",
-          "zh": "长矛"
+          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
+          "zh": "天使"
         }
       }
     ],
@@ -103,8 +103,8 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A manner of doing something; a distinctive appearance of a design or work of art.",
-          "zh": "风格"
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
         }
       },
       {
@@ -112,8 +112,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A small inlet or bay, often saltwater, narrower and extending farther into the land than a cove; a recess in the shore of the sea, or of a river; the inner part of a port that is used as a dock for small boats.",
-          "zh": "溪"
+          "en": "The abdomen, especially a fat one.",
+          "zh": "腹部"
         }
       },
       {
@@ -121,8 +121,8 @@
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "To conquer, defeat.",
-          "zh": "韩元"
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
         }
       }
     ]

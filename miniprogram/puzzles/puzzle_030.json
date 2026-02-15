@@ -6,117 +6,141 @@
   "solution": [
     [
       null,
-      "K",
-      null,
-      null,
-      null,
-      null,
-      "E",
-      null,
-      "A"
-    ],
-    [
-      "M",
-      "E",
-      "D",
-      "I",
-      "A",
-      null,
-      "A",
-      "B",
-      "S"
-    ],
-    [
-      null,
-      "N",
-      "I",
-      null,
       "S",
-      "T",
-      "R",
-      "A",
-      "P"
+      null,
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "L"
     ],
     [
       "P",
       "O",
-      "S",
+      "R",
+      "K",
       null,
-      "S",
-      "A",
-      null,
-      "T",
-      "E"
-    ],
-    [
-      "H",
-      null,
-      "H",
+      "I",
+      "D",
       "E",
+      "A"
+    ],
+    [
       "A",
-      "R",
-      "T",
+      "F",
       null,
-      "C"
+      "N",
+      "O",
+      "S",
+      "E",
+      null,
+      "U"
     ],
     [
       "R",
+      "A",
+      "D",
       "I",
+      "C",
+      "A",
+      "L",
       null,
-      "Y",
-      "U",
+      "G"
+    ],
+    [
+      "A",
       null,
-      "H",
-      "I",
+      "R",
+      "T",
+      null,
+      "G",
+      "T",
+      null,
+      "H"
+    ],
+    [
+      "D",
+      null,
+      "A",
+      "T",
+      "T",
+      "R",
+      "A",
+      "C",
       "T"
     ],
     [
-      "A",
-      "N",
-      "G",
-      "E",
-      "L",
-      null,
       "I",
-      "T",
-      null
+      null,
+      "M",
+      "I",
+      "C",
+      "E",
+      null,
+      "H",
+      "E"
     ],
     [
       "S",
-      "K",
-      "I",
-      null,
-      "T",
-      "U",
+      "P",
+      "A",
       "N",
+      null,
+      "E",
+      "V",
       "E",
       "R"
     ],
     [
       "E",
       null,
+      null,
       "G",
       null,
       null,
       null,
-      null,
-      "M",
+      "F",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        2
+        2,
+        5
       ],
       [
-        2,
-        4
+        5,
+        8
       ],
       [
         2,
         8
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        2,
+        4
       ],
       [
         7,
@@ -124,53 +148,29 @@
       ],
       [
         2,
-        5
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        4,
         0
       ],
       [
-        5,
-        8
-      ],
-      [
-        8,
-        2
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
+        1,
         3
       ],
       [
-        7,
-        5
+        4,
+        3
+      ],
+      [
+        5,
+        0
       ]
     ],
     "medium": [
       [
-        6,
-        2
+        2,
+        5
       ],
       [
-        2,
-        4
+        5,
+        8
       ],
       [
         2,
@@ -178,33 +178,33 @@
       ],
       [
         7,
+        0
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        0,
         1
       ],
+      [
+        3,
+        8
+      ]
+    ],
+    "hard": [
       [
         2,
         5
       ],
       [
-        6,
-        4
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        4,
-        0
-      ]
-    ],
-    "hard": [
-      [
-        6,
-        2
-      ],
-      [
-        2,
-        4
+        5,
+        8
       ],
       [
         2,
@@ -212,7 +212,7 @@
       ],
       [
         7,
-        1
+        0
       ]
     ]
   },
@@ -223,80 +223,71 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The main means of mass communication, such as television, radio, newspapers, and the internet.",
-          "zh": "媒体"
+          "en": "The meat of a pig; swineflesh.",
+          "zh": "猪肉"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A long, narrow, pliable strip of leather, cloth, or the like.",
-          "zh": "带子"
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
         }
       },
       {
-        "num": 12,
+        "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
+          "en": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+          "zh": "激进的"
         }
       },
       {
         "num": 15,
-        "row": 4,
+        "row": 5,
         "col": 2,
         "clue": {
-          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
-          "zh": "心"
+          "en": "To pull toward without touching.",
+          "zh": "吸引"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any small rodent of the genus Mus.",
+          "zh": "老鼠"
+        }
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+          "zh": "跨度"
         }
       },
       {
         "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
-          "zh": "打"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
-          "zh": "天使"
-        }
-      },
-      {
-        "num": 26,
         "row": 7,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
         }
       }
     ],
@@ -306,17 +297,17 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A gambling game, a variety of the game of lotto, played with balls or knobs, numbered, and cards also numbered.",
-          "zh": "基诺牌戏"
+          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+          "zh": "沙发"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
         }
       },
       {
@@ -324,98 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "Any specific feature, part, or element of something.",
-          "zh": "方面"
+          "en": "The sound of laughing, produced by air so expelled; any similar sound.",
+          "zh": "笑声"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The place where sanctified souls are believed to live after death.",
+          "zh": "天堂"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
-          "zh": "盘子"
+          "en": "To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.",
+          "zh": "针织"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
-          "zh": "突击"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "Any of the flying mammals of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
-          "zh": "蝙蝠"
-        }
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A short written or spoken expression.",
-          "zh": "短语"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
+          "zh": "戏剧"
         }
       },
       {
         "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
-          "zh": "薄的"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
-        }
-      },
-      {
-        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "A distinct physical object.",
-          "zh": "物品"
-        }
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
-          "zh": "演出"
+          "en": "The presiding cook in the kitchen of a large household.",
+          "zh": "厨师"
         }
       }
     ]

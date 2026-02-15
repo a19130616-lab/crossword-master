@@ -6,109 +6,109 @@
   "solution": [
     [
       null,
+      "F",
       null,
-      "J",
       null,
       null,
-      "G",
+      "R",
       null,
-      "T",
-      "P"
+      null,
+      "A"
     ],
     [
-      "P",
+      "F",
+      "I",
       "R",
-      "A",
-      "Y",
-      null,
-      "R",
-      "A",
-      "R",
-      "E"
-    ],
-    [
+      "E",
       null,
       "E",
-      "Y",
+      "V",
+      "I",
+      "L"
+    ],
+    [
+      "R",
+      "L",
       null,
-      null,
+      "N",
       "O",
+      "S",
+      "E",
       null,
+      "L"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "T",
+      "E",
+      "U",
+      "R",
+      null,
+      "I"
+    ],
+    [
+      "C",
+      null,
+      "P",
+      "E",
+      null,
+      "L",
+      "S",
+      null,
+      "A"
+    ],
+    [
+      "T",
+      null,
+      "P",
+      "R",
+      "O",
+      "T",
+      "E",
       "I",
       "N"
     ],
     [
-      null,
-      "P",
-      null,
-      "T",
-      "H",
-      "U",
-      "M",
-      "B",
-      null
-    ],
-    [
-      "R",
-      "U",
-      "T",
-      "H",
-      null,
-      "P",
-      null,
-      "U",
-      null
-    ],
-    [
-      null,
-      "B",
-      "A",
-      "R",
-      "N",
-      null,
-      null,
-      "N",
-      null
-    ],
-    [
-      "T",
-      "L",
-      null,
-      "O",
-      "P",
-      "E",
-      "R",
-      "A",
-      null
-    ],
-    [
-      "V",
       "I",
-      "E",
-      "W",
       null,
-      "G",
-      "O",
       "L",
-      "F"
+      "I",
+      "N",
+      "E",
+      null,
+      "S",
+      "C"
     ],
     [
-      "S",
-      "C",
-      null,
+      "O",
+      "V",
+      "E",
       "N",
       null,
-      "G",
-      "B",
+      "D",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "N",
       null,
+      null,
+      "G",
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
+        3,
+        2
       ],
       [
         4,
@@ -116,87 +116,57 @@
       ],
       [
         7,
-        2
+        3
       ],
       [
-        5,
-        7
+        3,
+        8
       ],
       [
-        6,
-        7
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        4,
-        7
+        7,
+        0
       ],
       [
         8,
         3
       ],
       [
-        3,
-        1
-      ],
-      [
         1,
-        2
-      ],
-      [
-        6,
-        4
-      ]
-    ],
-    "medium": [
-      [
-        1,
-        5
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        5,
-        4
+        0
       ],
       [
         2,
         5
       ],
       [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        8,
+        7
+      ],
+      [
         4,
-        2
+        5
       ]
     ],
-    "hard": [
+    "medium": [
       [
-        1,
-        5
+        3,
+        2
       ],
       [
         4,
@@ -204,86 +174,120 @@
       ],
       [
         7,
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        3,
         2
       ],
       [
-        5,
-        7
+        4,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        3,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
-          "zh": "祈祷"
+          "en": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+          "zh": "火"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "A scarce or uncommon item.",
-          "zh": "稀有的"
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
         }
       },
       {
-        "num": 10,
-        "row": 3,
+        "num": 9,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The short thick digit of the hand that for humans has the most mobility and can be made to oppose (moved to touch) all of the other fingers.",
-          "zh": "拇指"
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
         }
       },
       {
         "num": 11,
-        "row": 4,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
-          "zh": "怜悯"
+          "en": "A lover of something.",
+          "zh": "业余"
         }
       },
       {
-        "num": 13,
+        "num": 15,
         "row": 5,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A building, often found on a farm, used for storage or keeping animals such as cattle.",
-          "zh": "谷仓"
+          "en": "Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds.",
+          "zh": "蛋白质"
         }
       },
       {
-        "num": 16,
+        "num": 18,
         "row": 6,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
-        }
-      },
-      {
-        "num": 19,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The ability to see something or the area that can be seen from a particular place.",
-          "zh": "看法"
+          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+          "zh": "线"
         }
       },
       {
         "num": 20,
         "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        }
+      },
+      {
+        "num": 21,
+        "row": 7,
         "col": 5,
         "clue": {
-          "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
-          "zh": "高尔夫球"
+          "en": "A valley, often in an otherwise hilly area.",
+          "zh": "山谷"
         }
       }
     ],
@@ -291,10 +295,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Any one of the numerous species of birds belonging to several genera within the family Corvidae, including Garrulus, Cyanocitta, Aphelocoma, Perisoreus, Cyanocorax, Gymnorhinus, Cyanolyca, Ptilostomus, and Calocitta, allied to the crows, but smaller, more graceful in form, often handsomely coloured, usually having a crest, and often noisy.",
-          "zh": "松鸦"
+          "en": "A story or event recorded by a camera as a set of moving images; a movie.",
+          "zh": "电影"
         }
       },
       {
@@ -302,71 +306,62 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "A number of things or persons being in some relation to one another.",
-          "zh": "团体"
+          "en": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
+          "zh": "结果"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 8,
         "clue": {
-          "en": "An assembly including one or more judges to conduct judicial business; a court of law.",
-          "zh": "法庭"
+          "en": "The state of being allied.",
+          "zh": "联盟"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
-          "zh": "共和国"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To change place.",
-          "zh": "抛出"
-        }
-      },
-      {
-        "num": 15,
-        "row": 6,
         "col": 0,
         "clue": {
-          "en": "The assessed value of an asset from which the tax owing is computed.",
-          "zh": "电视"
+          "en": "A part of a whole, especially a comparatively small part.",
+          "zh": "分数"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To go or come into an enclosed or partially enclosed space.",
+          "zh": "进入"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
+          "zh": "诗"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+          "zh": "苹果"
         }
       },
       {
         "num": 17,
-        "row": 6,
-        "col": 5,
+        "row": 5,
+        "col": 7,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "To steal from, especially using force or violence.",
-          "zh": "抢"
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
         }
       }
     ]

@@ -6,187 +6,183 @@
   "solution": [
     [
       null,
-      "S",
+      "T",
       null,
       null,
       null,
-      "V",
       null,
+      "P",
       null,
       "A"
     ],
     [
+      "V",
+      "I",
       "S",
       "T",
-      "E",
+      "A",
+      null,
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      null,
+      "L",
       "P",
       null,
+      "B",
+      "L",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      null,
+      "A",
+      "B",
+      null,
+      "G",
+      "I"
+    ],
+    [
       "I",
+      null,
       "C",
       "O",
+      "N",
+      "S",
+      "T",
+      null,
       "N"
     ],
     [
-      "A",
-      "A",
+      "L",
+      "M",
+      null,
+      "N",
+      "D",
       null,
       "R",
       "U",
-      "S",
-      "H",
-      null,
-      "Y"
+      "G"
     ],
     [
-      "P",
-      "R",
-      "A",
+      "V",
       "I",
-      "R",
-      "I",
-      "E",
-      null,
-      "W"
-    ],
-    [
-      "P",
-      null,
-      "G",
-      "N",
-      null,
-      "T",
-      "A",
-      null,
-      "H"
-    ],
-    [
-      "H",
-      null,
-      "E",
-      "C",
-      "L",
-      "I",
-      "P",
-      "S",
-      "E"
-    ],
-    [
-      "I",
-      null,
-      "N",
+      "D",
       "E",
       "O",
-      "N",
       null,
-      "O",
-      "R"
+      "E",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      null,
+      "N",
+      "A",
+      "K",
+      "E",
+      "D"
     ],
     [
       "R",
-      "A",
-      "T",
-      "S",
       null,
-      "G",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "E",
-      null,
-      null,
-      "S",
+      "Y",
       null,
       null,
       null,
-      "E",
+      null,
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        3,
-        6
-      ],
-      [
         4,
         2
       ],
       [
-        7,
-        3
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
+        1,
         6
       ],
       [
+        1,
+        1
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        2
+      ],
+      [
         7,
+        7
+      ],
+      [
+        5,
         0
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        5
       ],
       [
         8,
         7
       ],
       [
-        8,
-        0
+        5,
+        7
       ],
       [
-        5,
-        2
+        4,
+        3
       ]
     ],
     "medium": [
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        3,
-        6
-      ],
-      [
         4,
         2
       ],
       [
-        7,
-        3
+        1,
+        6
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        2
       ],
       [
         7,
@@ -194,24 +190,28 @@
       ],
       [
         5,
-        3
+        0
+      ],
+      [
+        3,
+        7
       ]
     ],
     "hard": [
       [
-        3,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        7,
+        4,
         2
       ],
       [
-        3,
+        1,
+        6
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
         6
       ]
     ]
@@ -223,71 +223,80 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
+          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
+          "zh": "远景"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "An image, symbol, picture, or other representation usually as an object of religious devotion.",
-          "zh": "图标"
+          "en": "To free (something) from a hindrance or annoyance.",
+          "zh": "摆脱"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "Any of several stiff plants of the genus Juncus, or the family Juncaceae, having hollow or pithy stems and small flowers, and often growing in marshes or near water.",
-          "zh": "匆忙"
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发"
         }
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An extensive area of relatively flat grassland with few, if any, trees, especially in North America.",
-          "zh": "草原"
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         }
       },
       {
         "num": 15,
-        "row": 5,
+        "row": 4,
         "col": 2,
         "clue": {
-          "en": "An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter.",
-          "zh": "蚀"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The chemical element (symbol Ne) with an atomic number of 10. The lightest of the noble gases, it is a colourless, odorless inert gas.",
-          "zh": "氖"
-        }
-      },
-      {
-        "num": 20,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "一种中型啮齿动物，属于黄鼠属。"
+          "en": "A variable whose value cannot be changed directly.",
+          "zh": "常量"
         }
       },
       {
         "num": 21,
-        "row": 7,
-        "col": 5,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "To sing; charm; enchant.",
-          "zh": "大风"
+          "en": "A partial covering for a floor.",
+          "zh": "地毯"
+        }
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Television, television show, movie.",
+          "zh": "视频"
+        }
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Bare, not covered by clothing.",
+          "zh": "裸"
         }
       }
     ],
@@ -297,17 +306,17 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
+          "en": "A flat, thin piece of hard material used for covering roofs, floors, or walls.",
+          "zh": "瓦"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "来访"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         }
       },
       {
@@ -315,53 +324,98 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "In or at any location or an unknown location.",
-          "zh": "任何地方"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A clear deep blue variety of corundum, valued as a precious stone.",
-          "zh": "蓝宝石"
+          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "zh": "添加"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A female member of a royal family other than a queen, especially a daughter or granddaughter.",
-          "zh": "公主"
+          "en": "A detailed description of the design and materials used to make something.",
+          "zh": "规格"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "Low in price; not expensive.",
-          "zh": "便宜的"
+          "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+          "zh": "放弃"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        }
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "One who exerts power, or has the power to act",
-          "zh": "代理人"
+          "en": "A lustrous, white, metallic element, atomic number 47, atomic weight 107.87, symbol Ag.",
+          "zh": "银"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
         }
       },
       {
         "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A journey by ox wagon.",
+          "zh": "跋涉"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        }
+      },
+      {
+        "num": 22,
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "A wooden band or yoke put around the neck of an ox or cow in the stall.",
-          "zh": "唯一"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
         }
       }
     ]

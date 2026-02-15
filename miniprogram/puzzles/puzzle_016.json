@@ -5,138 +5,138 @@
   "cols": 7,
   "solution": [
     [
-      null,
-      "I",
-      null,
-      "P",
+      "G",
       null,
       null,
-      "T"
+      "D",
+      null,
+      null,
+      "A"
     ],
     [
-      "E",
-      "M",
-      "B",
       "A",
-      "S",
-      "S",
-      "Y"
-    ],
-    [
-      null,
-      "P",
-      "I",
-      "T",
-      null,
+      "C",
+      "C",
       "U",
-      "P"
-    ],
-    [
-      "F",
-      "O",
-      null,
-      "T",
-      "I",
-      "D",
-      "E"
-    ],
-    [
-      "E",
       "S",
-      null,
-      "E",
-      "N",
-      "D",
-      null
-    ],
-    [
-      "L",
-      "E",
-      "A",
-      "R",
-      "N",
       "E",
       "D"
     ],
     [
+      "R",
+      null,
       "L",
+      "I",
+      "P",
       null,
+      "V"
+    ],
+    [
+      "B",
+      "Y",
+      "E",
       null,
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "A",
+      "G",
+      "E",
+      null,
+      "R"
+    ],
+    [
+      "G",
+      "E",
       "N",
+      "E",
+      "S",
+      "I",
+      "S"
+    ],
+    [
+      "E",
       null,
-      "N",
-      null
+      null,
+      "O",
+      null,
+      null,
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
+        4,
+        6
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        6,
         0
       ],
       [
         1,
-        6
+        1
       ],
       [
-        1,
-        2
+        0,
+        0
       ],
       [
-        1,
-        4
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        2,
-        5
+        3,
+        1
       ],
       [
         5,
         4
       ],
       [
-        3,
-        3
-      ],
-      [
-        0,
-        3
+        2,
+        4
       ]
     ],
     "medium": [
       [
-        3,
+        4,
+        6
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        6,
         0
       ],
       [
         1,
-        6
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        6,
-        5
+        1
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        4,
+        6
       ],
       [
-        1,
-        6
+        5,
+        0
       ]
     ]
   },
@@ -147,44 +147,53 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The function or duty of an ambassador.",
-          "zh": "大使馆"
+          "en": "To find fault with, blame, censure",
+          "zh": "被告"
         }
       },
       {
         "num": 7,
         "row": 2,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A hole in the ground.",
-          "zh": "坑"
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
+        }
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       },
       {
         "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "The periodic change of the sea level, particularly when caused by the gravitational influence of the sun and the moon.",
-          "zh": "潮"
-        }
-      },
-      {
-        "num": 13,
         "row": 4,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         }
       },
       {
-        "num": 14,
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
+          "en": "The origin, start, or point at which something comes into being.",
+          "zh": "起源"
         }
       }
     ],
@@ -192,10 +201,10 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "To establish or apply by authority.",
-          "zh": "强加"
+          "en": "Food waste material of any kind.",
+          "zh": "垃圾"
         }
       },
       {
@@ -203,8 +212,8 @@
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "Model, example.",
-          "zh": "图案"
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
         }
       },
       {
@@ -212,35 +221,35 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A grouping based on shared characteristics; a class.",
-          "zh": "类型"
+          "en": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.",
+          "zh": "不利的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Removal of dirt.",
+          "zh": "干净的"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "An unexpected occurrence; a surprise.",
-          "zh": "突然的"
-        }
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A cutting-down of timber.",
-          "zh": "跌倒了"
+          "en": "A person who secretly watches and examines the actions of other individuals or organizations and gathers information on them (usually to gain an advantage).",
+          "zh": "间谍"
         }
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 4,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       }
     ]

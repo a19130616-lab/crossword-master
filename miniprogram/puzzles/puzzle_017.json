@@ -6,63 +6,63 @@
   "solution": [
     [
       null,
-      "H",
-      null,
-      "G",
+      "U",
       null,
       null,
-      "G"
-    ],
-    [
-      "B",
-      "I",
-      "Z",
-      "A",
-      "R",
-      "R",
+      "S",
+      "U",
       "E"
-    ],
-    [
-      null,
-      "D",
-      "A",
-      "D",
-      null,
-      "E",
-      "N"
     ],
     [
       "P",
-      "D",
+      "R",
+      "O",
+      "B",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "H",
+      "G",
       null,
-      "G",
-      "A",
-      "G",
+      "E",
+      "O",
+      null,
       "E"
     ],
     [
-      "A",
-      "E",
-      null,
-      "E",
-      "G",
-      "G",
-      null
-    ],
-    [
-      "I",
-      "N",
-      "S",
-      "T",
-      "E",
-      "A",
-      "D"
-    ],
-    [
       "R",
+      "E",
+      "A",
+      "L",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "A",
       null,
+      "C",
+      "L",
       null,
+      "N",
+      "G"
+    ],
+    [
       "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      null,
       null,
       "E",
       null
@@ -71,31 +71,11 @@
   "prefilled": {
     "easy": [
       [
-        1,
-        2
-      ],
-      [
         6,
-        5
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        5,
-        2
+        0
       ],
       [
         1,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
         6
       ],
       [
@@ -103,79 +83,94 @@
         6
       ],
       [
+        3,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
         5,
         3
+      ],
+      [
+        6,
+        5
       ]
     ],
     "medium": [
       [
-        1,
-        2
-      ],
-      [
         6,
-        5
+        0
       ],
       [
-        2,
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
         3
       ],
       [
-        5,
-        2
-      ],
-      [
-        1,
-        5
+        3,
+        6
       ]
     ],
     "hard": [
       [
-        1,
-        2
+        6,
+        0
       ],
       [
-        6,
-        5
+        1,
+        6
+      ],
+      [
+        0,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To file a legal action against someone, generally a non-criminal action.",
+          "zh": "起诉"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Strangely unconventional in style or appearance.",
-          "zh": "奇异的"
+          "en": "A difficulty that has to be resolved or dealt with.",
+          "zh": "问题"
         }
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A father, a male parent.",
-          "zh": "爸爸"
-        }
-      },
-      {
-        "num": 10,
+        "num": 9,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "Something, such as a glove or other pledge, thrown down as a challenge to combat (now usually figurative).",
-          "zh": "量具"
-        }
-      },
-      {
-        "num": 13,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "A person or business that sells or leases out real estate, acting as an agent for the property owner.",
+          "zh": "房地产经纪人"
         }
       },
       {
@@ -183,8 +178,17 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
-          "zh": "反而"
+          "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+          "zh": "科学"
+        }
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ],
@@ -194,53 +198,62 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Located or positioned out of sight; not visually apparent.",
-          "zh": "隐"
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A thing whose name cannot be remembered; thingamajig, doohickey.",
-          "zh": "小玩意"
+          "en": "A broad, flat, wooden bar, a slat, especially as used to secure a door, window, etc.",
+          "zh": "投币口"
         }
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
-          "zh": "基因"
+          "en": "To come into view.",
+          "zh": "出现"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A short written or spoken expression.",
+          "zh": "短语"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "A form of music originating in Jamaica and associated with Rastafarianism, featuring a heavy bass line and percussive rhythm guitar on the offbeat, often with close vocal harmonies.",
-          "zh": "雷鬼"
+          "en": "An attractive woman.",
+          "zh": "美女"
         }
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "Two similar or identical things taken together; often followed by of.",
-          "zh": "一对"
+          "en": "A sour substance.",
+          "zh": "酸"
         }
       },
       {
         "num": 11,
         "row": 3,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
         }
       }
     ]

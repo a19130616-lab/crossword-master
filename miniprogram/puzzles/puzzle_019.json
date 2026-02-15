@@ -5,77 +5,89 @@
   "cols": 7,
   "solution": [
     [
-      "M",
       null,
-      null,
-      "F",
-      null,
-      null,
-      "T"
-    ],
-    [
-      "A",
-      "D",
       "V",
-      "I",
-      "S",
+      null,
+      null,
+      "C",
       "O",
-      "R"
+      "W"
     ],
     [
-      "G",
-      null,
-      "I",
       "N",
-      "K",
-      null,
+      "I",
+      "R",
+      "V",
+      "A",
+      "N",
       "A"
     ],
     [
       "I",
-      "D",
       "S",
       null,
-      "I",
+      "O",
       "N",
-      "G"
+      null,
+      "L"
     ],
     [
       "C",
-      null,
+      "A",
+      "P",
+      "I",
       "T",
       "A",
-      "R",
+      "L"
+    ],
+    [
+      "K",
       null,
+      "I",
+      "C",
+      null,
+      "P",
       "E"
     ],
     [
-      "A",
-      "D",
-      "A",
-      "P",
-      "T",
       "E",
-      "D"
+      "X",
+      "C",
+      "E",
+      "R",
+      "P",
+      "T"
     ],
     [
       "L",
+      "B",
+      "S",
       null,
       null,
-      "T",
-      null,
-      null,
-      "Y"
+      "S",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        4
+        5,
+        6
       ],
       [
         3,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
         2
       ],
       [
@@ -83,117 +95,100 @@
         4
       ],
       [
-        3,
-        6
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        5,
+        2,
         3
       ],
       [
-        3,
-        4
+        6,
+        0
       ],
       [
-        1,
+        4,
         2
       ]
     ],
     "medium": [
       [
-        1,
-        4
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        3,
+        5,
         6
       ],
       [
-        5,
+        3,
         0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        2
       ]
     ],
     "hard": [
       [
-        1,
-        4
+        5,
+        6
       ],
       [
         3,
-        2
+        0
+      ],
+      [
+        0,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
+          "zh": "奶牛"
+        }
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "One who offers advice.",
-          "zh": "顾问"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "Complete cessation of suffering; a blissful state attained through realization of sunyata; enlightened experience.",
+          "zh": "涅槃"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+          "zh": "首都"
         }
       },
       {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
-        }
-      },
-      {
-        "num": 12,
+        "num": 14,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To make suitable; to make to correspond; to fit or suit",
-          "zh": "改编的"
+          "en": "A clip, snippet, passage or extract from a larger work such as a news article, a film, or a literary composition.",
+          "zh": "摘抄"
+        }
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A pound (unit of weight).",
+          "zh": "磅"
         }
       }
     ],
@@ -201,55 +196,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "Of or relating to magic.",
-          "zh": "神奇"
+          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
+          "zh": "签证"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "One of the appendages of a fish, used to propel itself and to manoeuvre/maneuver.",
-          "zh": "鳍"
+          "en": "An argot, the jargon of a particular class or subgroup.",
+          "zh": "不能"
         }
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
-          "zh": "悲剧"
+          "en": "A small case, often flat and often made of leather, for keeping money (especially paper money), credit cards, etc.",
+          "zh": "钱包"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A distant view or prospect, especially one seen through some opening, avenue or passage.",
-          "zh": "远景"
+          "en": "A silvery elemental metal with an atomic number of 28 and symbol Ni.",
+          "zh": "镍"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
-          "zh": "裙子"
+          "en": "Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character",
+          "zh": "嗓音"
+        }
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A picture, especially a photographic image.",
+          "zh": "图片，尤其是摄影图像。"
         }
       },
       {
         "num": 11,
-        "row": 4,
-        "col": 3,
+        "row": 3,
+        "col": 5,
         "clue": {
-          "en": "Suitable; appropriate; fit or fitted; suited.",
-          "zh": "合适的"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
         }
       }
     ]

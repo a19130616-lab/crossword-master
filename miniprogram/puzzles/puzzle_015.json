@@ -6,65 +6,65 @@
   "solution": [
     [
       null,
+      "M",
+      null,
+      null,
+      "S",
+      "I",
+      "P"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "E",
+      "K",
+      null,
+      "R",
+      "I",
+      null,
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "O",
+      "L",
+      "V",
+      "E"
+    ],
+    [
+      "B",
+      null,
+      "H",
+      "W",
+      null,
+      "I",
+      "S"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "N",
+      "G",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "A",
       "P",
       null,
       null,
-      "F",
-      "E",
-      "E"
-    ],
-    [
-      "C",
-      "O",
-      "N",
-      "T",
       "A",
-      "I",
-      "N"
-    ],
-    [
-      "I",
-      "O",
-      null,
-      "I",
-      "R",
-      null,
-      "Z"
-    ],
-    [
-      "T",
-      "R",
-      "A",
-      "G",
-      "E",
-      "D",
-      "Y"
-    ],
-    [
-      "I",
-      null,
-      "N",
-      "E",
-      null,
-      "O",
-      "M"
-    ],
-    [
-      "E",
-      "X",
-      "T",
-      "R",
-      "E",
-      "M",
-      "E"
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      null,
-      null,
-      "E",
       null
     ]
   ],
@@ -75,36 +75,36 @@
         3
       ],
       [
-        2,
-        1
+        5,
+        5
       ],
       [
-        0,
-        6
+        5,
+        3
       ],
       [
         4,
-        5
-      ],
-      [
-        3,
-        5
+        3
       ],
       [
         6,
         0
       ],
       [
-        5,
-        1
+        3,
+        2
       ],
       [
         3,
-        1
+        4
       ],
       [
         1,
         3
+      ],
+      [
+        5,
+        6
       ]
     ],
     "medium": [
@@ -113,20 +113,20 @@
         3
       ],
       [
-        2,
-        1
+        5,
+        5
       ],
       [
-        0,
-        6
+        5,
+        3
       ],
       [
         4,
-        5
+        3
       ],
       [
-        3,
-        5
+        6,
+        0
       ]
     ],
     "hard": [
@@ -135,12 +135,12 @@
         3
       ],
       [
-        2,
-        1
+        5,
+        5
       ],
       [
-        0,
-        6
+        5,
+        3
       ]
     ]
   },
@@ -151,8 +151,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
-          "zh": "费用"
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
         }
       },
       {
@@ -160,8 +160,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To hold inside.",
-          "zh": "包含"
+          "en": "Any place of shelter.",
+          "zh": "港口"
         }
       },
       {
@@ -169,8 +169,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
-          "zh": "悲剧"
+          "en": "Determination; will power.",
+          "zh": "解决"
         }
       },
       {
@@ -178,8 +178,8 @@
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The greatest or utmost point, degree or condition.",
-          "zh": "极端"
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
+          "zh": "其中"
         }
       },
       {
@@ -187,8 +187,8 @@
         "row": 6,
         "col": 0,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         }
       }
     ],
@@ -198,8 +198,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
-          "zh": "贫穷的"
+          "en": "To form something by putting parts together or combining substances; to create.",
+          "zh": "制作"
         }
       },
       {
@@ -207,8 +207,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A going; journey; travel; voyage; course; passage.",
-          "zh": "票价"
+          "en": "A mixture of mineral particles and organic material, used to support plant growth.",
+          "zh": "土壤"
         }
       },
       {
@@ -216,8 +216,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A globular protein that catalyses a biological chemical reaction.",
-          "zh": "酶"
+          "en": "A religious clergyman (clergywoman, clergyperson) who is trained to perform services or sacrifices at a church or temple",
+          "zh": "牧师"
         }
       },
       {
@@ -225,8 +225,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
-          "zh": "城市"
+          "en": "A manual of herbs and their medical uses",
+          "zh": "草药的"
         }
       },
       {
@@ -234,8 +234,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
-          "zh": "老虎"
+          "en": "A colour like that of chocolate or coffee.",
+          "zh": "棕色的"
         }
       },
       {
@@ -243,8 +243,8 @@
         "row": 3,
         "col": 2,
         "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
+          "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+          "zh": "店铺"
         }
       },
       {
@@ -252,8 +252,8 @@
         "row": 3,
         "col": 5,
         "clue": {
-          "en": "A structural element resembling the hollow upper half of a sphere; a cupola",
-          "zh": "圆顶"
+          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
+          "zh": "签证"
         }
       }
     ]

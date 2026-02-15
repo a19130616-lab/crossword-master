@@ -6,37 +6,37 @@
   "solution": [
     [
       null,
-      "P",
+      "D",
       "E",
-      "A",
-      "S"
+      "N",
+      null
     ],
     [
-      "B",
+      "A",
+      "A",
       null,
-      "L",
-      "I",
+      "Y",
       "P"
     ],
     [
-      "O",
-      "P",
-      "E",
-      "R",
-      "A"
-    ],
-    [
-      "M",
-      "A",
-      "C",
-      null,
-      "N"
-    ],
-    [
-      "B",
-      "Y",
       "T",
+      "I",
+      "T",
+      "L",
+      "E"
+    ],
+    [
       "E",
+      "L",
+      null,
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "Y",
+      "E",
+      "N",
       null
     ]
   ],
@@ -44,43 +44,35 @@
     "easy": [
       [
         2,
-        0
-      ],
-      [
-        1,
         3
       ],
       [
-        3,
-        2
+        0,
+        1
       ],
       [
-        4,
+        1,
+        1
+      ],
+      [
+        2,
         0
-      ],
-      [
-        3,
-        4
       ]
     ],
     "medium": [
       [
         2,
-        0
-      ],
-      [
-        1,
         3
       ],
       [
-        3,
-        2
+        0,
+        1
       ]
     ],
     "hard": [
       [
         2,
-        0
+        3
       ]
     ]
   },
@@ -91,91 +83,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A plant, Pisum sativum, member of the legume (Fabaceae) family.",
-          "zh": "豌豆"
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
-          "zh": "唇"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
+          "en": "The name of a book, composition, or other artistic work.",
+          "zh": "标题"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A waterproof long coat made of rubberized cloth.",
-          "zh": "防水外套"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
-          "zh": "字节"
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Done, produced, or occurring every day.",
+          "zh": "日常的"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "One chosen or set apart.",
-          "zh": "选"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "The substance constituting earth's atmosphere, particularly:",
-          "zh": "空气"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
-          "zh": "跨度"
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "An explosive device used or intended as a weapon.",
-          "zh": "炸弹"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "To give someone money owed for work done, goods received, or a debt incurred.",
-          "zh": "支付"
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
         }
       }
     ]

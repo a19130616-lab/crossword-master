@@ -6,221 +6,213 @@
   "solution": [
     [
       null,
-      null,
-      "A",
-      null,
-      null,
-      "P",
+      "H",
       null,
       null,
-      "B"
+      null,
+      null,
+      "F",
+      null,
+      "S"
     ],
     [
       "P",
+      "A",
       "S",
       "T",
+      "A",
       null,
-      "P",
-      "O",
-      "W",
-      "E",
-      "R"
+      "L",
+      "A",
+      "P"
     ],
     [
       null,
-      "M",
-      "E",
       "T",
-      "R",
-      "O",
-      null,
-      "N",
-      "I"
-    ],
-    [
-      "F",
-      "A",
-      null,
-      "H",
       "E",
-      "R",
-      "A",
-      "L",
-      "D"
-    ],
-    [
-      "A",
-      "L",
-      "B",
-      "U",
-      "M",
       null,
-      "B",
-      "A",
-      "G"
-    ],
-    [
-      "C",
+      "S",
+      "T",
+      "Y",
       "L",
-      "I",
-      "N",
-      "I",
-      "C",
-      null,
-      "R",
       "E"
     ],
     [
+      "P",
+      "E",
+      "N",
+      null,
+      "S",
+      "A",
+      null,
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      null,
       "T",
       "E",
+      "A",
+      "R",
+      "S",
       null,
-      "D",
-      "E",
-      "B",
+      "K"
+    ],
+    [
+      "A",
+      "A",
+      null,
+      "Y",
       "U",
-      "G",
+      null,
+      "T",
+      "V",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      null,
+      "A",
+      "I",
       null
     ],
     [
-      "O",
-      "R",
-      "D",
+      "M",
       "E",
-      "R",
+      "N",
       null,
-      "S",
+      "T",
+      "H",
+      "R",
       "E",
       "E"
     ],
     [
-      "R",
+      "A",
+      null,
+      "D",
       null,
       null,
-      "R",
       null,
       null,
-      "E",
-      null,
+      "W",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        5
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        2,
-        5
+        7,
+        8
       ],
       [
         7,
-        3
+        5
       ],
       [
-        1,
-        4
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        2,
+        6,
         1
       ],
       [
-        4,
-        2
+        5,
+        1
+      ],
+      [
+        1,
+        8
       ],
       [
         5,
         0
       ],
       [
-        7,
+        1,
+        4
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
         6
       ],
       [
         2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
         4
       ],
+      [
+        3,
+        8
+      ]
+    ],
+    "medium": [
       [
         7,
         8
       ],
       [
-        2,
-        3
+        7,
+        5
       ],
       [
-        3,
-        7
+        6,
+        1
       ],
       [
         5,
         1
-      ]
-    ],
-    "medium": [
-      [
-        0,
-        5
       ],
       [
-        3,
-        1
+        1,
+        8
       ],
       [
-        2,
-        5
-      ],
-      [
-        7,
-        3
+        5,
+        0
       ],
       [
         1,
         4
       ],
       [
-        1,
-        6
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        4,
-        2
-      ],
-      [
         5,
-        0
+        7
       ]
     ],
     "hard": [
       [
-        0,
-        5
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        2,
-        5
+        7,
+        8
       ],
       [
         7,
-        3
+        5
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
       ]
     ]
   },
@@ -231,89 +223,80 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Implies that the speaker is sending secret or whispered information to another person.",
-          "zh": "太平洋标准时间"
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
         }
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
         "col": 4,
         "clue": {
-          "en": "Ability to do or undergo something.",
-          "zh": "力量"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An underground railway.",
-          "zh": "地铁"
+          "en": "A manner of doing something; a distinctive appearance of a design or work of art.",
+          "zh": "风格"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "A messenger, especially one bringing important news.",
-          "zh": "先驱报"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
         "col": 0,
         "clue": {
-          "en": "A book specially designed to keep photographs, stamps, or autographs.",
-          "zh": "专辑"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
         }
       },
       {
-        "num": 16,
+        "num": 15,
         "row": 4,
-        "col": 6,
+        "col": 2,
         "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A medical facility, such as a hospital, especially one for the treatment and diagnosis of outpatients.",
-          "zh": "诊所"
+          "en": "A hole or break caused by tearing.",
+          "zh": "因撕裂而造成的孔洞或断裂。"
         }
       },
       {
         "num": 21,
-        "row": 6,
-        "col": 3,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
-          "zh": "调试"
+          "en": "The assessed value of an asset from which the tax owing is computed.",
+          "zh": "电视"
         }
       },
       {
         "num": 23,
-        "row": 7,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
-          "zh": "命令"
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
         }
       },
       {
-        "num": 24,
+        "num": 26,
         "row": 7,
-        "col": 6,
+        "col": 0,
         "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
+          "en": "An adult male human.",
+          "zh": "男人"
+        }
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The digit/figure 3.",
+          "zh": "三"
         }
       }
     ],
@@ -321,19 +304,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "An object of hatred.",
+          "zh": "恨"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
-          "zh": "贫穷的"
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
         }
       },
       {
@@ -341,17 +324,17 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "A construction or natural feature that spans a divide.",
-          "zh": "桥"
+          "en": "A low class bar, a speakeasy.",
+          "zh": "一个低级酒吧，一个地下酒吧。"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
+          "en": "A subdivision of currency, equal to one hundredth of an Estonian kroon.",
+          "zh": "发送"
         }
       },
       {
@@ -359,44 +342,80 @@
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "(Westminster system) The head of government in parliament and leader of the cabinet.",
-          "zh": "总理"
+          "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
+          "zh": "突击"
         }
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "To make larger.",
-          "zh": "放大"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "The loud rumbling, cracking, or crashing sound caused by expansion of rapidly heated air around a lightning bolt.",
-          "zh": "雷"
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
         }
       },
       {
         "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A doer, maker; a person who does things for another person or organization.",
-          "zh": "因素"
+          "en": "A state of matter consisting of partially ionized gas and electrons",
+          "zh": "等离子体"
+        }
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        }
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       },
       {
         "num": 22,
-        "row": 6,
-        "col": 6,
+        "row": 5,
+        "col": 7,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "The ability to see something or the area that can be seen from a particular place.",
+          "zh": "看法"
+        }
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         }
       }
     ]

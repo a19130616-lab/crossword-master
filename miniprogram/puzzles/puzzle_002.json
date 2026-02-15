@@ -5,121 +5,95 @@
   "cols": 5,
   "solution": [
     [
-      "S",
+      "I",
       null,
-      "P",
-      "E",
-      "T"
+      null,
+      null,
+      "C"
     ],
     [
-      "C",
-      "O",
-      "N",
-      "D",
+      "M",
+      "A",
+      "M",
+      "B",
       "O"
     ],
     [
-      "O",
-      "V",
+      "A",
       null,
+      "I",
+      null,
+      "N"
+    ],
+    [
       "G",
-      "O"
-    ],
-    [
       "R",
-      "E",
+      "A",
       "S",
-      "E",
-      "T"
+      "S"
     ],
     [
       "E",
-      "N",
-      "D",
       null,
-      "H"
+      null,
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        2,
+        2
+      ],
+      [
+        0,
         0
       ],
       [
-        0,
-        4
+        4,
+        0
       ],
       [
         1,
-        3
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        3,
-        1
+        0
       ]
     ],
     "medium": [
       [
-        1,
-        0
+        2,
+        2
       ],
       [
         0,
-        4
-      ],
-      [
-        1,
-        3
+        0
       ]
     ],
     "hard": [
       [
-        1,
-        0
+        2,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 2,
+        "num": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "An animal kept as a companion.",
-          "zh": "宠物"
+          "en": "A voodoo priestess (in Haiti)",
+          "zh": "曼波"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "Joint sovereignty over a territory by two or more countries.",
-          "zh": "公寓"
-        }
-      },
-      {
-        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "To set back to the initial state.",
-          "zh": "重置"
-        }
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
+          "zh": "草"
         }
       }
     ],
@@ -129,35 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
-          "zh": "分数"
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "A variable whose value cannot be changed directly.",
+          "zh": "常量"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.",
-          "zh": "齿"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "烤箱"
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
         }
       }
     ]

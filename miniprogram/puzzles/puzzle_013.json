@@ -5,81 +5,85 @@
   "cols": 7,
   "solution": [
     [
-      "O",
-      null,
-      null,
-      "I",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "B",
-      "R",
-      "A",
-      "C",
-      "K",
-      "E",
-      "T"
-    ],
-    [
-      "E",
       null,
       "S",
-      "E",
-      "A",
-      null,
-      "U"
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      null,
-      "R",
-      "E",
-      "D"
-    ],
-    [
-      "I",
-      null,
-      "D",
-      "A",
+      "U",
       "M",
       null,
-      "I"
+      "M",
+      "P"
     ],
     [
-      "T",
-      "E",
-      "E",
-      "N",
       "A",
+      null,
+      "P",
+      "A",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      null,
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "N",
+      null,
+      "S",
+      null,
+      "A",
+      "N"
+    ],
+    [
+      "L",
       "G",
+      null,
+      "I",
+      "S",
+      "L",
       "E"
     ],
     [
-      "Y",
+      "L",
+      "E",
+      "A",
+      "V",
+      "E",
       null,
+      "T"
+    ],
+    [
+      "O",
+      "R",
       null,
-      "T",
-      null,
-      null,
-      "D"
+      "E",
+      "A",
+      "R",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         5,
-        1
+        4
       ],
       [
-        1,
+        0,
+        2
+      ],
+      [
+        2,
         5
       ],
       [
-        3,
+        1,
         2
       ],
       [
@@ -87,55 +91,55 @@
         0
       ],
       [
-        3,
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        6,
         0
       ],
       [
-        5,
-        2
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        1,
-        1
-      ],
-      [
         3,
-        1
+        5
       ]
     ],
     "medium": [
       [
         5,
-        1
+        4
       ],
       [
-        1,
+        0,
+        2
+      ],
+      [
+        2,
         5
       ],
       [
-        3,
+        1,
         2
       ],
       [
         4,
-        0
-      ],
-      [
-        3,
         0
       ]
     ],
     "hard": [
       [
         5,
-        1
+        4
       ],
       [
-        1,
+        0,
+        2
+      ],
+      [
+        2,
         5
       ]
     ]
@@ -143,113 +147,122 @@
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A fixture attached to a wall to hold up a shelf.",
-          "zh": "括号"
+          "en": "A quantity obtained by addition or aggregation.",
+          "zh": "和"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
+          "en": "A (usually) rectangular section of a surface, or of a covering or of a wall, fence etc.",
+          "zh": "控制板"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "To change place.",
+          "zh": "要换地方。"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
-          "zh": "红色的"
-        }
-      },
-      {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
-          "zh": "坝"
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
         }
       },
       {
-        "num": 12,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Brushwood for fences and hedges.",
-          "zh": "十几岁的"
+          "en": "To have a consequence or remnant.",
+          "zh": "离开"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "The state of being obese due to an excess of body fat.",
-          "zh": "肥胖"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "Practiced; self-conscious; careful.",
-          "zh": "研究过"
+          "en": "A homogeneous mass of rock, not layered and without an obvious crystal structure.",
+          "zh": "大量的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "(heading) Chemical elements or alloys, and the mines where their ores come from.",
+          "zh": "金属"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "To one side; out of the way.",
-          "zh": "放在一边"
+          "en": "Each of the seven major bodies which move relative to the fixed stars in the night sky—the Moon, Mercury, Venus, the Sun, Mars, Jupiter and Saturn.",
+          "zh": "行星"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
-          "zh": "业力"
+          "en": "A very handsome young man.",
+          "zh": "阿波罗"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
+          "en": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+          "zh": "愤怒"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
         }
       }
     ]

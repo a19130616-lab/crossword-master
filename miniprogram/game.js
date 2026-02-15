@@ -1,4 +1,3 @@
-// data.js no longer used; puzzles loaded from JSON index
 const { Theme, Font } = require('./js/theme')
 const { inRect } = require('./js/utils')
 const { State, loadProgress, saveProgress, loadPuzzlesIndex } = require('./js/state')
