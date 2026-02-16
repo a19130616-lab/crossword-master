@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_045",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "D",
+      "I",
+      "E",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      null,
+      "D",
+      "E",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      null,
+      "R",
+      "E",
+      "M",
+      "I",
+      "X",
+      null,
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      null,
+      "M",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      null,
+      "G",
+      "A",
+      "P",
+      null,
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "C",
+      null,
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "P",
+      "A",
+      "I",
+      "N",
+      "T",
+      null,
+      "G",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "I",
+      "N",
+      "G",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        8
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "死"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To distribute among a number of recipients, to give out as one’s portion or share.",
+          "zh": "发牌"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A rearrangement of an older piece of music, possibly including various cosmetic changes.",
+          "zh": "混音"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "Self-referential; structured analogously, but at a higher level.",
+          "zh": "元"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "An opening in anything made by breaking or parting.",
+          "zh": "差距"
+        },
+        "level": 5
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "To place a dead body in a grave or tomb; to bury.",
+          "zh": "国际米兰"
+        },
+        "level": 7
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
+          "zh": "画"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
+          "zh": "母鹿"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A small river; a large creek; a body of moving water confined by banks.",
+          "zh": "溪流"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Erotic literature, art, decoration or other such work.",
+          "zh": "黄色书刊"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "One who has been released from something.",
+          "zh": "豁免"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A scheme for the distribution of prizes by lot or chance, especially a gaming scheme in which one or more tickets bearing particular numbers draw prizes, the other tickets are blanks.",
+          "zh": "彩票"
+        },
+        "level": 7
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The edge or border of something, such as the blank space around the text on a page.",
+          "zh": "利润"
+        },
+        "level": 5
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The act of leaving a dangerous or unpleasant situation.",
+          "zh": "逃脱"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        },
+        "level": 7
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

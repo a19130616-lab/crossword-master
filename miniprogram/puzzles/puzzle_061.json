@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_061",
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "Z",
+      "I",
+      "P",
+      null,
+      null,
+      null,
+      "I"
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      null,
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "A",
+      "N",
+      "G",
+      "E",
+      "R",
+      null,
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "P",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "T",
+      "I"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      null,
+      "A",
+      "C",
+      "I",
+      "D"
+    ],
+    [
+      "A",
+      "T",
+      null,
+      "L",
+      "I",
+      "T",
+      null,
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      null,
+      "I",
+      "D",
+      "E",
+      "A",
+      "L",
+      null
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "C",
+      "E",
+      null,
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      "R",
+      "T",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        8
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        8
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        8
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A twist or fold.",
+          "zh": "拉链"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+          "zh": "愤怒"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A sour substance.",
+          "zh": "酸"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        },
+        "level": 5
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        },
+        "level": 5
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(physical) An area; somewhere within an area.",
+          "zh": "地方"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A denomination of Buddhism.",
+          "zh": "禅"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A person who writes poems.",
+          "zh": "诗人"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The interior or inner part.",
+          "zh": "里面"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+          "zh": "首都"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To bring into existence; (sometimes in particular:)",
+          "zh": "创造"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A piece of nonfictional writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, dictionary, encyclopedia, etc.",
+          "zh": "文章"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A plant, Allium sativum, related to the onion, having a pungent bulb much used in cooking.",
+          "zh": "蒜"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An act of stamping the foot, paw or hoof.",
+          "zh": "邮票"
+        },
+        "level": 6
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

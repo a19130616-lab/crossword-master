@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_052",
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "V",
+      null,
+      null,
+      null,
+      null,
+      "O",
+      null,
+      "S"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "U",
+      "S",
+      null,
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      null,
+      "E",
+      "O",
+      null,
+      "T",
+      "E",
+      "D",
+      "D",
+      "Y"
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      null,
+      "R",
+      "A",
+      null,
+      "S",
+      "L"
+    ],
+    [
+      "O",
+      null,
+      "F",
+      "A",
+      "I",
+      "R",
+      "Y",
+      null,
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      null,
+      "T",
+      "P",
+      null,
+      "A",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "L",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      null,
+      "S",
+      "M",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "O",
+      null,
+      "P",
+      null,
+      null,
+      null,
+      null,
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
+          "zh": "病毒"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "By extension, any stuffed toy.",
+          "zh": "泰迪熊"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The realm of faerie; enchantment, illusion.",
+          "zh": "仙女"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+          "zh": "闻"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The ability to see something or the area that can be seen from a particular place.",
+          "zh": "看法"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Senses relating to a thin, pointed object.",
+          "zh": "手写笔"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The external covering at the top of a building.",
+          "zh": "屋顶"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A long, relatively straight region of a single colour.",
+          "zh": "条纹"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
+          "zh": "番茄"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goat-like four-legged creature with large horns that it can swivel in any direction.",
+          "zh": "耶鲁大学"
+        },
+        "level": 7
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
+          "zh": "腰带"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A sharp blow with something hard.",
+          "zh": "说唱"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_053",
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "Z",
+      null,
+      null,
+      "V",
+      null,
+      "N",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "W",
+      null,
+      "E",
+      "Y",
+      "E",
+      "D"
+    ],
+    [
+      null,
+      "E",
+      "N",
+      null,
+      null,
+      "N",
+      null,
+      "C",
+      "S"
+    ],
+    [
+      null,
+      "L",
+      null,
+      "D",
+      "R",
+      "U",
+      "N",
+      "K",
+      null
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "O",
+      null,
+      "E",
+      null,
+      "L",
+      null
+    ],
+    [
+      null,
+      "T",
+      "O",
+      "U",
+      "R",
+      null,
+      null,
+      "A",
+      null
+    ],
+    [
+      "P",
+      "I",
+      null,
+      "B",
+      "A",
+      "S",
+      "I",
+      "C",
+      null
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "L",
+      null,
+      "K",
+      "N",
+      "E",
+      "W"
+    ],
+    [
+      "T",
+      "E",
+      null,
+      "E",
+      null,
+      "I",
+      "S",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        5
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        5
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        5
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
+          "zh": "全体人员"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To consume (a liquid) through the mouth.",
+          "zh": "醉"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A journey through a particular building, estate, country, etc.",
+          "zh": "旅游"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A necessary commodity, a staple requirement.",
+          "zh": "基本的"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An elongated round shape resembling an egg or ellipse.",
+          "zh": "椭圆形"
+        },
+        "level": 4
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "To perceive the truth or factuality of; to be certain of or that.",
+          "zh": "知道"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A denomination of Buddhism.",
+          "zh": "禅"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+          "zh": "场地"
+        },
+        "level": 7
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "An article of jewelry that is worn around the neck, most often made of a string of precious metal, pearls, gems, beads or shells, and sometimes having a pendant attached.",
+          "zh": "项链"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Someone in the same family; someone connected by blood, marriage, or adoption.",
+          "zh": "相对的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Twice the number, amount, size, etc.",
+          "zh": "双倍的"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "锅"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

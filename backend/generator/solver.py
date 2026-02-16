@@ -57,12 +57,42 @@ class Trie:
         return results
 
 
-def load_dictionary():
+def load_dictionary(min_level=None, max_level=None, include_tags=None):
+    """Load words from dictionary, optionally filtered by level and tags.
+
+    Args:
+        min_level: Minimum difficulty level (inclusive). None = no lower bound.
+        max_level: Maximum difficulty level (inclusive). None = no upper bound.
+        include_tags: If set, also include words with these tags even if excludeDefault.
+
+    Returns:
+        List of uppercase word strings.
+    """
     if not DICT_PATH.exists():
         raise FileNotFoundError(f"Dictionary not found: {DICT_PATH}")
     data = json.loads(DICT_PATH.read_text(encoding="utf-8"))
-    words = [w.upper() for w in data.get("words", {}).keys()]
-    return words
+    all_words = data.get("words", {})
+
+    result = []
+    for word, entry in all_words.items():
+        # Skip soft-excluded words unless their tags are explicitly requested
+        if entry.get("excludeDefault", False):
+            if not include_tags:
+                continue
+            word_tags = set(entry.get("tags", []))
+            if not word_tags.intersection(include_tags):
+                continue
+
+        # Apply level filter
+        word_level = entry.get("level")
+        if min_level is not None and word_level is not None and word_level < min_level:
+            continue
+        if max_level is not None and word_level is not None and word_level > max_level:
+            continue
+
+        result.append(word.upper())
+
+    return result
 
 
 def build_tries(words):

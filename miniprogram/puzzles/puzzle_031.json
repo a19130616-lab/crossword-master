@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_031",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "P",
+      null,
+      null,
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "B",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "I",
+      null,
+      "A",
+      "K",
+      null,
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      "T",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "N",
+      null,
+      "P",
+      "H",
+      null,
+      "D",
+      "L"
+    ],
+    [
+      "E",
+      "P",
+      "I",
+      "S",
+      "O",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      null,
+      null,
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Food waste material of any kind.",
+          "zh": "垃圾"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
+          "zh": "反而"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An incident, action, or time period standing out by itself, but more or less connected with a complete series of events.",
+          "zh": "插曲"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
+          "zh": "担"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
+          "zh": "疼痛"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To form something by putting parts together or combining substances; to create.",
+          "zh": "制作"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A fine, sharp implement usually for piercing such as sewing, or knitting, acupuncture, tattooing, body piercing, medical injections, etc.",
+          "zh": "针"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To acquire possession of.",
+          "zh": "获得"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A tub or pool which is used for bathing: bathtub.",
+          "zh": "浴室"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Rapid circular motion.",
+          "zh": "旋转"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "An act or instance of adding.",
+          "zh": "添加"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

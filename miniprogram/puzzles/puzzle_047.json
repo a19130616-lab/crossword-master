@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_047",
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "S",
+      "A",
+      "Y",
+      null
+    ],
+    [
+      "I",
+      "H",
+      null,
+      "E",
+      "B"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "L",
+      null,
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "F",
+      "A",
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        3
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A chance to speak; the right or power to influence or make a decision.",
+          "zh": "说"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "To make someone or something late or slow; a period of time by which something is late.",
+          "zh": "延迟"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A specialized animal tissue with a high oil content, used for long-term storage of energy.",
+          "zh": "胖的"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
+          "zh": "架子"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An often humid, yellowish froth produced by fermenting malt worts, and used to brew beer, leaven bread, and also used in certain medicines.",
+          "zh": "酵母"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

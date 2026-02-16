@@ -1,222 +1,222 @@
 {
   "id": "puzzle_026",
-  "title": "Hard #6",
+  "title": "Hard #2",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      "H",
       null,
-      "T",
-      "O",
-      "P",
+      "B",
+      "A",
+      "D",
       null,
       null,
-      "F"
+      null,
+      "S"
     ],
     [
+      "G",
+      "E",
+      "O",
+      null,
+      "A",
+      "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "A",
       "W",
       "A",
-      "G",
-      "O",
-      "N",
-      null,
-      "I",
-      "L",
-      "L"
-    ],
-    [
-      null,
-      "L",
-      "A",
-      null,
-      "C",
-      "O",
-      "N",
-      null,
-      "O"
-    ],
-    [
-      "P",
-      "O",
-      "T",
-      null,
+      "R",
       "E",
-      "L",
-      "D",
-      "E",
+      null,
+      "H",
       "R"
     ],
     [
-      "O",
-      null,
-      "E",
-      "L",
-      null,
-      "D",
-      "I",
-      null,
-      "A"
-    ],
-    [
-      "T",
-      "O",
-      "W",
-      "E",
+      "A",
       "R",
       null,
-      "C",
-      "O",
-      "L"
+      "S",
+      "E",
+      "A",
+      null,
+      "U",
+      "I"
     ],
     [
-      "A",
+      "P",
+      "L",
+      "U",
+      "S",
       null,
+      "D",
       "A",
-      "G",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      null,
+      "U",
+      "S",
       "E",
       null,
+      "T",
+      "S"
+    ],
+    [
+      "R",
       "E",
-      "K",
+      null,
+      "M",
+      "O",
+      "R",
+      "A",
+      "L",
       null
     ],
     [
-      "T",
       "O",
-      "Y",
-      null,
+      "R",
+      "D",
       "E",
-      "S",
-      "S",
-      "A",
-      "Y"
+      "R",
+      null,
+      "T",
+      "E",
+      "A"
     ],
     [
-      "O",
+      "X",
       null,
       null,
-      "A",
-      "L",
-      "L",
       null,
-      "Y",
+      "T",
+      "I",
+      "E",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        1,
         5
-      ],
-      [
-        2,
-        8
       ],
       [
         0,
         8
+      ],
+      [
+        3,
+        1
       ],
       [
         1,
         4
       ],
       [
-        3,
+        5,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
         7
       ],
       [
-        0,
+        1,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        5,
         5
       ],
       [
-        8,
-        3
+        4,
+        6
+      ],
+      [
+        4,
+        2
       ],
       [
         1,
         6
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        6,
-        3
       ]
     ],
     "medium": [
       [
-        4,
+        1,
         5
-      ],
-      [
-        2,
-        8
       ],
       [
         0,
         8
+      ],
+      [
+        3,
+        1
       ],
       [
         1,
         4
       ],
       [
-        3,
-        7
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        8,
+        5,
         3
       ],
       [
-        1,
-        6
+        6,
+        4
       ],
       [
-        6,
-        2
-      ]
-    ],
-    "hard": [
+        5,
+        7
+      ],
       [
-        4,
-        5
+        1,
+        2
       ],
       [
         2,
         8
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        5
       ],
       [
         0,
         8
+      ],
+      [
+        3,
+        1
       ],
       [
         1,
@@ -227,207 +227,230 @@
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "The highest or uppermost part of something.",
-          "zh": "顶部"
-        }
+          "en": "Of poor quality or a low standard; not good.",
+          "zh": "坏的"
+        },
+        "level": 1
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A four-wheeled cart for hauling loads.",
-          "zh": "车皮"
-        }
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
-        }
+          "en": "To come up from a lower to a higher position.",
+          "zh": "出现"
+        },
+        "level": 4
       },
       {
         "num": 9,
         "row": 2,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
-          "zh": "骗局"
-        }
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
       },
       {
-        "num": 11,
+        "num": 13,
         "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
-          "zh": "锅"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "An older person or an older member, usually a leader, of some community.",
-          "zh": "长老"
-        }
+          "en": "A positive quantity.",
+          "zh": "加"
+        },
+        "level": 4
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
+        "row": 4,
+        "col": 5,
         "clue": {
-          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
-          "zh": "塔"
-        }
+          "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
+          "zh": "日期"
+        },
+        "level": 1
       },
       {
         "num": 18,
         "row": 5,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "A dip on a mountain ridge between two peaks.",
-          "zh": "坳"
-        }
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        }
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
       },
       {
         "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "(of a narrative) The ethical significance or practical lesson.",
+          "zh": "道德"
+        },
+        "level": 4
+      },
+      {
+        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "A short piece of writing on a particular subject.",
-          "zh": "散文"
-        }
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
+        },
+        "level": 1
       },
       {
         "num": 25,
-        "row": 8,
-        "col": 3,
+        "row": 7,
+        "col": 6,
         "clue": {
-          "en": "(with a possessive pronoun) Everything that one is capable of.",
-          "zh": "全部"
-        }
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
-          "zh": "晕"
-        }
+          "en": "A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.",
+          "zh": "弓"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "(frequency) One and only one time.",
-          "zh": "一次"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
         "col": 8,
         "clue": {
-          "en": "A design involving flowers",
-          "zh": "花的"
-        }
+          "en": "A number of things that follow on one after the other or are connected one after the other.",
+          "zh": "系列"
+        },
+        "level": 5
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "An entrance capable of being blocked by use of a gate.",
-          "zh": "网关"
-        }
+          "en": "At a time in advance of the usual or expected event.",
+          "zh": "早些时候"
+        },
+        "level": 6
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "An alphabetical listing of items and their location.",
-          "zh": "指数"
-        }
+          "en": "A person who reads",
+          "zh": "读者"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The part of a loom that carries the woof back and forth between the warp threads.",
+          "zh": "穿梭"
+        },
+        "level": 4
       },
       {
         "num": 10,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
-        }
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "认为"
+        },
+        "level": 4
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The tuber of a plant, Solanum tuberosum, eaten as a starchy vegetable, particularly in the Americas and Europe; this plant.",
-          "zh": "土豆"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "A shaky or unsteady gait.",
-          "zh": "卷轴"
-        }
+          "en": "Approaching; proximate; nearly resembling.",
+          "zh": "大约"
+        },
+        "level": 6
       },
       {
         "num": 19,
         "row": 5,
-        "col": 7,
+        "col": 4,
         "clue": {
-          "en": "Endorsement; approval.",
-          "zh": "好的"
-        }
+          "en": "A general type.",
+          "zh": "种类"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
       }
     ]
   },
   "difficulty": "hard",
-  "gridSize": 9
+  "gridSize": 9,
+  "exam": "cet4"
 }

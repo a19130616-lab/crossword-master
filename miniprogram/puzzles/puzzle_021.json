@@ -1,406 +1,176 @@
 {
   "id": "puzzle_021",
-  "title": "Hard #1",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
+      "I",
       null,
-      null,
+      "P",
       "O",
-      null,
-      null,
-      "F",
-      null,
-      null,
-      "N"
-    ],
-    [
-      "I",
-      "L",
-      "L",
-      null,
-      "S",
-      "E",
-      "N",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "I",
-      "D",
-      "E",
-      "A",
-      "L",
-      null,
-      "O",
-      "W"
-    ],
-    [
-      "S",
-      "B",
-      null,
-      "L",
-      "I",
-      "T",
-      "T",
-      "L",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "V",
-      "E",
-      "L",
-      null,
-      "I",
-      "D",
       "S"
     ],
     [
-      "O",
+      "S",
+      "K",
+      "I",
       "R",
-      "I",
-      "G",
-      "I",
-      "N",
-      null,
-      "I",
       "T"
     ],
     [
-      "W",
-      "T",
+      "S",
+      "I",
       null,
       "A",
-      "N",
-      "I",
-      "M",
-      "E",
-      null
+      "E"
     ],
     [
+      "U",
+      "N",
+      "C",
       "L",
-      "Y",
-      "I",
-      "N",
-      "G",
-      null,
-      "A",
-      "R",
-      "T"
+      "E"
     ],
     [
-      "Y",
+      "E",
+      "G",
+      "G",
       null,
-      null,
-      "T",
-      null,
-      null,
-      "T",
-      null,
-      null
+      "L"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        6
+        3,
+        4
       ],
       [
-        2,
+        1,
         3
       ],
       [
-        8,
-        3
-      ],
-      [
-        6,
+        1,
         0
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        6,
-        5
       ],
       [
         1,
         4
       ],
       [
-        8,
-        0
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        4,
-        6
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        3,
+        0,
         3
-      ],
-      [
-        3,
-        4
       ]
     ],
     "medium": [
       [
-        7,
-        6
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        6,
-        5
+        3,
+        4
       ],
       [
         1,
-        4
+        3
       ],
       [
-        8,
+        1,
         0
-      ],
-      [
-        2,
-        4
       ]
     ],
     "hard": [
       [
-        7,
-        6
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        8,
-        3
-      ],
-      [
-        6,
-        0
+        3,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
-        }
+          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
+          "zh": "裙子"
+        },
+        "level": 1
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
-          "zh": "感觉"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
-          "zh": "理想的"
-        }
-      },
-      {
-        "num": 12,
+        "num": 9,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A small amount.",
-          "zh": "小的"
-        }
+          "en": "The brother or brother-in-law of one’s parent.",
+          "zh": "叔叔"
+        },
+        "level": 1
       },
       {
-        "num": 14,
+        "num": 11,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A position on a scale of amount, quantity, extent, or quality.",
-          "zh": "等级"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "The beginning of something.",
-          "zh": "起源"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.",
-          "zh": "日本动画片"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "To rest in a horizontal position on a surface.",
-          "zh": "说谎"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        }
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.",
-          "zh": "毛毡"
-        }
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
+        },
+        "level": 5
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 3,
         "clue": {
-          "en": "Recently made, or created.",
-          "zh": "最新"
-        }
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
+        },
+        "level": 4
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
+        "num": 4,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "The condition of being free from control or restrictions.",
-          "zh": "自由"
-        }
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "To be impelled or driven forward by the action of wind upon sails, as a ship on water; to be impelled on a body of water by steam or other power.",
-          "zh": "航行"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A member of an army, of any rank.",
-          "zh": "士兵"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "Characterised by or exhibiting elegance.",
-          "zh": "优雅的"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "(manner) At a slow pace.",
-          "zh": "慢慢地"
-        }
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
-          "zh": "垫"
-        }
+          "en": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+          "zh": "国王"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
 }

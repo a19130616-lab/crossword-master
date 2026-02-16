@@ -1,6 +1,6 @@
 const { Theme, Font } = require('./js/theme')
 const { inRect } = require('./js/utils')
-const { State, loadProgress, saveProgress, loadPuzzlesIndex } = require('./js/state')
+const { State, loadProgress, saveProgress, loadPuzzlesIndex, loadExams } = require('./js/state')
 const { calculateLayout } = require('./js/layout')
 const { createEngine } = require('./js/puzzle_engine')
 const { render } = require('./js/renderer')
@@ -34,7 +34,7 @@ const Haptics = {
 }
 
 const engine = createEngine({ State, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics })
-const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
+const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, examBtns: [], levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
 
 function loadPuzzleByIndex(idx) {
   const entry = State.puzzlesIndex[idx]
@@ -51,11 +51,15 @@ function loadPuzzleByIndex(idx) {
 function handleTouch(x, y) {
   switch (State.screen) {
     case 'menu':
-      if (inRect(x, y, UI.menuPlayBtn)) State.screen = 'levels'
+      if (inRect(x, y, UI.menuPlayBtn)) State.screen = 'exams'
       else if (inRect(x, y, UI.menuLangBtn)) { State.lang = State.lang === 'en' ? 'zh' : 'en'; saveProgress() }
       break
-    case 'levels':
+    case 'exams':
       if (inRect(x, y, UI.backBtn)) State.screen = 'menu'
+      else for (const btn of UI.examBtns) if (inRect(x, y, btn)) { State.exam = btn.key; saveProgress(); State.screen = 'levels'; break }
+      break
+    case 'levels':
+      if (inRect(x, y, UI.backBtn)) State.screen = 'exams'
       else for (const btn of UI.levelBtns) if (inRect(x, y, btn)) { State.difficulty = btn.key; saveProgress(); State.puzzleScrollY = 0; State.screen = 'puzzles'; break }
       break
     case 'puzzles':
@@ -104,7 +108,7 @@ let didScroll = false
 
 wx.onTouchStart(e => {
   const t = e.touches[0]
-  if (t && State.screen === 'puzzles') {
+  if (t && (State.screen === 'puzzles' || State.screen === 'exams')) {
     touchStartY = t.clientY
     touchStartScrollY = State.puzzleScrollY || 0
     didScroll = false
@@ -113,7 +117,7 @@ wx.onTouchStart(e => {
 
 wx.onTouchMove(e => {
   const t = e.touches[0]
-  if (t && State.screen === 'puzzles') {
+  if (t && (State.screen === 'puzzles' || State.screen === 'exams')) {
     const dy = touchStartY - t.clientY
     if (Math.abs(dy) > 5) didScroll = true
     State.puzzleScrollY = Math.max(0, touchStartScrollY + dy)
@@ -127,4 +131,5 @@ function loop() {
 
 loadProgress()
 loadPuzzlesIndex()
+loadExams()
 loop()

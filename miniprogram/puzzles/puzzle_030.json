@@ -1,406 +1,196 @@
 {
   "id": "puzzle_030",
-  "title": "Hard #10",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
       null,
-      null,
+      "A",
+      "S",
+      "K",
+      "S"
+    ],
+    [
       "U",
       null,
-      null,
-      "W",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "G",
+      "H",
       "I",
-      "S",
-      null,
-      "F",
-      "A",
-      "N",
-      "C",
-      "Y"
-    ],
-    [
-      null,
-      "M",
-      "E",
-      "R",
-      "I",
-      "T",
-      null,
-      "O",
-      "S"
-    ],
-    [
-      "A",
-      "P",
-      null,
-      "E",
-      "X",
-      "T",
-      "E",
-      "N",
       "T"
     ],
     [
-      "C",
-      "R",
-      "E",
       "S",
       "T",
-      null,
       "A",
-      "C",
+      "T",
       "E"
     ],
     [
-      "C",
-      "O",
-      "R",
-      "P",
-      "U",
-      "S",
-      null,
-      "E",
-      "M"
-    ],
-    [
-      "E",
-      "V",
-      null,
-      "E",
-      "R",
-      "R",
-      "O",
-      "R",
-      null
-    ],
-    [
-      "P",
       "E",
       "A",
-      "C",
-      "E",
+      "R",
       null,
-      "A",
-      "N",
-      "T"
+      "P"
     ],
     [
-      "T",
-      null,
-      null,
-      "T",
-      null,
-      null,
-      "K",
-      null,
+      "D",
+      "R",
+      "E",
+      "W",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
+        1,
+        3
+      ],
+      [
+        2,
         2
       ],
       [
         3,
-        1
+        4
+      ],
+      [
+        1,
+        0
       ],
       [
         1,
         4
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        3,
-        5
       ]
     ],
     "medium": [
       [
-        0,
+        1,
+        3
+      ],
+      [
+        2,
         2
       ],
       [
         3,
-        1
-      ],
-      [
-        1,
         4
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        5,
-        1
       ]
     ],
     "hard": [
       [
-        0,
-        2
-      ],
-      [
-        3,
-        1
-      ],
-      [
         1,
-        4
-      ],
-      [
-        5,
-        7
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
-          "zh": "地理信息系统"
-        }
+          "en": "To request (information, or an answer to a question).",
+          "zh": "询问"
+        },
+        "level": 6
       },
       {
         "num": 6,
         "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A condition; a set of circumstances applying at any given time.",
+          "zh": "状态"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To move or develop something.",
+          "zh": "画了"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A part or portion of a larger amount that is divided among a number of people.",
+          "zh": "分享"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A circular wooden vessel, made of hooped staves.",
+          "zh": "成套工具"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "The imagination.",
-          "zh": "想要"
-        }
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
       },
       {
         "num": 8,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A claim to commendation or a reward.",
-          "zh": "优点"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "A range of values or locations.",
-          "zh": "程度"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The summit of a hill or mountain ridge.",
-          "zh": "波峰"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
-          "zh": "高手"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A collection of writings, often on a specific topic, of a specific genre, from a specific demographic or a particular author, etc.",
-          "zh": "语料库"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The state, quality, or condition of being wrong.",
-          "zh": "错误"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.",
-          "zh": "和平"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
-          "zh": "瓦"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A collection of organized things; a whole composed of relationships among its members.",
-          "zh": "系统"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "To make (something) better; to increase the value or productivity (of something).",
-          "zh": "提升"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Something that is fixed in place, especially a permanent appliance or other item of personal property that is considered part of a house and is sold with it; compare fitting, furnishing.",
-          "zh": "夹具"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "That which affects one’s welfare or happiness. A matter of interest to someone. The adposition before the matter of interest is usually over, about or for.",
-          "zh": "忧虑"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "An attitude of consideration or high regard",
-          "zh": "尊重"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "To receive, especially with a consent, with favour, or with approval.",
-          "zh": "接受"
-        }
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
-          "zh": "橡树"
-        }
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        },
+        "level": 6
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
 }

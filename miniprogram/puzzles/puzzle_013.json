@@ -1,146 +1,142 @@
 {
   "id": "puzzle_013",
-  "title": "Medium #3",
+  "title": "Medium #1",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
       null,
-      "T",
-      "A",
-      "N",
       null,
-      "F",
-      "A"
+      "A",
+      "B",
+      "S",
+      null,
+      "F"
     ],
     [
-      "A",
-      null,
-      "G",
-      "U",
       "I",
+      "N",
+      "I",
+      "T",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      null,
+      "O",
+      "D",
+      null,
+      "T",
+      "W",
+      "O"
+    ],
+    [
+      "S",
+      "V",
+      null,
+      null,
+      null,
+      "A",
+      "W"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      null,
       "L",
-      "D"
-    ],
-    [
-      "U",
-      "S",
-      "E",
       "R",
-      null,
-      "O",
-      "D"
+      null
     ],
     [
-      "G",
-      "C",
-      null,
-      "S",
-      null,
-      "U",
-      "I"
-    ],
-    [
-      "U",
-      "O",
-      null,
+      "A",
+      "L",
+      "R",
       "E",
       "A",
-      "R",
-      "N"
+      "D",
+      "Y"
     ],
     [
-      "S",
+      "R",
+      null,
+      "M",
+      "A",
       "P",
-      "O",
-      "R",
-      "T",
       null,
-      "G"
-    ],
-    [
-      "T",
-      "E",
-      null,
-      "Y",
-      "E",
-      "A",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
         3,
-        6
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
         5
       ],
       [
-        1,
+        5,
         0
       ],
       [
-        5,
-        3
-      ],
-      [
-        4,
+        3,
         6
       ],
       [
         2,
-        0
+        6
       ],
       [
-        5,
-        2
-      ],
-      [
-        5,
+        2,
         1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        4
       ]
     ],
     "medium": [
       [
+        0,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
         3,
-        6
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
         5
       ],
       [
-        1,
+        5,
         0
       ],
       [
-        5,
-        3
+        3,
+        6
       ]
     ],
     "hard": [
       [
-        3,
-        6
+        0,
+        2
       ],
       [
-        4,
-        1
-      ],
-      [
-        4,
-        5
+        6,
+        4
       ]
     ]
   },
@@ -149,124 +145,148 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A group or association mainly of tradespeople made up of merchants, craftspeople, or artisans for mutual aid, particularly in the Middle Ages.",
-          "zh": "公会"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "A person who uses or operates something, especially a computer or service.",
-          "zh": "用户"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "To gain (success, reward, recognition) through applied effort or work.",
-          "zh": "赚"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
-          "zh": "运动"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A place where nursing or the raising of children is carried on.",
-          "zh": "苗圃"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
-          "zh": "面粉"
-        }
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Awe-inspiring, majestic, noble, venerable.",
-          "zh": "八月"
-        }
+          "en": "The first letter of a word or a name.",
+          "zh": "最初的"
+        },
+        "level": 4
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "The breadth, depth or reach of a subject; a domain.",
-          "zh": "范围"
-        }
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
       },
       {
         "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "zh": "已经"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A visual representation of an area, whether real or imaginary.",
+          "zh": "地图"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Subsidence of the roof of a coal mine.",
+          "zh": "坐"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A movement in people or things with a particular way in large numbers or amounts",
+          "zh": "流动"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+          "zh": "小说"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+          "zh": "奖"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "medium",
-  "gridSize": 7
+  "gridSize": 7,
+  "exam": "senior_high"
 }

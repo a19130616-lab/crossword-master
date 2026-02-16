@@ -1,16 +1,18 @@
 // Game state and persistence for Crossword Master
 
 // Bump this version to invalidate cached state on new deploys
-const STORAGE_VERSION = 6
+const STORAGE_VERSION = 7
 const STORAGE_KEY = `crossword_v${STORAGE_VERSION}`
 
 const State = {
   screen: 'menu',
+  exam: null,
   difficulty: 'easy',
   puzzleIndex: 0,
   puzzleId: null,
   puzzle: null,
   puzzlesIndex: [],
+  exams: [],
   grid: null,
   activeRow: 0,
   activeCol: 0,
@@ -34,6 +36,7 @@ function loadProgress() {
       State.completed = parsed.completed || {}
       State.lang = parsed.lang || 'en'
       State.difficulty = parsed.difficulty || 'easy'
+      State.exam = parsed.exam || null
     }
   } catch (e) {}
 }
@@ -44,7 +47,8 @@ function saveProgress() {
     hints: State.hints,
     completed: State.completed,
     lang: State.lang,
-    difficulty: State.difficulty
+    difficulty: State.difficulty,
+    exam: State.exam
   }))
 }
 
@@ -59,4 +63,15 @@ function loadPuzzlesIndex() {
   }
 }
 
-module.exports = { State, loadProgress, saveProgress, loadPuzzlesIndex }
+function loadExams() {
+  try {
+    const fs = wx.getFileSystemManager()
+    const raw = fs.readFileSync('puzzles/exams.json', 'utf8')
+    const parsed = JSON.parse(raw)
+    if (Array.isArray(parsed)) State.exams = parsed
+  } catch (e) {
+    State.exams = []
+  }
+}
+
+module.exports = { State, loadProgress, saveProgress, loadPuzzlesIndex, loadExams }

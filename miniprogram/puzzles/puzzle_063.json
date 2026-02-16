@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_063",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "P",
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "H"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      null,
+      "F",
+      "O",
+      "R",
+      "C",
+      "E"
+    ],
+    [
+      null,
+      "N",
+      "O",
+      "V",
+      "E",
+      "L",
+      null,
+      "O",
+      "I"
+    ],
+    [
+      "L",
+      "X",
+      null,
+      "E",
+      "A",
+      "T",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "I",
+      "G",
+      "H",
+      "T",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "I",
+      "U",
+      "S",
+      null,
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      null,
+      "C",
+      "R",
+      "O",
+      "W",
+      "N",
+      null
+    ],
+    [
+      "C",
+      "Y",
+      "C",
+      "L",
+      "E",
+      null,
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "Y",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      "R",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.",
+          "zh": "力量"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+          "zh": "小说"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 8.",
+          "zh": "八"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Someone possessing extraordinary intelligence or skill; especially somebody who has demonstrated this by a creative or original work in science, music, art etc.",
+          "zh": "天才"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A royal, imperial or princely headdress; a diadem.",
+          "zh": "王冠"
+        },
+        "level": 5
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An interval of space or time in which one set of events or phenomena is completed.",
+          "zh": "循环"
+        },
+        "level": 4
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A (usually) metal fastener consisting of a cylindrical body that is threaded, with a larger head on one end. It can be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.",
+          "zh": "螺栓"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The distance from the base of something to the top.",
+          "zh": "高度"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+          "zh": "焦虑"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "One's structure or make-up: form, shape, bodily proportions.",
+          "zh": "特征"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Voluntary agreement or permission.",
+          "zh": "同意"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
+          "zh": "车辆"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Money or property bequeathed to someone in a will.",
+          "zh": "遗产"
+        },
+        "level": 7
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces.",
+          "zh": "战争"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

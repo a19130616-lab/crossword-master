@@ -1,376 +1,286 @@
 {
   "id": "puzzle_022",
-  "title": "Hard #2",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
+      "T",
+      "U",
+      "B",
       null,
-      "F",
-      null,
-      null,
-      "S",
-      null,
-      "W",
-      "G"
+      "A",
+      "P"
     ],
     [
-      "S",
-      "T",
-      "E",
-      "M",
-      null,
-      "T",
-      "H",
-      "I",
-      "N"
-    ],
-    [
-      null,
-      "I",
-      "E",
-      null,
-      null,
       "O",
       null,
-      "R",
-      "U"
+      "S",
+      "A",
+      "M",
+      "B",
+      "A"
     ],
     [
+      "B",
+      "E",
+      "E",
+      "R",
       null,
-      "T",
+      "U",
+      "R"
+    ],
+    [
+      "J",
+      "I",
+      null,
+      "G",
+      null,
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "G",
       null,
       "A",
       "G",
-      "R",
       "E",
-      "E",
-      null
+      "D"
     ],
     [
-      "M",
+      "C",
+      "H",
       "A",
-      "L",
-      "L",
+      "I",
+      "N",
       null,
-      "E",
-      null,
-      "L",
-      null
+      "E"
     ],
     [
+      "T",
+      "T",
       null,
       "N",
-      "E",
-      "W",
-      "S",
-      null,
-      null,
-      "E",
-      null
-    ],
-    [
-      "D",
-      "I",
-      null,
-      "A",
-      "L",
-      "I",
-      "A",
-      "S",
-      null
-    ],
-    [
-      "R",
       "U",
-      "B",
-      "Y",
-      null,
-      "D",
-      "I",
-      "S",
-      "K"
-    ],
-    [
-      "Y",
-      "M",
-      null,
-      "S",
-      null,
-      "S",
-      "D",
-      null,
+      "T",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        8,
-        5
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        7,
-        1
+        1,
+        4
       ],
       [
         4,
-        1
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        7,
-        8
+        4
       ],
       [
         3,
         5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
       ]
     ],
     "medium": [
       [
-        8,
-        5
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        7,
-        1
+        1,
+        4
       ],
       [
         4,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
         1
       ]
     ],
     "hard": [
       [
-        8,
+        1,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
         5
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        5,
-        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "The main body or stalk of a plant or shrub.",
-          "zh": "干"
-        }
+          "en": "A flat-bottomed vessel, of width similar to or greater than its height, used for storing or packing things, or for washing things in.",
+          "zh": "浴缸"
+        },
+        "level": 6
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 2,
         "clue": {
-          "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
-          "zh": "薄的"
-        }
+          "en": "A Brazilian ballroom dance or dance style.",
+          "zh": "桑巴舞"
+        },
+        "level": 6
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
-        }
-      },
-      {
-        "num": 11,
-        "row": 4,
+        "num": 8,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A pedestrianised street, especially a shopping precinct.",
-          "zh": "购物中心"
-        }
+          "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+          "zh": "啤酒"
+        },
+        "level": 4
       },
       {
-        "num": 13,
-        "row": 5,
-        "col": 1,
+        "num": 14,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "New information of interest.",
-          "zh": "新闻"
-        }
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
+        },
+        "level": 6
       },
       {
         "num": 16,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "Another name; an assumed name.",
-          "zh": "别名"
-        }
-      },
-      {
-        "num": 19,
-        "row": 7,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A clear, deep, red variety of corundum, valued as a precious stone.",
-          "zh": "红宝石"
-        }
-      },
-      {
-        "num": 20,
-        "row": 7,
-        "col": 5,
-        "clue": {
-          "en": "A thin, flat, circular plate or similar object.",
-          "zh": "磁盘"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A sum of money charged for a service or privilege.",
-          "zh": "费用"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A retail establishment selling items to the public.",
-          "zh": "店铺"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 7,
-        "clue": {
-          "en": "The medium of radio communication.",
-          "zh": "无线的"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "A chemical element, atomic number 22; it is a strong, corrosion-resistant transition metal, used to make light alloys for aircraft etc.",
-          "zh": "钛"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "At all times; throughout all time; since the beginning.",
-          "zh": "总是"
-        }
-      },
-      {
-        "num": 15,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "The process by which something is dried.",
-          "zh": "干燥"
-        }
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 5,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
+          "en": "A series of interconnected rings or links usually made of metal.",
+          "zh": "链"
+        },
+        "level": 4
       },
       {
         "num": 18,
         "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An agreement between parties concerning the sale of property; or a contract by which one party binds himself to transfer the right to some property for a consideration, and the other party binds himself to receive the property and pay the consideration.",
+          "zh": "便宜货"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 0,
         "col": 6,
         "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
-        }
+          "en": "An organized procession consisting of a series of consecutive displays, performances, exhibits, etc. displayed by moving down a street past a crowd of spectators.",
+          "zh": "游行"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A thing that has physical existence.",
+          "zh": "目的"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The digit/figure 8.",
+          "zh": "八"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
 }

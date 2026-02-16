@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_046",
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "S",
+      "O",
+      "F",
+      "A"
+    ],
+    [
+      "H",
+      null,
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "D",
+      "D",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "U",
+      "E",
+      null,
+      "S"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "O",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+          "zh": "沙发"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "zh": "添加的"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To file a legal action against someone, generally a non-criminal action.",
+          "zh": "起诉"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+          "zh": "英雄"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A sum of money charged for a service or privilege.",
+          "zh": "费用"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "An act or instance of adding.",
+          "zh": "添加"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Food, especially meat and potatoes, chopped and mixed together.",
+          "zh": "散列"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

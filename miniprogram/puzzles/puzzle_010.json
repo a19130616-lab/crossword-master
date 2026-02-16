@@ -1,77 +1,85 @@
 {
   "id": "puzzle_010",
-  "title": "Easy #10",
+  "title": "Easy #1",
   "rows": 5,
   "cols": 5,
   "solution": [
     [
       null,
-      "P",
-      "E",
-      "N",
-      null
+      "H",
+      "A",
+      "W",
+      "K"
     ],
     [
       "S",
-      "L",
       null,
-      "O",
-      "I"
-    ],
-    [
-      "P",
-      "A",
-      "N",
+      "W",
       "I",
-      "C"
+      "N"
     ],
     [
+      "P",
+      "L",
       "A",
-      "Z",
-      null,
-      "S",
+      "N",
       "E"
     ],
     [
-      null,
       "A",
-      "T",
+      "I",
+      "R",
+      null,
+      "E"
+    ],
+    [
+      "N",
       "E",
+      "E",
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
+        1,
         2
       ],
       [
-        0,
+        3,
         2
       ],
       [
-        2,
+        4,
         1
       ],
       [
         2,
         0
+      ],
+      [
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        2,
+        1,
         2
       ],
       [
-        0,
+        3,
         2
+      ],
+      [
+        4,
+        1
       ]
     ],
     "hard": [
       [
-        2,
+        1,
         2
       ]
     ]
@@ -83,68 +91,106 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
-        }
+          "en": "A diurnal predatory bird of the family Accipitridae, smaller than an eagle.",
+          "zh": "鹰"
+        },
+        "level": 4
       },
       {
         "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "赢"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "Overpowering fright, often affecting groups of people or animals.",
-          "zh": "恐慌"
-        }
+          "en": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+          "zh": "飞机"
+        },
+        "level": 1
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A town's public square.",
-          "zh": "广场"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "噪音"
-        }
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
-        }
+          "en": "To conquer, defeat.",
+          "zh": "赢"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank.",
+          "zh": "膝盖"
+        },
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        }
+          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+          "zh": "跨度"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "easy",
-  "gridSize": 5
+  "gridSize": 5,
+  "exam": "senior_high"
 }

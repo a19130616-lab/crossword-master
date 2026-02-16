@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_055",
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "V",
+      "A",
+      "T",
+      null
+    ],
+    [
+      "L",
+      "I",
+      null,
+      "R",
+      "F"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      null,
+      "C",
+      "Y"
+    ],
+    [
+      null,
+      "O",
+      "P",
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A large tub, such as is used for making wine or for tanning.",
+          "zh": "大桶"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Television, television show, movie.",
+          "zh": "视频"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An area or expanse.",
+          "zh": "道"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A thin skin membrane that covers and moves over an eye.",
+          "zh": "盖"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

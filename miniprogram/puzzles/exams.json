@@ -1,0 +1,30 @@
+[
+  {
+    "key": "junior_high",
+    "label": "初中"
+  },
+  {
+    "key": "senior_high",
+    "label": "高中"
+  },
+  {
+    "key": "cet4",
+    "label": "四级"
+  },
+  {
+    "key": "cet6",
+    "label": "六级"
+  },
+  {
+    "key": "graduate",
+    "label": "考研"
+  },
+  {
+    "key": "toefl",
+    "label": "托福"
+  },
+  {
+    "key": "sat",
+    "label": "SAT"
+  }
+]

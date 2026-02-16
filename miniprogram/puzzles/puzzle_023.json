@@ -1,218 +1,142 @@
 {
   "id": "puzzle_023",
-  "title": "Hard #3",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "Y",
+      "L",
+      null,
+      "S",
       null,
       null,
-      null,
-      "D",
-      null,
-      null,
-      "B"
+      "G"
     ],
     [
-      "W",
-      "O",
-      "R",
-      "K",
-      null,
-      "I",
-      "D",
+      "B",
       "E",
-      "A"
+      "L",
+      "I",
+      "E",
+      "V",
+      "E"
     ],
     [
-      "I",
-      "G",
       null,
       "N",
-      "O",
-      "S",
-      "E",
-      null,
-      "S"
-    ],
-    [
-      "R",
-      "A",
-      "D",
-      "I",
-      "C",
-      "A",
-      "L",
-      null,
-      "E"
-    ],
-    [
-      "E",
+      "U",
+      "T",
       null,
       "I",
-      "T",
-      null,
-      "G",
-      "T",
-      null,
-      "M"
-    ],
-    [
-      "L",
-      null,
-      "S",
-      "T",
-      "O",
-      "R",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      "E",
-      null,
-      "C",
-      "I",
-      "T",
-      "E",
-      null,
-      "R",
       "N"
     ],
     [
-      "S",
-      "O",
-      "O",
-      "N",
-      null,
-      "E",
+      "R",
       "D",
+      null,
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "U",
+      "E",
+      null,
+      "I",
+      "N",
+      "G",
+      null
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
       "I",
       "T"
     ],
     [
-      "S",
+      "H",
       null,
       null,
       "G",
       null,
-      null,
-      null,
-      "D",
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        8
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        7,
+        3,
         5
       ],
       [
-        6,
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
         4
       ],
       [
+        0,
+        6
+      ],
+      [
         2,
-        8
+        1
       ],
       [
         1,
         1
       ],
       [
-        2,
-        6
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        1,
-        6
+        6,
+        3
       ],
       [
         5,
-        4
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        1,
-        5
+        3
       ]
     ],
     "medium": [
       [
-        6,
-        8
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        7,
+        3,
         5
       ],
       [
-        6,
+        1,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
         4
       ],
       [
-        2,
-        8
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        2,
+        0,
         6
       ]
     ],
     "hard": [
       [
-        6,
-        8
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        7,
+        3,
         5
+      ],
+      [
+        1,
+        2
       ]
     ]
   },
@@ -223,72 +147,50 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(heading) Employment.",
-          "zh": "工作"
-        }
+          "en": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
+          "zh": "相信"
+        },
+        "level": 1
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
-        }
-      },
-      {
-        "num": 9,
+        "num": 7,
         "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
         "col": 3,
         "clue": {
-          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
-          "zh": "鼻子"
-        }
+          "en": "To become sleepy or weary.",
+          "zh": "胎"
+        },
+        "level": 1
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 0,
+        "num": 13,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
-          "zh": "激进的"
-        }
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
       },
       {
-        "num": 15,
+        "num": 14,
         "row": 5,
-        "col": 2,
-        "clue": {
-          "en": "The act of storing goods; the state of being stored.",
-          "zh": "贮存"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "To quote; to repeat, as a passage from a book, or the words of another.",
-          "zh": "引用"
-        }
-      },
-      {
-        "num": 20,
-        "row": 7,
         "col": 0,
         "clue": {
-          "en": "Short in length of time from the present.",
-          "zh": "很快"
-        }
-      },
-      {
-        "num": 21,
-        "row": 7,
-        "col": 5,
-        "clue": {
-          "en": "A change to the text of a document.",
-          "zh": "编辑"
-        }
+          "en": "The act of passing over, across, or through something.",
+          "zh": "过境"
+        },
+        "level": 6
       }
     ],
     "down": [
@@ -297,75 +199,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
-          "zh": "瑜伽"
-        }
+          "en": "One who lends, especially money; specifically, a bank or other entity that specializes in granting loans.",
+          "zh": "贷方"
+        },
+        "level": 6
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "To fail to agree; to have a different opinion or belief.",
-          "zh": "不同意"
-        }
+          "en": "A period during which one is seated for a specific purpose.",
+          "zh": "坐着"
+        },
+        "level": 6
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A floor of a building below ground level.",
-          "zh": "地下室"
-        }
-      },
-      {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "The medium of radio communication.",
-          "zh": "无线的"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.",
-          "zh": "针织"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
         "col": 6,
         "clue": {
-          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
-          "zh": "三角洲"
-        }
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
+        },
+        "level": 5
       },
       {
-        "num": 12,
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A person who has never had sexual intercourse, or sometimes, one who has never engaged in any sexual activity at all.",
+          "zh": "处女"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
         "row": 3,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
-          "zh": "迪斯科"
-        }
+          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
+          "zh": "怜悯"
+        },
+        "level": 6
       },
       {
-        "num": 17,
-        "row": 5,
-        "col": 7,
+        "num": 11,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A rectangular array of squares or rectangles of equal size, such as in a crossword puzzle.",
-          "zh": "网格"
-        }
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        },
+        "level": 6
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
 }

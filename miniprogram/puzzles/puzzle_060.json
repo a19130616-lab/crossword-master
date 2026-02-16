@@ -1,0 +1,262 @@
+{
+  "id": "puzzle_060",
+  "title": "Medium #3",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "E",
+      null,
+      "H",
+      null,
+      null,
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "X",
+      "I",
+      "E",
+      "T",
+      "Y"
+    ],
+    [
+      null,
+      "E",
+      "G",
+      "G",
+      null,
+      "E",
+      "E"
+    ],
+    [
+      "M",
+      "R",
+      null,
+      "H",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      "G",
+      null,
+      "W",
+      "I",
+      "N",
+      null
+    ],
+    [
+      "D",
+      "Y",
+      "N",
+      "A",
+      "M",
+      "I",
+      "C"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "Y",
+      null,
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+          "zh": "焦虑"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
+          "zh": "手"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "赢"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A characteristic or manner of an interaction; a behavior.",
+          "zh": "动态的"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The impetus behind all motion and all activity.",
+          "zh": "活力"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公路"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets.",
+          "zh": "网球"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Past tense of make; having been manufactured or created.",
+          "zh": "制成"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "zh": "目的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "sat"
+}

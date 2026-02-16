@@ -1,167 +1,292 @@
 {
   "id": "puzzle_004",
-  "title": "Easy #4",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
-      "P",
       null,
-      "Y",
-      "E",
-      "A"
-    ],
-    [
-      "U",
-      "R",
-      "B",
+      null,
       "A",
-      "N"
-    ],
-    [
-      "P",
+      "G",
       "O",
       null,
-      "S",
-      "G"
+      "T"
     ],
     [
-      "P",
-      "L",
-      "A",
-      "T",
+      "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
       "E"
     ],
     [
-      "Y",
+      null,
+      "O",
+      "D",
+      null,
       "E",
       "A",
+      "R"
+    ],
+    [
+      "G",
+      "A",
       null,
-      "L"
+      null,
+      null,
+      "T",
+      "M"
+    ],
+    [
+      "A",
+      "C",
+      "T",
+      null,
+      "E",
+      "C",
+      null
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "U",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      "P",
+      "I",
+      "G",
+      null,
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        0
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        0,
-        3
-      ],
-      [
         2,
+        1
+      ],
+      [
+        1,
         4
       ],
       [
         1,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        1
       ]
     ],
     "medium": [
       [
-        0,
-        0
+        2,
+        1
       ],
       [
-        3,
-        2
+        1,
+        4
       ],
       [
-        0,
+        1,
         3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        5
       ]
     ],
     "hard": [
       [
-        0,
-        0
+        2,
+        1
+      ],
+      [
+        1,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
-        }
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Related to the (or any) city.",
-          "zh": "城市的"
-        }
+          "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+          "zh": "科学"
+        },
+        "level": 1
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 4,
         "clue": {
-          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
-          "zh": "盘子"
-        }
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
       },
       {
-        "num": 11,
+        "num": 12,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
-        }
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To ponder, to go over in one's head.",
+          "zh": "想法"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A young dog, especially before sexual maturity (12-18 months)",
-          "zh": "小狗"
-        }
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "东方"
-        }
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
       },
       {
         "num": 4,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
-          "zh": "天使"
-        }
+          "en": "A word or phrase used to describe a thing or express a concept; a fixed period of time.",
+          "zh": "学期"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A character or part played by a performer or actor.",
-          "zh": "角色"
-        }
+          "en": "A wheeled vehicle, generally drawn by horse power.",
+          "zh": "教练"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The act of seizing or capturing.",
+          "zh": "抓住"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A doorlike structure outside a house.",
+          "zh": "门"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

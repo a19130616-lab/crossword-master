@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_044",
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "F",
+      null,
+      null,
+      "O",
+      null,
+      "D",
+      "O"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "E",
+      null,
+      "M",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      null,
+      "O",
+      "Y",
+      null,
+      null,
+      "E",
+      null,
+      "S",
+      "D"
+    ],
+    [
+      null,
+      "U",
+      null,
+      "S",
+      "I",
+      "G",
+      "M",
+      "A",
+      null
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "P",
+      null,
+      "A",
+      null,
+      "G",
+      null
+    ],
+    [
+      null,
+      "H",
+      "E",
+      "R",
+      "O",
+      null,
+      null,
+      "R",
+      null
+    ],
+    [
+      "W",
+      "E",
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      null
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "N",
+      null,
+      "U",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "N",
+      "N",
+      null,
+      "G",
+      null,
+      "N",
+      "E",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Letters and packages sent or delivered by the postal system.",
+          "zh": "邮件"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
+          "zh": "希腊字母σ"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+          "zh": "英雄"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.",
+          "zh": "南部"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To weaken, as a joint, ligament, or muscle, by sudden and excessive exertion, as by wrenching; to overstrain, or stretch injuriously, but without luxation",
+          "zh": "春天"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "赢"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A star, especially when seen as the centre of any single solar system.",
+          "zh": "太阳"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

@@ -10,6 +10,7 @@ function render(ctx, deps) {
 
   switch (State.screen) {
     case 'menu': renderMenu(ctx, deps); break
+    case 'exams': renderExams(ctx, deps); break
     case 'levels': renderLevels(ctx, deps); break
     case 'puzzles': renderPuzzles(ctx, deps); break
     case 'play': renderPlay(ctx, deps); break
@@ -70,8 +71,8 @@ function renderMenu(ctx, deps) {
   UI.menuLangBtn = { x: 16, y: langY, w: W - 32, h: 48 }
 }
 
-function renderLevels(ctx, deps) {
-  const { State, DIFFICULTIES, Theme, Font, W, SAFE_TOP, UI } = deps
+function renderExams(ctx, deps) {
+  const { State, Theme, Font, W, H, SAFE_TOP, UI } = deps
 
   ctx.fillStyle = Theme.blue
   ctx.font = Font.subhead
@@ -81,7 +82,68 @@ function renderLevels(ctx, deps) {
   ctx.fillStyle = Theme.text
   ctx.font = Font.headline
   ctx.textAlign = 'center'
-  ctx.fillText('Select Difficulty', W / 2, SAFE_TOP + 30)
+  ctx.fillText(State.lang === 'en' ? 'Select Vocab Level' : '选择词汇等级', W / 2, SAFE_TOP + 30)
+
+  UI.backBtn = { x: 0, y: SAFE_TOP, w: 80, h: 44 }
+  UI.examBtns = []
+
+  const exams = State.exams || []
+  const startY = SAFE_TOP + 60
+  const cardH = 64
+  const gap = 12
+  const scrollY = State.puzzleScrollY || 0
+
+  exams.forEach((exam, i) => {
+    const y = startY + i * (cardH + gap) - scrollY
+
+    if (y + cardH < SAFE_TOP || y > H) return
+
+    const isSelected = State.exam === exam.key
+
+    ctx.fillStyle = isSelected ? Theme.blue : Theme.surface
+    roundRect(ctx, 16, y, W - 32, cardH, 12)
+    ctx.fill()
+
+    ctx.fillStyle = isSelected ? Theme.textOnDark : Theme.text
+    ctx.font = Font.headline
+    ctx.textAlign = 'left'
+    ctx.fillText(exam.label, 32, y + 28)
+
+    // Show puzzle count for this exam
+    const examPuzzles = (State.puzzlesIndex || []).filter(p => p.exam === exam.key)
+    const examDone = examPuzzles.filter(p => State.completed[p.id]).length
+
+    ctx.fillStyle = isSelected ? Theme.textOnDark : Theme.textTertiary
+    ctx.font = Font.caption
+    ctx.fillText(`${examDone}/${examPuzzles.length} ${State.lang === 'en' ? 'completed' : '已完成'}`, 32, y + 48)
+
+    ctx.fillStyle = isSelected ? Theme.textOnDark : Theme.textTertiary
+    ctx.font = Font.subhead
+    ctx.textAlign = 'right'
+    ctx.fillText('›', W - 32, y + 38)
+
+    UI.examBtns.push({ key: exam.key, x: 16, y, w: W - 32, h: cardH })
+  })
+}
+
+function renderLevels(ctx, deps) {
+  const { State, DIFFICULTIES, Theme, Font, W, SAFE_TOP, UI } = deps
+
+  ctx.fillStyle = Theme.blue
+  ctx.font = Font.subhead
+  ctx.textAlign = 'left'
+  ctx.fillText('‹ Back', 12, SAFE_TOP + 30)
+
+  // Show current exam in the title
+  const examLabel = (State.exams || []).find(e => e.key === State.exam)
+  const titleText = examLabel
+    ? `${examLabel.label}`
+    : (State.lang === 'en' ? 'Select Difficulty' : '选择难度')
+
+  ctx.fillStyle = Theme.text
+  ctx.font = Font.headline
+  ctx.textAlign = 'center'
+  ctx.fillText(titleText, W / 2, SAFE_TOP + 30)
 
   UI.backBtn = { x: 0, y: SAFE_TOP, w: 80, h: 44 }
   UI.levelBtns = []
@@ -92,6 +154,11 @@ function renderLevels(ctx, deps) {
 
   DIFFICULTIES.forEach((level, i) => {
     const y = startY + i * (cardH + gap)
+
+    // Count puzzles for this exam + difficulty combo
+    const allList = State.puzzlesIndex || []
+    const filtered = allList.filter(p => p.exam === State.exam && p.difficulty === level.key)
+    const done = filtered.filter(p => State.completed[p.id]).length
 
     ctx.fillStyle = Theme.surface
     roundRect(ctx, 16, y, W - 32, cardH, 12)
@@ -104,7 +171,7 @@ function renderLevels(ctx, deps) {
 
     ctx.fillStyle = Theme.textTertiary
     ctx.font = Font.caption
-    ctx.fillText(State.difficulty === level.key ? 'Selected' : 'Tap to choose', 32, y + 48)
+    ctx.fillText(`${done}/${filtered.length} ${State.lang === 'en' ? 'completed' : '已完成'}`, 32, y + 48)
 
     ctx.fillStyle = Theme.textTertiary
     ctx.font = Font.subhead
@@ -132,7 +199,7 @@ function renderPuzzles(ctx, deps) {
   UI.puzzleBtns = []
 
   const allList = State.puzzlesIndex || []
-  const filtered = allList.filter(p => p.difficulty === State.difficulty)
+  const filtered = allList.filter(p => p.exam === State.exam && p.difficulty === State.difficulty)
   const startY = SAFE_TOP + 60
   const cardH = 72
   const gap = 12
@@ -383,7 +450,7 @@ function renderComplete(ctx, deps) {
   ctx.fillText('Complete!', W / 2, H * 0.2 + 50)
 
   const cardY = H * 0.35
-  const key = `${State.level}_${State.puzzleIndex}`
+  const key = State.puzzleId || `puzzle_${(State.puzzleIndex + 1).toString().padStart(3, '0')}`
   const result = State.completed[key] || { time: 0, score: 100 }
 
   ctx.fillStyle = Theme.surface
@@ -470,4 +537,4 @@ function wrapText(ctx, text, maxWidth) {
   return lines
 }
 
-module.exports = { render, renderMenu, renderLevels, renderPuzzles, renderPlay, renderComplete, drawKeyboard }
+module.exports = { render, renderMenu, renderExams, renderLevels, renderPuzzles, renderPlay, renderComplete, drawKeyboard }

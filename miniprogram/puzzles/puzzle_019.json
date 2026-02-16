@@ -1,146 +1,78 @@
 {
   "id": "puzzle_019",
-  "title": "Medium #9",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
       null,
-      "M",
+      "R",
       "O",
-      "N",
-      null,
-      "S",
-      "R"
-    ],
-    [
-      "T",
-      null,
-      "P",
-      "A",
-      "S",
-      "T",
-      "E"
-    ],
-    [
       "W",
-      "A",
-      "T",
-      "T",
-      null,
-      "A",
-      "F"
+      null
     ],
     [
+      "B",
+      "O",
+      null,
+      "O",
+      "G"
+    ],
+    [
+      "I",
+      "V",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "D",
       "E",
-      "P",
-      null,
-      "U",
-      null,
-      "R",
-      "U"
-    ],
-    [
-      "N",
-      "A",
-      null,
-      "R",
-      "A",
-      "T",
-      "S"
-    ],
-    [
-      "T",
-      "R",
-      "E",
-      "A",
-      "T",
-      null,
-      "E"
-    ],
-    [
-      "Y",
-      "T",
       null,
       "L",
-      "E",
-      "T",
+      "M"
+    ],
+    [
+      null,
+      "R",
+      "I",
+      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        6
-      ],
-      [
-        0,
+        4,
         2
       ],
       [
-        2,
+        3,
+        0
+      ],
+      [
+        3,
         1
       ],
       [
         1,
-        4
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        2,
-        0
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        0,
-        6
+        3
       ]
     ],
     "medium": [
       [
-        5,
-        6
-      ],
-      [
-        0,
+        4,
         2
       ],
       [
-        2,
-        1
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        6,
+        3,
         0
       ]
     ],
     "hard": [
       [
-        5,
-        6
-      ],
-      [
-        0,
+        4,
         2
-      ],
-      [
-        2,
-        1
       ]
     ]
   },
@@ -151,122 +83,76 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
-        }
+          "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
+          "zh": "排"
+        },
+        "level": 1
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A soft moist mixture, in particular:",
-          "zh": "粘贴"
-        }
-      },
-      {
-        "num": 8,
+        "num": 6,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
-          "zh": "瓦"
-        }
+          "en": "The hard white form of dentin which forms the tusks of elephants, walruses and other animals.",
+          "zh": "象牙"
+        },
+        "level": 6
       },
       {
-        "num": 14,
+        "num": 9,
         "row": 4,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "老鼠"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
-          "zh": "对待"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The allowing of possession of a property etc. in exchange for rent.",
-          "zh": "让"
-        }
+          "en": "To free (something) from a hindrance or annoyance.",
+          "zh": "摆脱"
+        },
+        "level": 4
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "To choose; select.",
-          "zh": "选择"
-        }
+          "en": "(usually in the plural) A randomly selected target.",
+          "zh": "漫游者"
+        },
+        "level": 6
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A native inhabitant of a place, country etc.",
-          "zh": "自然的"
-        }
+          "en": "(with \"the\") Human collective existence; existence in general.",
+          "zh": "世界"
+        },
+        "level": 1
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "The beginning of an activity.",
-          "zh": "开始"
-        }
-      },
-      {
-        "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "Collectively, items or material that have been discarded; rubbish, garbage.",
-          "zh": "拒绝"
-        }
-      },
-      {
-        "num": 6,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A banknote with a denomination of 20.",
-          "zh": "二十"
-        }
+          "en": "To issue a command; to tell.",
+          "zh": "出价"
+        },
+        "level": 4
       },
       {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
-          "zh": "分开"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
+        "num": 5,
+        "row": 1,
         "col": 4,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
 }

@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_041",
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "C",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "C",
+      "U",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "P",
+      null,
+      "A",
+      "I",
+      "M",
+      null,
+      "V"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      null,
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "O",
+      "A",
+      "K",
+      null,
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "L",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "N",
+      null,
+      null,
+      "T",
+      null,
+      null,
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To find fault with, blame, censure",
+          "zh": "被告"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "zh": "目的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An instance of a disease or poor health.",
+          "zh": "疾病"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A chief or leader.",
+          "zh": "队长"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.",
+          "zh": "不利的"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A small closet or enclosure built against a window on the inner side, to sit in for study.",
+          "zh": "颂歌"
+        },
+        "level": 7
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The visible vapor/vapour, gases, and fine particles given off by burning or smoldering material.",
+          "zh": "抽烟"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}
