@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "T",
+      "R",
+      "A",
+      "Y",
       null,
       null,
-      "F",
       null,
-      "W",
-      "I"
+      "L"
     ],
     [
       "S",
-      "C",
-      "A",
-      "N",
-      null,
-      "L",
-      "A",
+      "K",
       "I",
-      "D"
-    ],
-    [
-      null,
-      "A",
-      "N",
-      null,
       null,
       "O",
-      null,
-      "S",
-      "S"
-    ],
-    [
-      null,
-      "T",
-      null,
-      "B",
-      "R",
-      "U",
-      "S",
-      "H",
-      null
-    ],
-    [
-      "Y",
+      "P",
       "E",
-      "A",
       "R",
-      null,
-      "R",
-      null,
-      "L",
-      null
+      "A"
     ],
     [
       null,
-      "G",
-      "R",
       "I",
+      "M",
+      "A",
+      "G",
+      "E",
+      null,
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      null,
+      "S",
+      "A",
       "P",
       null,
-      null,
-      "I",
-      null
-    ],
-    [
-      "M",
-      "O",
-      null,
-      "G",
       "A",
-      "I",
-      "N",
-      "S",
-      null
-    ],
-    [
-      "A",
-      "R",
-      "C",
-      "H",
-      null,
-      "N",
-      "O",
-      "T",
       "E"
     ],
     [
       "P",
+      "L",
+      "U",
+      "S",
+      null,
+      "P",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "L",
+      "I",
+      null,
+      "U",
+      "S",
+      "E",
+      null,
+      "H",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      null,
+      "M",
+      "E",
+      "R",
+      "G",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "D",
+      null,
+      null,
+      null,
+      "K",
+      "E",
       "Y",
-      null,
-      "T",
-      null,
-      "N",
-      "N",
       null,
       null
     ]
@@ -107,183 +107,231 @@
   "prefilled": {
     "easy": [
       [
-        7,
-        8
+        0,
+        4
       ],
       [
-        1,
+        6,
         3
       ],
       [
-        8,
-        6
-      ],
-      [
-        8,
+        1,
         0
       ],
       [
-        2,
-        2
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        5
-      ],
-      [
         4,
-        5
-      ],
-      [
-        7,
         3
       ],
       [
-        3,
-        7
+        2,
+        4
       ],
       [
-        7,
+        1,
+        4
+      ],
+      [
+        2,
         1
       ],
       [
-        5,
+        4,
+        7
+      ],
+      [
+        8,
         4
       ],
       [
         4,
-        1
+        6
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        7
       ]
     ],
     "medium": [
       [
-        7,
-        8
+        0,
+        4
       ],
       [
-        1,
+        6,
         3
       ],
       [
-        8,
-        6
-      ],
-      [
-        8,
+        1,
         0
       ],
       [
+        4,
+        3
+      ],
+      [
         2,
-        2
+        4
       ],
       [
         1,
+        4
+      ],
+      [
+        2,
         1
       ],
       [
-        0,
-        5
+        4,
+        7
       ],
       [
-        4,
-        5
+        8,
+        4
       ]
     ],
     "hard": [
       [
-        7,
-        8
+        0,
+        4
       ],
       [
-        1,
+        6,
         3
       ],
       [
-        8,
-        6
+        1,
+        0
       ],
       [
-        8,
-        0
+        4,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        }
+      },
+      {
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Close investigation.",
-          "zh": "扫描"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "(of paper) Marked with parallel lines, as if ribbed, from wires in the mould.",
-          "zh": "铺设"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         }
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
-          "zh": "刷子"
-        }
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
-          "zh": "年"
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
         }
       },
       {
         "num": 13,
-        "row": 5,
-        "col": 1,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "To take hold of, particularly with the hand.",
-          "zh": "紧握"
+          "en": "The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.",
+          "zh": "树液"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A positive quantity.",
+          "zh": "加"
         }
       },
       {
         "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A picture, especially a photographic image.",
+          "zh": "图片"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 22,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "The act of gaining; acquisition.",
-          "zh": "获得的行为；获得。"
+          "en": "The joining together of multiple sources.",
+          "zh": "合并"
         }
       },
       {
-        "num": 19,
+        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "An inverted U shape.",
-          "zh": "拱"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         }
       },
       {
-        "num": 20,
+        "num": 25,
         "row": 7,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "(heading) A symbol or annotation.",
-          "zh": "笔记"
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        }
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "An object designed to open and close a lock.",
+          "zh": "钥匙"
         }
       }
     ],
@@ -293,80 +341,89 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
+          "en": "An edge around something, especially when circular.",
+          "zh": "边缘"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
-          "zh": "面粉"
+          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
+          "zh": "瑜伽"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
-        "clue": {
-          "en": "A list of desired things.",
-          "zh": "愿望清单"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
         "col": 8,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "Near the end of a period of time.",
+          "zh": "最新的"
         }
       },
       {
-        "num": 6,
+        "num": 5,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
-          "zh": "类别"
+          "en": "To put to death; to extinguish the life of.",
+          "zh": "杀戮"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A plant of the family Piperaceae.",
+          "zh": "胡椒"
+        }
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The act of stretching or extending; extension.",
+          "zh": "达到"
         }
       },
       {
         "num": 10,
-        "row": 3,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head.",
-          "zh": "明亮的"
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "认为"
         }
       },
       {
-        "num": 15,
-        "row": 6,
+        "num": 12,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A visual representation of an area, whether real or imaginary.",
-          "zh": "地图"
+          "en": "Such a file transfer.",
+          "zh": "上传"
         }
       },
       {
-        "num": 17,
-        "row": 6,
-        "col": 5,
+        "num": 19,
+        "row": 5,
+        "col": 4,
         "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
+          "en": "The operation of navigating through a stream.",
+          "zh": "寻找"
         }
       },
       {
-        "num": 18,
+        "num": 23,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
         }
       }
     ]

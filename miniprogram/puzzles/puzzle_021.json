@@ -7,99 +7,99 @@
     [
       null,
       null,
-      "P",
+      "O",
       null,
       null,
-      "C",
+      "F",
       null,
-      "C",
+      null,
+      "N"
+    ],
+    [
+      "I",
+      "L",
+      "L",
+      null,
+      "S",
+      "E",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "I",
+      "D",
+      "E",
+      "A",
+      "L",
+      null,
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "B",
+      null,
+      "L",
+      "I",
+      "T",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
+      null,
+      "I",
+      "D",
       "S"
     ],
     [
-      "A",
-      "C",
-      "I",
-      "D",
-      null,
-      "H",
       "O",
-      "O",
-      "K"
-    ],
-    [
-      null,
-      "E",
-      "E",
-      null,
-      null,
-      "A",
-      null,
-      "V",
-      "I"
-    ],
-    [
-      null,
       "R",
-      null,
-      "C",
-      "L",
-      "O",
+      "I",
+      "G",
+      "I",
       "N",
-      "E",
-      null
+      null,
+      "I",
+      "T"
     ],
     [
       "W",
-      "E",
+      "T",
+      null,
       "A",
-      "R",
-      null,
-      "S",
-      null,
-      "R",
-      null
-    ],
-    [
-      null,
+      "N",
+      "I",
       "M",
       "E",
-      "E",
-      "T",
-      null,
-      null,
-      "A",
       null
     ],
     [
-      "T",
-      "O",
-      null,
-      "D",
-      "E",
-      "B",
-      "U",
-      "G",
-      null
-    ],
-    [
-      "A",
-      "N",
-      "T",
+      "L",
+      "Y",
       "I",
+      "N",
+      "G",
       null,
-      "U",
-      "S",
-      "E",
-      "R"
+      "A",
+      "R",
+      "T"
     ],
     [
-      "N",
       "Y",
       null,
+      null,
       "T",
       null,
-      "S",
-      "E",
+      null,
+      "T",
       null,
       null
     ]
@@ -107,183 +107,213 @@
   "prefilled": {
     "easy": [
       [
-        4,
+        7,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
         0
       ],
       [
         6,
-        1
-      ],
-      [
-        2,
         7
       ],
       [
         6,
-        7
-      ],
-      [
-        8,
-        1
-      ],
-      [
-        5,
-        1
+        5
       ],
       [
         1,
-        2
-      ],
-      [
-        6,
-        6
+        4
       ],
       [
         8,
-        5
+        0
+      ],
+      [
+        2,
+        4
       ],
       [
         4,
-        1
+        2
       ],
       [
-        1,
-        5
+        7,
+        8
       ],
       [
-        5,
+        4,
+        6
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        3,
         3
       ],
       [
-        2,
-        2
+        3,
+        4
       ]
     ],
     "medium": [
       [
-        4,
+        7,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
         0
       ],
       [
         6,
-        1
-      ],
-      [
-        2,
         7
       ],
       [
         6,
-        7
-      ],
-      [
-        8,
-        1
-      ],
-      [
-        5,
-        1
+        5
       ],
       [
         1,
-        2
+        4
       ],
       [
-        6,
-        6
+        8,
+        0
+      ],
+      [
+        2,
+        4
       ]
     ],
     "hard": [
       [
-        4,
-        0
-      ],
-      [
-        6,
-        1
+        7,
+        6
       ],
       [
         2,
-        7
+        3
+      ],
+      [
+        8,
+        3
       ],
       [
         6,
-        7
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A sour substance.",
-          "zh": "酸"
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "A rod bent into a curved shape, typically with one end free and the other end secured to a rope or other attachment.",
-          "zh": "钩"
+          "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+          "zh": "感觉"
         }
       },
       {
-        "num": 10,
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        }
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "A living organism (originally a plant) produced asexually from a single ancestor, to which it is genetically identical.",
-          "zh": "克隆"
+          "en": "A small amount.",
+          "zh": "小的"
         }
       },
       {
-        "num": 11,
+        "num": 14,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "(in combination) clothing",
-          "zh": "穿"
-        }
-      },
-      {
-        "num": 13,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "To come into the presence of someone by arrangement or by chance.",
-          "zh": "见面"
+          "en": "A position on a scale of amount, quantity, extent, or quality.",
+          "zh": "等级"
         }
       },
       {
         "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The beginning of something.",
+          "zh": "起源"
+        }
+      },
+      {
+        "num": 21,
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
-          "zh": "调试"
+          "en": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.",
+          "zh": "日本动画片"
         }
       },
       {
-        "num": 19,
+        "num": 23,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
+          "en": "To rest in a horizontal position on a surface.",
+          "zh": "说谎"
         }
       },
       {
-        "num": 20,
+        "num": 24,
         "row": 7,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A person who uses or operates something, especially a computer or service.",
-          "zh": "用户"
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
         }
       }
     ],
@@ -293,8 +323,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A type of pastry that consists of an outer crust and a filling.",
-          "zh": "馅饼"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         }
       },
       {
@@ -302,71 +332,71 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "The unordered state of matter in classical accounts of cosmogony.",
-          "zh": "混乱"
+          "en": "A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.",
+          "zh": "毛毡"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
+        "col": 8,
         "clue": {
-          "en": "An amount by which something or someone is covered.",
-          "zh": "覆盖范围"
+          "en": "Recently made, or created.",
+          "zh": "最新"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "The condition of being free from control or restrictions.",
+          "zh": "自由"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A ritual, with religious or cultural significance.",
-          "zh": "仪式"
+          "en": "To be impelled or driven forward by the action of wind upon sails, as a ship on water; to be impelled on a body of water by steam or other power.",
+          "zh": "航行"
         }
       },
       {
-        "num": 10,
-        "row": 3,
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A member of an army, of any rank.",
+          "zh": "士兵"
+        }
+      },
+      {
+        "num": 9,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "Reliance on the truth of something said or done; faith; trust.",
-          "zh": "信用"
+          "en": "Characterised by or exhibiting elegance.",
+          "zh": "优雅的"
         }
       },
       {
-        "num": 15,
-        "row": 6,
+        "num": 11,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
+          "en": "(manner) At a slow pace.",
+          "zh": "慢慢地"
         }
       },
       {
-        "num": 17,
-        "row": 6,
-        "col": 5,
-        "clue": {
-          "en": "A motor vehicle for transporting large numbers of people along roads.",
-          "zh": "公共汽车"
-        }
-      },
-      {
-        "num": 18,
+        "num": 22,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
+          "zh": "垫"
         }
       }
     ]

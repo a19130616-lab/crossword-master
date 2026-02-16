@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
+      "H",
       null,
-      "D",
+      "T",
+      "O",
+      "P",
       null,
       null,
-      "S",
-      null,
-      null,
-      "S"
+      "F"
     ],
     [
-      "C",
+      "W",
       "A",
-      "R",
-      null,
-      "M",
+      "G",
       "O",
-      "R",
-      "A",
+      "N",
+      null,
+      "I",
+      "L",
       "L"
     ],
     [
       null,
-      "N",
-      "Y",
       "L",
+      "A",
+      null,
+      "C",
       "O",
       "N",
       null,
-      "L",
-      "E"
+      "O"
     ],
     [
       "P",
       "O",
+      "T",
       null,
       "E",
-      "N",
-      "G",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      "A",
-      "T",
       "L",
-      "A",
-      "S",
-      null,
-      "R",
+      "D",
       "E",
-      "V"
+      "R"
     ],
     [
-      "S",
-      "H",
       "O",
-      "R",
-      "T",
-      "S",
       null,
-      "B",
-      "E"
+      "E",
+      "L",
+      null,
+      "D",
+      "I",
+      null,
+      "A"
     ],
     [
       "T",
-      "E",
-      null,
-      "N",
-      "E",
+      "O",
       "W",
       "E",
       "R",
+      null,
+      "C",
+      "O",
+      "L"
+    ],
+    [
+      "A",
+      null,
+      "A",
+      "G",
+      "E",
+      null,
+      "E",
+      "K",
       null
     ],
     [
+      "T",
       "O",
-      "R",
-      "D",
-      "E",
-      "R",
+      "Y",
       null,
-      "G",
+      "E",
+      "S",
+      "S",
       "A",
-      "P"
+      "Y"
     ],
     [
-      "R",
+      "O",
       null,
       null,
-      "D",
+      "A",
+      "L",
+      "L",
       null,
-      null,
-      "G",
-      null,
+      "Y",
       null
     ]
   ],
@@ -108,277 +108,158 @@
     "easy": [
       [
         4,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        3,
-        6
-      ],
-      [
-        7,
-        6
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        2,
         5
       ],
       [
-        7,
-        2
+        2,
+        8
+      ],
+      [
+        0,
+        8
       ],
       [
         1,
+        4
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
         8
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        6,
+        3
       ]
     ],
     "medium": [
       [
         4,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        3,
-        3
+        5
       ],
       [
         2,
         8
       ],
       [
-        5,
+        0,
+        8
+      ],
+      [
+        1,
         4
       ],
       [
-        8,
-        0
-      ],
-      [
         3,
-        6
-      ],
-      [
-        7,
-        6
-      ],
-      [
-        4,
         7
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        2
       ]
     ],
     "hard": [
       [
         4,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        3,
-        3
+        5
       ],
       [
         2,
         8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
-          "zh": "车"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "(of a narrative) The ethical significance or practical lesson.",
-          "zh": "道德"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "(heading) To interact socially.",
-          "zh": "从事"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "A bound collection of maps often including tables, illustrations or other text.",
-          "zh": "地图集"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A short circuit.",
-          "zh": "短路。"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
-          "zh": "命令"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The process by which something is dried.",
-          "zh": "干燥"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "A musical composition with lyrics for voice or voices, performed by singing.",
-          "zh": "歌曲"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "The part of a garment that covers the arm.",
-          "zh": "袖子"
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "An additional one of the same kind.",
-          "zh": "其他"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A terrifying and dangerous creature.",
-          "zh": "怪物"
+          "en": "A four-wheeled cart for hauling loads.",
+          "zh": "车皮"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 7,
+        "col": 6,
         "clue": {
-          "en": "A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
-          "zh": "代数"
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
         }
       },
       {
@@ -386,17 +267,163 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A shepherd; someone who tends to a flock of animals.",
-          "zh": "牧师"
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "锅"
+        }
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "An older person or an older member, usually a leader, of some community.",
+          "zh": "长老"
+        }
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
+          "zh": "塔"
+        }
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
+        }
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         }
       },
       {
         "num": 22,
-        "row": 6,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
+        }
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A design involving flowers",
+          "zh": "花的"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An entrance capable of being blocked by use of a gate.",
+          "zh": "网关"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
         "col": 6,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "An alphabetical listing of items and their location.",
+          "zh": "指数"
+        }
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        }
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The tuber of a plant, Solanum tuberosum, eaten as a starchy vegetable, particularly in the Americas and Europe; this plant.",
+          "zh": "土豆"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
+        }
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A shaky or unsteady gait.",
+          "zh": "卷轴"
+        }
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Endorsement; approval.",
+          "zh": "好的"
         }
       }
     ]

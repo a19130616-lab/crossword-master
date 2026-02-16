@@ -5,121 +5,130 @@
   "cols": 5,
   "solution": [
     [
-      "H",
-      null,
+      "A",
+      "P",
+      "P",
+      "S",
+      null
+    ],
+    [
+      "P",
       "H",
       "I",
-      "P"
-    ],
-    [
-      "O",
-      "P",
-      "E",
-      "R",
-      "A"
-    ],
-    [
-      "U",
-      "R",
       null,
-      "O",
-      "S"
+      "G"
+    ],
+    [
+      "P",
+      "I",
+      "X",
+      "E",
+      "L"
     ],
     [
       "S",
-      "A",
-      "I",
-      "N",
-      "T"
-    ],
-    [
+      null,
       "E",
       "Y",
-      "E",
+      "E"
+    ],
+    [
       null,
-      "A"
+      "G",
+      "L",
+      "E",
+      "N"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        3
+        4,
+        4
       ],
       [
-        3,
+        1,
         2
       ],
       [
-        3,
-        0
+        0,
+        2
       ],
       [
-        2,
-        0
-      ],
-      [
-        4,
+        0,
         1
+      ],
+      [
+        1,
+        0
       ]
     ],
     "medium": [
       [
-        0,
-        3
+        4,
+        4
       ],
       [
-        3,
+        1,
         2
       ],
       [
-        3,
-        0
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        0,
-        3
+        4,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
-          "zh": "臀部"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
         }
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        }
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "One of the tiny dots that make up the representation of an image in a computer's memory.",
+          "zh": "像素"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A person whom a church or another religious group has officially recognised as especially holy or godly; one eminent for piety and virtue.",
-          "zh": "圣"
-        }
-      },
-      {
-        "num": 11,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
+          "zh": "峡谷"
         }
       }
     ],
@@ -129,35 +138,44 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A structure built or serving as an abode of human beings.",
-          "zh": "房子"
+          "en": "An application (program), especially a small one designed for a mobile device.",
+          "zh": "应用程序"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
-          "zh": "铁"
+          "en": "One of the tiny dots that make up the representation of an image in a computer's memory.",
+          "zh": "像素"
         }
       },
       {
-        "num": 4,
-        "row": 0,
+        "num": 5,
+        "row": 1,
         "col": 4,
         "clue": {
-          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
-          "zh": "面食"
+          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
+          "zh": "峡谷"
         }
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 1,
+        "num": 7,
+        "row": 2,
+        "col": 3,
         "clue": {
-          "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
-          "zh": "祈祷"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ]

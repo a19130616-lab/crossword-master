@@ -6,297 +6,284 @@
   "solution": [
     [
       null,
-      "S",
       null,
-      null,
-      null,
-      null,
-      "U",
-      null,
-      "E"
-    ],
-    [
-      "D",
-      "E",
-      "L",
-      "T",
-      "A",
-      null,
-      "S",
-      "O",
-      "X"
-    ],
-    [
-      null,
-      "G",
-      "O",
-      null,
-      "C",
-      "H",
-      "E",
-      "A",
-      "P"
-    ],
-    [
       "F",
-      "A",
-      "R",
       null,
-      "T",
-      "U",
       null,
-      "K",
-      "A"
+      "S",
+      null,
+      "W",
+      "G"
     ],
     [
-      "I",
-      null,
-      "D",
+      "S",
+      "T",
       "E",
-      "R",
-      "B",
-      "Y",
+      "M",
       null,
+      "T",
+      "H",
+      "I",
       "N"
     ],
     [
-      "S",
-      "B",
       null,
-      "N",
+      "I",
       "E",
       null,
+      null,
       "O",
-      "L",
-      "D"
+      null,
+      "R",
+      "U"
     ],
     [
-      "C",
-      "A",
-      "R",
-      "D",
-      "S",
       null,
+      "T",
+      null,
+      "A",
       "G",
-      "I",
+      "R",
+      "E",
+      "E",
       null
     ],
     [
+      "M",
       "A",
-      "G",
-      "O",
-      null,
-      "S",
-      "H",
-      "A",
-      "F",
-      "T"
-    ],
-    [
+      "L",
       "L",
       null,
-      "D",
+      "E",
       null,
+      "L",
+      null
+    ],
+    [
       null,
+      "N",
+      "E",
+      "W",
+      "S",
       null,
       null,
       "E",
+      null
+    ],
+    [
+      "D",
+      "I",
+      null,
+      "A",
+      "L",
+      "I",
+      "A",
+      "S",
+      null
+    ],
+    [
+      "R",
+      "U",
+      "B",
+      "Y",
+      null,
+      "D",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "Y",
+      "M",
+      null,
+      "S",
+      null,
+      "S",
+      "D",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        1
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        5,
-        6
-      ],
-      [
-        2,
-        4
+        8,
+        5
       ],
       [
         7,
+        5
+      ],
+      [
+        2,
         7
       ],
       [
-        4,
-        3
+        5,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
       ],
       [
         4,
+        1
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        8,
         0
       ],
       [
         0,
-        6
+        5
       ],
       [
-        1,
-        2
+        7,
+        8
       ],
       [
-        5,
-        7
+        3,
+        5
       ]
     ],
     "medium": [
       [
-        0,
-        1
+        8,
+        5
       ],
       [
-        6,
-        0
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        5,
-        6
+        7,
+        5
       ],
       [
         2,
-        4
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        4,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        1
+        8,
+        5
       ],
       [
-        6,
-        0
+        7,
+        5
       ],
       [
-        1,
-        0
+        2,
+        7
       ],
       [
-        3,
-        8
+        5,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
-          "zh": "三角洲"
+          "en": "The main body or stalk of a plant or shrub.",
+          "zh": "干"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "袜队"
+          "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+          "zh": "薄的"
         }
       },
       {
         "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "Low in price; not expensive.",
-          "zh": "便宜的"
-        }
-      },
-      {
-        "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "Distant; remote in space.",
-          "zh": "远的"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         }
       },
       {
-        "num": 15,
+        "num": 11,
         "row": 4,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "Any of several annual horse races.",
-          "zh": "德比"
+          "en": "A pedestrianised street, especially a shopping precinct.",
+          "zh": "购物中心"
         }
       },
       {
-        "num": 21,
+        "num": 13,
         "row": 5,
-        "col": 6,
+        "col": 1,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
+          "en": "New information of interest.",
+          "zh": "新闻"
         }
       },
       {
-        "num": 23,
+        "num": 16,
         "row": 6,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "A playing card.",
-          "zh": "一张扑克牌。"
+          "en": "Another name; an assumed name.",
+          "zh": "别名"
         }
       },
       {
-        "num": 26,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "A clear, deep, red variety of corundum, valued as a precious stone.",
+          "zh": "红宝石"
         }
       },
       {
-        "num": 27,
+        "num": 20,
         "row": 7,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "The entire body of a long weapon, such as an arrow.",
-          "zh": "轴"
+          "en": "A thin, flat, circular plate or similar object.",
+          "zh": "磁盘"
         }
       }
     ],
@@ -304,118 +291,82 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A genre of popular music mainly associated with Mauritius.",
-          "zh": "世嘉"
+          "en": "A sum of money charged for a service or privilege.",
+          "zh": "费用"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "A retail establishment selling items to the public.",
+          "zh": "店铺"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.",
-          "zh": "扩张"
+          "en": "The medium of radio communication.",
+          "zh": "无线的"
         }
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "The master of the servants of a household; the master of a feudal manor",
-          "zh": "主"
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A female who performs on the stage or in films.",
-          "zh": "演员"
+          "en": "A chemical element, atomic number 22; it is a strong, corrosion-resistant transition metal, used to make light alloys for aircraft etc.",
+          "zh": "钛"
         }
       },
       {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
-          "zh": "橡树"
-        }
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "The central part, usually cylindrical, of a wheel; the nave.",
-          "zh": "中心"
-        }
-      },
-      {
-        "num": 12,
+        "num": 10,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A public official in certain countries having control of public revenue.",
-          "zh": "财"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
         "col": 3,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "At all times; throughout all time; since the beginning.",
+          "zh": "总是"
+        }
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
         }
       },
       {
         "num": 17,
-        "row": 4,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
+          "zh": "id"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
         "col": 6,
         "clue": {
-          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
-          "zh": "瑜伽"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
-        }
-      },
-      {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-          "zh": "生活"
-        }
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A straight, round stick, shaft, bar, cane, or staff.",
-          "zh": "杆"
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
         }
       }
     ]

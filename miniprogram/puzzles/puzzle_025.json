@@ -6,101 +6,101 @@
   "solution": [
     [
       null,
-      null,
-      "L",
-      "A",
-      "W",
+      "C",
       null,
       null,
       null,
-      "S"
+      "T",
+      null,
+      null,
+      "C"
     ],
     [
-      "C",
+      "N",
+      "O",
+      "D",
+      "E",
+      null,
       "H",
+      "A",
+      "L",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      null,
+      "L",
+      "O",
+      "R",
+      "D",
+      null,
+      "M"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "I",
+      "M",
+      null,
+      "M"
+    ],
+    [
+      "G",
+      null,
+      "A",
+      "P",
+      null,
+      "L",
       "I",
       null,
-      "A",
-      "P",
-      "A",
-      "R",
-      "T"
+      "E"
     ],
     [
+      "H",
       null,
-      "A",
-      "P",
-      "P",
+      "S",
+      "H",
+      "E",
       "L",
-      "Y",
-      null,
+      "T",
       "E",
       "R"
     ],
     [
-      "S",
       "B",
       null,
+      "T",
       "A",
       "L",
-      "T",
-      null,
-      "A",
-      "O"
-    ],
-    [
-      "T",
-      "I",
       "E",
-      "R",
       null,
-      "H",
       "A",
-      "C",
-      "K"
+      "C"
     ],
     [
-      "R",
-      "T",
-      null,
-      "A",
-      "G",
       "O",
+      "V",
+      "E",
+      "N",
       null,
-      "H",
+      "R",
+      "I",
+      "S",
       "E"
     ],
     [
-      "E",
-      "A",
+      "R",
       null,
-      "D",
-      "A",
-      "N",
-      "C",
-      "E",
-      null
-    ],
-    [
-      "S",
+      null,
       "T",
-      "E",
-      "E",
-      "L",
-      null,
-      "A",
-      "S",
-      "H"
-    ],
-    [
-      "S",
       null,
       null,
       null,
       "E",
-      "N",
-      "D",
-      null,
       null
     ]
   ],
@@ -108,31 +108,31 @@
     "easy": [
       [
         7,
-        2
-      ],
-      [
-        3,
         1
       ],
       [
-        0,
+        5,
         4
       ],
       [
         5,
-        7
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        7,
-        6
+        8
       ],
       [
         1,
+        8
+      ],
+      [
+        0,
         1
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
       ],
       [
         6,
@@ -140,198 +140,154 @@
       ],
       [
         3,
-        3
-      ],
-      [
-        2,
         2
       ],
       [
-        7,
-        3
-      ],
-      [
-        8,
-        5
+        3,
+        6
       ],
       [
         1,
+        0
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        2,
         5
       ],
       [
-        6,
-        1
-      ],
-      [
-        5,
-        3
+        2,
+        4
       ]
     ],
     "medium": [
       [
         7,
-        2
-      ],
-      [
-        3,
         1
       ],
       [
-        0,
+        5,
         4
       ],
       [
         5,
-        7
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        7,
-        6
+        8
       ],
       [
         1,
+        8
+      ],
+      [
+        0,
         1
       ],
       [
-        6,
-        3
+        5,
+        6
       ],
       [
-        3,
+        5,
+        5
+      ],
+      [
+        6,
         3
       ]
     ],
     "hard": [
       [
         7,
-        2
-      ],
-      [
-        3,
         1
       ],
       [
-        0,
+        5,
         4
       ],
       [
         5,
-        7
+        8
+      ],
+      [
+        1,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
-          "zh": "法律"
-        }
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
-          "zh": "气"
+          "en": "A knot, knob, protuberance or swelling.",
+          "zh": "节点"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
-          "zh": "分开"
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
+          "en": "The master of the servants of a household; the master of a feudal manor",
+          "zh": "主"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
-          "zh": "替代"
+          "en": "A transitional or temporary period between other events.",
+          "zh": "临时"
         }
       },
       {
         "num": 15,
-        "row": 4,
-        "col": 0,
+        "row": 5,
+        "col": 2,
         "clue": {
-          "en": "One who ties (knots, etc).",
-          "zh": "层"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "A tool for chopping.",
-          "zh": "黑客"
+          "en": "A refuge, haven or other cover or protection from something.",
+          "zh": "庇护所"
         }
       },
       {
         "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
-          "zh": "舞蹈"
+          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+          "zh": "故事"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
-          "zh": "钢"
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
         }
       },
       {
-        "num": 25,
+        "num": 21,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "To move, or appear to move, physically upwards relative to the ground.",
+          "zh": "上升"
         }
       }
     ],
@@ -339,19 +295,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
-          "zh": "唇"
+          "en": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales.",
+          "zh": "玉米"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "A rampart of earth, stones etc. built up for defensive purposes.",
-          "zh": "墙"
+          "en": "Something that thrills.",
+          "zh": "惊悚片"
         }
       },
       {
@@ -359,71 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "An act of stroking (moving one's hand over a surface).",
-          "zh": "中风"
+          "en": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",
+          "zh": "商业"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+          "zh": "邻居"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "Conditions suitable for an organism or population of organisms to live.",
-          "zh": "栖息地"
+          "en": "A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw.",
+          "zh": "大象"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A type of large constricting snake.",
-          "zh": "蟒蛇"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The act of stretching or extending; extension.",
-          "zh": "达到"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "An organized procession consisting of a series of consecutive displays, performances, exhibits, etc. displayed by moving down a street past a crowd of spectators.",
-          "zh": "游行"
+          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+          "zh": "承认"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "(Cause of) discomfort.",
-          "zh": "压力"
+          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+          "zh": "品尝"
         }
       },
       {
-        "num": 19,
+        "num": 17,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "To sing; charm; enchant.",
-          "zh": "大风"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A low-bred, presuming person; a mean, vulgar fellow.",
-          "zh": "计算机辅助设计"
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
         }
       }
     ]
