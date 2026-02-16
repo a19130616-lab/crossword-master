@@ -5,95 +5,104 @@
   "cols": 5,
   "solution": [
     [
+      null,
+      "P",
+      "E",
+      "N",
+      null
+    ],
+    [
       "S",
+      "L",
       null,
-      null,
-      null,
-      "P"
+      "O",
+      "I"
     ],
     [
-      "W",
-      "H",
-      "E",
-      "E",
-      "L"
-    ],
-    [
+      "P",
+      "A",
+      "N",
       "I",
-      null,
-      "G",
-      null,
-      "A"
+      "C"
     ],
     [
-      "F",
-      "I",
-      "G",
-      "H",
-      "T"
-    ],
-    [
-      "T",
+      "A",
+      "Z",
       null,
-      null,
-      null,
+      "S",
       "E"
+    ],
+    [
+      null,
+      "A",
+      "T",
+      "E",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        4
+        2,
+        2
       ],
       [
-        1,
-        0
+        0,
+        2
       ],
       [
-        1,
+        2,
         1
       ],
       [
-        3,
-        3
+        2,
+        0
       ]
     ],
     "medium": [
       [
-        4,
-        4
+        2,
+        2
       ],
       [
-        1,
-        0
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        2,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",
-          "zh": "车轮"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "To contend in physical conflict, either singly or in war, battle etc.",
-          "zh": "斗争"
+          "en": "Overpowering fright, often affecting groups of people or animals.",
+          "zh": "恐慌"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ],
@@ -101,28 +110,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A small plain-colored bird of the family Apodidae that resembles a swallow and is noted for its rapid flight.",
-          "zh": "迅速"
+          "en": "A town's public square.",
+          "zh": "广场"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
-          "zh": "盘子"
+          "en": "Various sounds, usually unwanted or unpleasant.",
+          "zh": "噪音"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         }
       }
     ]

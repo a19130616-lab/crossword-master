@@ -5,95 +5,104 @@
   "cols": 5,
   "solution": [
     [
-      "V",
       null,
-      null,
-      null,
-      "D"
+      "H",
+      "I",
+      "T",
+      null
     ],
     [
+      "U",
+      "O",
+      null,
+      "H",
+      "A"
+    ],
+    [
+      "S",
+      "T",
       "A",
-      "P",
-      "P",
-      "L",
-      "Y"
-    ],
-    [
-      "L",
-      null,
-      "U",
-      null,
-      "I"
-    ],
-    [
-      "U",
       "R",
-      "B",
-      "A",
-      "N"
+      "T"
     ],
     [
       "E",
+      "E",
       null,
+      "O",
+      "E"
+    ],
+    [
       null,
-      null,
-      "G"
+      "L",
+      "O",
+      "W",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
+        2,
+        0
+      ],
+      [
+        0,
         1
       ],
       [
         4,
-        4
+        1
       ],
       [
         3,
-        2
-      ],
-      [
-        4,
-        0
+        4
       ]
     ],
     "medium": [
       [
-        3,
-        1
+        2,
+        0
       ],
       [
-        4,
-        4
+        0,
+        1
       ]
     ],
     "hard": [
       [
-        3,
-        1
+        2,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Related to the (or any) city.",
-          "zh": "城市的"
+          "en": "The beginning of an activity.",
+          "zh": "开始"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
         }
       }
     ],
@@ -101,28 +110,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "The quality (positive or negative) that renders something desirable or valuable.",
-          "zh": "价值"
+          "en": "An establishment providing lodging and usually meals for travelers.",
+          "zh": "酒店"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "垂死"
+          "en": "To change place.",
+          "zh": "投掷"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An establishment where alcoholic drinks are served for consumption on the premises.",
-          "zh": "酒吧"
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ]

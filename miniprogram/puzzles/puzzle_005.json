@@ -7,119 +7,93 @@
     [
       "S",
       null,
-      "L",
-      "I",
-      "P"
+      null,
+      null,
+      "B"
     ],
     [
       "C",
-      "O",
-      "N",
-      "D",
-      "O"
+      "H",
+      "A",
+      "I",
+      "R"
     ],
     [
-      "U",
-      "V",
+      "R",
       null,
-      "O",
-      "W"
-    ],
-    [
-      "B",
-      "E",
-      "L",
-      "L",
+      "P",
+      null,
       "E"
     ],
     [
-      "A",
+      "E",
+      "X",
+      "T",
       "R",
-      "M",
+      "A"
+    ],
+    [
+      "W",
       null,
-      "R"
+      null,
+      null,
+      "D"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        1
+        2,
+        4
       ],
       [
-        0,
-        3
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        3,
-        0
+        4,
+        4
       ],
       [
         2,
-        3
+        0
+      ],
+      [
+        0,
+        0
       ]
     ],
     "medium": [
       [
-        3,
-        1
+        2,
+        4
       ],
       [
-        0,
-        3
-      ],
-      [
-        3,
-        3
+        4,
+        4
       ]
     ],
     "hard": [
       [
-        3,
-        1
+        2,
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 2,
+        "num": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
-          "zh": "唇"
+          "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
+          "zh": "椅子"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "Joint sovereignty over a territory by two or more countries.",
-          "zh": "公寓"
-        }
-      },
-      {
-        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An attractive woman.",
-          "zh": "美女"
-        }
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
+          "zh": "额外的"
         }
       }
     ],
@@ -129,35 +103,26 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
-          "zh": "水肺潜水"
+          "en": "A device that has a helical function.",
+          "zh": "拧紧"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
-          "zh": "偶像"
+          "en": "A foodstuff made by baking dough made from cereals.",
+          "zh": "面包"
         }
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "Ability to do or undergo something.",
-          "zh": "力量"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "Above or higher than something else, with or without touching it.",
-          "zh": "超过"
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
         }
       }
     ]

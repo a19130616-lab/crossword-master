@@ -5,83 +5,71 @@
   "cols": 7,
   "solution": [
     [
+      "B",
       null,
       null,
-      "L",
       "A",
-      "W",
       null,
-      "N"
+      null,
+      "S"
     ],
     [
+      "A",
+      "G",
+      "A",
+      "I",
+      "N",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      "D",
+      "R",
+      "Y",
+      null,
+      "U"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      null,
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      null,
       "P",
       "R",
       "O",
-      "P",
-      "O",
+      null,
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "N",
       "S",
       "E"
     ],
     [
-      null,
-      "O",
-      "T",
-      null,
       "N",
-      "O",
-      "W"
-    ],
-    [
-      "T",
-      "V",
       null,
       null,
+      "D",
       null,
-      "C",
+      null,
       "S"
-    ],
-    [
-      "Y",
-      "E",
-      "N",
-      null,
-      "S",
-      "K",
-      null
-    ],
-    [
-      "P",
-      "R",
-      "O",
-      "C",
-      "E",
-      "S",
-      "S"
-    ],
-    [
-      "E",
-      null,
-      "N",
-      "U",
-      "T",
-      null,
-      null
     ]
   ],
   "prefilled": {
     "easy": [
-      [
-        5,
-        6
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        1,
-        1
-      ],
       [
         5,
         4
@@ -91,12 +79,8 @@
         3
       ],
       [
-        5,
-        5
-      ],
-      [
         1,
-        5
+        2
       ],
       [
         1,
@@ -104,22 +88,48 @@
       ],
       [
         2,
-        6
+        0
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        0
       ]
     ],
     "medium": [
       [
         5,
-        6
+        4
       ],
       [
-        4,
-        1
+        6,
+        3
       ],
       [
         1,
-        1
+        2
       ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "hard": [
       [
         5,
         4
@@ -128,72 +138,62 @@
         6,
         3
       ]
-    ],
-    "hard": [
-      [
-        5,
-        6
-      ],
-      [
-        4,
-        1
-      ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
-          "zh": "法律"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An objective or aim.",
-          "zh": "提出"
+          "en": "In a contrary direction to.",
+          "zh": "反对"
+        }
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        }
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
         }
       },
       {
         "num": 9,
-        "row": 2,
+        "row": 3,
         "col": 4,
         "clue": {
-          "en": "The present time.",
-          "zh": "现在"
+          "en": "(heading) To guide or conduct.",
+          "zh": "带领了"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         }
       },
       {
         "num": 12,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
-        }
-      },
-      {
-        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A series of events which produce a result (the product).",
-          "zh": "过程"
-        }
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "Strained; tightly drawn.",
+          "zh": "激烈的"
         }
       }
     ],
@@ -201,73 +201,55 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A large quantity or number; a great deal.",
-          "zh": "很多"
+          "en": "An agreement between parties concerning the sale of property; or a contract by which one party binds himself to transfer the right to some property for a consideration, and the other party binds himself to receive the property and pay the consideration.",
+          "zh": "便宜货"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "To conquer, defeat.",
-          "zh": "韩元"
+          "en": "An academic field of study concerning the given subject.",
+          "zh": "研究"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 6,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "New information of interest.",
-          "zh": "感兴趣的新信息。"
+          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "zh": "采纳"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "(usually in the plural) A randomly selected target.",
-          "zh": "漫游者"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A knitted or woven covering for the foot.",
-          "zh": "袜子"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A grouping based on shared characteristics; a class.",
-          "zh": "类型"
-        }
-      },
-      {
-        "num": 13,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
         "col": 4,
         "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         }
       }
     ]

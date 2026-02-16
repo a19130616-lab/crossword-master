@@ -5,95 +5,104 @@
   "cols": 5,
   "solution": [
     [
+      null,
+      "P",
       "A",
+      "D",
+      null
+    ],
+    [
+      "S",
+      "O",
       null,
-      null,
-      null,
-      "H"
+      "E",
+      "E"
     ],
     [
       "P",
-      "I",
-      "Z",
-      "Z",
-      "A"
-    ],
-    [
-      "A",
-      null,
-      "I",
-      null,
-      "N"
-    ],
-    [
-      "R",
-      "A",
+      "U",
       "P",
-      "I",
-      "D"
-    ],
-    [
-      "T",
-      null,
-      null,
-      null,
+      "P",
       "Y"
+    ],
+    [
+      "A",
+      "N",
+      null,
+      "O",
+      "E"
+    ],
+    [
+      null,
+      "D",
+      "O",
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
+        4,
+        1
       ],
       [
         0,
-        4
+        1
       ],
       [
         2,
-        2
+        3
       ],
       [
-        4,
-        4
+        3,
+        3
       ]
     ],
     "medium": [
       [
-        3,
-        4
+        4,
+        1
       ],
       [
         0,
-        4
+        1
       ]
     ],
     "hard": [
       [
-        3,
-        4
+        4,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit",
-          "zh": "比萨"
+          "en": "A flattened mass of anything soft, to sit or lie on.",
+          "zh": "软垫"
         }
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
-          "zh": "迅速的"
+          "en": "A young dog, especially before sexual maturity (12-18 months)",
+          "zh": "小狗"
+        }
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A small, round spot.",
+          "zh": "点"
         }
       }
     ],
@@ -101,28 +110,37 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
-          "zh": "分开"
+          "en": "A unit of weight equal to 16 ounces (about 453 grams); also, the basic monetary unit of the UK.",
+          "zh": "磅"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Easy to use, useful.",
-          "zh": "便利"
+          "en": "A storage facility, in particular, a warehouse.",
+          "zh": "仓库"
         }
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A twist or fold.",
-          "zh": "拉链"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         }
       }
     ]

@@ -6,238 +6,263 @@
   "solution": [
     [
       null,
-      null,
-      null,
+      "D",
+      "I",
       "P",
       null,
+      "A",
+      "B"
+    ],
+    [
+      "S",
       null,
+      "N",
+      "O",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "S",
+      null,
+      "I",
       "S"
     ],
     [
+      "O",
+      "U",
       null,
-      "M",
-      null,
-      "E",
-      "D",
-      "I",
-      "T"
-    ],
-    [
-      null,
-      "A",
-      "C",
-      "N",
-      "E",
-      null,
-      "A"
-    ],
-    [
-      "A",
-      "C",
-      "A",
-      "D",
-      "E",
-      "M",
-      "Y"
-    ],
-    [
       "S",
       null,
-      "F",
-      "A",
+      "D",
+      "I"
+    ],
+    [
+      "W",
       "R",
-      "E",
-      null
-    ],
-    [
-      "K",
-      "E",
-      "E",
-      "N",
       null,
-      "T",
-      null
+      "E",
+      "Y",
+      "E",
+      "D"
     ],
     [
+      "L",
+      "O",
+      "O",
+      "S",
+      "E",
+      null,
+      "E"
+    ],
+    [
+      "Y",
       "S",
       null,
-      null,
-      "T",
-      null,
-      null,
+      "S",
+      "A",
+      "Y",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        5
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        3,
+        0,
         3
       ],
       [
+        0,
+        1
+      ],
+      [
         5,
+        3
+      ],
+      [
+        4,
         3
       ],
       [
         2,
-        4
+        6
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        1
       ],
       [
         1,
         6
+      ],
+      [
+        4,
+        1
       ]
     ],
     "medium": [
       [
-        4,
-        5
+        0,
+        3
       ],
       [
-        3,
-        5
+        0,
+        1
       ],
       [
         5,
-        2
+        3
       ],
       [
-        3,
+        4,
         3
+      ],
+      [
+        2,
+        6
       ]
     ],
     "hard": [
       [
-        4,
-        5
+        0,
+        3
       ],
       [
-        3,
-        5
+        0,
+        1
+      ],
+      [
+        5,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 3,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A change to the text of a document.",
-          "zh": "编辑"
+          "en": "A lower section of a road or geological feature.",
+          "zh": "蘸"
         }
       },
       {
-        "num": 6,
-        "row": 2,
-        "col": 1,
+        "num": 7,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "A skin condition, usually of the face, that is common in adolescents. It is characterised by red pimples, and is caused by the inflammation of sebaceous glands through bacterial infection.",
-          "zh": "粉刺"
+          "en": "Various sounds, usually unwanted or unpleasant.",
+          "zh": "噪音"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "(usually capitalized) The garden where Plato taught.",
-          "zh": "学院"
+          "en": "A smaller amount or quantity.",
+          "zh": "更少的"
         }
       },
       {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A going; journey; travel; voyage; course; passage.",
-          "zh": "票价"
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
         }
       },
       {
-        "num": 11,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To make cold, to sharpen.",
-          "zh": "敏锐的"
+          "en": "The release of an arrow.",
+          "zh": "松动的"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A chance to speak; the right or power to influence or make a decision.",
+          "zh": "说"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A supporting post attached to the main rafter.",
-          "zh": "吊坠"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 2,
         "clue": {
-          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
-          "zh": "停留"
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
         }
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 1,
+        "row": 0,
+        "col": 3,
         "clue": {
-          "en": "A waterproof long coat made of rubberized cloth.",
-          "zh": "防水外套"
+          "en": "To have; to have ownership of.",
+          "zh": "具有"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To one side; out of the way.",
+          "zh": "放在一边"
         }
       },
       {
         "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Otherwise; else.",
+          "zh": "旁"
+        }
+      },
+      {
+        "num": 6,
         "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A ruminant mammal with antlers and hooves of the family Cervidae, or one of several similar animals from related families of the order Artiodactyla",
-          "zh": "鹿"
-        }
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "A convenience store, originally one that sold coffee and similar basic items.",
-          "zh": "咖啡店"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
         "col": 0,
         "clue": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "请求（信息或问题的答案）。"
+          "en": "(manner) At a slow pace.",
+          "zh": "慢慢地"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 5,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "Person living or originating from Europe",
+          "zh": "居住在欧洲或来自欧洲的人"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
         }
       }
     ]

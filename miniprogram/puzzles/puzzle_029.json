@@ -6,152 +6,152 @@
   "solution": [
     [
       null,
+      "G",
       null,
+      null,
+      null,
+      "C",
+      null,
+      null,
+      "C"
+    ],
+    [
       "F",
-      "A",
-      "N",
-      null,
-      null,
-      null,
-      "T"
-    ],
-    [
-      "P",
-      "A",
       "L",
+      "A",
+      "T",
       null,
       "E",
-      "A",
-      "G",
-      "L",
-      "E"
+      "C",
+      "H",
+      "O"
     ],
     [
-      null,
-      "N",
-      "Y",
-      "L",
-      "O",
-      "N",
-      null,
+      "R",
       "E",
+      null,
+      "R",
+      "A",
+      "R",
+      "E",
+      null,
       "N"
     ],
     [
-      "I",
-      "T",
-      null,
-      "I",
-      "N",
-      "S",
-      null,
-      "A",
-      "A"
-    ],
-    [
-      "N",
       "E",
-      "X",
+      "N",
       "T",
-      null,
-      "W",
-      "O",
+      "E",
       "R",
-      "N"
-    ],
-    [
-      "V",
-      "N",
-      null,
-      "T",
       "E",
-      "E",
-      null,
-      "N",
-      "T"
-    ],
-    [
-      "I",
-      "N",
-      null,
-      "L",
-      "A",
-      "R",
-      "G",
-      "E",
-      null
-    ],
-    [
-      "T",
-      "A",
-      "X",
-      "E",
-      "S",
-      null,
-      "I",
       "D",
+      null,
+      "F"
+    ],
+    [
+      "Q",
+      null,
+      "H",
+      "A",
+      null,
+      "M",
+      "A",
+      null,
+      "U"
+    ],
+    [
+      "U",
+      null,
+      "E",
+      "S",
+      "C",
+      "O",
+      "R",
+      "T",
       "S"
     ],
     [
       "E",
       null,
+      "T",
+      "U",
+      "R",
+      "N",
+      null,
+      "E",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "A",
+      "R",
+      null,
+      "Y",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "T",
       null,
       null,
       "E",
-      "G",
-      "G",
       null,
+      null,
+      null,
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        8
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        2,
-        3
+        4,
+        5
       ],
       [
         1,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
         0
       ],
       [
-        4,
-        0
-      ],
-      [
-        4,
-        7
+        5,
+        6
       ],
       [
         2,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
         4
       ],
       [
@@ -159,179 +159,135 @@
         2
       ],
       [
-        7,
-        8
-      ],
-      [
-        2,
-        2
+        4,
+        6
       ]
     ],
     "medium": [
       [
-        2,
-        8
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        0,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        2,
-        3
+        4,
+        5
       ],
       [
         1,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
         0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        8
       ]
     ],
     "hard": [
       [
-        2,
-        8
+        4,
+        5
+      ],
+      [
+        1,
+        6
       ],
       [
         3,
         1
       ],
       [
-        6,
-        3
-      ],
-      [
-        0,
-        3
+        5,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
-          "zh": "扇子"
-        }
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
-          "zh": "朋友"
+          "en": "An area of level ground.",
+          "zh": "平坦的"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "Any of several large carnivorous and carrion-eating birds in the family Accipitridae, having a powerful hooked bill and keen vision.",
-          "zh": "鹰"
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
         }
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
-          "zh": "尼龙"
+          "en": "A scarce or uncommon item.",
+          "zh": "稀有的"
         }
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
+          "en": "To go or come into an enclosed or partially enclosed space.",
+          "zh": "进入"
         }
       },
       {
         "num": 15,
-        "row": 4,
-        "col": 0,
+        "row": 5,
+        "col": 2,
         "clue": {
-          "en": "The one that follows after this one.",
-          "zh": "下一个"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "To carry or have equipped on or about one's body, as an item of clothing, equipment, decoration, etc.",
-          "zh": "磨损的"
+          "en": "A group of people or vehicles, generally armed, who go with a person or people of importance to safeguard them on a journey or mission.",
+          "zh": "护送"
         }
       },
       {
         "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
-          "zh": "球座"
-        }
-      },
-      {
-        "num": 22,
         "row": 6,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "Of considerable or relatively great size, extent, or capacity.",
-          "zh": "大的"
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
         }
       },
       {
-        "num": 24,
+        "num": 20,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Money paid to the government other than for transaction-specific goods and services.",
-          "zh": "税收"
+          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+          "zh": "靠近"
         }
       },
       {
-        "num": 25,
+        "num": 21,
         "row": 7,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+          "zh": "院子"
         }
       }
     ],
@@ -339,19 +295,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
-          "zh": "飞"
+          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
+          "zh": "峡谷"
         }
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "The chemical element (symbol Ne) with an atomic number of 10. The lightest of the noble gases, it is a colourless, odorless inert gas.",
-          "zh": "氖"
+          "en": "A ritual, with religious or cultural significance.",
+          "zh": "仪式"
         }
       },
       {
@@ -359,71 +315,53 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "One who pays a fee (rent) in return for the use of land, buildings, or other property owned by others.",
-          "zh": "租户"
+          "en": "To puzzle, perplex, baffle, bewilder (somebody).",
+          "zh": "使困惑"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Done or occurring often; common.",
+          "zh": "经常"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A feeler organ on the head of an insect, crab, or other animal.",
-          "zh": "天线"
+          "en": "A collection of valuable things; accumulated wealth; a stock of money, jewels, etc.",
+          "zh": "宝藏"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A response or reply; something said or done in reaction to a statement or question.",
-          "zh": "回答"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "A small amount.",
-          "zh": "小的"
+          "en": "A coniferous tree of the genus Cedrus in the family Pinaceae.",
+          "zh": "雪松"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "To ask for the presence or participation of someone or something.",
-          "zh": "邀请"
+          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
+          "zh": "希腊字母θ"
         }
       },
       {
-        "num": 19,
+        "num": 17,
         "row": 5,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
-          "zh": "演出"
+          "en": "A word or phrase used to describe a thing or express a concept; a fixed period of time.",
+          "zh": "学期"
         }
       }
     ]

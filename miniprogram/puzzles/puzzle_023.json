@@ -6,97 +6,97 @@
   "solution": [
     [
       null,
-      "J",
+      "Y",
       null,
       null,
       null,
-      "A",
-      null,
-      null,
-      "I"
-    ],
-    [
-      "H",
-      "O",
-      "O",
       "D",
       null,
-      "P",
-      "I",
-      "C",
-      "S"
+      null,
+      "B"
     ],
     [
-      "A",
+      "W",
+      "O",
+      "R",
       "K",
       null,
-      "O",
-      "O",
-      "P",
-      "S",
-      null,
-      "O"
-    ],
-    [
-      "R",
-      "E",
-      "A",
-      "C",
-      "H",
-      "E",
-      "S",
-      null,
-      "L"
-    ],
-    [
+      "I",
       "D",
-      null,
-      "W",
-      "U",
-      null,
-      "T",
-      "U",
-      null,
+      "E",
       "A"
     ],
     [
-      "W",
-      null,
-      "A",
-      "M",
-      "B",
       "I",
-      "E",
+      "G",
+      null,
       "N",
-      "T"
+      "O",
+      "S",
+      "E",
+      null,
+      "S"
     ],
     [
-      "O",
-      null,
       "R",
-      "E",
-      "N",
-      "T",
+      "A",
+      "D",
+      "I",
+      "C",
+      "A",
+      "L",
       null,
-      "E",
       "E"
     ],
     [
-      "O",
-      "V",
       "E",
+      null,
+      "I",
+      "T",
+      null,
+      "G",
+      "T",
+      null,
+      "M"
+    ],
+    [
+      "L",
+      null,
+      "S",
+      "T",
+      "O",
+      "R",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "C",
+      "I",
+      "T",
+      "E",
+      null,
+      "R",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "O",
       "N",
       null,
       "E",
-      "Y",
-      "E",
-      "D"
+      "D",
+      "I",
+      "T"
     ],
     [
-      "D",
+      "S",
       null,
       null,
-      "T",
+      "G",
       null,
       null,
       null,
@@ -107,112 +107,112 @@
   "prefilled": {
     "easy": [
       [
+        6,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
         7,
-        0
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        2,
+        8
       ],
       [
         1,
         1
       ],
       [
-        7,
-        5
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        6,
-        3
+        2,
+        6
       ],
       [
         2,
         5
       ],
       [
-        2,
-        1
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        3,
+        0,
         8
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        4
       ],
       [
         3,
         6
       ],
       [
-        8,
-        7
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        6,
-        2
+        1,
+        5
       ]
     ],
     "medium": [
       [
+        6,
+        8
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
         7,
-        0
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        2,
+        8
       ],
       [
         1,
         1
       ],
       [
-        7,
-        5
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        6,
-        3
-      ],
-      [
         2,
-        5
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        5,
-        4
+        6
       ]
     ],
     "hard": [
       [
-        7,
-        0
+        6,
+        8
       ],
       [
-        1,
-        1
+        4,
+        2
+      ],
+      [
+        5,
+        7
       ],
       [
         7,
         5
-      ],
-      [
-        5,
-        0
       ]
     ]
   },
@@ -223,8 +223,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A covering for the head attached to a larger garment such as a jacket or cloak.",
-          "zh": "兜帽"
+          "en": "(heading) Employment.",
+          "zh": "工作"
         }
       },
       {
@@ -232,8 +232,8 @@
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片，尤其是摄影图像。"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         }
       },
       {
@@ -241,8 +241,8 @@
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "A minor mistake or unforseen difficulty.",
-          "zh": "哎呀"
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
         }
       },
       {
@@ -250,8 +250,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The act of stretching or extending; extension.",
-          "zh": "达到"
+          "en": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+          "zh": "激进的"
         }
       },
       {
@@ -259,8 +259,8 @@
         "row": 5,
         "col": 2,
         "clue": {
-          "en": "Something that surrounds; encompassing material, substance or shape.",
-          "zh": "周围的"
+          "en": "The act of storing goods; the state of being stored.",
+          "zh": "贮存"
         }
       },
       {
@@ -268,8 +268,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A payment made by a tenant at intervals in order to occupy a property.",
-          "zh": "租"
+          "en": "To quote; to repeat, as a passage from a book, or the words of another.",
+          "zh": "引用"
         }
       },
       {
@@ -277,8 +277,8 @@
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "烤箱"
+          "en": "Short in length of time from the present.",
+          "zh": "很快"
         }
       },
       {
@@ -286,8 +286,8 @@
         "row": 7,
         "col": 5,
         "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
         }
       }
     ],
@@ -297,8 +297,8 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "An amusing story.",
-          "zh": "开玩笑"
+          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
+          "zh": "瑜伽"
         }
       },
       {
@@ -306,8 +306,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "Desire to eat food or consume drink.",
-          "zh": "食欲"
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
         }
       },
       {
@@ -315,8 +315,8 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "To set apart or cut off from others.",
-          "zh": "孤立"
+          "en": "A floor of a building below ground level.",
+          "zh": "地下室"
         }
       },
       {
@@ -324,8 +324,8 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(mostly in botany and forestry) The wood from any dicotyledonous tree, without regard to its hardness.",
-          "zh": "硬木"
+          "en": "The medium of radio communication.",
+          "zh": "无线的"
         }
       },
       {
@@ -333,8 +333,8 @@
         "row": 1,
         "col": 3,
         "clue": {
-          "en": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
-          "zh": "文档"
+          "en": "To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.",
+          "zh": "针织"
         }
       },
       {
@@ -342,8 +342,8 @@
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "An important topic or problem for debate or discussion.",
-          "zh": "问题"
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
         }
       },
       {
@@ -351,8 +351,8 @@
         "row": 3,
         "col": 2,
         "clue": {
-          "en": "Vigilant or on one's guard against danger or difficulty.",
-          "zh": "意识到的"
+          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
+          "zh": "迪斯科"
         }
       },
       {
@@ -360,8 +360,8 @@
         "row": 5,
         "col": 7,
         "clue": {
-          "en": "To require something because it is essential or very important.",
-          "zh": "需要"
+          "en": "A rectangular array of squares or rectangles of equal size, such as in a crossword puzzle.",
+          "zh": "网格"
         }
       }
     ]

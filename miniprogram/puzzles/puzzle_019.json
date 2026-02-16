@@ -5,251 +5,264 @@
   "cols": 7,
   "solution": [
     [
+      null,
+      "M",
+      "O",
+      "N",
+      null,
       "S",
+      "R"
+    ],
+    [
+      "T",
       null,
+      "P",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "T",
       null,
-      "G",
+      "A",
+      "F"
+    ],
+    [
+      "E",
+      "P",
       null,
+      "U",
       null,
+      "R",
+      "U"
+    ],
+    [
+      "N",
+      "A",
+      null,
+      "R",
+      "A",
+      "T",
       "S"
     ],
     [
       "T",
       "R",
+      "E",
       "A",
-      "N",
-      "S",
-      "I",
-      "T"
-    ],
-    [
-      "Y",
-      null,
-      "N",
-      "U",
       "T",
-      null,
-      "U"
-    ],
-    [
-      "L",
-      "E",
-      "G",
-      null,
-      "O",
-      "L",
-      "D"
-    ],
-    [
-      "I",
-      null,
-      "E",
-      "A",
-      "R",
       null,
       "E"
     ],
     [
-      "S",
-      "U",
-      "R",
-      "G",
+      "Y",
+      "T",
+      null,
+      "L",
       "E",
-      "O",
-      "N"
-    ],
-    [
-      "H",
-      null,
-      null,
-      "O",
-      null,
-      null,
-      "T"
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        3
-      ],
-      [
         5,
-        3
+        6
       ],
       [
-        5,
-        5
-      ],
-      [
-        4,
-        3
+        0,
+        2
       ],
       [
         2,
-        4
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        5,
         1
       ],
       [
-        5,
+        1,
+        4
+      ],
+      [
+        6,
         0
       ],
       [
-        1,
+        6,
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        0,
         6
       ]
     ],
     "medium": [
       [
-        1,
-        3
-      ],
-      [
         5,
-        3
+        6
       ],
       [
-        5,
-        5
-      ],
-      [
-        4,
-        3
+        0,
+        2
       ],
       [
         2,
+        1
+      ],
+      [
+        1,
         4
+      ],
+      [
+        6,
+        0
       ]
     ],
     "hard": [
       [
-        1,
-        3
+        5,
+        6
       ],
       [
-        5,
-        3
+        0,
+        2
+      ],
+      [
+        2,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "The act of passing over, across, or through something.",
-          "zh": "过境"
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "A soft moist mixture, in particular:",
+          "zh": "粘贴"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
+          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
+          "zh": "瓦"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
-        }
-      },
-      {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "A medium-sized rodent belonging to the genus Rattus.",
+          "zh": "老鼠"
         }
       },
       {
-        "num": 12,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "One who performs surgery; a doctor who performs operations on people or animals.",
-          "zh": "外科医生"
+          "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
+          "zh": "对待"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "Having elegance or taste or refinement in manners or dress.",
-          "zh": "时髦的"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "To choose; select.",
+          "zh": "选择"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "A person who studies or learns about a particular subject.",
-          "zh": "学生"
+          "en": "A native inhabitant of a place, country etc.",
+          "zh": "自然的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The beginning of an activity.",
+          "zh": "开始"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
-          "zh": "愤怒"
+          "en": "Collectively, items or material that have been discarded; rubbish, garbage.",
+          "zh": "拒绝"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "A retail establishment selling items to the public.",
-          "zh": "店铺"
+          "en": "A banknote with a denomination of 20.",
+          "zh": "二十"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ]

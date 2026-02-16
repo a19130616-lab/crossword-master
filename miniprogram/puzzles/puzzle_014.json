@@ -6,149 +6,153 @@
   "solution": [
     [
       null,
+      "B",
       null,
-      "P",
-      "A",
-      "Y",
       null,
-      "B"
-    ],
-    [
       "G",
-      "R",
-      "O",
-      "C",
-      "E",
-      "R",
+      "U",
       "Y"
     ],
     [
-      null,
-      "A",
-      "P",
-      null,
-      "N",
+      "R",
+      "E",
+      "Q",
       "U",
-      "T"
-    ],
-    [
-      "H",
-      "N",
-      null,
-      null,
-      null,
+      "I",
       "R",
       "E"
     ],
     [
-      "A",
+      "E",
+      "T",
+      null,
+      "N",
+      "F",
+      null,
+      "L"
+    ],
+    [
       "C",
+      "A",
+      "P",
+      "I",
       "T",
-      null,
       "A",
-      "A",
-      null
+      "L"
     ],
     [
-      "S",
-      "H",
-      "U",
+      "O",
+      null,
+      "A",
+      "O",
+      null,
       "T",
-      "T",
-      "L",
-      "E"
+      "O"
     ],
     [
-      "H",
-      null,
+      "R",
+      "A",
+      "I",
+      "N",
       "B",
-      "E",
-      "E",
+      "O",
+      "W"
+    ],
+    [
+      "D",
+      "O",
+      "N",
       null,
+      null,
+      "M",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        2
-      ],
-      [
         5,
-        0
+        6
       ],
       [
-        3,
-        0
+        2,
+        4
+      ],
+      [
+        0,
+        1
       ],
       [
         3,
         5
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        6,
-        2
       ],
       [
         4,
-        0
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        3
       ]
     ],
     "medium": [
       [
-        1,
-        2
-      ],
-      [
         5,
-        0
+        6
       ],
       [
-        3,
-        0
+        2,
+        4
+      ],
+      [
+        0,
+        1
       ],
       [
         3,
         5
       ],
       [
-        1,
+        4,
         5
       ]
     ],
     "hard": [
       [
-        1,
-        2
+        5,
+        6
       ],
       [
-        5,
-        0
+        2,
+        4
+      ],
+      [
+        0,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "To give someone money owed for work done, goods received, or a debt incurred.",
-          "zh": "支付"
+          "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
+          "zh": "家伙"
         }
       },
       {
@@ -156,44 +160,35 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(usually groceries) retail foodstuffs and other household supplies.",
-          "zh": "杂货店"
+          "en": "To ask (someone) for something; to request.",
+          "zh": "要求"
         }
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
-        }
-      },
-      {
-        "num": 12,
-        "row": 4,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Something done, a deed.",
-          "zh": "行为"
+          "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+          "zh": "首都"
         }
       },
       {
-        "num": 15,
+        "num": 14,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "The part of a loom that carries the woof back and forth between the warp threads.",
-          "zh": "穿梭"
+          "en": "A multicoloured arch in the sky, produced by prismatic refraction of light within droplets of rain in the air.",
+          "zh": "彩虹"
         }
       },
       {
-        "num": 17,
+        "num": 16,
         "row": 6,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-          "zh": "蜜蜂"
+          "en": "A university professor, particularly one at Oxford or Cambridge.",
+          "zh": "大学教师"
         }
       }
     ],
@@ -201,19 +196,19 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
-          "zh": "流行音乐"
+          "en": "The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
+          "zh": "测试版"
         }
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
+          "en": "Something given to another voluntarily, without charge.",
+          "zh": "礼物"
         }
       },
       {
@@ -221,53 +216,44 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
-          "zh": "字节"
+          "en": "The colour of gold, butter, or a lemon; the colour obtained by mixing green and red light, or by subtracting blue from white light.",
+          "zh": "黄色的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A thing constituting a piece of evidence about the past; also, a thin vinyl disc carrying recorded sound.",
+          "zh": "记录"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A large plot of land used for raising cattle, sheep or other livestock.",
-          "zh": "牧场"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A person from the countryside; a rustic.",
-          "zh": "乡村的"
+          "en": "The act of uniting or joining two or more things into one.",
+          "zh": "联盟"
         }
       },
       {
         "num": 10,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Food, especially meat and potatoes, chopped and mixed together.",
-          "zh": "散列"
-        }
-      },
-      {
-        "num": 13,
-        "row": 4,
         "col": 2,
         "clue": {
-          "en": "A flat-bottomed vessel, of width similar to or greater than its height, used for storing or packing things, or for washing things in.",
-          "zh": "浴缸"
+          "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
+          "zh": "疼痛"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 4,
+        "num": 11,
+        "row": 3,
+        "col": 5,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
         }
       }
     ]

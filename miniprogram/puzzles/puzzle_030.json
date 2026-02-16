@@ -6,121 +6,129 @@
   "solution": [
     [
       null,
-      "G",
       null,
-      "S",
-      "E",
-      "N",
+      "U",
       null,
       null,
-      "D"
-    ],
-    [
-      "B",
-      "R",
-      "A",
-      "N",
-      "D",
+      "W",
       null,
-      "P",
-      "H",
-      "I"
-    ],
-    [
-      null,
-      "O",
-      "M",
-      null,
-      "G",
-      "E",
-      "O",
       null,
       "S"
     ],
     [
-      "T",
-      "W",
-      "O",
-      null,
-      "E",
-      "A",
-      "R",
-      "T",
-      "H"
-    ],
-    [
-      "E",
-      null,
-      "N",
+      "G",
+      "I",
       "S",
       null,
+      "F",
+      "A",
+      "N",
+      "C",
+      "Y"
+    ],
+    [
+      null,
+      "M",
+      "E",
       "R",
+      "I",
       "T",
       null,
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      null,
+      "E",
+      "X",
+      "T",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "S",
+      "T",
+      null,
+      "A",
+      "C",
       "E"
     ],
     [
-      "M",
-      "A",
-      "G",
-      "I",
       "C",
+      "O",
+      "R",
+      "P",
+      "U",
+      "S",
       null,
-      "I",
-      "D",
-      "S"
+      "E",
+      "M"
     ],
     [
-      "P",
+      "E",
+      "V",
       null,
-      "S",
-      "P",
-      "A",
-      null,
+      "E",
+      "R",
+      "R",
       "O",
       "R",
       null
     ],
     [
-      "L",
-      "O",
-      "T",
-      null,
-      "F",
-      "I",
-      "N",
+      "P",
+      "E",
       "A",
-      "L"
+      "C",
+      "E",
+      null,
+      "A",
+      "N",
+      "T"
     ],
     [
-      "E",
-      null,
-      null,
-      "M",
-      "E",
       "T",
       null,
-      "W",
+      null,
+      "T",
+      null,
+      null,
+      "K",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        6
+        0,
+        2
       ],
       [
-        4,
-        6
+        3,
+        1
       ],
       [
-        7,
+        1,
         4
       ],
       [
-        7,
-        1
+        5,
+        7
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        2
       ],
       [
         2,
@@ -128,39 +136,31 @@
       ],
       [
         7,
-        7
-      ],
-      [
-        5,
         3
       ],
       [
-        8,
-        5
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        8
       ],
       [
         6,
-        6
-      ],
-      [
-        3,
         7
       ],
       [
-        1,
-        0
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        1,
-        6
-      ],
-      [
         3,
-        6
+        8
+      ],
+      [
+        2,
+        5
       ],
       [
         3,
@@ -169,20 +169,28 @@
     ],
     "medium": [
       [
-        7,
-        6
+        0,
+        2
       ],
       [
-        4,
-        6
+        3,
+        1
       ],
       [
-        7,
+        1,
         4
       ],
       [
-        7,
-        1
+        5,
+        7
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        2
       ],
       [
         2,
@@ -190,148 +198,122 @@
       ],
       [
         7,
-        7
-      ],
-      [
-        5,
         3
       ],
       [
-        8,
-        5
-      ],
-      [
-        6,
-        6
+        5,
+        1
       ]
     ],
     "hard": [
       [
-        7,
-        6
+        0,
+        2
       ],
       [
-        4,
-        6
+        3,
+        1
       ],
       [
-        7,
+        1,
         4
       ],
       [
-        7,
-        1
+        5,
+        7
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
-          "zh": "森"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A conflagration; a flame.",
-          "zh": "品牌"
+          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
+          "zh": "地理信息系统"
         }
       },
       {
-        "num": 7,
+        "num": 6,
         "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
-          "zh": "菲"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
         "col": 4,
         "clue": {
-          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
-          "zh": "地理"
+          "en": "The imagination.",
+          "zh": "想要"
         }
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 0,
+        "num": 8,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
+          "en": "A claim to commendation or a reward.",
+          "zh": "优点"
         }
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "The third planet of the Solar System; the world upon which humans live.",
-          "zh": "地球"
+          "en": "A range of values or locations.",
+          "zh": "程度"
+        }
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The summit of a hill or mountain ridge.",
+          "zh": "波峰"
         }
       },
       {
         "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
-          "zh": "魔法"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
+        "row": 4,
         "col": 6,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
         }
       },
       {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
-        }
-      },
-      {
-        "num": 22,
-        "row": 7,
+        "num": 17,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A large quantity or number; a great deal.",
-          "zh": "很多"
+          "en": "A collection of writings, often on a specific topic, of a specific genre, from a specific demographic or a particular author, etc.",
+          "zh": "语料库"
+        }
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The state, quality, or condition of being wrong.",
+          "zh": "错误"
         }
       },
       {
         "num": 23,
         "row": 7,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "Coming at the end of a series; the last game in a sports tournament.",
-          "zh": "最终的"
+          "en": "A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.",
+          "zh": "和平"
         }
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 24,
+        "row": 7,
+        "col": 6,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         }
       }
     ],
@@ -339,55 +321,64 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "To become larger, to increase in magnitude.",
-          "zh": "生长"
+          "en": "The act of using.",
+          "zh": "使用"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "In the International System of Units, the derived unit of power; the power of a system in which one joule of energy is transferred per second. Symbol: W",
+          "zh": "瓦"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
         }
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
-          "zh": "菜肴"
+          "en": "To make (something) better; to increase the value or productivity (of something).",
+          "zh": "提升"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
-          "zh": "其中"
+          "en": "Something that is fixed in place, especially a permanent appliance or other item of personal property that is considered part of a house and is sold with it; compare fitting, furnishing.",
+          "zh": "夹具"
         }
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "An allocated amount.",
-          "zh": "部分"
+          "en": "That which affects one’s welfare or happiness. A matter of interest to someone. The adposition before the matter of interest is usually over, about or for.",
+          "zh": "忧虑"
         }
       },
       {
-        "num": 10,
+        "num": 9,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "An attitude of consideration or high regard",
+          "zh": "尊重"
         }
       },
       {
@@ -395,35 +386,17 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A house of worship, especially:",
-          "zh": "寺庙"
+          "en": "To receive, especially with a consent, with favour, or with approval.",
+          "zh": "接受"
         }
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
+        "num": 22,
+        "row": 6,
+        "col": 6,
         "clue": {
-          "en": "To drink slowly, taking small mouthfuls.",
-          "zh": "小口喝"
-        }
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "A convenience store, originally one that sold coffee and similar basic items.",
-          "zh": "咖啡店"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "The result of a contest that neither side has won; a tie.",
-          "zh": "画"
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         }
       }
     ]

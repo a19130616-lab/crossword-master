@@ -5,126 +5,138 @@
   "cols": 7,
   "solution": [
     [
+      "P",
       null,
-      null,
-      null,
-      "O",
-      null,
-      null,
-      "E"
-    ],
-    [
       null,
       "G",
       null,
-      "U",
-      "S",
-      "E",
+      null,
       "D"
     ],
     [
-      null,
-      "A",
-      "L",
-      "T",
-      "O",
-      null,
-      "G"
-    ],
-    [
+      "R",
       "E",
-      "P",
-      "I",
       "S",
-      "O",
-      "D",
+      "E",
+      "R",
+      "V",
       "E"
     ],
     [
-      "A",
-      null,
-      "N",
-      "I",
-      "N",
       "E",
-      null
+      null,
+      "T",
+      "O",
+      "E",
+      null,
+      "F"
     ],
     [
       "S",
-      "H",
       "E",
-      "D",
+      "E",
       null,
+      "F",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "N"
+    ],
+    [
       "N",
-      null
+      "U",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C"
     ],
     [
       "T",
       null,
       null,
-      "E",
+      "A",
       null,
       null,
-      null
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        0
+        0,
+        6
       ],
       [
         3,
-        5
+        6
       ],
       [
         2,
-        1
-      ],
-      [
-        3,
         0
       ],
       [
-        4,
-        5
+        1,
+        4
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        0
       ],
       [
         5,
         1
       ],
       [
-        2,
-        4
+        1,
+        2
       ]
     ],
     "medium": [
       [
-        4,
-        0
+        0,
+        6
       ],
       [
         3,
-        5
+        6
       ],
       [
         2,
-        1
+        0
       ],
       [
-        3,
-        0
+        1,
+        4
+      ],
+      [
+        1,
+        6
       ]
     ],
     "hard": [
       [
-        4,
-        0
+        0,
+        6
       ],
       [
         3,
-        5
+        6
       ]
     ]
   },
@@ -133,84 +145,10 @@
       {
         "num": 4,
         "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
-        }
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.",
-          "zh": "中音"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
         "col": 0,
         "clue": {
-          "en": "An incident, action, or time period standing out by itself, but more or less connected with a complete series of events.",
-          "zh": "插曲"
-        }
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The digit or figure 9.",
-          "zh": "九"
-        }
-      },
-      {
-        "num": 11,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "To part, separate or divide.",
-          "zh": "棚"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "The part of something that faces out; the outer surface.",
-          "zh": "外部"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "The boundary line of a surface.",
-          "zh": "边缘"
-        }
-      },
-      {
-        "num": 3,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Short in length of time from the present.",
-          "zh": "很快"
+          "en": "(behaviour) Restriction.",
+          "zh": "预订"
         }
       },
       {
@@ -218,8 +156,8 @@
         "row": 2,
         "col": 2,
         "clue": {
-          "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
-          "zh": "线"
+          "en": "Each of the five digits on the end of the foot.",
+          "zh": "脚趾"
         }
       },
       {
@@ -227,17 +165,91 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
-          "zh": "东方"
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         }
       },
       {
         "num": 9,
         "row": 3,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
-          "zh": "书房"
+          "en": "A sum of money charged for a service or privilege.",
+          "zh": "费用"
+        }
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        }
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Any number, proper or improper fraction, or incommensurable ratio.",
+          "zh": "数字"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The current moment or period of time.",
+          "zh": "展示"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The action of defending, of protecting from attack, danger or injury.",
+          "zh": "防御"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The vapor formed when water changes from liquid phase to gas phase.",
+          "zh": "蒸汽"
+        }
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To direct the attention of.",
+          "zh": "参考"
+        }
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
         }
       }
     ]

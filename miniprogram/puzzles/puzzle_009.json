@@ -6,81 +6,73 @@
   "solution": [
     [
       null,
+      "T",
       "O",
-      "D",
-      "D",
-      "S"
+      "Y",
+      null
     ],
     [
-      "O",
+      "B",
+      "I",
+      null,
+      "I",
+      "M"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      null,
+      "L",
+      "T"
+    ],
+    [
       null,
       "R",
-      "A",
-      "W"
-    ],
-    [
+      "O",
       "D",
-      "R",
-      "A",
-      "M",
-      "A"
-    ],
-    [
-      "D",
-      "A",
-      "M",
-      null,
-      "P"
-    ],
-    [
-      "S",
-      "W",
-      "A",
-      "P",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        0
-      ],
-      [
-        0,
-        4
-      ],
-      [
         1,
-        3
-      ],
-      [
-        4,
         1
       ],
       [
-        1,
+        2,
         2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        0,
+        1
       ]
     ],
     "medium": [
       [
-        4,
-        0
-      ],
-      [
-        0,
-        4
-      ],
-      [
         1,
-        3
+        1
+      ],
+      [
+        2,
+        2
       ]
     ],
     "hard": [
       [
-        4,
-        0
+        1,
+        1
       ]
     ]
   },
@@ -91,91 +83,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
         }
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
-          "zh": "生的"
-        }
-      },
-      {
-        "num": 7,
         "row": 2,
         "col": 0,
         "clue": {
-          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
-          "zh": "戏剧"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         }
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
-          "zh": "坝"
-        }
-      },
-      {
-        "num": 10,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "To exchange or give (something) in an exchange (for something else).",
-          "zh": "交换"
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
         }
       }
     ],
     "down": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
+          "zh": "老虎"
+        }
+      },
+      {
         "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
-          "zh": "戏剧"
+          "en": "To pay, give in payment; repay, recompense; reward; requite.",
+          "zh": "屈服"
         }
       },
       {
         "num": 3,
-        "row": 0,
-        "col": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A structure placed across a flowing body of water to stop the flow or part of the flow, generally for purposes such as retaining or diverting some of the water or retarding the release of accumulated water to avoid abrupt flooding.",
-          "zh": "坝"
-        }
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "To exchange or give (something) in an exchange (for something else).",
-          "zh": "交换"
+          "en": "Of poor quality or a low standard; not good.",
+          "zh": "坏的"
         }
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "(diminutive) An odd number.",
-          "zh": "（小数）奇数。"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
-          "zh": "生的"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         }
       }
     ]

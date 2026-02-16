@@ -5,251 +5,264 @@
   "cols": 7,
   "solution": [
     [
-      "M",
       null,
-      null,
-      "A",
-      null,
-      null,
-      "T"
-    ],
-    [
-      "A",
-      "M",
-      "A",
       "T",
-      "E",
-      "U",
-      "R"
-    ],
-    [
+      "A",
       "N",
       null,
-      "R",
-      "E",
-      "V",
+      "F",
+      "A"
+    ],
+    [
+      "A",
       null,
+      "G",
+      "U",
+      "I",
+      "L",
+      "D"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      "R",
+      null,
+      "O",
+      "D"
+    ],
+    [
+      "G",
+      "C",
+      null,
+      "S",
+      null,
+      "U",
       "I"
     ],
     [
-      "D",
       "U",
-      "I",
-      null,
-      "E",
-      "G",
-      "G"
-    ],
-    [
-      "A",
-      null,
-      "S",
       "O",
-      "N",
+      null,
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
       null,
       "G"
     ],
     [
       "T",
-      "H",
+      "E",
+      null,
+      "Y",
       "E",
       "A",
-      "T",
-      "R",
-      "E"
-    ],
-    [
-      "E",
-      null,
-      null,
-      "K",
-      null,
-      null,
-      "R"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        4
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        2,
+        3,
         6
       ],
       [
+        4,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        2,
+        0
+      ],
+      [
         5,
         2
       ],
       [
         5,
-        5
-      ],
-      [
-        2,
-        3
+        1
       ]
     ],
     "medium": [
       [
-        5,
-        4
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        1,
-        4
+        3,
+        6
       ],
       [
         4,
-        4
+        1
+      ],
+      [
+        4,
+        5
       ],
       [
         1,
-        2
+        0
+      ],
+      [
+        5,
+        3
       ]
     ],
     "hard": [
       [
-        5,
-        4
+        3,
+        6
       ],
       [
-        2,
-        2
+        4,
+        1
+      ],
+      [
+        4,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A lover of something.",
-          "zh": "业余"
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
         }
       },
       {
         "num": 7,
-        "row": 2,
+        "row": 1,
         "col": 2,
         "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
+          "en": "A group or association mainly of tradespeople made up of merchants, craftspeople, or artisans for mutual aid, particularly in the Middle Ages.",
+          "zh": "公会"
         }
       },
       {
         "num": 8,
-        "row": 3,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "酒驾"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         }
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
-        }
-      },
-      {
-        "num": 10,
+        "num": 14,
         "row": 4,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "One's male offspring.",
-          "zh": "儿子"
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
         }
       },
       {
-        "num": 12,
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
-          "zh": "剧院"
+          "en": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+          "zh": "运动"
+        }
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
         }
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
-          "zh": "授权"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 3,
         "clue": {
-          "en": "A finger-operated lever used to fire a gun.",
-          "zh": "扳机"
+          "en": "A place where nursing or the raising of children is carried on.",
+          "zh": "苗圃"
+        }
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
+          "zh": "面粉"
         }
       },
       {
         "num": 5,
-        "row": 1,
-        "col": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "To come up from a lower to a higher position.",
-          "zh": "出现"
+          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "zh": "添加"
         }
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "An occurrence; something that happens.",
-          "zh": "事件"
+          "en": "Awe-inspiring, majestic, noble, venerable.",
+          "zh": "八月"
         }
       },
       {
-        "num": 11,
-        "row": 4,
-        "col": 3,
+        "num": 9,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
-          "zh": "橡树"
+          "en": "The breadth, depth or reach of a subject; a domain.",
+          "zh": "范围"
+        }
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
         }
       }
     ]
