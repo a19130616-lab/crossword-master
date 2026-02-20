@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_163",
+  "title": "Medium #3",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "I",
+      null,
+      null,
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "P",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      null,
+      "U",
+      "O",
+      null,
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "L",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      null,
+      "S",
+      "S",
+      null,
+      "R",
+      "C"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      null,
+      null,
+      "H",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "One who is capable of adapting to differing situations.",
+          "zh": "适配器"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Someone (implied male) who delivers mail to, and/or collects mail from, residential or commercial addresses, or from public mailboxes",
+          "zh": "邮递员"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The absence of any sound.",
+          "zh": "沉默"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A dazed or unconscious condition.",
+          "zh": "发呆"
+        },
+        "level": 7
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Something or someone that doesn't quite make it.",
+          "zh": "几乎"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A normally regular beat felt when arteries are depressed, caused by the pumping action of the heart.",
+          "zh": "脉冲"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "An inverted U shape.",
+          "zh": "拱"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

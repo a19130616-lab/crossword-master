@@ -1,0 +1,455 @@
+{
+  "id": "puzzle_141",
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "S",
+      null,
+      "A",
+      "R",
+      "M",
+      null,
+      null,
+      "S"
+    ],
+    [
+      "V",
+      "I",
+      "D",
+      "E",
+      "O",
+      null,
+      "S",
+      "I",
+      "P"
+    ],
+    [
+      null,
+      "G",
+      "I",
+      null,
+      "S",
+      "A",
+      "P",
+      null,
+      "O"
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      null,
+      "E",
+      "B",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "G",
+      null,
+      "P",
+      "L",
+      null,
+      "S",
+      "N",
+      null,
+      "E"
+    ],
+    [
+      "N",
+      "Y",
+      "L",
+      "O",
+      "N",
+      null,
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      null,
+      "A",
+      "G",
+      "O",
+      null,
+      "O",
+      "V",
+      null
+    ],
+    [
+      "R",
+      "A",
+      "Y",
+      null,
+      "T",
+      "I",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "S",
+      "E",
+      "E",
+      null,
+      "R",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        8
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Television, television show, movie.",
+          "zh": "视频"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.",
+          "zh": "树液"
+        },
+        "level": 7
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "(authorship) Electronic book, a book published in electronic form.",
+          "zh": "电子书"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
+        },
+        "level": 6
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To become sleepy or weary.",
+          "zh": "疲劳的"
+        }
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An object, quality, or event whose presence indicates the probable presence of something else.",
+          "zh": "符号"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A shrub of the genus Rosa, with red, pink, white or yellow flowers.",
+          "zh": "玫瑰"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To communicate with one's voice, to say words out loud.",
+          "zh": "说"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A show or spectacle.",
+          "zh": "展示"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A person or organisation with some sort of responsibility for another person or organisation, especially where the responsibility has a religious, legal, or financial aspect.",
+          "zh": "赞助"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To deliberately not listen or pay attention to.",
+          "zh": "忽略"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
+        },
+        "level": 5
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

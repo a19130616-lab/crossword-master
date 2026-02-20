@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_140",
+  "title": "Medium #10",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      "Y",
+      null,
+      null,
+      "D"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "E",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "E",
+      "A",
+      "R",
+      null,
+      "F"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      null,
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      null,
+      "U",
+      "P",
+      "S",
+      null,
+      "N"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.",
+          "zh": "疾病"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A mode of transportation, often a train, that travels quickly or directly.",
+          "zh": "表达"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "One who is capable of adapting to differing situations.",
+          "zh": "适配器"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The action of defending or protecting from attack, danger, or injury.",
+          "zh": "防御"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Equipment designed for a particular purpose; an apparatus.",
+          "zh": "设置"
+        },
+        "level": 7
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To come up from a lower to a higher position.",
+          "zh": "出现"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "puzzle_072",
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "I",
+      "C",
+      "E",
+      null,
+      "L",
+      "P"
+    ],
+    [
+      "S",
+      null,
+      "U",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "Y",
+      "P",
+      "E",
+      null,
+      "V",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      null,
+      "M",
+      null,
+      "E",
+      "F"
+    ],
+    [
+      "E",
+      "E",
+      null,
+      "I",
+      "S",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "E",
+      "P",
+      null,
+      "R"
+    ],
+    [
+      "S",
+      "D",
+      null,
+      "S",
+      "A",
+      "W",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Being lower; being beneath something.",
+          "zh": "在下面"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To rest in a state of reduced consciousness.",
+          "zh": "睡觉"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+          "zh": "锯"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
+          "zh": "杯子"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A position on a scale of amount, quantity, extent, or quality.",
+          "zh": "等级"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To be in the habit of choosing something rather than something else; to favor; to like better.",
+          "zh": "更喜欢"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(Cause of) discomfort.",
+          "zh": "压力"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To pay, give in payment; repay, recompense; reward; requite.",
+          "zh": "屈服"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
+}

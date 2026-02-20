@@ -1,77 +1,129 @@
 {
   "id": "puzzle_048",
-  "title": "Easy #3",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "J",
-      "E",
+      null,
+      null,
+      "Q",
+      null,
+      null,
+      "T"
+    ],
+    [
+      null,
       "T",
+      null,
+      "U",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      "O",
+      "R",
+      "A",
+      "L",
+      null,
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "L",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "I",
+      null,
+      "T",
+      "I",
+      "M",
+      "E",
       null
     ],
     [
-      "A",
-      "U",
-      null,
-      "I",
-      "Z"
-    ],
-    [
-      "R",
-      "I",
       "D",
-      "G",
-      "E"
-    ],
-    [
-      "C",
-      "C",
-      null,
+      "I",
       "E",
-      "N"
-    ],
-    [
+      "T",
       null,
-      "E",
       "A",
-      "R",
+      null
+    ],
+    [
+      "E",
+      null,
+      null,
+      "Y",
+      null,
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        3
-      ],
-      [
         4,
         2
       ],
       [
-        3,
-        4
+        1,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
       ],
       [
         2,
         1
+      ],
+      [
+        2,
+        3
       ]
     ],
     "medium": [
       [
-        0,
+        4,
+        2
+      ],
+      [
+        1,
         3
       ],
       [
         4,
-        2
+        0
+      ],
+      [
+        5,
+        3
       ]
     ],
     "hard": [
       [
-        0,
+        4,
+        2
+      ],
+      [
+        1,
         3
       ]
     ]
@@ -79,32 +131,52 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 3,
         "clue": {
-          "en": "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
-          "zh": "喷气式飞机"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
         },
         "level": 4
       },
       {
         "num": 6,
         "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "The back of any animal; especially the upper or projecting part of the back of a quadruped.",
-          "zh": "岭"
-        },
-        "level": 5
-      },
-      {
-        "num": 9,
-        "row": 4,
         "col": 1,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The state of being actual or real.",
+          "zh": "现实"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The inevitable progression into the future with the passing of present and past events.",
+          "zh": "时间"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The food and beverage a person or animal consumes.",
+          "zh": "饮食"
         },
         "level": 1
       }
@@ -113,46 +185,76 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 3,
         "clue": {
-          "en": "A liquid from a plant, especially fruit.",
-          "zh": "汁"
+          "en": "Level of excellence.",
+          "zh": "质量"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
-          "zh": "老虎"
+          "en": "A small, typically rectangular or round, flat, and rigid object upon which things are carried.",
+          "zh": "托盘"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 3,
         "row": 1,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
-          "zh": "弧"
+          "en": "Each of the five digits on the end of the foot.",
+          "zh": "脚趾"
         },
-        "level": 6
+        "level": 5
       },
       {
         "num": 5,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A denomination of Buddhism.",
-          "zh": "禅"
+          "en": "A type of cigarette substantially longer and thinner than normal cigarettes.",
+          "zh": "苗条的"
         },
-        "level": 6
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A measure, quantity, or frequency measured against some other quantity or measure.",
+          "zh": "速度"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An instance of riding.",
+          "zh": "骑"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "toefl"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "senior_high"
 }

@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_115",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "F",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "U",
+      "D",
+      "I",
+      "O",
+      null,
+      "C",
+      "U",
+      "P"
+    ],
+    [
+      null,
+      "J",
+      "A",
+      null,
+      "F",
+      "R",
+      "E",
+      "S",
+      "H"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      null,
+      "F",
+      "I",
+      null,
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      null,
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y",
+      null,
+      "R"
+    ],
+    [
+      "M",
+      "S",
+      null,
+      "U",
+      "N",
+      null,
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "T",
+      "S",
+      null,
+      "N",
+      "A",
+      null
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      null,
+      "E",
+      "A",
+      "G",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      null,
+      "A",
+      null,
+      null,
+      null,
+      null,
+      "K",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        7,
+        7
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A sound, or a sound signal",
+          "zh": "声音的"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
+          "zh": "杯子"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A rush of water, along a river or onto the land; a flood.",
+          "zh": "新鲜的"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The larger or thicker end of something; the blunt end, in distinction from the sharp or narrow end",
+          "zh": "屁股"
+        },
+        "level": 6
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Any of several large carnivorous and carrion-eating birds in the family Accipitridae, having a powerful hooked bill and keen vision.",
+          "zh": "鹰"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A plain spun silk fabric.",
+          "zh": "富士"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A regular three-dimensional object in which every cross-section is a circle; the figure described by the revolution of a circle about its diameter .",
+          "zh": "领域"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The act of offending:",
+          "zh": "罪行"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "An edge around something, especially when circular.",
+          "zh": "边缘"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A character or glyph representing an idea, concept or object.",
+          "zh": "象征"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A principle in Chinese and related East Asian philosophies associated with bright, hot, masculine, etc. elements of the natural world.",
+          "zh": "阳"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A star, especially when seen as the centre of any single solar system.",
+          "zh": "太阳"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To communicate, usually by means of speech.",
+          "zh": "讲话"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

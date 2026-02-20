@@ -1,310 +1,296 @@
 {
   "id": "puzzle_052",
-  "title": "Hard #1",
+  "title": "Hard #2",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      "V",
+      null,
+      "D",
       null,
       null,
-      null,
-      null,
-      "O",
-      null,
-      "S"
-    ],
-    [
-      "V",
-      "I",
-      "R",
-      "U",
       "S",
       null,
-      "L",
-      "I",
-      "T"
+      "C",
+      "B"
     ],
     [
-      null,
+      "S",
+      "P",
       "E",
-      "O",
+      "C",
       null,
       "T",
-      "E",
-      "D",
-      "D",
+      "R",
+      "A",
       "Y"
     ],
     [
-      "T",
-      "W",
-      "O",
       null,
       "R",
-      "A",
-      null,
-      "S",
-      "L"
-    ],
-    [
-      "O",
-      null,
-      "F",
-      "A",
-      "I",
       "R",
-      "Y",
       null,
-      "U"
-    ],
-    [
-      "M",
-      "A",
       null,
-      "T",
-      "P",
-      null,
-      "A",
-      "B",
-      "S"
-    ],
-    [
-      "A",
-      "G",
       "R",
-      "E",
-      "E",
       null,
       "L",
+      "E"
+    ],
+    [
+      null,
+      "I",
+      null,
+      "B",
+      "R",
+      "A",
+      "K",
       "E",
       null
     ],
     [
-      "T",
-      "E",
-      "A",
-      null,
-      "S",
-      "M",
-      "E",
       "L",
-      "L"
-    ],
-    [
       "O",
+      "S",
+      "E",
       null,
       "P",
       null,
+      "N",
+      null
+    ],
+    [
+      null,
+      "R",
+      "A",
+      "C",
+      "K",
       null,
       null,
+      "D",
+      null
+    ],
+    [
+      "D",
+      "I",
       null,
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      null
+    ],
+    [
+      "I",
       "T",
+      "E",
+      "M",
+      null,
+      "Y",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "P",
+      "Y",
+      null,
+      "E",
+      null,
+      "E",
+      "Y",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        7,
+        7
+      ],
+      [
         6,
-        6
+        7
       ],
       [
         7,
-        4
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        2,
         2
       ],
       [
-        5,
-        7
+        7,
+        3
       ],
       [
         6,
-        2
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        3,
-        2
+        4
       ],
       [
         1,
-        2
+        6
       ],
       [
-        2,
+        8,
+        6
+      ],
+      [
+        3,
         1
       ],
       [
         1,
-        7
+        3
+      ],
+      [
+        0,
+        5
       ],
       [
         2,
-        5
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        7
       ]
     ],
     "medium": [
       [
+        7,
+        7
+      ],
+      [
         6,
-        6
+        7
       ],
       [
         7,
-        4
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        2,
         2
       ],
       [
-        5,
-        7
+        7,
+        3
       ],
       [
         6,
-        2
+        4
+      ],
+      [
+        1,
+        6
       ],
       [
         8,
-        7
+        6
       ],
       [
-        5,
-        0
+        3,
+        1
       ]
     ],
     "hard": [
       [
+        7,
+        7
+      ],
+      [
         6,
-        6
+        7
       ],
       [
         7,
-        4
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        2,
         2
+      ],
+      [
+        7,
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
-          "zh": "病毒"
+          "en": "A detailed description of the design and materials used to make something.",
+          "zh": "规格"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 7,
         "row": 1,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "To start (a fire).",
-          "zh": "点亮"
+          "en": "A small, typically rectangular or round, flat, and rigid object upon which things are carried.",
+          "zh": "托盘"
         },
         "level": 5
       },
       {
         "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "By extension, any stuffed toy.",
-          "zh": "泰迪熊"
-        },
-        "level": 6
-      },
-      {
-        "num": 12,
         "row": 3,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The realm of faerie; enchantment, illusion.",
-          "zh": "仙女"
-        },
-        "level": 5
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
+          "en": "A fern; bracken.",
+          "zh": "制动"
         },
         "level": 4
       },
       {
-        "num": 23,
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+          "zh": "失去"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A series of one or more shelves, stacked one above the other",
+          "zh": "架子"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
         "row": 6,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         },
         "level": 1
       },
       {
-        "num": 26,
+        "num": 19,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
+          "en": "A distinct physical object.",
+          "zh": "物品"
         },
-        "level": 1
+        "level": 5
       },
       {
-        "num": 27,
+        "num": 20,
         "row": 7,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
-          "zh": "闻"
+          "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+          "zh": "院子"
         },
         "level": 1
       }
@@ -313,136 +299,96 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "The ability to see something or the area that can be seen from a particular place.",
-          "zh": "看法"
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 5,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
+          "en": "A long, narrow, pliable strip of leather, cloth, or the like.",
+          "zh": "带子"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 7,
         "clue": {
-          "en": "Senses relating to a thin, pointed object.",
-          "zh": "手写笔"
+          "en": "Any system by which time is divided into days, weeks, months, and years.",
+          "zh": "日历"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "The external covering at the top of a building.",
-          "zh": "屋顶"
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A long, relatively straight region of a single colour.",
-          "zh": "条纹"
+          "en": "An item's relative importance.",
+          "zh": "优先事项"
         },
-        "level": 6
+        "level": 5
       },
       {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        },
-        "level": 6
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
+        "num": 10,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
-          "zh": "番茄"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
         "col": 3,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "To arrive, come (to a place).",
+          "zh": "变得"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A lower section of a road or geological feature.",
+          "zh": "蘸"
+        },
+        "level": 4
       },
       {
         "num": 17,
-        "row": 4,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
         "col": 6,
         "clue": {
-          "en": "A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goat-like four-legged creature with large horns that it can swivel in any direction.",
-          "zh": "耶鲁大学"
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
         },
-        "level": 7
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        },
-        "level": 1
-      },
-      {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
-          "zh": "腰带"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A sharp blow with something hard.",
-          "zh": "说唱"
-        },
-        "level": 6
+        "level": 4
       }
     ]
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "toefl"
+  "exam": "senior_high"
 }

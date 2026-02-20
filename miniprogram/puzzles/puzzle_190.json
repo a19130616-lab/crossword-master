@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_190",
+  "title": "Easy #10",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "L",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "U",
+      null,
+      "P",
+      "O",
+      "P"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      null,
+      "C"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "G",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+          "zh": "损失"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The location of an event that attracts attention.",
+          "zh": "场景"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Resistance of the air (or some other fluid) to something moving through it.",
+          "zh": "拖"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "One's male offspring.",
+          "zh": "儿子"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A detailed description of the design and materials used to make something.",
+          "zh": "规格"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

@@ -25,482 +25,1658 @@
   },
   {
     "id": "puzzle_004",
-    "title": "Medium #1",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_004.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_005",
-    "title": "Medium #2",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_005.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_006",
-    "title": "Medium #3",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_006.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_007",
-    "title": "Hard #1",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_007.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_008",
-    "title": "Hard #2",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_008.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_009",
-    "title": "Hard #3",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_009.json",
     "exam": "junior_high"
   },
   {
     "id": "puzzle_010",
-    "title": "Easy #1",
+    "title": "Easy #10",
     "difficulty": "easy",
     "gridSize": 5,
     "file": "puzzles/puzzle_010.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_011",
-    "title": "Easy #2",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_011.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_012",
-    "title": "Easy #3",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_012.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_013",
-    "title": "Medium #1",
+    "title": "Medium #3",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_013.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_014",
-    "title": "Medium #2",
+    "title": "Medium #4",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_014.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_015",
-    "title": "Medium #3",
+    "title": "Medium #5",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_015.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_016",
-    "title": "Hard #1",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_016.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_017",
-    "title": "Hard #2",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_017.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_018",
-    "title": "Hard #3",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_018.json",
-    "exam": "senior_high"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_019",
-    "title": "Easy #1",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_019.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_020",
-    "title": "Easy #2",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_020.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_021",
-    "title": "Easy #3",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_021.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_022",
-    "title": "Medium #1",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_022.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_023",
-    "title": "Medium #2",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_023.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_024",
-    "title": "Medium #3",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_024.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_025",
-    "title": "Hard #1",
+    "title": "Hard #5",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_025.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_026",
-    "title": "Hard #2",
+    "title": "Hard #6",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_026.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_027",
-    "title": "Hard #3",
+    "title": "Hard #7",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_027.json",
-    "exam": "cet4"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_028",
-    "title": "Easy #1",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_028.json",
-    "exam": "cet6"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_029",
-    "title": "Easy #2",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_029.json",
-    "exam": "cet6"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_030",
-    "title": "Easy #3",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_030.json",
-    "exam": "cet6"
+    "exam": "junior_high"
   },
   {
     "id": "puzzle_031",
-    "title": "Medium #1",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_031.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_032",
-    "title": "Medium #2",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_032.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_033",
-    "title": "Medium #3",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_033.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_034",
-    "title": "Hard #1",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_034.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_035",
-    "title": "Hard #2",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_035.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_036",
-    "title": "Hard #3",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_036.json",
-    "exam": "cet6"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_037",
-    "title": "Easy #1",
+    "title": "Easy #7",
     "difficulty": "easy",
     "gridSize": 5,
     "file": "puzzles/puzzle_037.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_038",
-    "title": "Easy #2",
+    "title": "Easy #8",
     "difficulty": "easy",
     "gridSize": 5,
     "file": "puzzles/puzzle_038.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_039",
-    "title": "Easy #3",
+    "title": "Easy #9",
     "difficulty": "easy",
     "gridSize": 5,
     "file": "puzzles/puzzle_039.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_040",
-    "title": "Medium #1",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_040.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_041",
-    "title": "Medium #2",
+    "title": "Medium #1",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_041.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_042",
-    "title": "Medium #3",
+    "title": "Medium #2",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_042.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_043",
-    "title": "Hard #1",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_043.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_044",
-    "title": "Hard #2",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_044.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_045",
-    "title": "Hard #3",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_045.json",
-    "exam": "graduate"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_046",
-    "title": "Easy #1",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_046.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_047",
-    "title": "Easy #2",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_047.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_048",
-    "title": "Easy #3",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
     "file": "puzzles/puzzle_048.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_049",
-    "title": "Medium #1",
+    "title": "Medium #9",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_049.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_050",
-    "title": "Medium #2",
+    "title": "Medium #10",
     "difficulty": "medium",
     "gridSize": 7,
     "file": "puzzles/puzzle_050.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_051",
-    "title": "Medium #3",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_051.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_052",
-    "title": "Hard #1",
+    "title": "Hard #2",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_052.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_053",
-    "title": "Hard #2",
+    "title": "Hard #3",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_053.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_054",
-    "title": "Hard #3",
+    "title": "Hard #4",
     "difficulty": "hard",
     "gridSize": 9,
     "file": "puzzles/puzzle_054.json",
-    "exam": "toefl"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_055",
-    "title": "Easy #1",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_055.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_056",
-    "title": "Easy #2",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_056.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_057",
-    "title": "Easy #3",
-    "difficulty": "easy",
-    "gridSize": 5,
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_057.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_058",
-    "title": "Medium #1",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_058.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_059",
-    "title": "Medium #2",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_059.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_060",
-    "title": "Medium #3",
-    "difficulty": "medium",
-    "gridSize": 7,
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
     "file": "puzzles/puzzle_060.json",
-    "exam": "sat"
+    "exam": "senior_high"
   },
   {
     "id": "puzzle_061",
-    "title": "Hard #1",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_061.json",
-    "exam": "sat"
+    "exam": "cet4"
   },
   {
     "id": "puzzle_062",
-    "title": "Hard #2",
-    "difficulty": "hard",
-    "gridSize": 9,
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
     "file": "puzzles/puzzle_062.json",
-    "exam": "sat"
+    "exam": "cet4"
   },
   {
     "id": "puzzle_063",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_063.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_064",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_064.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_065",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_065.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_066",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_066.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_067",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_067.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_068",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_068.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_069",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_069.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_070",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_070.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_071",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_071.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_072",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_072.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_073",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_073.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_074",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_074.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_075",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_075.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_076",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_076.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_077",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_077.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_078",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_078.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_079",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_079.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_080",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_080.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_081",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_081.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_082",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_082.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_083",
     "title": "Hard #3",
     "difficulty": "hard",
     "gridSize": 9,
-    "file": "puzzles/puzzle_063.json",
+    "file": "puzzles/puzzle_083.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_084",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_084.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_085",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_085.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_086",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_086.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_087",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_087.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_088",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_088.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_089",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_089.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_090",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_090.json",
+    "exam": "cet4"
+  },
+  {
+    "id": "puzzle_091",
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_091.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_092",
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_092.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_093",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_093.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_094",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_094.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_095",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_095.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_096",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_096.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_097",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_097.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_098",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_098.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_099",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_099.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_100",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_100.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_101",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_101.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_102",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_102.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_103",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_103.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_104",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_104.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_105",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_105.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_106",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_106.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_107",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_107.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_108",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_108.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_109",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_109.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_110",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_110.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_111",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_111.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_112",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_112.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_113",
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_113.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_114",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_114.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_115",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_115.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_116",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_116.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_117",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_117.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_118",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_118.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_119",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_119.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_120",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_120.json",
+    "exam": "cet6"
+  },
+  {
+    "id": "puzzle_121",
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_121.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_122",
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_122.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_123",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_123.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_124",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_124.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_125",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_125.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_126",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_126.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_127",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_127.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_128",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_128.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_129",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_129.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_130",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_130.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_131",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_131.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_132",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_132.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_133",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_133.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_134",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_134.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_135",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_135.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_136",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_136.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_137",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_137.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_138",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_138.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_139",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_139.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_140",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_140.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_141",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_141.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_142",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_142.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_143",
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_143.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_144",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_144.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_145",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_145.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_146",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_146.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_147",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_147.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_148",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_148.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_149",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_149.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_150",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_150.json",
+    "exam": "graduate"
+  },
+  {
+    "id": "puzzle_151",
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_151.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_152",
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_152.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_153",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_153.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_154",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_154.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_155",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_155.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_156",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_156.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_157",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_157.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_158",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_158.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_159",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_159.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_160",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_160.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_161",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_161.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_162",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_162.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_163",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_163.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_164",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_164.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_165",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_165.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_166",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_166.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_167",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_167.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_168",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_168.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_169",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_169.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_170",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_170.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_171",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_171.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_172",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_172.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_173",
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_173.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_174",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_174.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_175",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_175.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_176",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_176.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_177",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_177.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_178",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_178.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_179",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_179.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_180",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_180.json",
+    "exam": "toefl"
+  },
+  {
+    "id": "puzzle_181",
+    "title": "Easy #1",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_181.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_182",
+    "title": "Easy #2",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_182.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_183",
+    "title": "Easy #3",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_183.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_184",
+    "title": "Easy #4",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_184.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_185",
+    "title": "Easy #5",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_185.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_186",
+    "title": "Easy #6",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_186.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_187",
+    "title": "Easy #7",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_187.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_188",
+    "title": "Easy #8",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_188.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_189",
+    "title": "Easy #9",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_189.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_190",
+    "title": "Easy #10",
+    "difficulty": "easy",
+    "gridSize": 5,
+    "file": "puzzles/puzzle_190.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_191",
+    "title": "Medium #1",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_191.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_192",
+    "title": "Medium #2",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_192.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_193",
+    "title": "Medium #3",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_193.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_194",
+    "title": "Medium #4",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_194.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_195",
+    "title": "Medium #5",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_195.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_196",
+    "title": "Medium #6",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_196.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_197",
+    "title": "Medium #7",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_197.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_198",
+    "title": "Medium #8",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_198.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_199",
+    "title": "Medium #9",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_199.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_200",
+    "title": "Medium #10",
+    "difficulty": "medium",
+    "gridSize": 7,
+    "file": "puzzles/puzzle_200.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_201",
+    "title": "Hard #1",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_201.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_202",
+    "title": "Hard #2",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_202.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_203",
+    "title": "Hard #3",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_203.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_204",
+    "title": "Hard #4",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_204.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_205",
+    "title": "Hard #5",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_205.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_206",
+    "title": "Hard #6",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_206.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_207",
+    "title": "Hard #7",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_207.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_208",
+    "title": "Hard #8",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_208.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_209",
+    "title": "Hard #9",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_209.json",
+    "exam": "sat"
+  },
+  {
+    "id": "puzzle_210",
+    "title": "Hard #10",
+    "difficulty": "hard",
+    "gridSize": 9,
+    "file": "puzzles/puzzle_210.json",
     "exam": "sat"
   }
 ]

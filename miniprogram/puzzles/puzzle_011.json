@@ -1,196 +1,276 @@
 {
   "id": "puzzle_011",
-  "title": "Easy #2",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
-      "H",
-      "E",
-      "A",
-      "R",
-      null
-    ],
-    [
-      "E",
-      "N",
-      "D",
       null,
-      "S"
-    ],
-    [
-      "A",
-      "D",
-      "M",
-      "I",
-      "T"
-    ],
-    [
       "T",
       null,
-      "I",
-      "C",
+      null,
+      "L",
+      "E",
+      "G"
+    ],
+    [
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "S",
       "E"
     ],
     [
+      "E",
+      "R",
       null,
+      "O",
+      "N",
+      null,
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "C",
+      "I",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      "O",
+      "N",
+      null,
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "O",
       "S",
       "T",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      null,
+      null,
       "E",
-      "M"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
+        2,
+        1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        1,
         3
       ],
       [
-        0,
-        1
+        4,
+        2
       ],
       [
         3,
         3
       ],
       [
-        0,
-        3
+        3,
+        6
       ],
       [
-        1,
-        1
+        6,
+        2
+      ],
+      [
+        6,
+        0
       ]
     ],
     "medium": [
       [
-        4,
-        3
-      ],
-      [
-        0,
+        2,
         1
       ],
       [
-        3,
+        6,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        1,
         3
+      ],
+      [
+        4,
+        2
       ]
     ],
     "hard": [
       [
-        4,
-        3
+        2,
+        1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        5,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "(stative) To perceive sounds through the ear.",
-          "zh": "听到"
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
         },
         "level": 1
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
-          "zh": "承认"
-        },
-        "level": 4
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
+          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+          "zh": "认为"
         },
         "level": 1
       },
       {
         "num": 9,
-        "row": 4,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The main body or stalk of a plant or shrub.",
-          "zh": "干"
+          "en": "A person who is very old.",
+          "zh": "古老的"
         },
-        "level": 5
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A style of dress, including garments, accessories and hairstyle, especially as characteristic of a particular country, period or people.",
+          "zh": "戏服"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "Thermal energy.",
-          "zh": "热"
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "The terminal point of something in space or time.",
-          "zh": "结尾"
+          "en": "Solitary; having no companion.",
+          "zh": "孤独的"
         },
         "level": 1
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 0,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
-          "zh": "承认"
+          "en": "A person of high birth.",
+          "zh": "温和的"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "The main body or stalk of a plant or shrub.",
-          "zh": "干"
+          "en": "An attempt to find something.",
+          "zh": "搜索"
         },
-        "level": 5
+        "level": 1
       },
       {
-        "num": 7,
-        "row": 2,
+        "num": 6,
+        "row": 1,
         "col": 3,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
+          "en": "The sharp, tapered end of a tool, weapon, or other object; a particular spot or location.",
+          "zh": "观点"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "The amount that has to be paid or spent to buy or obtain something.",
+          "zh": "成本"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+          "zh": "姓名"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "senior_high"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

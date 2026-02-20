@@ -1,275 +1,275 @@
 {
   "id": "puzzle_026",
-  "title": "Hard #2",
+  "title": "Hard #6",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
+      "S",
       null,
       "B",
-      "A",
-      "D",
+      "E",
+      "E",
       null,
       null,
-      null,
-      "S"
+      "M"
     ],
     [
-      "G",
-      "E",
-      "O",
-      null,
-      "A",
       "R",
+      "U",
+      "R",
+      "A",
+      "L",
+      null,
+      "P",
       "I",
-      "S",
       "E"
     ],
     [
       null,
-      "A",
-      "W",
-      "A",
       "R",
       "E",
       null,
-      "H",
-      "R"
+      "S",
+      "E",
+      "E",
+      null,
+      "T"
     ],
     [
-      "A",
-      "R",
-      null,
       "S",
       "E",
       "A",
       null,
-      "U",
-      "I"
-    ],
-    [
-      "P",
-      "L",
-      "U",
-      "S",
-      null,
-      "D",
+      "E",
       "A",
+      "R",
       "T",
-      "E"
+      "H"
     ],
     [
-      "P",
       "I",
       null,
-      "U",
-      "S",
-      "E",
+      "L",
+      "P",
       null,
-      "T",
-      "S"
+      "R",
+      "F",
+      null,
+      "O"
     ],
     [
+      "S",
+      "K",
+      "I",
+      "R",
+      "T",
+      null,
+      "O",
+      "L",
+      "D"
+    ],
+    [
+      "T",
+      null,
+      "Z",
+      "O",
+      "O",
+      null,
       "R",
       "E",
-      null,
-      "M",
-      "O",
-      "R",
-      "A",
-      "L",
       null
     ],
     [
-      "O",
-      "R",
-      "D",
       "E",
-      "R",
+      "Y",
+      "E",
       null,
-      "T",
-      "E",
-      "A"
+      "W",
+      "O",
+      "M",
+      "A",
+      "N"
     ],
     [
-      "X",
+      "R",
       null,
       null,
-      null,
-      "T",
       "I",
-      "E",
+      "N",
+      "K",
       null,
+      "F",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        5,
-        3
+        2,
+        6
       ],
       [
         6,
-        4
-      ],
-      [
-        5,
         7
       ],
       [
-        1,
+        7,
         2
       ],
       [
-        2,
+        5,
         8
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        5,
+        3
       ],
       [
         6,
         3
       ],
       [
-        7,
-        4
+        0,
+        3
       ],
       [
-        5,
+        0,
         5
       ],
       [
-        4,
-        6
-      ],
-      [
-        4,
-        2
-      ],
-      [
         1,
-        6
+        8
       ]
     ],
     "medium": [
       [
-        1,
-        5
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        5,
-        3
+        2,
+        6
       ],
       [
         6,
-        4
-      ],
-      [
-        5,
         7
       ],
       [
-        1,
+        7,
         2
       ],
       [
-        2,
+        5,
         8
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        6
       ]
     ],
     "hard": [
       [
-        1,
-        5
+        2,
+        6
       ],
       [
-        0,
+        6,
+        7
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        5,
         8
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 3,
         "clue": {
-          "en": "Of poor quality or a low standard; not good.",
-          "zh": "坏的"
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
         },
         "level": 1
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
-          "zh": "地理"
+          "en": "A person from the countryside; a rustic.",
+          "zh": "乡村的"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "To come up from a lower to a higher position.",
-          "zh": "出现"
+          "en": "A type of pastry that consists of an outer crust and a filling.",
+          "zh": "馅饼"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "Vigilant or on one's guard against danger or difficulty.",
-          "zh": "意识到的"
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 13,
+        "num": 11,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
           "en": "A large body of salt water.",
           "zh": "海"
@@ -277,72 +277,72 @@
         "level": 1
       },
       {
-        "num": 15,
-        "row": 4,
-        "col": 0,
+        "num": 12,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A positive quantity.",
-          "zh": "加"
+          "en": "The third planet of the Solar System; the world upon which humans live.",
+          "zh": "地球"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 16,
-        "row": 4,
-        "col": 5,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
-          "zh": "日期"
+          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
+          "zh": "裙子"
         },
         "level": 1
       },
       {
         "num": 18,
         "row": 5,
-        "col": 3,
+        "col": 6,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A park where live animals are exhibited.",
+          "zh": "动物园"
         },
         "level": 1
       },
       {
         "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "(of a narrative) The ethical significance or practical lesson.",
-          "zh": "道德"
-        },
-        "level": 4
-      },
-      {
-        "num": 24,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
-          "zh": "命令"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "An adult female human.",
+          "zh": "女士"
         },
         "level": 1
       },
       {
         "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
         "row": 8,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
-          "zh": "领带"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
         },
         "level": 1
       }
@@ -351,106 +351,106 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.",
-          "zh": "弓"
-        },
-        "level": 1
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A challenge to prove courage.",
-          "zh": "敢"
+          "en": "Physically secure and certain, non-failing, reliable.",
+          "zh": "确定的"
         },
         "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A number of things that follow on one after the other or are connected one after the other.",
-          "zh": "系列"
-        },
-        "level": 5
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "At a time in advance of the usual or expected event.",
-          "zh": "早些时候"
-        },
-        "level": 6
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A person who reads",
-          "zh": "读者"
-        },
-        "level": 5
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The part of a loom that carries the woof back and forth between the warp threads.",
-          "zh": "穿梭"
-        },
-        "level": 4
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
-          "zh": "认为"
-        },
-        "level": 4
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Approaching; proximate; nearly resembling.",
-          "zh": "大约"
-        },
-        "level": 6
-      },
-      {
-        "num": 19,
-        "row": 5,
         "col": 4,
         "clue": {
-          "en": "A general type.",
-          "zh": "种类"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         },
         "level": 1
       },
       {
-        "num": 23,
-        "row": 6,
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+          "zh": "方法"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To make real; to convert from the imaginary or fictitious into reality; to bring into real existence",
+          "zh": "意识到"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
         "col": 6,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "To do something; to execute.",
+          "zh": "履行"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A daughter of the same parents as another person; a female sibling.",
+          "zh": "姐姐"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city.",
+          "zh": "镇"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The usually green and flat organ that represents the most prominent feature of most vegetative plants.",
+          "zh": "叶子"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "cet4"
+  "exam": "junior_high"
 }

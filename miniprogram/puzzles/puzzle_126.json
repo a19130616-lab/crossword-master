@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_126",
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "S",
+      "A",
+      "Y",
+      null
+    ],
+    [
+      "D",
+      "C",
+      null,
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "Y",
+      "B",
+      null,
+      "S",
+      "L"
+    ],
+    [
+      null,
+      "A",
+      "C",
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A chance to speak; the right or power to influence or make a decision.",
+          "zh": "说"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A person from the countryside; a rustic.",
+          "zh": "乡村的"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
+          "zh": "水肺潜水"
+        },
+        "level": 7
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An often humid, yellowish froth produced by fermenting malt worts, and used to brew beer, leaven bread, and also used in certain medicines.",
+          "zh": "酵母"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "puzzle_137",
+  "title": "Medium #7",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "G",
+      "U",
+      "N",
+      null,
+      "S",
+      "U"
+    ],
+    [
+      "C",
+      null,
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "R",
+      null,
+      "T",
+      "L"
+    ],
+    [
+      "L",
+      "I",
+      null,
+      "V",
+      null,
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      null,
+      "O",
+      "O",
+      "P",
+      "S"
+    ],
+    [
+      "B",
+      "E",
+      "G",
+      "U",
+      "N",
+      null,
+      "S"
+    ],
+    [
+      "S",
+      "O",
+      null,
+      "S",
+      "E",
+      "T",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+          "zh": "枪"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The digit/figure 7 or an occurrence thereof.",
+          "zh": "七"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A minor mistake or unforseen difficulty.",
+          "zh": "哎呀"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To start, to initiate or take the first step into something.",
+          "zh": "开始"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Of sinews and tendons.",
+          "zh": "紧张的"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Equipment designed for a particular purpose; an apparatus.",
+          "zh": "设置"
+        },
+        "level": 7
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Except on a specified condition; if not.",
+          "zh": "除非"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A celebrity; a famous person.",
+          "zh": "名人"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Television, television show, movie.",
+          "zh": "视频"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

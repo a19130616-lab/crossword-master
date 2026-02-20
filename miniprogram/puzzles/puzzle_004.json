@@ -1,141 +1,77 @@
 {
   "id": "puzzle_004",
-  "title": "Medium #1",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
+      "B",
       null,
       null,
-      "A",
+      null,
+      "S"
+    ],
+    [
+      "R",
+      "I",
       "G",
-      "O",
-      null,
+      "H",
       "T"
     ],
     [
-      "S",
-      "C",
-      "I",
-      "E",
+      "O",
+      null,
+      "Y",
+      null,
+      "O"
+    ],
+    [
+      "W",
+      "O",
+      "M",
+      "A",
+      "N"
+    ],
+    [
       "N",
-      "C",
+      null,
+      null,
+      null,
       "E"
-    ],
-    [
-      null,
-      "O",
-      "D",
-      null,
-      "E",
-      "A",
-      "R"
-    ],
-    [
-      "G",
-      "A",
-      null,
-      null,
-      null,
-      "T",
-      "M"
-    ],
-    [
-      "A",
-      "C",
-      "T",
-      null,
-      "E",
-      "C",
-      null
-    ],
-    [
-      "T",
-      "H",
-      "O",
-      "U",
-      "G",
-      "H",
-      "T"
-    ],
-    [
-      "E",
-      null,
-      "P",
-      "I",
-      "G",
-      null,
-      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        4
+      ],
+      [
         2,
-        1
+        4
       ],
       [
         1,
         4
       ],
       [
-        1,
-        3
-      ],
-      [
         4,
-        1
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        6,
-        2
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        1,
-        1
+        4
       ]
     ],
     "medium": [
       [
-        2,
-        1
-      ],
-      [
-        1,
+        0,
         4
       ],
       [
-        1,
-        3
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        5
+        2,
+        4
       ]
     ],
     "hard": [
       [
-        2,
-        1
-      ],
-      [
-        1,
+        0,
         4
       ]
     ]
@@ -143,62 +79,22 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
+        "num": 3,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "Morally good, justified, or acceptable; correct or true.",
+          "zh": "正确的"
         },
         "level": 1
       },
       {
         "num": 5,
-        "row": 1,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
-          "zh": "科学"
-        },
-        "level": 1
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "Something done, a deed.",
-          "zh": "行为"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "To ponder, to go over in one's head.",
-          "zh": "想法"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
-          "zh": "猪"
+          "en": "An adult female human.",
+          "zh": "女士"
         },
         "level": 1
       }
@@ -207,86 +103,36 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
+          "en": "A colour like that of chocolate or coffee.",
+          "zh": "棕色的"
         },
         "level": 1
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "A hard earthen substance that can form large rocks.",
+          "zh": "石头"
         },
         "level": 1
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A word or phrase used to describe a thing or express a concept; a fixed period of time.",
-          "zh": "学期"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "A wheeled vehicle, generally drawn by horse power.",
-          "zh": "教练"
-        },
-        "level": 1
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "The act of seizing or capturing.",
-          "zh": "抓住"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A doorlike structure outside a house.",
-          "zh": "门"
-        },
-        "level": 1
-      },
-      {
-        "num": 13,
-        "row": 4,
         "col": 2,
         "clue": {
-          "en": "The highest or uppermost part of something.",
-          "zh": "顶部"
-        },
-        "level": 1
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 4,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

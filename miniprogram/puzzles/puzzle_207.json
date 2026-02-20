@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_207",
+  "title": "Hard #7",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "H",
+      null,
+      null,
+      null,
+      null,
+      "I",
+      null,
+      "T"
+    ],
+    [
+      "G",
+      "A",
+      "M",
+      "M",
+      "A",
+      null,
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      null,
+      "L",
+      "O",
+      null,
+      "B",
+      "E",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      null,
+      "S",
+      "A",
+      null,
+      "D",
+      "N"
+    ],
+    [
+      "R",
+      null,
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      null,
+      "T"
+    ],
+    [
+      "I",
+      "H",
+      null,
+      "H",
+      "N",
+      null,
+      "R",
+      "A",
+      "Y"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "I",
+      "C",
+      null,
+      "E",
+      "R",
+      null
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      null,
+      "E",
+      "X",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      null,
+      "Q",
+      null,
+      null,
+      null,
+      null,
+      "H",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The third letter of the Greek alphabet (Γ, γ), preceded by beta (Β, β) and followed by delta, (Δ, δ).",
+          "zh": "伽马"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "An attractive woman.",
+          "zh": "美女"
+        },
+        "level": 7
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+          "zh": "吨"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A necessary commodity, a staple requirement.",
+          "zh": "基本的"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To demand and enforce the payment or performance of, sometimes in a forcible or imperious way.",
+          "zh": "精确的"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A banknote with a denomination of 20.",
+          "zh": "二十"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Sound reproduction using a single audio channel.",
+          "zh": "单声道"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+          "zh": "缺席"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A design or image that has been influenced by indigenous peoples; especially such a tattoo.",
+          "zh": "部落的"
+        },
+        "level": 7
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+          "zh": "帽子"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "An inverted U shape.",
+          "zh": "拱"
+        },
+        "level": 4
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A set of things next to each other in a set order; a series",
+          "zh": "序列"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_093",
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      "P",
+      "A",
+      "M",
+      null
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      null,
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "M",
+      null,
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      null,
+      "I",
+      "S",
+      "L",
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(rarely countable) Unsolicited bulk electronic messages.",
+          "zh": "垃圾邮件"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "锅"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(rarely countable) Unsolicited bulk electronic messages.",
+          "zh": "垃圾邮件"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "锅"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A bound collection of maps often including tables, illustrations or other text.",
+          "zh": "地图集"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

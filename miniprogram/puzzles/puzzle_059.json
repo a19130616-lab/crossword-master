@@ -1,70 +1,106 @@
 {
   "id": "puzzle_059",
-  "title": "Medium #2",
-  "rows": 7,
-  "cols": 7,
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
-      "M",
-      "I",
-      "N",
       null,
-      "D",
-      "A"
-    ],
-    [
-      "U",
-      null,
-      "C",
-      "O",
-      "H",
-      "E",
-      "N"
-    ],
-    [
       "P",
-      "O",
-      "E",
-      "T",
-      null,
-      "V",
-      "S"
-    ],
-    [
-      "D",
-      "P",
-      null,
-      "H",
-      null,
       "I",
+      "G",
+      null,
+      null,
+      null,
       "W"
     ],
     [
-      "A",
+      "T",
+      "O",
       "E",
       null,
-      "I",
+      "A",
+      "B",
+      "U",
       "S",
-      "L",
       "E"
     ],
     [
-      "T",
-      "R",
+      null,
       "U",
       "N",
-      "K",
+      "C",
+      "L",
+      "E",
       null,
-      "R"
+      "H",
+      "E"
     ],
     [
+      "R",
+      "T",
+      null,
+      "L",
+      "E",
+      "T",
+      null,
+      "E",
+      "K"
+    ],
+    [
+      "I",
+      "D",
       "E",
       "A",
       null,
-      "G",
-      "I",
+      "T",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "B",
+      "O",
+      null,
+      "U",
       "S",
+      "E",
+      null,
+      "T",
+      "Y"
+    ],
+    [
+      "B",
+      "O",
+      null,
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      null
+    ],
+    [
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      null,
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "N",
+      null,
+      null,
+      null,
+      "F",
+      "L",
+      "Y",
+      null,
       null
     ]
   ],
@@ -72,75 +108,119 @@
     "easy": [
       [
         5,
-        0
-      ],
-      [
-        6,
         4
       ],
       [
-        5,
-        6
-      ],
-      [
-        6,
-        5
-      ],
-      [
-        4,
+        8,
         0
       ],
       [
+        2,
+        2
+      ],
+      [
         6,
-        0
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        4,
         3
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        7,
+        8
       ]
     ],
     "medium": [
       [
         5,
-        0
-      ],
-      [
-        6,
         4
       ],
       [
-        5,
-        6
+        8,
+        0
+      ],
+      [
+        2,
+        2
       ],
       [
         6,
-        5
+        3
       ],
       [
-        4,
-        0
+        7,
+        1
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        3
       ]
     ],
     "hard": [
       [
         5,
-        0
-      ],
-      [
-        6,
         4
       ],
       [
-        5,
-        6
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        3
       ]
     ]
   },
@@ -149,112 +229,30 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
-          "zh": "分钟"
-        },
-        "level": 5
-      },
-      {
-        "num": 7,
-        "row": 1,
         "col": 2,
         "clue": {
-          "en": "A Jewish priest: direct male descendant of the Biblical high priest Aaron, brother of Moses.",
-          "zh": "科恩"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "A person who writes poems.",
-          "zh": "诗人"
-        },
-        "level": 4
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
-        },
-        "level": 6
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "(heading, biological) Part of a body.",
-          "zh": "树干"
-        },
-        "level": 4
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
-          "zh": "地理信息系统"
-        },
-        "level": 6
-      }
-    ],
-    "down": [
-      {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        },
-        "level": 1
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Something trifling, or of no consequence or importance.",
-          "zh": "没有什么"
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
         },
         "level": 1
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 5,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "An evil creature.",
-          "zh": "魔鬼"
+          "en": "Each of the five digits on the end of the foot.",
+          "zh": "脚趾"
         },
         "level": 5
       },
       {
-        "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A response or reply; something said or done in reaction to a statement or question.",
-          "zh": "回答"
-        },
-        "level": 1
-      },
-      {
         "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "An advisement providing more up-to-date information than currently known.",
-          "zh": "更新"
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
         },
         "level": 4
       },
@@ -263,24 +261,195 @@
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
+          "en": "The brother or brother-in-law of one’s parent.",
+          "zh": "叔叔"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
         },
         "level": 1
       },
       {
         "num": 15,
         "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "To communicate information to someone in spoken or written words.",
+          "zh": "告诉"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A sudden transient rush, flood or increase.",
+          "zh": "涌"
+        },
+        "level": 5
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
+          "zh": "命令"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
         "col": 4,
         "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To sing; charm; enchant.",
+          "zh": "大风"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A publication that is published once a week.",
+          "zh": "每周"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "(in some African communities) To publicly display a child after it has been named",
+          "zh": "户外的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior.",
+          "zh": "更好的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A refuge, haven or other cover or protection from something.",
+          "zh": "庇护所"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "(grammar) A verb, its necessary grammatical arguments, and any adjuncts affecting them.",
+          "zh": "条款"
+        },
+        "level": 5
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A long, narrow strip of timber bent and bolted longitudinally to the ribs of a vessel, to hold them in position and give rigidity to the framework.",
+          "zh": "丝带"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "Waves that break on an ocean shoreline.",
+          "zh": "冲浪"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
         },
         "level": 4
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "sat"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "senior_high"
 }

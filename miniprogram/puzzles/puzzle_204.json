@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_204",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "R",
+      null,
+      null,
+      null,
+      null,
+      "T",
+      null,
+      "I"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      null,
+      "W",
+      "I",
+      "N"
+    ],
+    [
+      null,
+      "N",
+      "E",
+      null,
+      "B",
+      "L",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      null,
+      "E",
+      "I",
+      null,
+      "G",
+      "O"
+    ],
+    [
+      "S",
+      null,
+      "A",
+      "S",
+      "S",
+      "E",
+      "T",
+      null,
+      "O"
+    ],
+    [
+      "T",
+      "S",
+      null,
+      "I",
+      "I",
+      null,
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "R",
+      "T",
+      null,
+      "K",
+      "S",
+      null
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      null,
+      "Y",
+      "I",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      "T",
+      null,
+      null,
+      null,
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        1,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
+          "zh": "迪斯科"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "赢"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A pale yellowish (golden brown) color, especially said of hair color.",
+          "zh": "金发"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
+        },
+        "level": 4
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
+        },
+        "level": 6
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To pay, give in payment; repay, recompense; reward; requite.",
+          "zh": "屈服"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "(physical) A solid object in the shape of a circle.",
+          "zh": "戒指"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Situated in, or designed to be used in, or carried on within, the interior of a building.",
+          "zh": "室内的"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A genre of popular music mainly associated with Mauritius.",
+          "zh": "世嘉"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The collective property and liabilities of someone, especially a deceased person.",
+          "zh": "财产"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The or an act of taking.",
+          "zh": "拿"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

@@ -49,7 +49,7 @@ HARD_EXCLUDED = {
     "bio", "biz", "kinda", "gonna", "gotta", "wanna",
     "ascii", "dpi", "fcc", "pcs", "plc", "ppm", "rpm", "div", "iso",
     "rom", "san", "eng", "est", "gen", "tri", "vid", "lib", "dod", "kai",
-    "int", "sim", "leu", "ciao", "casa", "costa", "til",
+    "int", "sim", "leu", "ciao", "casa", "costa", "til", "ids",
     # More fragments / abbreviations / obscure terms
     "isp", "ent", "neo", "pct", "pre", "eco", "psi", "gel",
     "fwd", "lbs", "msg", "pst", "rrp", "tvs", "thy", "sat",
@@ -236,28 +236,112 @@ def main():
     if soft_excluded_count:
         print(f"Tagged {soft_excluded_count} soft-excluded words")
 
-    # Deduplicate plurals: if both WORD and WORDS exist, keep only WORD
+    # Build a set of all known English words from source data (including words
+    # that were filtered out due to length, exclusion, or bad clues). This lets
+    # us detect plurals even when the base form isn't in the final dictionary.
+    all_known_words = set()
+    for raw_word in (enriched or {}):
+        w = raw_word.strip().upper()
+        if re.fullmatch(r"[A-Z]+", w):
+            all_known_words.add(w)
+
+    # Standalone words that happen to look like inflections — never remove these.
+    INFLECTION_SAFELIST = {
+        # -ING words that are standalone nouns/adjectives
+        "AMAZING", "BINDING", "BLESSING", "BORING", "BUILDING", "CEILING",
+        "CLOTHING", "COATING", "COMING", "CUNNING", "CUTTING", "DARLING",
+        "DRAWING", "DWELLING", "EARNING", "EVENING", "EXCITING", "FEELING",
+        "FILLING", "FINDING", "FITTING", "BLESSING", "GAMBLING", "GREETING",
+        "GROUNDING", "HEADING", "HEARING", "HIDING", "HIKING", "HOLDING",
+        "HOUSING", "HUNTING", "KILLING", "KNITTING", "LANDING", "LASTING",
+        "LEADING", "LEARNING", "LENDING", "LIGHTNING", "LISTING", "LIVING",
+        "LOADING", "LODGING", "LONGING", "MEANING", "MEETING", "MINING",
+        "MISSING", "MORNING", "NURSING", "OFFERING", "OPENING", "OPENING",
+        "OUTING", "PAINTING", "PARKING", "PENDING", "PLANNING", "PLUMBING",
+        "PRESSING", "PRICING", "PRINTING", "PUDDING", "RANKING", "RATING",
+        "READING", "RECORDING", "RING", "ROOFING", "RULING", "RUNNING",
+        "SAVING", "SAYING", "SETTING", "SHIPPING", "SHOOTING", "SHOPPING",
+        "SING", "SITTING", "SKATING", "SKIING", "SMOKING", "SOMETHING",
+        "SPELLING", "SPENDING", "SPORTING", "SPRING", "STAFFING",
+        "STANDING", "STERLING", "STING", "STOCKING", "STRING", "STUNNING",
+        "SUFFERING", "SURFING", "SURROUNDING", "SWING", "TEACHING",
+        "THING", "TIMING", "TRADING", "TRAINING", "TRAVELING", "TUNING",
+        "TURNING", "UNDERLYING", "WARNING", "WASHING", "WEDDING",
+        "WILLING", "WINDING", "WING", "WINNING", "WIRING", "WORKING",
+        "WRESTLING", "WRITING",
+        # -ED words that are standalone adjectives/nouns
+        "ADVANCED", "AGED", "ALLEGED", "ALLIED", "ANIMATED", "ARMED",
+        "ASSUMED", "ASSURED", "ATTACHED", "BELOVED", "BIASED", "BLESSED",
+        "BREED", "BURIED", "CLOSED", "COLORED", "COMBINED", "COMPLICATED",
+        "CONCERNED", "CONFUSED", "CONNECTED", "CONVINCED", "CROOKED",
+        "CROWDED", "CURVED", "DATED", "DEDICATED", "DETAILED", "DETERMINED",
+        "DISABLED", "DISAPPOINTED", "EDUCATED", "ELEVATED", "EMBEDDED",
+        "EMPLOYED", "ENCLOSED", "ENRICHED", "ENTITLED", "EVOLVED",
+        "EXCITED", "EXPERIENCED", "EXPOSED", "EXTENDED", "FIXED", "HUNDRED",
+        "INDEED", "INFORMED", "INSPIRED", "INTERESTED", "ISOLATED",
+        "LIMITED", "LINKED", "LOCATED", "LOVED", "NAKED", "ORGANIZED",
+        "PLEASED", "POINTED", "PRONOUNCED", "PROPOSED", "QUALIFIED",
+        "REDUCED", "REFINED", "RELATED", "RELAXED", "RETIRED", "SACRED",
+        "SATISFIED", "SCARED", "SCATTERED", "SEED", "SELECTED", "SHED",
+        "SKILLED", "SLED", "SPEED", "SPIRITED", "SUPPOSED", "SURPRISED",
+        "TALENTED", "TIRED", "TROUBLED", "TWISTED", "UNITED",
+        "UNUSED", "VARIED", "WEED", "WICKED", "WORRIED", "WOUNDED",
+        # -ER words that are standalone nouns
+        "BANNER", "BLENDER", "BOULDER", "BUFFER", "BUTTER", "CHAPTER",
+        "CHARACTER", "CLUSTER", "COMPUTER", "CONSIDER", "CONSUMER",
+        "CONTAINER", "COUNTER", "COVER", "CRACKER", "CYLINDER",
+        "DISCOVER", "DISORDER", "ENCOUNTER", "ENTER", "FEVER", "FINGER",
+        "FLOWER", "FOLDER", "GENDER", "GINGER", "HAMMER", "HUNGER",
+        "LADDER", "LASER", "LAUGHTER", "LAYER", "LEATHER", "LETTER",
+        "LEVER", "LITTER", "LIVER", "LUMBER", "MANNER", "MASTER",
+        "MATTER", "MEMBER", "MERGER", "METER", "MONSTER", "MURDER",
+        "NUMBER", "OFFER", "ORDER", "OTHER", "OVER", "OYSTER", "PAPER",
+        "PEPPER", "PLASTER", "PLUNDER", "POWDER", "POWER", "PREMIER",
+        "PRIMER", "PROPER", "QUARTER", "RATHER", "RECOVER", "RUBBER",
+        "SEMESTER", "SHELTER", "SHOULDER", "SILVER", "SMOTHER", "SOCCER",
+        "SOLDER", "SPIDER", "STAGGER", "SUMMER", "SUPER", "TIMBER",
+        "TIMBER", "TOGETHER", "TOWER", "TRANSFER", "TRIGGER", "UNDER",
+        "UPPER", "UTTER", "WANDER", "WATER", "WEATHER", "WHISPER",
+        "WINTER", "WONDER",
+        # -LY words that are standalone adjectives
+        "BELLY", "BULLY", "CURLY", "DAILY", "DEADLY", "EARLY", "ELDERLY",
+        "FAIRLY", "FAMILY", "FINALLY", "FLY", "FRIENDLY", "GHASTLY",
+        "GLOOMY", "GODLY", "GOODLY", "HARDLY", "HEAVENLY", "HOLLY",
+        "HOMELY", "JELLY", "JOLLY", "LILY", "LIKELY", "LIVELY", "LONELY",
+        "LOVELY", "MANLY", "MERELY", "MONTHLY", "NAMELY", "NEARLY",
+        "NEWLY", "NIGHTLY", "NOBLY", "ONLY", "ORDERLY", "PARTLY",
+        "POORLY", "RALLY", "RARELY", "SILLY", "SOLELY", "SUPPLY",
+        "SURELY", "TALLY", "UGLY", "UNLIKELY", "WEEKLY", "WHOLLY",
+        "WORLDLY",
+    }
+
+    # Deduplicate plurals: remove WORDS if WORD is a known English word
+    # (either in our dictionary or in the broader source data)
     all_keys = set(dictionary["words"].keys())
     plurals_removed = []
     for key in list(all_keys):
-        if key.endswith("S") and key[:-1] in all_keys:
-            del dictionary["words"][key]
-            plurals_removed.append(key)
+        if key.endswith("S") and len(key) >= 4 and key not in INFLECTION_SAFELIST:
+            base = key[:-1]
+            if base in all_keys or base in all_known_words:
+                del dictionary["words"][key]
+                all_keys.discard(key)
+                plurals_removed.append(key)
     if plurals_removed:
         print(f"Removed {len(plurals_removed)} plural duplicates")
 
-    # Deduplicate inflected forms: if base form exists, remove the inflection
-    # (e.g., remove ENDED if END exists, remove CODING if CODE exists)
-    all_keys = set(dictionary["words"].keys())
+    # Deduplicate inflected forms: remove inflection if base exists in dictionary
+    # OR in the broader source data. The INFLECTION_SAFELIST protects standalone
+    # words that happen to look like inflections (e.g., EVENING, BUILDING).
     inflected_removed = []
-    for key in sorted(all_keys):
+    for key in sorted(list(all_keys)):
         if key not in dictionary["words"]:
+            continue
+        if key in INFLECTION_SAFELIST:
             continue
         # Check -ED, -ING, -ER, -LY, -EST suffixes
         bases = []
         if key.endswith("ED") and len(key) > 4:
             bases.append(key[:-2])       # WALKED → WALK
-            bases.append(key[:-1])       # CLOSED → CLOS(E) — handled by +E below
             bases.append(key[:-2] + "E") # NAMED → NAME
             if len(key) > 5 and key[-3] == key[-4]:
                 bases.append(key[:-3])   # STOPPED → STOP
@@ -273,8 +357,9 @@ def main():
         if key.endswith("LY") and len(key) > 4:
             bases.append(key[:-2])       # QUICKLY → QUICK
         for base in bases:
-            if base in dictionary["words"] and base != key:
+            if base != key and (base in all_keys or base in all_known_words):
                 del dictionary["words"][key]
+                all_keys.discard(key)
                 inflected_removed.append(key)
                 break
     if inflected_removed:

@@ -1,123 +1,187 @@
 {
   "id": "puzzle_024",
-  "title": "Medium #3",
-  "rows": 7,
-  "cols": 7,
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
-      "L",
       null,
+      "T",
+      null,
+      "A",
+      "G",
+      "O",
+      null,
+      null,
+      "G"
+    ],
+    [
+      "P",
+      "I",
+      "A",
+      "N",
+      "O",
+      null,
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "M",
+      "G",
+      null,
+      "A",
+      "R",
+      "M",
+      null,
+      "N"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      null,
+      "L",
+      "E",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      null,
+      "I",
+      "B",
       null,
       "D",
+      "Z",
       null,
-      null,
-      "A"
+      "L"
     ],
     [
-      "A",
-      "C",
-      "C",
-      "U",
-      "S",
+      "M",
+      "O",
+      "N",
       "E",
-      "D"
-    ],
-    [
-      "P",
+      "Y",
       null,
-      "L",
       "I",
-      "T",
-      null,
-      "V"
-    ],
-    [
-      "T",
-      "E",
-      "A",
-      null,
-      "O",
-      "N",
+      "C",
       "E"
-    ],
-    [
-      "O",
-      null,
-      "S",
-      "U",
-      "N",
-      null,
-      "R"
     ],
     [
       "P",
-      "O",
-      "S",
+      null,
       "S",
       "E",
-      "S",
-      "S"
+      "E",
+      null,
+      "N",
+      "O",
+      null
     ],
     [
-      "S",
+      "L",
+      "O",
+      "T",
       null,
-      null,
+      "A",
+      "N",
+      "G",
+      "R",
+      "Y"
+    ],
+    [
       "E",
       null,
       null,
-      "E"
+      "P",
+      "R",
+      "O",
+      null,
+      "N",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        0
-      ],
-      [
-        4,
-        6
-      ],
-      [
-        2,
-        0
+        8,
+        3
       ],
       [
         3,
-        4
-      ],
-      [
-        1,
-        2
+        8
       ],
       [
         0,
-        6
+        3
+      ],
+      [
+        1,
+        0
       ],
       [
         3,
-        2
+        4
       ],
       [
-        2,
-        4
+        7,
+        5
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        8
       ],
       [
         4,
-        4
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        8
       ]
     ],
     "medium": [
       [
+        8,
+        3
+      ],
+      [
         3,
-        0
+        8
       ],
       [
-        4,
-        6
+        0,
+        3
       ],
       [
-        2,
+        1,
         0
       ],
       [
@@ -125,148 +189,268 @@
         4
       ],
       [
+        7,
+        5
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
         1,
-        2
+        8
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        8,
+        3
       ],
       [
-        4,
-        6
+        3,
+        8
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To find fault with, blame, censure",
-          "zh": "被告"
+          "en": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",
+          "zh": "钢琴"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 7,
-        "row": 2,
-        "col": 2,
+        "row": 1,
+        "col": 6,
         "clue": {
-          "en": "To start (a fire).",
-          "zh": "点亮"
-        },
-        "level": 5
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         },
         "level": 1
       },
       {
         "num": 9,
-        "row": 3,
+        "row": 2,
         "col": 4,
         "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         },
         "level": 1
       },
       {
-        "num": 10,
-        "row": 4,
-        "col": 2,
+        "num": 11,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A star, especially when seen as the centre of any single solar system.",
-          "zh": "太阳"
+          "en": "A large body of salt water.",
+          "zh": "海"
         },
         "level": 1
       },
       {
         "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Something of the smallest possible extent; an indivisible unit.",
+          "zh": "至少"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "To have; to have ownership of.",
-          "zh": "具有"
+          "en": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
+          "zh": "钱"
         },
-        "level": 4
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Displaying or feeling anger.",
+          "zh": "生气的"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A laptop computer.",
-          "zh": "笔记本电脑"
+          "en": "The inevitable progression into the future with the passing of present and past events.",
+          "zh": "时间"
         },
-        "level": 6
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "酒驾"
-        },
-        "level": 6
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.",
-          "zh": "不利的"
+          "en": "A result that one is attempting to achieve.",
+          "zh": "目标"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "A set or category of things having some property in common; a group of students taught together.",
-          "zh": "班级"
+          "en": "A person of high birth.",
+          "zh": "温和的"
         },
         "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "A hard earthen substance that can form large rocks.",
-          "zh": "石头"
+          "en": "In a contrary direction to.",
+          "zh": "反对"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+          "zh": "惊人的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         },
         "level": 1
       },
       {
         "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A herbal preparation made from one plant, as opposed to something made from more than one plant.",
+          "zh": "简单的"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales.",
+          "zh": "玉米"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "cet4"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "junior_high"
 }

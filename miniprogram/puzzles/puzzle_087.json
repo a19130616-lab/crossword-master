@@ -1,0 +1,455 @@
+{
+  "id": "puzzle_087",
+  "title": "Hard #7",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "P",
+      "H",
+      "I",
+      null,
+      null,
+      null,
+      "C"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      null,
+      "R",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      null,
+      "A",
+      "R",
+      "M",
+      "O",
+      "R",
+      null,
+      "L",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      null,
+      "A",
+      "N",
+      "T",
+      null,
+      "C",
+      "D"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "T",
+      null,
+      "I",
+      "D",
+      "O",
+      "L"
+    ],
+    [
+      "I",
+      "I",
+      null,
+      "U",
+      "P",
+      "S",
+      null,
+      "H",
+      "E"
+    ],
+    [
+      "T",
+      "N",
+      null,
+      "R",
+      "E",
+      "T",
+      "R",
+      "O",
+      null
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      null,
+      null,
+      null,
+      "R",
+      "O",
+      "D",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
+          "zh": "雷达"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "zh": "盔甲"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An individual thing or person regarded as single and complete, especially for purposes of calculation.",
+          "zh": "单元"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A graven image or representation of anything that is revered, or believed to convey spiritual power.",
+          "zh": "偶像"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
+        },
+        "level": 6
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Past fashions or trends.",
+          "zh": "复古的"
+        },
+        "level": 6
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A straight, round stick, shaft, bar, cane, or staff.",
+          "zh": "杆"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A bed or cot for a baby, oscillating on rockers or swinging on pivots.",
+          "zh": "摇篮"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚取"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A person who creates art.",
+          "zh": "艺术家"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Any of a class of organic compounds (such as ethanol) containing a hydroxyl functional group (-OH).",
+          "zh": "酒精"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe.",
+          "zh": "成熟"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A stringed musical instrument with a fretted fingerboard, typically six strings, played by plucking.",
+          "zh": "吉他"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A person of the same age, status, or ability as another specified person.",
+          "zh": "同行"
+        },
+        "level": 5
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "To free (something) from a hindrance or annoyance.",
+          "zh": "摆脱"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_074",
+  "title": "Medium #4",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "C",
+      null,
+      null,
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "M",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "H",
+      "U",
+      null,
+      "A",
+      "N",
+      null,
+      "N"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "N",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      null,
+      "C",
+      "O",
+      null,
+      "V",
+      "I"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "R",
+      "I",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      null,
+      "R",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An area of the earth's surface between two parallels of latitude.",
+          "zh": "气候"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+          "zh": "放弃"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A manner of transporting or lifting something; the grip or position in which something is carried.",
+          "zh": "携带"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+          "zh": "俱乐部"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The part of Earth which is not covered by oceans or other bodies of water.",
+          "zh": "土地"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets.",
+          "zh": "网球"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An opportunity or possibility.",
+          "zh": "机会"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A landed estate.",
+          "zh": "庄园"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "Above or higher than something else, with or without touching it.",
+          "zh": "超过"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
+}

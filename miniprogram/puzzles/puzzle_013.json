@@ -1,52 +1,52 @@
 {
   "id": "puzzle_013",
-  "title": "Medium #1",
+  "title": "Medium #3",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
       null,
       null,
-      "A",
-      "B",
-      "S",
-      null,
-      "F"
-    ],
-    [
-      "I",
-      "N",
-      "I",
+      "M",
+      "E",
       "T",
-      "I",
-      "A",
-      "L"
+      null,
+      "H"
     ],
     [
-      null,
+      "P",
+      "R",
       "O",
-      "D",
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    [
       null,
-      "T",
-      "W",
+      "U",
+      "M",
+      null,
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "F",
+      "R",
+      null,
+      null,
+      null,
+      "L",
       "O"
     ],
     [
-      "S",
-      "V",
-      null,
-      null,
-      null,
-      "A",
-      "W"
-    ],
-    [
-      "T",
-      "E",
-      "A",
-      null,
       "L",
-      "R",
+      "A",
+      "P",
+      null,
+      "B",
+      "A",
       null
     ],
     [
@@ -59,11 +59,11 @@
       "Y"
     ],
     [
-      "R",
+      "T",
       null,
-      "M",
-      "A",
-      "P",
+      "O",
+      "L",
+      "D",
       null,
       null
     ]
@@ -71,72 +71,72 @@
   "prefilled": {
     "easy": [
       [
-        0,
-        2
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        5,
+        1,
         0
       ],
       [
         3,
-        6
+        0
       ],
       [
-        2,
-        6
+        4,
+        2
       ],
       [
-        2,
-        1
+        0,
+        4
       ],
       [
         3,
         1
       ],
       [
-        1,
+        4,
         4
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        0,
+        2
       ]
     ],
     "medium": [
       [
-        0,
-        2
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        5,
+        1,
         0
       ],
       [
         3,
-        6
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        3,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        2
+        1,
+        0
       ],
       [
-        6,
-        4
+        3,
+        0
       ]
     ]
   },
@@ -147,28 +147,28 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The first letter of a word or a name.",
-          "zh": "最初的"
+          "en": "An oath or affirmation; a vow",
+          "zh": "承诺"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 9,
         "row": 2,
         "col": 4,
         "clue": {
-          "en": "The digit/figure 2.",
-          "zh": "二"
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         },
         "level": 1
       },
@@ -177,8 +177,8 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
         },
         "level": 1
       },
@@ -197,8 +197,8 @@
         "row": 6,
         "col": 2,
         "clue": {
-          "en": "A visual representation of an area, whether real or imaginary.",
-          "zh": "地图"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         },
         "level": 1
       }
@@ -209,8 +209,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
+          "en": "(familiar) mother.",
+          "zh": "妈妈"
         },
         "level": 1
       },
@@ -219,8 +219,8 @@
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "Subsidence of the roof of a coal mine.",
-          "zh": "坐"
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
         },
         "level": 1
       },
@@ -229,8 +229,8 @@
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A movement in people or things with a particular way in large numbers or amounts",
-          "zh": "流动"
+          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+          "zh": "英雄"
         },
         "level": 1
       },
@@ -239,18 +239,18 @@
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
-          "zh": "小说"
+          "en": "A person from the countryside; a rustic.",
+          "zh": "乡村的"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 7,
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
-          "zh": "奖"
+          "en": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.",
+          "zh": "沙拉"
         },
         "level": 1
       },
@@ -259,8 +259,8 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
+          "en": "An area of level ground.",
+          "zh": "平坦的"
         },
         "level": 1
       },
@@ -269,8 +269,8 @@
         "row": 4,
         "col": 2,
         "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         },
         "level": 1
       },
@@ -279,8 +279,8 @@
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
-          "zh": "圈"
+          "en": "Of poor quality or a low standard; not good.",
+          "zh": "坏的"
         },
         "level": 1
       }
@@ -288,5 +288,5 @@
   },
   "difficulty": "medium",
   "gridSize": 7,
-  "exam": "senior_high"
+  "exam": "junior_high"
 }

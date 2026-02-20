@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_099",
+  "title": "Easy #9",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "O",
+      null,
+      null,
+      null,
+      "T"
+    ],
+    [
+      "F",
+      "E",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "F",
+      null,
+      "I",
+      null,
+      "U"
+    ],
+    [
+      "E",
+      "X",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      null,
+      null,
+      "H"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.",
+          "zh": "发烧"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To demand and enforce the payment or performance of, sometimes in a forcible or imperious way.",
+          "zh": "精确的"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To present or proffer something for someone to accept or reject.",
+          "zh": "提供"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "True facts, genuine depiction or statements of reality.",
+          "zh": "真相"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

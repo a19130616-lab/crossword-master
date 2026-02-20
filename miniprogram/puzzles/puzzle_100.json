@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_100",
+  "title": "Easy #10",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      null,
+      null,
+      null,
+      "C"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      null,
+      "A",
+      null,
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "K"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A hard substance made of the limestone skeletons of marine polyps.",
+          "zh": "珊瑚"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Ability to do or undergo something.",
+          "zh": "力量"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The breadth, depth or reach of a subject; a domain.",
+          "zh": "范围"
+        },
+        "level": 5
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "One who occupationally works with records, accounts, letters, etc.; an office worker.",
+          "zh": "职员"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
+          "zh": "生的"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

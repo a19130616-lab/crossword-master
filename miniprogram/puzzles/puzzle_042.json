@@ -1,146 +1,142 @@
 {
   "id": "puzzle_042",
-  "title": "Medium #3",
+  "title": "Medium #2",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
       null,
-      "B",
+      null,
+      "H",
       "I",
       "T",
       null,
-      "R",
-      "T"
-    ],
-    [
-      "E",
-      null,
-      "N",
-      "E",
-      "W",
-      "E",
-      "R"
-    ],
-    [
-      "F",
-      "A",
-      "K",
-      "E",
-      null,
-      "T",
-      "A"
-    ],
-    [
-      "F",
-      "H",
-      null,
-      "N",
-      null,
-      "R",
-      "U"
-    ],
-    [
-      "E",
-      "E",
-      null,
-      "A",
-      "T",
-      "O",
       "M"
     ],
     [
-      "C",
-      "A",
       "R",
-      "G",
-      "O",
-      null,
-      "A"
+      "E",
+      "A",
+      "L",
+      "I",
+      "T",
+      "Y"
     ],
     [
+      null,
+      "X",
       "T",
-      "D",
+      null,
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "C",
+      "T",
+      null,
+      null,
+      null,
+      "M",
+      "H"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      null,
+      "R",
+      "O",
+      null
+    ],
+    [
+      "F",
+      "A",
+      "I",
+      "L",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "E",
       null,
       "E",
-      "Y",
-      "E",
+      "G",
+      "G",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        3
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        1,
+        2,
         6
+      ],
+      [
+        5,
+        1
       ],
       [
         0,
         3
       ],
       [
-        5,
-        4
+        3,
+        5
       ],
       [
-        2,
+        0,
         2
-      ],
-      [
-        1,
-        3
       ],
       [
         4,
         0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        5
       ]
     ],
     "medium": [
       [
-        6,
-        3
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        1,
+        2,
         6
+      ],
+      [
+        5,
+        1
       ],
       [
         0,
         3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        6,
-        3
+        2,
+        6
       ],
       [
-        4,
-        5
-      ],
-      [
-        1,
-        4
+        5,
+        1
       ]
     ]
   },
@@ -149,138 +145,148 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A small piece, part, or quantity of something.",
-          "zh": "少量"
-        },
-        "level": 1
-      },
-      {
-        "num": 7,
-        "row": 1,
         "col": 2,
         "clue": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "Something which is not genuine, or is presented fraudulently.",
-          "zh": "伪造的"
-        },
-        "level": 6
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        },
-        "level": 4
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "Freight carried by a ship, aircraft, or motor vehicle.",
-          "zh": "货物"
-        },
-        "level": 5
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
+          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
+          "zh": "打"
         },
         "level": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
-          "zh": "墨水"
-        },
-        "level": 1
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Brushwood for fences and hedges.",
-          "zh": "十几岁的"
-        },
-        "level": 1
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "Past fashions or trends.",
-          "zh": "复古的"
-        },
-        "level": 6
       },
       {
         "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "Any serious injury to the body, often resulting from violence or an accident.",
-          "zh": "创伤"
-        },
-        "level": 7
-      },
-      {
-        "num": 6,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The result or outcome of a cause.",
-          "zh": "影响"
+          "en": "The state of being actual or real.",
+          "zh": "现实"
         },
         "level": 4
       },
       {
         "num": 9,
         "row": 2,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "In or to the front; in advance; onward.",
-          "zh": "前面"
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
         },
         "level": 4
       },
       {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      },
+      {
         "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "State or condition of not meeting a desirable or intended objective, opposite of success.",
+          "zh": "失败"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+          "zh": "帽子"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
+          "zh": "锡"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
+          "zh": "额外的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An abnormal growth; differential diagnosis includes abscess, metaplasia, and neoplasia.",
+          "zh": "瘤"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A convenience store, originally one that sold coffee and similar basic items.",
+          "zh": "咖啡店"
+        },
+        "level": 5
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
         "row": 4,
         "col": 4,
         "clue": {
-          "en": "Something to play with, especially as intended for use by a child.",
-          "zh": "玩具"
+          "en": "A partial covering for a floor.",
+          "zh": "地毯"
         },
-        "level": 1
+        "level": 5
       }
     ]
   },
   "difficulty": "medium",
   "gridSize": 7,
-  "exam": "graduate"
+  "exam": "senior_high"
 }

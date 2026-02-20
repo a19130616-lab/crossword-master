@@ -1,206 +1,102 @@
 {
   "id": "puzzle_032",
-  "title": "Medium #2",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      "O",
-      null,
-      null,
       "S",
       null,
       null,
-      "D"
+      null,
+      "M"
     ],
     [
       "P",
-      "R",
-      "O",
-      "P",
-      "O",
-      "S",
-      "E"
+      "I",
+      "A",
+      "N",
+      "O"
     ],
     [
       "E",
       null,
-      "R",
-      "A",
-      "P",
+      "I",
       null,
-      "L"
+      "N"
     ],
     [
-      "R",
-      "E",
-      "D",
-      null,
-      "E",
-      "Y",
-      "E"
-    ],
-    [
-      "A",
-      null,
-      "E",
-      "A",
-      "R",
-      null,
+      "L",
+      "I",
+      "M",
+      "I",
       "T"
     ],
     [
-      "T",
-      "E",
-      "R",
-      "R",
-      "A",
-      "C",
-      "E"
-    ],
-    [
-      "E",
+      "L",
       null,
       null,
-      "M",
       null,
-      null,
-      "D"
+      "H"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        5
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        5,
+        1,
         0
       ],
       [
-        4,
-        2
-      ],
-      [
         1,
-        4
-      ],
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        4,
-        6
+        3
       ],
       [
         4,
         0
+      ],
+      [
+        3,
+        3
       ]
     ],
     "medium": [
       [
-        3,
-        5
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        5,
+        1,
         0
       ],
       [
-        4,
-        2
-      ],
-      [
         1,
-        4
+        3
       ]
     ],
     "hard": [
       [
-        3,
-        5
-      ],
-      [
-        3,
-        4
+        1,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An objective or aim.",
-          "zh": "提出"
+          "en": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",
+          "zh": "钢琴"
         },
-        "level": 5
+        "level": 1
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "A sharp blow with something hard.",
-          "zh": "说唱"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
-          "zh": "红色的"
+          "en": "A restriction; a bound beyond which one may not go.",
+          "zh": "限制"
         },
-        "level": 1
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A platform that extends outwards from a building.",
-          "zh": "阳台"
-        },
-        "level": 6
+        "level": 4
       }
     ],
     "down": [
@@ -209,64 +105,34 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
-          "zh": "操作"
+          "en": "Words or a formula supposed to have magical powers.",
+          "zh": "拼写"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
+          "en": "A period into which a year is divided, historically based on the phases of the moon.",
+          "zh": "月"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 3,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "To remove, get rid of or erase, especially written or printed material, or data on a computer or other device.",
-          "zh": "已删除"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "The arrangement or disposition of people or things according to a particular sequence or method.",
-          "zh": "命令"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "zh": "目的"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "cet6"
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "senior_high"
 }

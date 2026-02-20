@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_155",
+  "title": "Easy #5",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "Y",
+      "E",
+      "N",
+      null
+    ],
+    [
+      "A",
+      "A",
+      null,
+      "E",
+      "M"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "H",
+      "H",
+      null,
+      "V",
+      "N"
+    ],
+    [
+      null,
+      "T",
+      "I",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+          "zh": "分数"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A slick and light ship for making pleasure trips or racing on water, having sails but often motor-powered. At times used as a residence offshore on a dock.",
+          "zh": "游艇"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
+          "zh": "神经"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

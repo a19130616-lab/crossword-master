@@ -1,0 +1,270 @@
+{
+  "id": "puzzle_103",
+  "title": "Medium #3",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      "G",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      null,
+      "D",
+      "O",
+      "E",
+      null,
+      "L"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      null,
+      "V",
+      "I",
+      "A"
+    ],
+    [
+      "R",
+      null,
+      "A",
+      "G",
+      "E",
+      null,
+      "T"
+    ],
+    [
+      "E",
+      "N",
+      "L",
+      "A",
+      "R",
+      "G",
+      "E"
+    ],
+    [
+      "D",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "D"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+          "zh": "科学"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
+          "zh": "母鹿"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To make larger.",
+          "zh": "放大"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To make sure and secure.",
+          "zh": "保证"
+        }
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To tell in a descriptive way.",
+          "zh": "有关的"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "At no time; on no occasion; in no circumstance.",
+          "zh": "绝不"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
+          "zh": "气体"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

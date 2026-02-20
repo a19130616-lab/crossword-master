@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_206",
+  "title": "Hard #6",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "R",
+      null,
+      "F",
+      "A",
+      "N",
+      null,
+      null,
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "I",
+      "N",
+      null,
+      "I",
+      "N",
+      "N"
+    ],
+    [
+      null,
+      "I",
+      "O",
+      null,
+      "T",
+      "A",
+      "N",
+      null,
+      "S"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      "R",
+      "U",
+      null,
+      "H",
+      "T",
+      null,
+      "C"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "S",
+      "E",
+      null,
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "O",
+      null,
+      "S",
+      "E",
+      "A",
+      null,
+      "N",
+      "O",
+      null
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      null,
+      "R",
+      "A",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      "N",
+      "D",
+      null,
+      "N",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
+          "zh": "扇子"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A cloth woven from silk, nylon or polyester with a glossy surface and a dull back. (The same weaving technique applied to cotton produces cloth termed sateen).",
+          "zh": "缎"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A yellowish-brown colour.",
+          "zh": "晒黑"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Various sounds, usually unwanted or unpleasant.",
+          "zh": "噪音"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
+          "zh": "垫"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A number representing a comparison between two named things.",
+          "zh": "比率"
+        },
+        "level": 5
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Condensed water falling from a cloud.",
+          "zh": "雨"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        },
+        "level": 7
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A small arthropod animal that has six legs and a body divided into three main parts.",
+          "zh": "昆虫"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Someone who travels for pleasure rather than for business.",
+          "zh": "游客"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A very short period of time; a moment.",
+          "zh": "立即的"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The complete genetic information (either DNA or, in some viruses, RNA) of an organism.",
+          "zh": "基因组"
+        },
+        "level": 9
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",
+          "zh": "硬币"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

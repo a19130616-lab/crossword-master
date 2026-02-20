@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_127",
+  "title": "Easy #7",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "A",
+      "G",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      null,
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      null,
+      "W"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "W",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+          "zh": "类型"
+        },
+        "level": 7
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To move or develop something.",
+          "zh": "画了"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+          "zh": "类型"
+        },
+        "level": 7
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To move or develop something.",
+          "zh": "画了"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

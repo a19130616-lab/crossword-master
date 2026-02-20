@@ -1,350 +1,196 @@
 {
   "id": "puzzle_043",
-  "title": "Hard #1",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #3",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "M",
-      null,
-      "J",
-      "A",
-      "Y",
-      null,
-      null,
-      "H"
-    ],
-    [
-      "N",
-      "E",
-      "V",
-      "E",
       "R",
       null,
-      "T",
+      "R",
+      null,
+      null,
+      "Y"
+    ],
+    [
+      "D",
+      "I",
+      "S",
       "E",
+      "A",
+      "S",
       "E"
     ],
     [
       null,
-      "T",
+      "B",
       "I",
+      "G",
       null,
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "B",
+      null,
+      "U",
+      "S",
       "E",
-      "A",
-      "R",
-      null,
       "R"
     ],
     [
-      "P",
-      "A",
-      "L",
-      null,
-      "A",
-      "B",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      "U",
+      "E",
+      "O",
       null,
       "L",
       "I",
-      null,
-      "S",
-      "S",
-      null,
-      "I"
-    ],
-    [
-      "B",
-      "R",
-      "A",
-      "N",
-      "D",
-      null,
-      "T",
-      "O",
-      "N"
-    ],
-    [
-      "L",
-      null,
-      "G",
-      "N",
-      "U",
-      null,
       "E",
-      "V",
       null
     ],
     [
-      "I",
-      "C",
       "E",
-      null,
-      "C",
-      "L",
-      "E",
+      "N",
+      "H",
       "A",
-      "R"
+      "N",
+      "C",
+      "E"
     ],
     [
-      "C",
-      null,
-      null,
-      "S",
       "K",
-      "Y",
       null,
-      "L",
+      null,
+      "R",
+      null,
+      "H",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        5
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
-        8
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        1,
+        2,
         3
       ],
       [
         3,
-        5
+        3
       ],
       [
         3,
-        1
-      ],
-      [
-        8,
-        5
+        4
       ],
       [
         2,
-        1
+        6
       ],
       [
-        6,
+        5,
+        0
+      ],
+      [
+        1,
         2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        3
       ]
     ],
     "medium": [
       [
-        4,
-        5
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        8,
-        7
-      ],
-      [
-        5,
+        2,
         3
       ],
       [
-        4,
-        8
+        3,
+        3
       ],
       [
-        7,
-        1
+        3,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        5
-      ],
-      [
-        7,
-        0
+        2,
+        3
       ],
       [
         3,
-        2
-      ],
-      [
-        1,
-        1
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Any one of the numerous species of birds belonging to several genera within the family Corvidae, including Garrulus, Cyanocitta, Aphelocoma, Perisoreus, Cyanocorax, Gymnorhinus, Cyanolyca, Ptilostomus, and Calocitta, allied to the crows, but smaller, more graceful in form, often handsomely coloured, usually having a crest, and often noisy.",
-          "zh": "松鸦"
-        },
-        "level": 7
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "At no time; on no occasion; in no circumstance.",
-          "zh": "绝不"
+          "en": "An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.",
+          "zh": "疾病"
         },
         "level": 1
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
-          "zh": "球座"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
         "row": 2,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "Someone or something that is large in stature",
+          "zh": "大的"
         },
         "level": 1
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
-          "zh": "朋友"
-        },
-        "level": 6
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
-          "zh": "虐待"
-        },
-        "level": 4
-      },
-      {
-        "num": 16,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A conflagration; a flame.",
-          "zh": "品牌"
-        },
-        "level": 4
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
-          "zh": "吨"
-        },
-        "level": 1
-      },
-      {
-        "num": 20,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
-        },
-        "level": 6
-      },
-      {
-        "num": 22,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        },
-        "level": 1
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
-          "zh": "清除"
-        },
-        "level": 1
-      },
-      {
-        "num": 25,
-        "row": 8,
         "col": 3,
         "clue": {
-          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
-          "zh": "天空"
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
         },
         "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To lift, raise up.",
+          "zh": "提高"
+        },
+        "level": 5
       }
     ],
     "down": [
@@ -353,104 +199,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
+          "en": "A long, narrow strip of timber bent and bolted longitudinally to the ribs of a vessel, to hold them in position and give rigidity to the framework.",
+          "zh": "丝带"
         },
-        "level": 6
+        "level": 5
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A member of the British Army (as opposed to a member of the Territorial Army or Reserve).",
+          "zh": "常规的"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 6,
         "clue": {
-          "en": "A measure of the extent of a surface; it is measured in square units.",
-          "zh": "区域"
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
         },
         "level": 1
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "Within this content, context, or thing.",
-          "zh": "在此处"
-        },
-        "level": 7
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 5,
         "clue": {
-          "en": "A rural habitation of size between a hamlet and a town.",
-          "zh": "村庄"
+          "en": "The faculty of uttering articulate sounds or words; the ability to speak or to use vocalizations to communicate.",
+          "zh": "演讲"
         },
         "level": 1
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
+        "num": 9,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals, or for public uses; one who is intrusted with property for the benefit of another.",
-          "zh": "受托人"
+          "en": "The operation of navigating through a stream.",
+          "zh": "寻找"
         },
-        "level": 6
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
-        },
-        "level": 4
+        "level": 1
       },
       {
         "num": 11,
         "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The people in general, regardless of membership of any particular group.",
-          "zh": "民众"
-        },
-        "level": 1
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "Any establishment where travellers can procure lodging, food, and drink.",
-          "zh": "客栈"
-        },
-        "level": 4
-      },
-      {
-        "num": 17,
-        "row": 5,
         "col": 4,
         "clue": {
-          "en": "To quickly lower the head or body in order to prevent it from being struck by something.",
-          "zh": "鸭子"
+          "en": "A violation of God's will or religious law.",
+          "zh": "罪"
         },
-        "level": 1
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "An elongated round shape resembling an egg or ellipse.",
-          "zh": "椭圆形"
-        },
-        "level": 4
+        "level": 5
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "graduate"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "senior_high"
 }

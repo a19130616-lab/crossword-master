@@ -1,128 +1,310 @@
 {
   "id": "puzzle_021",
-  "title": "Easy #3",
-  "rows": 5,
-  "cols": 5,
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
-      "I",
       null,
       "P",
-      "O",
+      null,
+      null,
+      null,
+      null,
+      "F",
+      null,
       "S"
     ],
     [
-      "S",
-      "K",
+      "T",
+      "O",
+      "P",
       "I",
-      "R",
+      "C",
+      null,
+      "A",
+      "C",
       "T"
     ],
     [
-      "S",
-      "I",
       null,
-      "A",
-      "E"
+      "O",
+      "O",
+      null,
+      "H",
+      "O",
+      "N",
+      "O",
+      "R"
     ],
     [
-      "U",
-      "N",
-      "C",
+      "P",
+      "R",
+      "O",
+      null,
+      "I",
+      "A",
+      null,
+      "W",
+      "I"
+    ],
+    [
+      "H",
+      null,
       "L",
+      "U",
+      "C",
+      "K",
+      "Y",
+      null,
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      null,
+      "S",
+      "K",
+      null,
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
+      "A",
+      "I",
+      null
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      null,
+      "N",
+      "E",
+      "R",
+      "V",
       "E"
     ],
     [
       "E",
-      "G",
-      "G",
       null,
-      "L"
+      "D",
+      null,
+      null,
+      null,
+      null,
+      "E",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        4
-      ],
-      [
-        1,
+        4,
         3
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        1,
-        4
       ],
       [
         0,
-        3
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
       ]
     ],
     "medium": [
       [
-        3,
-        4
-      ],
-      [
-        1,
+        4,
         3
       ],
       [
+        0,
+        1
+      ],
+      [
         1,
+        2
+      ],
+      [
+        6,
         0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        7,
+        8
       ]
     ],
     "hard": [
       [
-        3,
-        4
+        4,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Infected by the HIV virus",
-          "zh": "位置"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
-          "zh": "裙子"
+          "en": "Subject; theme; a category or general area of interest.",
+          "zh": "话题"
         },
         "level": 1
       },
       {
-        "num": 9,
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Recognition of importance or value; respect; veneration (of someone, usually for being morally upright or successful)",
+          "zh": "荣誉"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The brother or brother-in-law of one’s parent.",
-          "zh": "叔叔"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         },
         "level": 1
       },
       {
-        "num": 11,
+        "num": 15,
         "row": 4,
-        "col": 0,
+        "col": 2,
+        "clue": {
+          "en": "(of people) Favoured by luck; fortunate; having good success or good fortune",
+          "zh": "幸运的"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
         "clue": {
           "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
           "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
+          "zh": "神经"
         },
         "level": 1
       }
@@ -131,46 +313,136 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An important topic or problem for debate or discussion.",
-          "zh": "问题"
+          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
+          "zh": "贫穷的"
         },
-        "level": 5
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
+          "zh": "扇子"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 8,
         "clue": {
-          "en": "A spoken test or examination, particularly in a language class.",
-          "zh": "口服"
+          "en": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+          "zh": "细绳"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 4,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
-          "zh": "钢"
+          "en": "A small and rather deep collection of (usually) fresh water, as one supplied by a spring, or occurring in the course of a stream; a reservoir for water.",
+          "zh": "水池"
         },
         "level": 1
       },
       {
         "num": 6,
         "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A domestic fowl, Gallus gallus, especially when young.",
+          "zh": "鸡"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
+          "zh": "奶牛"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A short written or spoken expression.",
+          "zh": "短语"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
         "col": 1,
         "clue": {
-          "en": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
-          "zh": "国王"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To freely transfer the possession of something to someone.",
+          "zh": "给"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "cet4"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "junior_high"
 }

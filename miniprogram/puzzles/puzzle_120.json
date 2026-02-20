@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_120",
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "R",
+      null,
+      null,
+      "R",
+      null,
+      "P",
+      "B"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "D",
+      null,
+      "A",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      null,
+      "A",
+      "D",
+      null,
+      null,
+      "D",
+      null,
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "N",
+      null,
+      "S",
+      "W",
+      "I",
+      "S",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "T",
+      null,
+      "O",
+      null,
+      "P",
+      null
+    ],
+    [
+      null,
+      "M",
+      "O",
+      "O",
+      "D",
+      null,
+      null,
+      "O",
+      null
+    ],
+    [
+      "B",
+      "A",
+      null,
+      "L",
+      "I",
+      "V",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "E",
+      null,
+      "A",
+      "N",
+      "T",
+      "I"
+    ],
+    [
+      "E",
+      "E",
+      null,
+      "N",
+      null,
+      "T",
+      "D",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To part, separate or divide.",
+          "zh": "棚"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A type of hard cheese with holes, originally from Switzerland.",
+          "zh": "瑞士奶酪"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A mental or emotional state, composure.",
+          "zh": "情绪"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. It is responsible for thousands of biochemical reactions.",
+          "zh": "肝"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        },
+        "level": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+          "zh": "收音机"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "An official document normally used for international journeys, which proves the identity and nationality of the person for whom it was issued.",
+          "zh": "护照"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An art or craft object made by hand.",
+          "zh": "手工制作的"
+        },
+        "level": 7
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To take illegally, or without the owner's permission, something owned by someone else.",
+          "zh": "被盗"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A large tub, such as is used for making wine or for tanning.",
+          "zh": "大桶"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

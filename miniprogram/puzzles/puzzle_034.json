@@ -1,426 +1,138 @@
 {
   "id": "puzzle_034",
-  "title": "Hard #1",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      null,
-      "G",
-      null,
-      null,
-      "H",
-      null,
-      null,
-      "R"
-    ],
-    [
       "P",
-      "E",
-      "N",
       null,
-      "V",
+      null,
+      null,
+      "S"
+    ],
+    [
       "A",
-      "L",
-      "V",
-      "E"
-    ],
-    [
-      null,
-      "T",
-      "U",
-      "N",
-      "E",
-      "R",
-      null,
-      "E",
-      "A"
-    ],
-    [
+      "S",
       "S",
       "E",
-      null,
-      "A",
-      "T",
-      "T",
-      "E",
-      "N",
-      "D"
-    ],
-    [
-      "W",
-      "R",
-      "I",
-      "T",
-      "E",
-      null,
-      "A",
-      "T",
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "J",
-      "U",
-      "R",
-      "Y",
-      null,
-      "U",
-      "R"
+      "T"
     ],
     [
       "T",
-      "A",
       null,
-      "R",
-      "A",
-      "D",
-      "A",
-      "R",
-      null
+      "K",
+      null,
+      "U"
     ],
     [
       "C",
-      "L",
+      "H",
+      "I",
       "E",
-      "A",
-      "N",
-      null,
-      "S",
-      "E",
-      "N"
+      "F"
     ],
     [
       "H",
       null,
       null,
-      "L",
       null,
-      null,
-      "H",
-      null,
-      null
+      "F"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
+        4,
+        0
+      ],
+      [
+        2,
         4
       ],
       [
-        0,
-        8
-      ],
-      [
-        6,
-        6
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        6,
+        2,
         0
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        1
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        5,
-        3
       ],
       [
         2,
         2
-      ],
-      [
-        4,
-        1
       ]
     ],
     "medium": [
       [
-        5,
-        4
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        6,
-        6
-      ],
-      [
         4,
-        3
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        6,
         0
       ],
       [
-        5,
-        0
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        1,
-        5
+        2,
+        4
       ]
     ],
     "hard": [
       [
-        5,
-        4
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        6,
-        6
-      ],
-      [
         4,
-        3
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
-          "zh": "钢笔"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "A device that controls the flow of a gas or fluid through a pipe.",
-          "zh": "阀门"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
-        },
-        "level": 6
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To listen to (something or someone); to pay attention to; regard; heed.",
-          "zh": "出席"
-        },
-        "level": 4
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The act or style of writing.",
-          "zh": "写"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        },
-        "level": 6
-      },
-      {
-        "num": 17,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "Damage to the body of a human or animal.",
-          "zh": "受伤"
-        },
-        "level": 4
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
-          "zh": "雷达"
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
         },
         "level": 5
       },
       {
-        "num": 23,
-        "row": 7,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "Removal of dirt.",
-          "zh": "干净的"
+          "en": "A leader or head of a group of people, organisation, etc.",
+          "zh": "首席"
         },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
-          "zh": "森"
-        },
-        "level": 6
+        "level": 4
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "A piece of cloth, or other suitable material, sewed or otherwise fixed upon a garment to repair or strengthen it, especially upon an old garment to cover a hole.",
+          "zh": "修补"
         },
-        "level": 6
+        "level": 5
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "A male deer, especially the male of the red deer after his fifth year.",
-          "zh": "公鹿"
-        },
-        "level": 7
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A person who reads",
-          "zh": "读者"
-        },
-        "level": 5
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "One who lives forever; an immortal.",
-          "zh": "永恒"
-        },
-        "level": 6
-      },
-      {
-        "num": 6,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "A person with long experience of a particular activity.",
-          "zh": "老将"
+          "en": "Miscellaneous items or objects; (with possessive) personal effects.",
+          "zh": "东西"
         },
         "level": 5
       },
       {
-        "num": 7,
+        "num": 4,
         "row": 1,
-        "col": 7,
+        "col": 2,
         "clue": {
-          "en": "A risky or daring undertaking or journey.",
-          "zh": "创业"
-        },
-        "level": 5
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "A native inhabitant of a place, country etc.",
-          "zh": "自然的"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
-          "zh": "转变"
-        },
-        "level": 4
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
         },
         "level": 4
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "cet6"
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "senior_high"
 }

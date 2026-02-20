@@ -1,262 +1,394 @@
 {
   "id": "puzzle_023",
-  "title": "Medium #2",
-  "rows": 7,
-  "cols": 7,
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
-      "L",
+      null,
+      "P",
+      null,
       null,
       "S",
       null,
-      null,
-      "G"
+      "C",
+      "D"
     ],
     [
-      "B",
-      "E",
-      "L",
       "I",
-      "E",
-      "V",
-      "E"
-    ],
-    [
-      null,
-      "N",
-      "U",
-      "T",
-      null,
-      "I",
-      "N"
-    ],
-    [
-      "R",
       "D",
+      "E",
+      "A",
       null,
-      "T",
-      "I",
-      "R",
-      "E"
+      "P",
+      "O",
+      "O",
+      "R"
     ],
     [
-      "U",
-      "E",
       null,
       "I",
       "N",
-      "G",
+      null,
+      null,
+      "A",
+      null,
+      "N",
+      "Y"
+    ],
+    [
+      null,
+      "A",
+      null,
+      "S",
+      "O",
+      "C",
+      "K",
+      "S",
       null
     ],
     [
-      "T",
-      "R",
-      "A",
-      "N",
+      "E",
+      "L",
       "S",
+      "E",
+      null,
+      "E",
+      null,
       "I",
+      null
+    ],
+    [
+      null,
+      "O",
+      "N",
+      "C",
+      "E",
+      null,
+      null,
+      "D",
+      null
+    ],
+    [
+      "I",
+      "G",
+      null,
+      "R",
+      "O",
+      "U",
+      "T",
+      "E",
+      null
+    ],
+    [
+      "C",
+      "U",
+      "T",
+      "E",
+      null,
+      "S",
+      "O",
+      "R",
       "T"
     ],
     [
-      "H",
+      "E",
+      "E",
       null,
+      "T",
       null,
-      "G",
-      null,
+      "E",
       "N",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
         3,
         5
       ],
       [
-        1,
-        2
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        0,
+        8,
         6
       ],
       [
-        2,
+        1,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
         1
       ],
       [
         1,
-        1
+        8
       ],
       [
-        6,
-        3
-      ],
-      [
-        5,
-        3
+        4,
+        5
       ]
     ],
     "medium": [
       [
+        8,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
         3,
         5
       ],
       [
-        1,
-        2
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        0,
+        8,
         6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        7
       ]
     ],
     "hard": [
       [
-        3,
-        5
+        8,
+        0
       ],
       [
-        1,
+        2,
         2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        3,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
-          "zh": "相信"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         },
         "level": 1
       },
       {
         "num": 7,
-        "row": 2,
-        "col": 1,
+        "row": 1,
+        "col": 5,
         "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
+          "zh": "贫穷的"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 10,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "To become sleepy or weary.",
-          "zh": "胎"
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜子"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         },
         "level": 1
       },
       {
         "num": 13,
-        "row": 4,
-        "col": 3,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 14,
-        "row": 5,
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A course or way which is traveled or passed.",
+          "zh": "路线"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
         "col": 0,
         "clue": {
-          "en": "The act of passing over, across, or through something.",
-          "zh": "过境"
+          "en": "Possessing physical features, behaviors, personality traits or other properties that are mainly attributed to infants and small or cuddly animals; e.g. fair, dainty, round, and soft physical features, disproportionately large eyes and head, playfulness, fragility, helplessness, curiosity or shyness, innocence, affectionate behavior.",
+          "zh": "可爱的"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A general type.",
+          "zh": "种类"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "One who lends, especially money; specifically, a bank or other entity that specializes in granting loans.",
-          "zh": "贷方"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 5,
         "clue": {
-          "en": "A period during which one is seated for a specific purpose.",
-          "zh": "坐着"
+          "en": "A continuous area or expanse that is free, available, or unoccupied.",
+          "zh": "空间"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
-          "zh": "基因"
+          "en": "To think about seriously.",
+          "zh": "考虑"
         },
-        "level": 5
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 5,
+        "col": 1,
         "clue": {
-          "en": "A person who has never had sexual intercourse, or sometimes, one who has never engaged in any sexual activity at all.",
-          "zh": "处女"
+          "en": "A conversation or other form of discourse between two or more individuals.",
+          "zh": "对话"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 9,
+        "num": 10,
         "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A piece of knowledge that is hidden and intended to be kept hidden.",
+          "zh": "秘密"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
-          "zh": "怜悯"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 4,
+        "num": 17,
+        "row": 6,
+        "col": 5,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
+          "en": "The act of using.",
+          "zh": "使用"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+          "zh": "吨"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "cet4"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "junior_high"
 }

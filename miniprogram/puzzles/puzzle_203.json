@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_203",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "V"
+    ],
+    [
+      "T",
+      "O",
+      "P",
+      null,
+      "C",
+      "U",
+      "R",
+      "V",
+      "E"
+    ],
+    [
+      null,
+      "F",
+      "A",
+      "V",
+      "O",
+      "R",
+      null,
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "F",
+      null,
+      "I",
+      "N",
+      "F",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      null,
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "J",
+      "U",
+      "R",
+      "Y",
+      null,
+      "U",
+      "X"
+    ],
+    [
+      "E",
+      "S",
+      null,
+      "S",
+      "O",
+      "L",
+      "A",
+      "R",
+      null
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
+      null,
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      "D",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "E",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A gentle bend, such as in a road.",
+          "zh": "曲线"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+          "zh": "青睐"
+        },
+        "level": 5
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A very young human being, from birth to somewhere between six months and two years of age, needing almost constant care and/or attention.",
+          "zh": "婴儿"
+        },
+        "level": 5
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+          "zh": "心"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Damage to the body of a human or animal.",
+          "zh": "受伤"
+        },
+        "level": 4
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Of or pertaining to the sun; proceeding from the sun",
+          "zh": "太阳的"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A position on a scale of amount, quantity, extent, or quality.",
+          "zh": "等级"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Waves that break on an ocean shoreline.",
+          "zh": "冲浪"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The highest point of something.",
+          "zh": "顶点"
+        },
+        "level": 9
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The act of offending:",
+          "zh": "罪行"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Influence or authority over something.",
+          "zh": "控制"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A risky or daring undertaking or journey.",
+          "zh": "创业"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
+          "zh": "病毒"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Anything that protects or defends; defense; shelter; protection.",
+          "zh": "盾"
+        },
+        "level": 5
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

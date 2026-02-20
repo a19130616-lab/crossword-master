@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_174",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "I",
+      null,
+      null,
+      "K",
+      null,
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "H",
+      null,
+      "N",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      null,
+      "E",
+      "E",
+      null,
+      null,
+      "O",
+      null,
+      "T",
+      "L"
+    ],
+    [
+      null,
+      "G",
+      null,
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
+      null,
+      "N",
+      null,
+      "O",
+      null
+    ],
+    [
+      null,
+      "T",
+      "A",
+      "N",
+      "K",
+      null,
+      null,
+      "G",
+      null
+    ],
+    [
+      "T",
+      "I",
+      null,
+      "A",
+      "N",
+      "I",
+      "M",
+      "E",
+      null
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "N",
+      null,
+      "N",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "Y",
+      "E",
+      null,
+      "T",
+      null,
+      "G",
+      "A",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A unit of length equal to one twelfth of a foot, or exactly 2.54 centimetres.",
+          "zh": "英寸"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The thin, horny plate at the ends of fingers and toes on humans and some other animals.",
+          "zh": "指甲"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
+          "zh": "塔"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The or an act of taking.",
+          "zh": "拿"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A closed container for liquids or gases.",
+          "zh": "坦克"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.",
+          "zh": "日本动画片"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        },
+        "level": 5
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "The digit or figure 9.",
+          "zh": "九"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To perceive the truth or factuality of; to be certain of or that.",
+          "zh": "已知的"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "The chemical element (symbol N) with an atomic number of 7 and atomic weight of 14.0067. It is a colorless and odorless gas.",
+          "zh": "氮"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Refusal or withholding of assents; prohibition, veto",
+          "zh": "消极的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "One who pays a fee (rent) in return for the use of land, buildings, or other property owned by others.",
+          "zh": "租户"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

@@ -1,142 +1,142 @@
 {
   "id": "puzzle_049",
-  "title": "Medium #1",
+  "title": "Medium #9",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
-      "I",
       null,
-      null,
-      "C",
-      null,
-      null,
-      "T"
-    ],
-    [
-      "M",
-      "O",
-      "R",
-      "O",
-      "C",
-      "C",
-      "O"
-    ],
-    [
-      "P",
-      null,
-      "A",
-      "L",
-      "L",
-      null,
-      "U"
-    ],
-    [
-      "R",
-      "O",
       "D",
       null,
-      "A",
-      "I",
-      "R"
-    ],
-    [
-      "O",
+      "L",
       null,
-      "A",
-      "B",
-      "S",
       null,
-      "I"
-    ],
-    [
-      "V",
-      "I",
-      "R",
-      "U",
-      "S",
-      "E",
       "S"
     ],
     [
+      "R",
+      "E",
+      "M",
+      "O",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      null,
+      "F",
+      "O",
+      "G",
+      null,
+      "G",
+      "I"
+    ],
+    [
+      "B",
       "E",
       null,
+      "I",
+      "T",
+      "E",
+      "M"
+    ],
+    [
+      "E",
+      "N",
+      null,
+      "C",
+      "O",
+      "N",
+      null
+    ],
+    [
+      "A",
+      "D",
+      "V",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      null,
+      null,
+      "L",
       null,
       "Y",
-      null,
-      null,
-      "T"
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        4
-      ],
-      [
         3,
-        1
+        3
       ],
       [
-        4,
-        2
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        5,
-        1
+        1,
+        4
       ],
       [
         3,
         5
       ],
       [
-        2,
-        4
-      ],
-      [
         3,
-        6
-      ],
-      [
-        5,
-        3
-      ]
-    ],
-    "medium": [
-      [
-        5,
-        4
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        4,
-        2
+        0
       ],
       [
         6,
         0
       ],
       [
-        5,
-        1
+        6,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        0
       ]
     ],
-    "hard": [
+    "medium": [
       [
-        5,
+        3,
+        3
+      ],
+      [
+        1,
         4
       ],
       [
         3,
-        1
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        3
+      ],
+      [
+        1,
+        4
       ]
     ]
   },
@@ -147,120 +147,110 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A soft leather, made from goatskin, used especially in bookbinding.",
-          "zh": "摩洛哥"
-        },
-        "level": 6
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "(with a possessive pronoun) Everything that one is capable of.",
-          "zh": "全部"
-        },
-        "level": 1
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A straight, round stick, shaft, bar, cane, or staff.",
-          "zh": "杆"
+          "en": "The process of moving, or the fact of being removed.",
+          "zh": "移动"
         },
         "level": 5
       },
       {
-        "num": 9,
-        "row": 3,
-        "col": 4,
+        "num": 7,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "The substance constituting earth's atmosphere, particularly:",
-          "zh": "空气"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "Abdominal muscle.",
-          "zh": "腹肌"
+          "en": "A thick cloud that forms near the ground; the obscurity of such a cloud.",
+          "zh": "多雾路段"
         },
         "level": 4
       },
       {
-        "num": 12,
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A distinct physical object.",
+          "zh": "物品"
+        },
+        "level": 5
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
-          "zh": "病毒"
+          "en": "A forward move; improvement or progression.",
+          "zh": "进步"
         },
-        "level": 6
+        "level": 4
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "To make (something) better; to increase the value or productivity (of something).",
-          "zh": "提升"
+          "en": "To ward off attacks against; to fight to protect; to guard.",
+          "zh": "保卫"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 2,
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A dip on a mountain ridge between two peaks.",
-          "zh": "坳"
+          "en": "In agreement with the principles of logic.",
+          "zh": "逻辑的"
         },
-        "level": 6
+        "level": 5
       },
       {
         "num": 3,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "Someone who travels for pleasure rather than for business.",
-          "zh": "游客"
+          "en": "A type of cigarette substantially longer and thinner than normal cigarettes.",
+          "zh": "苗条的"
         },
-        "level": 1
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
-          "zh": "雷达"
-        },
-        "level": 5
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 5,
         "clue": {
-          "en": "A set or category of things having some property in common; a group of students taught together.",
-          "zh": "班级"
+          "en": "The capacity, condition, or state of acting or of exerting power.",
+          "zh": "机构"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A stroke; a blow.",
+          "zh": "打"
         },
         "level": 1
       },
       {
         "num": 11,
-        "row": 4,
-        "col": 3,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "Something which is bought; a purchase.",
-          "zh": "买"
+          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+          "zh": "吨"
         },
         "level": 1
       }
@@ -268,5 +258,5 @@
   },
   "difficulty": "medium",
   "gridSize": 7,
-  "exam": "toefl"
+  "exam": "senior_high"
 }

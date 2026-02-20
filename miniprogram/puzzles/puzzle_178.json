@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_178",
+  "title": "Hard #8",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "L",
+      null,
+      null,
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "P",
+      null,
+      "B",
+      "E",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      null,
+      "B",
+      "A",
+      "C",
+      "O",
+      "N",
+      null,
+      "P",
+      "O"
+    ],
+    [
+      "I",
+      "S",
+      null,
+      "H",
+      "O",
+      "S",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "A",
+      "L",
+      null,
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "P",
+      "E",
+      "R",
+      null,
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "V",
+      null,
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      null
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "R",
+      null,
+      null,
+      "P",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A police officer.",
+          "zh": "警察"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Any animal other than a human; usually only applied to land vertebrates, especially large or dangerous four-footed ones.",
+          "zh": "兽"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Cured meat from the sides, belly or back of a pig.",
+          "zh": "培根"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "An establishment that provides inexpensive lodging, particularly for young travelers.",
+          "zh": "旅馆"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "(heading) Chemical elements or alloys, and the mines where their ores come from.",
+          "zh": "金属"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Something set apart for a special use.",
+          "zh": "恰当的"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Furniture with a top surface to accommodate a variety of uses.",
+          "zh": "桌子"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 7 or an occurrence thereof.",
+          "zh": "七"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "镜片"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To take illegally, or without the owner's permission, something owned by someone else.",
+          "zh": "被盗"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To notice or view, especially carefully or with attention to detail.",
+          "zh": "观察"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A variable that can hold a single true/false (1/0) value.",
+          "zh": "布尔值"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Type or kind. (Compare race.)",
+          "zh": "物种"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "(authorship) One of the main sections into which the text of a book is divided.",
+          "zh": "章"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To establish or apply by authority.",
+          "zh": "强加"
+        },
+        "level": 5
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The loose part of a coat; the lower part of a garment that plays loosely; a skirt; an apron.",
+          "zh": "圈"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

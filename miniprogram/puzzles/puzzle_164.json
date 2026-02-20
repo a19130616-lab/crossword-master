@@ -1,0 +1,262 @@
+{
+  "id": "puzzle_164",
+  "title": "Medium #4",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "W",
+      null,
+      "E",
+      null,
+      null,
+      "B"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "V",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      "E",
+      "T"
+    ],
+    [
+      "J",
+      "L",
+      null,
+      "N",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      null,
+      "I",
+      "N",
+      "S",
+      null
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "N",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "K",
+      null,
+      null,
+      "G",
+      null,
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "In a heavy manner.",
+          "zh": "重重地"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The digit or figure 9.",
+          "zh": "九"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The physical confine of a river or slough, consisting of a bed and banks.",
+          "zh": "渠道"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Riches; valuable material possessions.",
+          "zh": "财富"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The time of the day between dusk and night, when it gets dark.",
+          "zh": "晚上"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+          "zh": "字节"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "镜片"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A coarse mediaeval coat of defence, especially one made of leather.",
+          "zh": "千斤顶"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

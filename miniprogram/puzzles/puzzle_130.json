@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_130",
+  "title": "Easy #10",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "D",
+      "I",
+      "A",
+      "L",
+      null
+    ],
+    [
+      "I",
+      "N",
+      "N",
+      null,
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      null,
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      null,
+      "T",
+      "Y",
+      "P",
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A graduated, circular scale over which a needle moves to show a measurement (such as speed).",
+          "zh": "拨号"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Displaying or feeling anger.",
+          "zh": "生气的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A tear (in paper, etc.).",
+          "zh": "撕裂"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A graduated, circular scale over which a needle moves to show a measurement (such as speed).",
+          "zh": "拨号"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Displaying or feeling anger.",
+          "zh": "生气的"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A tear (in paper, etc.).",
+          "zh": "撕裂"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

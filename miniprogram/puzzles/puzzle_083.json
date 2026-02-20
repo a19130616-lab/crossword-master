@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_083",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "S",
+      "I",
+      "N",
+      null,
+      null,
+      null,
+      "U"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      null,
+      "U",
+      "P",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      null,
+      "S",
+      "G"
+    ],
+    [
+      "P",
+      "P",
+      null,
+      "A",
+      "L",
+      "T",
+      null,
+      "C",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "S",
+      null,
+      "I",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      null,
+      "S",
+      "E",
+      "T",
+      null,
+      "R",
+      "T"
+    ],
+    [
+      "D",
+      "O",
+      null,
+      "E",
+      "L",
+      "E",
+      "C",
+      "T",
+      null
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "S",
+      "S",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "E",
+      "A",
+      "R",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A violation of God's will or religious law.",
+          "zh": "罪"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
+          "zh": "上"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A tree of the Acer genus, characterised by its usually palmate leaves and winged seeds.",
+          "zh": "枫"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "镜片"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "To put (something) down, to rest.",
+          "zh": "放"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "One chosen or set apart.",
+          "zh": "选"
+        },
+        "level": 4
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Twelve dozen = 144.",
+          "zh": "总的"
+        },
+        "level": 5
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A non-existent or empty value or set of values.",
+          "zh": "无效的"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Requiring immediate attention.",
+          "zh": "紧迫的"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The male monarch or ruler of an empire.",
+          "zh": "皇帝"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "(especially of a woman) fairly short and of slim build.",
+          "zh": "娇小的"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A group of people or vehicles, generally armed, who go with a person or people of importance to safeguard them on a journey or mission.",
+          "zh": "护送"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To change place.",
+          "zh": "通过"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A solemn promise to do something.",
+          "zh": "保证"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

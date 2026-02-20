@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_131",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "B",
+      null,
+      null,
+      "S",
+      "P",
+      "A"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "S",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "O",
+      "U",
+      null,
+      "M",
+      "A",
+      null,
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      null,
+      "N",
+      "L",
+      null,
+      "I",
+      "P"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "L",
+      "Y",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "P",
+      null,
+      null,
+      "A",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        5,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A synthetic material made from organic polymers that can be molded into shape while soft.",
+          "zh": "塑料"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(behaviour) Restriction.",
+          "zh": "预订"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Someone who analyzes.",
+          "zh": "分析师"
+        },
+        "level": 7
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+          "zh": "唇"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this.",
+          "zh": "蓝色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "To receive, especially with a consent, with favour, or with approval.",
+          "zh": "接受"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An entrance, entry point, or means of entry.",
+          "zh": "门户网站"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+          "zh": "闻"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A quick breaking or cracking sound or the action of producing such a sound.",
+          "zh": "折断"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
+          "zh": "签证"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

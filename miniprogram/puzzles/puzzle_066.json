@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_066",
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "M",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "H",
+      null,
+      "D",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "I",
+      "P",
+      null,
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Past tense of make; having been manufactured or created.",
+          "zh": "制成"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A father, a male parent.",
+          "zh": "爸爸"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
+          "zh": "之中"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A tear (in paper, etc.).",
+          "zh": "撕裂"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
+          "zh": "日期"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "zh": "采纳"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
+          "zh": "担"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Solid, firm, and resistant to pressure; not easily broken or bent.",
+          "zh": "难的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
+}

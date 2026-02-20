@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_169",
+  "title": "Medium #9",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "S",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "R",
+      null,
+      "H",
+      "A",
+      "Y",
+      null,
+      "C"
+    ],
+    [
+      "V",
+      "I",
+      "A",
+      null,
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "I",
+      null,
+      "P",
+      "R",
+      "O",
+      null,
+      "I"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N",
+      "U",
+      "P"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "P",
+      null,
+      null,
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The inherent nature of a thing or idea.",
+          "zh": "本质"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "Grass cut and dried for use as animal fodder.",
+          "zh": "干草"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "An intentionally false statement; to say something that is not true.",
+          "zh": "说谎"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The act of cleaning or tidying something.",
+          "zh": "清理"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "An act of being of assistance to someone.",
+          "zh": "服务"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The act of receiving, or the fact of having been received.",
+          "zh": "收据"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The status or condition of something",
+          "zh": "形状"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Originally, the DuPont company trade name for polyamide, a copolymer whose molecules consist of alternating diamine and dicarboxylic acid monomers bonded together; now generically used for this type of polymer.",
+          "zh": "尼龙"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A sharp blow with something hard.",
+          "zh": "说唱"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

@@ -1,68 +1,104 @@
 {
   "id": "puzzle_051",
-  "title": "Medium #3",
-  "rows": 7,
-  "cols": 7,
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
       null,
       "D",
-      "A",
-      "M",
       null,
-      "T"
+      null,
+      "B",
+      null,
+      "F",
+      "W"
     ],
     [
-      "F",
-      "O",
-      "O",
-      "T",
+      "S",
+      "C",
       "A",
-      "G",
+      "N",
+      null,
+      "R",
+      "A",
+      "R",
       "E"
     ],
     [
       null,
-      "P",
-      "E",
-      null,
-      "P",
-      "A",
-      "N"
-    ],
-    [
-      "H",
-      "E",
-      null,
-      null,
-      null,
-      "M",
-      "T"
-    ],
-    [
-      "A",
-      "R",
-      "T",
-      null,
       "O",
       "M",
+      null,
+      null,
+      "O",
+      null,
+      "O",
+      "D"
+    ],
+    [
+      null,
+      "N",
+      null,
+      "B",
+      "R",
+      "O",
+      "W",
+      "N",
       null
     ],
     [
+      "U",
+      "S",
+      "E",
       "R",
-      "A",
-      "I",
-      "L",
-      "W",
-      "A",
-      "Y"
+      null,
+      "K",
+      null,
+      "T",
+      null
     ],
     [
-      "D",
+      null,
+      "T",
+      "O",
+      "O",
+      "L",
+      null,
+      null,
+      "I",
+      null
+    ],
+    [
+      "T",
+      "A",
+      null,
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      null
+    ],
+    [
+      "O",
+      "N",
+      "C",
+      "E",
+      null,
+      "C",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "N",
+      "T",
       null,
       "N",
-      "O",
+      null,
+      "E",
       "N",
       null,
       null
@@ -71,15 +107,19 @@
   "prefilled": {
     "easy": [
       [
-        1,
-        3
-      ],
-      [
-        6,
-        3
+        5,
+        2
       ],
       [
         5,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        7,
         2
       ],
       [
@@ -87,37 +127,53 @@
         2
       ],
       [
-        5,
+        3,
+        3
+      ],
+      [
+        0,
         5
       ],
       [
         6,
-        0
-      ],
-      [
-        2,
         6
       ],
       [
-        4,
+        1,
         1
       ],
       [
+        6,
+        3
+      ],
+      [
         3,
-        0
+        5
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        5
       ]
     ],
     "medium": [
       [
-        1,
-        3
-      ],
-      [
-        6,
-        3
+        5,
+        2
       ],
       [
         5,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        7,
         2
       ],
       [
@@ -125,23 +181,121 @@
         2
       ],
       [
-        5,
+        3,
+        3
+      ],
+      [
+        0,
         5
+      ],
+      [
+        6,
+        6
       ]
     ],
     "hard": [
       [
-        1,
-        3
+        5,
+        2
       ],
       [
-        6,
-        3
+        5,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        7,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Close investigation.",
+          "zh": "扫描"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A scarce or uncommon item.",
+          "zh": "稀有的"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A colour like that of chocolate or coffee.",
+          "zh": "棕色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A mechanical device intended to make a task easier.",
+          "zh": "工具"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.",
+          "zh": "刀"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
+          "zh": "大车"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
       {
         "num": 1,
         "row": 0,
@@ -153,140 +307,88 @@
         "level": 4
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "An amount of film or tape that has been used to record something.",
-          "zh": "镜头"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A wide, flat receptacle used around the house, especially for cooking.",
-          "zh": "平底锅"
-        },
-        "level": 4
-      },
-      {
-        "num": 12,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A transport system using rails used to move passengers or goods.",
-          "zh": "铁路"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "To no extent, in no way.",
-          "zh": "非"
-        },
-        "level": 6
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
+        "num": 2,
         "row": 0,
-        "col": 2,
+        "col": 5,
         "clue": {
-          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
-          "zh": "母鹿"
+          "en": "To use; enjoy; have the full employment of.",
+          "zh": "小溪"
         },
-        "level": 6
+        "level": 5
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 7,
         "clue": {
-          "en": "A visual representation of an area, whether real or imaginary.",
-          "zh": "地图"
+          "en": "The part of a country which borders or faces another country or unsettled region",
+          "zh": "边境"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 4,
         "row": 0,
-        "col": 6,
+        "col": 8,
         "clue": {
-          "en": "A pavilion or portable lodge consisting of skins, canvas, or some strong cloth, stretched and sustained by poles, used for sheltering people from the weather.",
-          "zh": "帐篷"
+          "en": "To perform the marriage ceremony for; to join in matrimony.",
+          "zh": "结婚"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
-        },
-        "level": 1
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "The third letter of the Greek alphabet (Γ, γ), preceded by beta (Β, β) and followed by delta, (Δ, δ).",
-          "zh": "伽马"
-        },
-        "level": 7
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Solid, firm, and resistant to pressure; not easily broken or bent.",
-          "zh": "难的"
-        },
-        "level": 1
-      },
-      {
-        "num": 13,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
-          "zh": "锡"
+          "en": "That which is permanent or invariable.",
+          "zh": "持续的"
         },
         "level": 4
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 4,
+        "num": 10,
+        "row": 3,
+        "col": 3,
         "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
+          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+          "zh": "破碎的"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+          "zh": "吨"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
+          "zh": "扇子"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "toefl"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "senior_high"
 }

@@ -1,0 +1,176 @@
+{
+  "id": "puzzle_159",
+  "title": "Easy #9",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      null,
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "U",
+      "C",
+      null,
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "R",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "Y",
+      null,
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+          "zh": "品尝"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A specific act committed in violation of the law.",
+          "zh": "犯罪"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An object designed to open and close a lock.",
+          "zh": "钥匙"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To become or remain attached; to adhere.",
+          "zh": "卡住"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To set back to the initial state.",
+          "zh": "重置"
+        },
+        "level": 7
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

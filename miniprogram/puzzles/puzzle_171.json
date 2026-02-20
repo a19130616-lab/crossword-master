@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_171",
+  "title": "Hard #1",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "D",
+      "A",
+      "D",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "P",
+      "H",
+      "I",
+      null,
+      "A",
+      "S",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      null,
+      "A",
+      "P",
+      "A",
+      "R",
+      "T",
+      null,
+      "X",
+      "R"
+    ],
+    [
+      "I",
+      "B",
+      null,
+      "S",
+      "E",
+      "E",
+      null,
+      "E",
+      "I"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "S",
+      null,
+      "R",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "T",
+      null,
+      "I",
+      "C",
+      "E",
+      null,
+      "U",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      null,
+      "S",
+      "H",
+      "O",
+      "O",
+      "T",
+      null
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      null,
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "F",
+      "A",
+      "T",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A father, a male parent.",
+          "zh": "爸爸"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+          "zh": "分开"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A failure to hit.",
+          "zh": "错过"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "A formation of minerals, specifically:",
+          "zh": "岩石"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The emerging stem and embryonic leaves of a new plant.",
+          "zh": "射击"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A condition; a set of circumstances applying at any given time.",
+          "zh": "状态"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "A specialized animal tissue with a high oil content, used for long-term storage of energy.",
+          "zh": "胖的"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A lower section of a road or geological feature.",
+          "zh": "蘸"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A refusal to work organized by employees as a form of protest.",
+          "zh": "罢工"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Conditions suitable for an organism or population of organisms to live.",
+          "zh": "栖息地"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A system of recording or reproducing sound that uses two channels, each playing a portion of the original sound in such a way as to create the illusion of locating the sound at a particular position, each offset from the other, thereby more accurately imitating the location of the original sound when the recorded or reproduced sound is heard.",
+          "zh": "立体声"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "To kill as punishment for capital crimes.",
+          "zh": "执行"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A helpful action or an act of giving.",
+          "zh": "协助"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To establish or apply by authority.",
+          "zh": "强加"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "The presiding cook in the kitchen of a large household.",
+          "zh": "厨师"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

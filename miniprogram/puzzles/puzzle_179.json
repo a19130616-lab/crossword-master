@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_179",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "D",
+      null,
+      "R",
+      "U",
+      "G",
+      null,
+      null,
+      "C"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "T",
+      "S",
+      null,
+      "A",
+      "G",
+      "O"
+    ],
+    [
+      null,
+      "D",
+      "E",
+      null,
+      "E",
+      "G",
+      "G",
+      null,
+      "M"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      null,
+      "R",
+      "E",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "I",
+      null,
+      "N",
+      "I",
+      null,
+      "O",
+      "I",
+      null,
+      "O"
+    ],
+    [
+      "G",
+      "I",
+      "A",
+      "N",
+      "T",
+      null,
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      null,
+      "G",
+      "N",
+      "U",
+      null,
+      "S",
+      "N",
+      null
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      "B",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "D",
+      "E",
+      "N",
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A partial covering for a floor.",
+          "zh": "地毯"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The larger or thicker end of something; the blunt end, in distinction from the sharp or narrow end",
+          "zh": "屁股"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "An abstract sphere of influence, real or imagined.",
+          "zh": "领域"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A mythical human of very great size.",
+          "zh": "巨大的"
+        },
+        "level": 5
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
+        },
+        "level": 6
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The quantity of bread or other baked goods baked at one time.",
+          "zh": "批"
+        },
+        "level": 6
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "A wild animal's lair or habitation; a small room used for relaxing or working.",
+          "zh": "书房"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A man, generally a younger man.",
+          "zh": "老兄"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Mutual good, shared by more than one.",
+          "zh": "常见的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Brushwood for fences and hedges.",
+          "zh": "十几岁的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "In a contrary direction to.",
+          "zh": "反对"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Of great size, large.",
+          "zh": "更大的"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "Anything that is hollow and cylindrical in shape.",
+          "zh": "管子"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

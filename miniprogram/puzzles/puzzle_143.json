@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_143",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "V",
+      null,
+      null,
+      "P"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      null,
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      null,
+      "L",
+      "P"
+    ],
+    [
+      "B",
+      "R",
+      null,
+      "U",
+      "N",
+      "W",
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "N",
+      "T",
+      null,
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "F",
+      "A",
+      "B",
+      "R",
+      "I",
+      "C",
+      null,
+      "I",
+      "R"
+    ],
+    [
+      "O",
+      "N",
+      null,
+      "I",
+      "M",
+      "A",
+      "G",
+      "E",
+      null
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "S",
+      "E",
+      null,
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      "S",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The back of any animal; especially the upper or projecting part of the back of a quadruped.",
+          "zh": "岭"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An important topic or problem for debate or discussion.",
+          "zh": "问题"
+        },
+        "level": 5
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To open or undo, as what is wrapped or folded.",
+          "zh": "展开"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An occurrence; something that happens.",
+          "zh": "事件"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An edifice or building.",
+          "zh": "织物"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
+        },
+        "level": 5
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An increase in wages or salary; a rise (UK).",
+          "zh": "增加"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The ability to see something or the area that can be seen from a particular place.",
+          "zh": "看法"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A plant of the family Piperaceae.",
+          "zh": "胡椒"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Complete cessation of suffering; a blissful state attained through realization of sunyata; enlightened experience.",
+          "zh": "涅槃"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The stage during which a program is executing.",
+          "zh": "运行时"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A large body of ice which flows under its own mass, usually downhill.",
+          "zh": "冰川"
+        },
+        "level": 7
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The time of day when the sun appears above the eastern horizon.",
+          "zh": "日出"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "At an earlier time.",
+          "zh": "前"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
+          "zh": "气体"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

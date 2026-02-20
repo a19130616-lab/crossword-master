@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_161",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      "O",
+      null,
+      null,
+      "C"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "N",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      null,
+      "P",
+      "E",
+      "T",
+      null,
+      "O"
+    ],
+    [
+      "U",
+      "P",
+      "S",
+      null,
+      "O",
+      "P",
+      "T"
+    ],
+    [
+      "S",
+      null,
+      "E",
+      "A",
+      "R",
+      null,
+      "H"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "D",
+      null,
+      null,
+      "T",
+      null,
+      null,
+      "S"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        3
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        3
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        3
+      ],
+      [
+        6,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The exchange of opinions and advice especially in legal issues; consultation.",
+          "zh": "法律顾问"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The direction opposed to the pull of gravity.",
+          "zh": "不间断电源"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The greatest or utmost point, degree or condition.",
+          "zh": "极端"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To find fault with, blame, censure",
+          "zh": "被告"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A woven fabric such as used in dressing, decorating, cleaning or other practical use.",
+          "zh": "衣服"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Disturbance or disruption.",
+          "zh": "沮丧的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A retail establishment selling items to the public.",
+          "zh": "店铺"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

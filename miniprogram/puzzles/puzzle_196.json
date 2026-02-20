@@ -1,0 +1,292 @@
+{
+  "id": "puzzle_196",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "F",
+      "I",
+      "G",
+      null,
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "D",
+      "U",
+      "C",
+      "T"
+    ],
+    [
+      null,
+      "O",
+      "G",
+      null,
+      "Y",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "B",
+      null,
+      null,
+      null,
+      "D",
+      "Y"
+    ],
+    [
+      "P",
+      "I",
+      "G",
+      null,
+      "D",
+      "A",
+      null
+    ],
+    [
+      "A",
+      "N",
+      "Y",
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      null,
+      "M",
+      "U",
+      "G",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        6
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        6
+      ],
+      [
+        4,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A fruit-bearing tree or shrub of the genus Ficus that is native mainly to the tropics.",
+          "zh": "如图"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A commodity offered for sale.",
+          "zh": "产品"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+          "zh": "猪"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+          "zh": "不再"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A large cup for hot liquids, usually having a handle and used without a saucer.",
+          "zh": "马克杯"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A thick cloud that forms near the ground; the obscurity of such a cloud.",
+          "zh": "多雾路段"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
+          "zh": "家伙"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "停留"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Any of various passerine birds (about 100 species) of the families Muscicapidae, Turdidae and Petroicidae (formerly Eopsaltriidae), typically with a red breast.",
+          "zh": "知更鸟"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A coniferous tree of the genus Cedrus in the family Pinaceae.",
+          "zh": "雪松"
+        },
+        "level": 7
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+          "zh": "跨度"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+          "zh": "狗"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "sat"
+}

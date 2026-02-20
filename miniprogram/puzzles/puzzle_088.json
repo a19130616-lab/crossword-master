@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_088",
+  "title": "Hard #8",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "H",
+      null,
+      "H",
+      "E",
+      "Y",
+      null,
+      null,
+      "M"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "A",
+      null,
+      "D",
+      "U",
+      "E"
+    ],
+    [
+      null,
+      "I",
+      "O",
+      null,
+      "S",
+      "K",
+      "I",
+      null,
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      null,
+      "T",
+      "E",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "F",
+      null,
+      "I",
+      "U",
+      null,
+      "Y",
+      "M",
+      null,
+      "O"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "S",
+      "H",
+      null,
+      "O",
+      "L",
+      "D"
+    ],
+    [
+      "O",
+      null,
+      "T",
+      "E",
+      "A",
+      null,
+      "N",
+      "I",
+      null
+    ],
+    [
+      "R",
+      "A",
+      "Y",
+      null,
+      "W",
+      "I",
+      "D",
+      "T",
+      "H"
+    ],
+    [
+      "D",
+      null,
+      null,
+      "S",
+      "K",
+      "Y",
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An exclamation to get attention.",
+          "zh": "嘿"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+          "zh": "弧"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "To show (someone) the way; to guide, conduct; to point, indicate.",
+          "zh": "教"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The soft tissue of the body, especially muscle and fat.",
+          "zh": "肉"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A beam of light or radiation.",
+          "zh": "射线"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The state of being wide.",
+          "zh": "宽度"
+        },
+        "level": 5
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+          "zh": "天空"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.",
+          "zh": "头发"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+          "zh": "方法"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",
+          "zh": "社会"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A glimmering glass-like mineral that is an allotrope of carbon in which each atom is surrounded by four others in the form of a tetrahedron.",
+          "zh": "钻石"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "An object designed to open and close a lock.",
+          "zh": "钥匙"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To incur, stand, or bear without serious detriment, as an act which might under other circumstances be injurious;—with an auxiliary, as can, could, might, etc.; to be able or rich enough.",
+          "zh": "买得起"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A diurnal predatory bird of the family Accipitridae, smaller than an eagle.",
+          "zh": "鹰"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A simpler, less serious, or less filling version of something.",
+          "zh": "轻量的"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

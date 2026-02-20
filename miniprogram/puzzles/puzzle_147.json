@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_147",
+  "title": "Hard #7",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "G",
+      null,
+      "D",
+      "A",
+      "T",
+      null,
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "U",
+      "D",
+      "I",
+      "T",
+      null,
+      "A",
+      "P",
+      "T"
+    ],
+    [
+      null,
+      "R",
+      "I",
+      null,
+      "O",
+      "P",
+      "T",
+      null,
+      "O"
+    ],
+    [
+      "B",
+      "U",
+      "S",
+      null,
+      "M",
+      "O",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      null,
+      "C",
+      "A",
+      null,
+      "T",
+      "E",
+      null,
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "G",
+      "H",
+      null,
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      null,
+      "S",
+      "E",
+      "A",
+      null,
+      "P",
+      "V",
+      null
+    ],
+    [
+      "A",
+      "B",
+      "S",
+      null,
+      "W",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      null,
+      null,
+      "S",
+      "K",
+      "I",
+      null,
+      "N",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "(degree) To a given extent or degree.",
+          "zh": "数据"
+        },
+        "level": 7
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A judicial examination.",
+          "zh": "审计"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "A type of hotel or lodging establishment, often located near a major highway, which typically features a series of rooms the entrances of which are immediately adjacent to a parking lot to facilitate convenient access to automobiles parked there.",
+          "zh": "汽车旅馆"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A person who obtains things by force; a thug or bully.",
+          "zh": "艰难的"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        },
+        "level": 6
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+          "zh": "水"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A Hindu or Sikh spiritual teacher.",
+          "zh": "大师"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To take illegally, or without the owner's permission, something owned by someone else.",
+          "zh": "被盗"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To converse or debate concerning a particular topic.",
+          "zh": "讨论"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The action of trying at something.",
+          "zh": "试图"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+          "zh": "锅"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A servant or valet to an army officer.",
+          "zh": "蝙蝠侠"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A diurnal predatory bird of the family Accipitridae, smaller than an eagle.",
+          "zh": "鹰"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

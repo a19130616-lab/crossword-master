@@ -1,0 +1,260 @@
+{
+  "id": "puzzle_166",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      null,
+      "H",
+      null,
+      null,
+      "T"
+    ],
+    [
+      null,
+      "S",
+      null,
+      "U",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      "E",
+      "A",
+      "S",
+      "T",
+      null,
+      "U"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "B",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "U",
+      null,
+      "E",
+      "A",
+      "R",
+      "N",
+      null
+    ],
+    [
+      "L",
+      "O",
+      "A",
+      "N",
+      null,
+      "U",
+      null
+    ],
+    [
+      "F",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Food waste material of any kind.",
+          "zh": "垃圾"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "An act or instance of lending, an act or instance of granting something for temporary use.",
+          "zh": "贷款"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The master of a house; the head of a family; a householder.",
+          "zh": "丈夫"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "In accordance with fact or reality; not false.",
+          "zh": "真的"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A hollow place in the earth; an abyss; a deep chasm or basin.",
+          "zh": "海湾"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

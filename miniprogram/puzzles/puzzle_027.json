@@ -1,335 +1,399 @@
 {
   "id": "puzzle_027",
-  "title": "Hard #3",
+  "title": "Hard #7",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
+      "F",
       null,
-      "D",
-      "E",
+      null,
+      null,
+      null,
+      "F",
+      null,
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "P",
+      "I",
+      "C",
+      null,
+      "A",
       "R",
+      "T"
+    ],
+    [
       null,
+      "U",
+      "O",
       null,
-      null,
+      "H",
+      "O",
+      "N",
+      "O",
       "R"
     ],
     [
-      "C",
-      "H",
-      "I",
-      null,
-      "A",
-      "B",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "O",
       "P",
-      "E",
       "R",
-      "A",
-      null,
-      "U",
-      "G"
-    ],
-    [
-      "A",
-      "S",
-      null,
-      "S",
-      "E",
-      "N",
-      null,
-      "R",
-      "G"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "T",
-      null,
-      "N",
       "O",
-      "V",
-      "A"
+      null,
+      "I",
+      "A",
+      null,
+      "W",
+      "O"
     ],
     [
+      "H",
+      null,
+      "L",
+      "U",
+      "C",
+      "K",
+      "Y",
+      null,
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      null,
       "S",
-      "I",
+      "K",
+      null,
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
       null,
       "A",
-      "C",
-      "E",
-      null,
-      "E",
-      "E"
-    ],
-    [
       "I",
-      "L",
-      null,
-      "T",
-      "E",
-      "D",
-      "D",
-      "Y",
       null
     ],
     [
       "S",
       "E",
-      "V",
       "E",
-      "N",
       null,
-      "U",
-      "S",
+      "N",
+      "E",
+      "R",
+      "V",
       "E"
     ],
     [
-      "T",
-      null,
-      null,
-      null,
-      "T",
-      "O",
       "E",
       null,
+      "D",
+      null,
+      null,
+      null,
+      null,
+      "E",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        3
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        8,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        4,
-        3
+        0,
+        6
       ],
       [
         0,
-        2
+        8
       ],
       [
-        5,
+        6,
+        4
+      ],
+      [
+        6,
         3
       ],
       [
-        5,
+        4,
         5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        2
       ],
       [
         3,
         7
       ],
       [
-        5,
-        1
-      ],
-      [
         1,
-        0
+        3
       ],
       [
-        3,
-        5
+        8,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        8,
+        0
       ]
     ],
     "medium": [
       [
-        7,
-        3
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        8,
-        5
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        4,
-        3
+        0,
+        6
       ],
       [
         0,
-        2
+        8
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        8
       ]
     ],
     "hard": [
       [
-        7,
+        0,
+        6
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
         3
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
-        1
-      ],
-      [
-        8,
-        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "Disdainful indication that something is obvious.",
-          "zh": "德"
-        },
-        "level": 5
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
-          "zh": "气"
+          "en": "Subject; theme; a category or general area of interest.",
+          "zh": "话题"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Recognition of importance or value; respect; veneration (of someone, usually for being morally upright or successful)",
+          "zh": "荣誉"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(of people) Favoured by luck; fortunate; having good success or good fortune",
+          "zh": "幸运的"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
+          "zh": "神经"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The digit or figure 4; an occurrence thereof.",
+          "zh": "四"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
+          "zh": "扇子"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Capable of producing great physical force.",
+          "zh": "强的"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A small and rather deep collection of (usually) fresh water, as one supplied by a spring, or occurring in the course of a stream; a reservoir for water.",
+          "zh": "水池"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
-          "zh": "虐待"
-        },
-        "level": 4
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
-          "zh": "歌剧"
+          "en": "A domestic fowl, Gallus gallus, especially when young.",
+          "zh": "鸡"
         },
         "level": 1
       },
       {
-        "num": 13,
-        "row": 3,
-        "col": 3,
+        "num": 8,
+        "row": 1,
+        "col": 7,
         "clue": {
-          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
-          "zh": "森"
+          "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
+          "zh": "排"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 15,
-        "row": 4,
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "With no delay; at once.",
-          "zh": "统计数据"
+          "en": "A short written or spoken expression.",
+          "zh": "短语"
         },
-        "level": 5
+        "level": 1
       },
       {
         "num": 16,
         "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "Any sudden brightening of a previously inconspicuous star.",
-          "zh": "新星"
-        },
-        "level": 6
-      },
-      {
-        "num": 18,
-        "row": 5,
         "col": 3,
-        "clue": {
-          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
-          "zh": "高手"
-        },
-        "level": 6
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "By extension, any stuffed toy.",
-          "zh": "泰迪熊"
-        },
-        "level": 6
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The digit/figure 7 or an occurrence thereof.",
-          "zh": "七"
-        },
-        "level": 1
-      },
-      {
-        "num": 25,
-        "row": 7,
-        "col": 6,
         "clue": {
           "en": "The act of using.",
           "zh": "使用"
@@ -337,120 +401,48 @@
         "level": 1
       },
       {
-        "num": 26,
-        "row": 8,
-        "col": 4,
+        "num": 17,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "Each of the five digits on the end of the foot.",
-          "zh": "脚趾"
-        },
-        "level": 5
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A lower section of a road or geological feature.",
-          "zh": "蘸"
-        },
-        "level": 4
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A scarce or uncommon item.",
-          "zh": "稀有的"
-        },
-        "level": 4
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A form of music originating in Jamaica and associated with Rastafarianism, featuring a heavy bass line and percussive rhythm guitar on the offbeat, often with close vocal harmonies.",
-          "zh": "雷鬼"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "(chiefly in the plural) An enemy.",
-          "zh": "敌对的"
-        },
-        "level": 5
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "To summon; to call out.",
-          "zh": "禁止"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The act of surveying; a general view.",
-          "zh": "调查"
-        },
-        "level": 6
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "The collective property and liabilities of someone, especially a deceased person.",
-          "zh": "财产"
-        },
-        "level": 5
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A helpful action or an act of giving.",
-          "zh": "协助"
-        },
-        "level": 4
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "(money) A subunit of currency equal to one-hundredth of the main unit of currency in many countries. Symbol: ¢.",
-          "zh": "分"
+          "en": "The time taken by the earth to make one revolution around the sun, approximately 365 days.",
+          "zh": "年"
         },
         "level": 1
       },
       {
-        "num": 23,
-        "row": 6,
-        "col": 6,
+        "num": 19,
+        "row": 5,
+        "col": 1,
         "clue": {
-          "en": "Expected at or planned for at a certain time.",
-          "zh": "到期的"
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
         },
-        "level": 4
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To freely transfer the possession of something to someone.",
+          "zh": "给"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "cet4"
+  "exam": "junior_high"
 }

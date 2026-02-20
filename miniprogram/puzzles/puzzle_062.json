@@ -1,217 +1,85 @@
 {
   "id": "puzzle_062",
-  "title": "Hard #2",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
       null,
-      "C",
-      null,
-      null,
-      null,
       "R",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "L",
-      "A",
-      "I",
-      "D",
-      null,
-      "E",
-      "V",
-      "I",
-      "L"
-    ],
-    [
-      "I",
-      "L",
-      null,
-      "O",
-      "N",
-      "C",
-      "E",
-      null,
-      "I"
-    ],
-    [
-      "G",
-      "L",
-      "A",
-      "C",
-      "I",
-      "E",
-      "R",
-      null,
-      "G"
-    ],
-    [
-      "H",
-      null,
-      "P",
-      "T",
-      null,
-      "I",
+      "U",
       "S",
-      null,
       "H"
     ],
     [
-      "T",
-      null,
-      "P",
       "R",
-      "E",
-      "V",
-      "E",
-      "N",
-      "T"
+      null,
+      "S",
+      "P",
+      "A"
     ],
     [
-      "B",
-      null,
-      "L",
-      "I",
-      "F",
-      "E",
-      null,
-      "E",
+      "U",
+      "S",
+      "U",
+      "A",
       "L"
     ],
     [
-      "O",
-      "V",
-      "E",
-      "N",
-      null,
-      "S",
       "T",
+      "E",
       "A",
-      "Y"
+      null,
+      "F"
     ],
     [
-      "X",
-      null,
-      null,
-      "E",
-      null,
-      null,
-      null,
-      "R",
+      "H",
+      "A",
+      "L",
+      "O",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
+        0,
         3
+      ],
+      [
+        2,
+        1
       ],
       [
         0,
-        5
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        2,
-        3
-      ],
-      [
-        4,
-        0
-      ],
-      [
-        1,
         2
       ],
       [
         3,
-        3
+        1
       ],
       [
-        5,
-        2
-      ],
-      [
-        6,
-        7
-      ],
-      [
-        1,
-        8
+        3,
+        4
       ]
     ],
     "medium": [
       [
-        6,
+        0,
         3
+      ],
+      [
+        2,
+        1
       ],
       [
         0,
-        5
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        3,
-        0
-      ],
-      [
-        2,
-        3
+        2
       ]
     ],
     "hard": [
       [
-        6,
-        3
-      ],
-      [
         0,
-        5
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        7,
         3
       ]
     ]
@@ -219,170 +87,110 @@
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "(of paper) Marked with parallel lines, as if ribbed, from wires in the mould.",
-          "zh": "铺设"
-        },
-        "level": 6
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
-          "zh": "邪恶的"
-        },
-        "level": 5
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "(frequency) One and only one time.",
-          "zh": "一次"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A large body of ice which flows under its own mass, usually downhill.",
-          "zh": "冰川"
-        },
-        "level": 7
-      },
-      {
-        "num": 15,
-        "row": 5,
-        "col": 2,
-        "clue": {
-          "en": "To stop (an outcome); to keep from (doing something).",
-          "zh": "防止"
-        },
-        "level": 1
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-          "zh": "生活"
-        },
-        "level": 1
-      },
-      {
-        "num": 20,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "烤箱"
-        },
-        "level": 5
-      },
-      {
-        "num": 21,
-        "row": 7,
-        "col": 5,
-        "clue": {
-          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
-          "zh": "停留"
-        },
-        "level": 1
-      }
-    ],
-    "down": [
-      {
         "num": 1,
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "To cry out to someone in order to summon them or attract their attention; a telephone conversation.",
-          "zh": "称呼"
+          "en": "Any of several stiff plants of the genus Juncus, or the family Juncaceae, having hollow or pithy stems and small flowers, and often growing in marshes or near water.",
+          "zh": "匆忙"
         },
         "level": 1
       },
       {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "An operation in which data is received.",
-          "zh": "接收"
-        },
-        "level": 6
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "Slenderly; delicately.",
-          "zh": "轻微地"
-        },
-        "level": 5
-      },
-      {
-        "num": 4,
+        "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A box containing a source of light and a white, translucent cover, used to view photographic transparencies.",
-          "zh": "灯箱"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 3,
-        "clue": {
-          "en": "A belief or tenet, especially about philosophical or theological matters.",
-          "zh": "教义"
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
         },
         "level": 6
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 6,
+        "row": 2,
+        "col": 0,
         "clue": {
-          "en": "A poetic form with regular meter and a fixed rhyme scheme.",
-          "zh": "诗"
-        },
-        "level": 6
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
-          "zh": "苹果"
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
         },
         "level": 1
       },
       {
-        "num": 17,
-        "row": 5,
-        "col": 7,
+        "num": 9,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
-          "zh": "靠近"
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+          "zh": "一半"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Sorrow for the misery of another; pity, compassion; mercy.",
+          "zh": "怜悯"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "sat"
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
 }

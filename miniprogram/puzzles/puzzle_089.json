@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_089",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "L"
+    ],
+    [
+      "W",
+      "E",
+      "T",
+      null,
+      "C",
+      "A",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
+      null,
+      "P",
+      "N"
+    ],
+    [
+      "A",
+      "E",
+      null,
+      "I",
+      "N",
+      "D",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "M",
+      "A",
+      "R",
+      "T",
+      null,
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "C",
+      "U",
+      "R",
+      "E",
+      null,
+      "I",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      null,
+      "S",
+      "A",
+      "M",
+      "B",
+      "A",
+      null
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      null,
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "S",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "D",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Liquid or moisture.",
+          "zh": "湿的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "(often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+          "zh": "原因"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A position on a scale of amount, quantity, extent, or quality.",
+          "zh": "等级"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "(modal) Truly; in fact; actually.",
+          "zh": "的确"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To hurt or sting.",
+          "zh": "聪明的"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To make safe; to relieve from apprehensions of, or exposure to, danger; to guard; to protect.",
+          "zh": "安全的"
+        },
+        "level": 4
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A Brazilian ballroom dance or dance style.",
+          "zh": "桑巴舞"
+        },
+        "level": 6
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "zh": "钢"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A mountain summit or crest that lacks forest growth despite a warm climate conducive to such, as is found in many places in the Southern Appalachian Mountains.",
+          "zh": "秃"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "One who lends, especially money; specifically, a bank or other entity that specializes in granting loans.",
+          "zh": "贷方"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.",
+          "zh": "元素"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Being in the centre.",
+          "zh": "中央"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
+          "zh": "特别的"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism.",
+          "zh": "病毒"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To determine, estimate or judge the value of; to evaluate",
+          "zh": "评估"
+        },
+        "level": 4
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "Of poor quality or a low standard; not good.",
+          "zh": "坏的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

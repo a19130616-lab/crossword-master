@@ -1,0 +1,455 @@
+{
+  "id": "puzzle_144",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "T",
+      "O",
+      "E",
+      null,
+      null,
+      null,
+      "N"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      null,
+      "A",
+      "D",
+      "O",
+      "B",
+      "E"
+    ],
+    [
+      null,
+      "S",
+      "E",
+      "N",
+      "S",
+      "E",
+      null,
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "Z",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "T",
+      null,
+      "M",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "N",
+      null,
+      "U",
+      "S",
+      "E",
+      null,
+      "R",
+      "Y"
+    ],
+    [
+      "I",
+      "C",
+      null,
+      "R",
+      "A",
+      "D",
+      "A",
+      "R",
+      null
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N",
+      null,
+      "P",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "D",
+      "A",
+      "T",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        6,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Each of the five digits on the end of the foot.",
+          "zh": "脚趾"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+          "zh": "蜜蜂"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An unburnt brick dried in the sun.",
+          "zh": "土坯"
+        },
+        "level": 7
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+          "zh": "感觉"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+          "zh": "休息"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack).",
+          "zh": "一顿饭"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
+          "zh": "雷达"
+        },
+        "level": 5
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 7 or an occurrence thereof.",
+          "zh": "七"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "(degree) To a given extent or degree.",
+          "zh": "数据"
+        },
+        "level": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "With great scrutiny; carefully.",
+          "zh": "几乎"
+        }
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The inherent nature of a thing or idea.",
+          "zh": "本质"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To judge, to pass judgment on; to doom, to sentence.",
+          "zh": "视为"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "Strangely unconventional in style or appearance.",
+          "zh": "奇异的"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)",
+          "zh": "自然"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A person who creates art.",
+          "zh": "艺术家"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
+          "zh": "沙"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

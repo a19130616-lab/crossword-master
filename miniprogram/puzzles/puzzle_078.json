@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_078",
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "D",
+      null,
+      null,
+      "G",
+      "U",
+      "N"
+    ],
+    [
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "E",
+      "K",
+      null,
+      "O",
+      "A",
+      null,
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "U",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      null,
+      "O",
+      "N",
+      null,
+      "R",
+      "B"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "D",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      null,
+      null,
+      "Y",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+          "zh": "枪"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+          "zh": "认为"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A member of the British Army (as opposed to a member of the Territorial Army or Reserve).",
+          "zh": "常规的"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "(usually capitalized) The garden where Plato taught.",
+          "zh": "学院"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The male ruler of a duchy (female equivalent: duchess).",
+          "zh": "公爵"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A result that one is attempting to achieve.",
+          "zh": "目标"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Adjacent, near, close by",
+          "zh": "附近"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A work, such as a work of fiction, published in installments, often numbered and without a specified end.",
+          "zh": "连续剧"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A unit of weight equal to 16 ounces (about 453 grams); also, the basic monetary unit of the UK.",
+          "zh": "磅"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A mammal, Capra aegagrus hircus, and similar species of the genus Capra.",
+          "zh": "山羊"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.",
+          "zh": "军队"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
+}

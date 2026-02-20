@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_069",
+  "title": "Easy #9",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "E",
+      null,
+      null,
+      null,
+      "G"
+    ],
+    [
+      "N",
+      "E",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      "A",
+      null,
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "Y",
+      null,
+      null,
+      null,
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "At no time; on no occasion; in no circumstance.",
+          "zh": "绝不"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A comic originating in Japan.",
+          "zh": "漫画"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "伟大的"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
+}

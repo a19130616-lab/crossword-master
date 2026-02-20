@@ -1,0 +1,260 @@
+{
+  "id": "puzzle_139",
+  "title": "Medium #9",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      null,
+      "T",
+      null,
+      null,
+      "B"
+    ],
+    [
+      null,
+      "D",
+      null,
+      "A",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      null,
+      "R",
+      "I",
+      "C",
+      "E",
+      null,
+      "B"
+    ],
+    [
+      "M",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "I",
+      null,
+      "L",
+      "I",
+      "F",
+      "E",
+      null
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "C",
+      null,
+      "D",
+      null
+    ],
+    [
+      "C",
+      null,
+      null,
+      "S",
+      null,
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
+          "zh": "米"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Something secret or unexplainable; an unknown.",
+          "zh": "神秘"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "zh": "生活"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A detailed description of the design and materials used to make something.",
+          "zh": "规格"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A maneuver, or action calculated to achieve some end.",
+          "zh": "策略"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.",
+          "zh": "婴儿"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A chain or range of rocks, sand, or coral lying at or near the surface of the water.",
+          "zh": "礁"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Consisting of a variety of ingredients or parts.",
+          "zh": "杂项"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

@@ -1,105 +1,69 @@
 {
   "id": "puzzle_045",
-  "title": "Hard #3",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #5",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
       null,
-      "D",
-      "I",
-      "E",
+      null,
+      "P",
       null,
       null,
-      null,
-      "S"
-    ],
-    [
-      "G",
-      "E",
-      "O",
-      null,
-      "D",
-      "E",
-      "A",
-      "L",
-      "T"
+      "C"
     ],
     [
       null,
-      "R",
-      "E",
-      "M",
-      "I",
-      "X",
+      "P",
       null,
       "O",
-      "R"
-    ],
-    [
-      "E",
-      "O",
-      null,
-      "A",
-      "T",
-      "E",
-      null,
-      "T",
+      "N",
+      "C",
       "E"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "R",
       null,
-      "M",
+      "A",
+      "C",
+      "R",
       "E",
-      "T",
-      "A"
+      null,
+      "N"
     ],
     [
-      "C",
-      "I",
-      null,
-      "G",
-      "A",
       "P",
-      null,
-      "E",
-      "M"
-    ],
-    [
-      "A",
-      "C",
-      null,
-      "I",
-      "N",
+      "R",
+      "O",
       "T",
       "E",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      null,
       "R",
+      "I",
+      "D",
+      "E",
       null
     ],
     [
-      "P",
-      "A",
-      "I",
+      "U",
       "N",
-      "T",
+      "D",
+      "O",
       null,
-      "G",
-      "Y",
-      "M"
+      "E",
+      null
     ],
     [
-      "E",
+      "S",
       null,
       null,
-      null,
-      "I",
       "N",
-      "G",
+      null,
       null,
       null
     ]
@@ -107,24 +71,8 @@
   "prefilled": {
     "easy": [
       [
-        4,
-        0
-      ],
-      [
-        5,
+        3,
         1
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        7,
-        3
       ],
       [
         1,
@@ -132,15 +80,15 @@
       ],
       [
         2,
-        3
-      ],
-      [
-        4,
         6
       ],
       [
-        8,
-        6
+        3,
+        4
+      ],
+      [
+        3,
+        2
       ],
       [
         4,
@@ -148,45 +96,13 @@
       ],
       [
         4,
-        3
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        7,
-        7
+        0
       ]
     ],
     "medium": [
       [
-        4,
-        0
-      ],
-      [
-        5,
+        3,
         1
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        7,
-        3
       ],
       [
         1,
@@ -194,263 +110,151 @@
       ],
       [
         2,
-        3
-      ],
-      [
-        4,
         6
       ],
       [
-        8,
-        6
+        3,
+        4
       ]
     ],
     "hard": [
       [
-        4,
-        0
-      ],
-      [
-        5,
+        3,
         1
       ],
       [
-        2,
-        4
-      ],
-      [
-        0,
-        8
+        1,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "死"
-        },
-        "level": 1
-      },
-      {
         "num": 4,
         "row": 1,
-        "col": 0,
+        "col": 3,
         "clue": {
-          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
-          "zh": "地理"
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "To distribute among a number of recipients, to give out as one’s portion or share.",
-          "zh": "发牌"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A rearrangement of an older piece of music, possibly including various cosmetic changes.",
-          "zh": "混音"
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
         },
-        "level": 6
+        "level": 4
       },
       {
-        "num": 13,
+        "num": 8,
         "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        },
-        "level": 6
-      },
-      {
-        "num": 15,
-        "row": 4,
         "col": 0,
         "clue": {
-          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
-          "zh": "星星"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "Self-referential; structured analogously, but at a higher level.",
-          "zh": "元"
-        },
-        "level": 6
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
+          "en": "A formal objection, especially one by a group.",
+          "zh": "反对"
         },
         "level": 5
       },
       {
-        "num": 22,
-        "row": 6,
-        "col": 3,
+        "num": 10,
+        "row": 4,
+        "col": 2,
         "clue": {
-          "en": "To place a dead body in a grave or tomb; to bury.",
-          "zh": "国际米兰"
+          "en": "An instance of riding.",
+          "zh": "骑"
         },
-        "level": 7
+        "level": 1
       },
       {
-        "num": 24,
-        "row": 7,
+        "num": 11,
+        "row": 5,
         "col": 0,
         "clue": {
-          "en": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
-          "zh": "画"
+          "en": "An operation that reverses a previous action.",
+          "zh": "撤消"
         },
-        "level": 1
-      },
-      {
-        "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "A meadow, especially a low meadow near a river; water meadow.",
-          "zh": "英"
-        },
-        "level": 6
+        "level": 4
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
-          "zh": "母鹿"
-        },
-        "level": 6
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A change to the text of a document.",
-          "zh": "编辑"
-        },
-        "level": 6
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "A small river; a large creek; a body of moving water confined by banks.",
-          "zh": "溪流"
-        },
-        "level": 1
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "Erotic literature, art, decoration or other such work.",
-          "zh": "黄色书刊"
-        },
-        "level": 6
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "One who has been released from something.",
-          "zh": "豁免"
-        },
-        "level": 6
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A scheme for the distribution of prizes by lot or chance, especially a gaming scheme in which one or more tickets bearing particular numbers draw prizes, the other tickets are blanks.",
-          "zh": "彩票"
-        },
-        "level": 7
-      },
-      {
-        "num": 10,
-        "row": 2,
         "col": 3,
         "clue": {
-          "en": "The edge or border of something, such as the blank space around the text on a page.",
-          "zh": "利润"
+          "en": "An allocated amount.",
+          "zh": "部分"
         },
         "level": 5
       },
       {
-        "num": 12,
-        "row": 3,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "The act of leaving a dangerous or unpleasant situation.",
-          "zh": "逃脱"
+          "en": "(money) A subunit of currency equal to one-hundredth of the main unit of currency in many countries. Symbol: ¢.",
+          "zh": "分"
         },
         "level": 1
       },
       {
-        "num": 19,
-        "row": 5,
-        "col": 4,
+        "num": 3,
+        "row": 1,
+        "col": 1,
         "clue": {
-          "en": "A person opposed to a concept or principle.",
-          "zh": "反对"
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
         },
-        "level": 7
+        "level": 4
       },
       {
-        "num": 23,
-        "row": 6,
-        "col": 6,
+        "num": 5,
+        "row": 1,
+        "col": 4,
         "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A harmonic set of three or more notes that is heard as if sounding simultaneously.",
+          "zh": "绳索"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A positive quantity.",
+          "zh": "加"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "graduate"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "senior_high"
 }

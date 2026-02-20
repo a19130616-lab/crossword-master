@@ -1,146 +1,86 @@
 {
   "id": "puzzle_031",
-  "title": "Medium #1",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
+      "S",
       null,
-      "P",
-      null,
-      null,
-      "M",
-      "O",
+      "F",
+      "I",
       "N"
     ],
     [
-      "G",
-      "A",
+      "C",
       "R",
-      "B",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      "A",
-      "I",
-      null,
-      "A",
-      "K",
-      null,
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "S",
-      "T",
-      "E",
-      "A",
-      "D"
-    ],
-    [
-      "N",
-      null,
-      "P",
-      "H",
-      null,
+      "U",
       "D",
+      "E"
+    ],
+    [
+      "O",
+      "I",
+      null,
+      "E",
+      "W"
+    ],
+    [
+      "U",
+      "S",
+      "U",
+      "A",
       "L"
     ],
     [
+      "T",
       "E",
-      "P",
-      "I",
-      "S",
-      "O",
-      "D",
-      "E"
-    ],
-    [
-      "D",
       "A",
-      "N",
       null,
-      null,
-      "S",
-      null
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        6
+        4,
+        1
       ],
       [
-        5,
+        1,
+        0
+      ],
+      [
+        0,
         2
       ],
       [
         4,
-        3
+        4
       ],
       [
         2,
-        4
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        4
-      ],
-      [
-        0,
-        5
-      ],
-      [
-        5,
-        6
-      ],
-      [
-        5,
         1
       ]
     ],
     "medium": [
       [
-        1,
-        6
-      ],
-      [
-        5,
-        2
-      ],
-      [
         4,
-        3
-      ],
-      [
-        2,
-        4
+        1
       ],
       [
         1,
-        3
+        0
+      ],
+      [
+        0,
+        2
       ]
     ],
     "hard": [
       [
-        1,
-        6
-      ],
-      [
-        5,
-        2
-      ],
-      [
         4,
-        3
+        1
       ]
     ]
   },
@@ -149,128 +89,88 @@
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "The former currency of Japan until 1870, before the yen.",
-          "zh": "周一"
+          "en": "One of the appendages of a fish, used to propel itself and to manoeuvre/maneuver.",
+          "zh": "鳍"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Food waste material of any kind.",
-          "zh": "垃圾"
+          "en": "Any substance in its natural state.",
+          "zh": "原油"
         },
-        "level": 4
+        "level": 5
       },
       {
         "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
-          "zh": "反而"
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
         },
         "level": 1
       },
       {
-        "num": 14,
-        "row": 5,
+        "num": 11,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "An incident, action, or time period standing out by itself, but more or less connected with a complete series of events.",
-          "zh": "插曲"
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
         },
-        "level": 5
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
-          "zh": "担"
-        },
-        "level": 6
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
-          "zh": "疼痛"
+          "en": "A person sent out to gain and bring in tidings; especially, one employed in war to gain information about the enemy and ground.",
+          "zh": "侦察"
         },
-        "level": 1
+        "level": 5
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "To form something by putting parts together or combining substances; to create.",
-          "zh": "制作"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
         },
         "level": 1
       },
       {
         "num": 4,
         "row": 0,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "A fine, sharp implement usually for piercing such as sewing, or knitting, acupuncture, tattooing, body piercing, medical injections, etc.",
-          "zh": "针"
+          "en": "Very recently; in the immediate past.",
+          "zh": "新"
         },
-        "level": 4
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "To acquire possession of.",
-          "zh": "获得"
-        },
-        "level": 6
+        "level": 5
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "浴室"
+          "en": "To move, or appear to move, physically upwards relative to the ground.",
+          "zh": "上升"
         },
-        "level": 6
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "Rapid circular motion.",
-          "zh": "旋转"
-        },
-        "level": 4
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 5,
-        "clue": {
-          "en": "An act or instance of adding.",
-          "zh": "添加"
-        },
-        "level": 6
+        "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "cet6"
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "senior_high"
 }
