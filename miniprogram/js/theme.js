@@ -14,6 +14,7 @@ const Theme = {
   cellBlack: '#000000',
   cellActive: '#FFD700',
   cellActiveWord: '#FFF9C4',
+  cellWrong: '#FFCDD2',
 
   text: '#000000',
   textSecondary: '#333333',
@@ -23,6 +24,7 @@ const Theme = {
   blue: '#1976D2',
   green: '#388E3C',
   orange: '#F57C00',
+  red: '#D32F2F',
 
   clueBarBg: '#EEEEEE',
   clueBarBorder: '#CCCCCC',
@@ -31,7 +33,11 @@ const Theme = {
   keyPressed: '#BDBDBD',
   keySpecial: '#9E9E9E',
   keyboardBg: '#D1D3D9',
-  keyShadow: 'rgba(0,0,0,0.3)'
+  keyShadow: 'rgba(0,0,0,0.3)',
+
+  tutorialOverlay: 'rgba(0,0,0,0.6)',
+  tutorialBg: '#FFFFFF',
+  tutorialAccent: '#1976D2'
 }
 
 const Font = {

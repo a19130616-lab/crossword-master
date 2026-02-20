@@ -23,7 +23,13 @@ const State = {
   lang: 'en',
   startTime: 0,
   layout: null,
-  puzzleScrollY: 0
+  puzzleScrollY: 0,
+  // Wrong-letter feedback: array of [r,c] pairs, cleared after animation
+  wrongCells: null,
+  wrongCellsTime: 0,
+  // Tutorial: null = not shown yet for this session, -1 = dismissed
+  tutorialStep: null,
+  tutorialSeen: false
 }
 
 function loadProgress() {
@@ -37,6 +43,7 @@ function loadProgress() {
       State.lang = parsed.lang || 'en'
       State.difficulty = parsed.difficulty || 'easy'
       State.exam = parsed.exam || null
+      State.tutorialSeen = parsed.tutorialSeen || false
     }
   } catch (e) {}
 }
@@ -48,7 +55,8 @@ function saveProgress() {
     completed: State.completed,
     lang: State.lang,
     difficulty: State.difficulty,
-    exam: State.exam
+    exam: State.exam,
+    tutorialSeen: State.tutorialSeen
   }))
 }
 

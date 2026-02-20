@@ -34,7 +34,7 @@ const Haptics = {
 }
 
 const engine = createEngine({ State, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics })
-const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, langToggleBtn: null, examBtns: [], levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
+const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, langToggleBtn: null, examBtns: [], levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null, tutorialSkipBtn: null, tutorialNextBtn: null }
 
 function loadPuzzleByIndex(idx) {
   const entry = State.puzzlesIndex[idx]
@@ -48,7 +48,32 @@ function loadPuzzleByIndex(idx) {
   }
 }
 
+function startPuzzle(puzzle, idx) {
+  const ok = engine.initPuzzle(puzzle, idx)
+  if (ok && !State.tutorialSeen) {
+    State.tutorialStep = 0
+  }
+}
+
 function handleTouch(x, y) {
+  // Tutorial takes priority over all play-screen touches
+  if (State.screen === 'play' && State.tutorialStep !== null && State.tutorialStep >= 0) {
+    if (inRect(x, y, UI.tutorialSkipBtn)) {
+      State.tutorialStep = -1
+      State.tutorialSeen = true
+      saveProgress()
+    } else if (inRect(x, y, UI.tutorialNextBtn)) {
+      if (State.tutorialStep >= 2) {
+        State.tutorialStep = -1
+        State.tutorialSeen = true
+        saveProgress()
+      } else {
+        State.tutorialStep++
+      }
+    }
+    return
+  }
+
   switch (State.screen) {
     case 'menu':
       if (inRect(x, y, UI.menuPlayBtn)) State.screen = 'exams'
@@ -64,7 +89,7 @@ function handleTouch(x, y) {
       break
     case 'puzzles':
       if (inRect(x, y, UI.backBtn)) State.screen = 'levels'
-      else for (const btn of UI.puzzleBtns) if (inRect(x, y, btn)) { const puzzle = loadPuzzleByIndex(btn.idx); if (puzzle) engine.initPuzzle(puzzle, btn.idx); break }
+      else for (const btn of UI.puzzleBtns) if (inRect(x, y, btn)) { const puzzle = loadPuzzleByIndex(btn.idx); if (puzzle) startPuzzle(puzzle, btn.idx); break }
       break
     case 'play': {
       if (inRect(x, y, UI.backBtn)) { State.screen = 'puzzles'; return }
@@ -86,7 +111,7 @@ function handleTouch(x, y) {
         const nextIdx = State.puzzleIndex + 1
         if (State.puzzlesIndex && nextIdx < State.puzzlesIndex.length) {
           const puzzle = loadPuzzleByIndex(nextIdx)
-          if (puzzle) engine.initPuzzle(puzzle, nextIdx)
+          if (puzzle) startPuzzle(puzzle, nextIdx)
           else State.screen = 'puzzles'
         } else {
           State.screen = 'puzzles'

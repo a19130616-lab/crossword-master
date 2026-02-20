@@ -289,6 +289,60 @@ function createEngine(deps) {
     return false
   }
 
+  function isWordComplete(r, c, dir) {
+    const cells = getWordCells(r, c, dir)
+    return cells.every(([wr, wc]) => {
+      const cell = State.grid[wr][wc]
+      return cell.isBlack || cell.status === 'locked' || (cell.val && cell.val.trim() !== '')
+    })
+  }
+
+  function checkWordCorrectness(r, c, dir) {
+    const cells = getWordCells(r, c, dir)
+    const wrongCells = []
+    for (const [wr, wc] of cells) {
+      const cell = State.grid[wr][wc]
+      if (!cell.isBlack && cell.status === 'filled' && cell.val !== cell.answer) {
+        wrongCells.push([wr, wc])
+      }
+    }
+    return wrongCells
+  }
+
+  function advanceToNextWord() {
+    const allClues = [
+      ...State.puzzle.clues.across.map(cl => ({ ...cl, dir: 'across' })),
+      ...State.puzzle.clues.down.map(cl => ({ ...cl, dir: 'down' }))
+    ]
+
+    const currentClue = getCurrentClue()
+    if (!currentClue) return false
+
+    const currentKey = `${currentClue.num}${State.direction === 'across' ? 'A' : 'D'}`
+    const currentIdx = allClues.findIndex(cl => `${cl.num}${cl.dir === 'across' ? 'A' : 'D'}` === currentKey)
+
+    for (let offset = 1; offset <= allClues.length; offset++) {
+      const cl = allClues[(currentIdx + offset) % allClues.length]
+      const cells = getWordCells(cl.row, cl.col, cl.dir)
+      const hasEmpty = cells.some(([wr, wc]) => {
+        const cell = State.grid[wr][wc]
+        return !cell.isBlack && cell.status !== 'locked' && (!cell.val || cell.val.trim() === '')
+      })
+      if (hasEmpty) {
+        State.direction = cl.dir
+        for (const [wr, wc] of cells) {
+          const cell = State.grid[wr][wc]
+          if (!cell.isBlack && cell.status !== 'locked' && (!cell.val || cell.val.trim() === '')) {
+            State.activeRow = wr
+            State.activeCol = wc
+            return true
+          }
+        }
+      }
+    }
+    return false
+  }
+
   function inputLetter(letter) {
     const cell = State.grid[State.activeRow]?.[State.activeCol]
 
@@ -305,7 +359,27 @@ function createEngine(deps) {
 
     cell.val = upper
     cell.status = 'filled'
-    moveToNextCell()
+
+    // Check if current word is now complete
+    const wordRow = State.activeRow
+    const wordCol = State.activeCol
+    const wordDir = State.direction
+
+    const moved = moveToNextCell()
+
+    if (isWordComplete(wordRow, wordCol, wordDir)) {
+      const wrongCells = checkWordCorrectness(wordRow, wordCol, wordDir)
+      if (wrongCells.length > 0) {
+        // Mark wrong cells for visual feedback
+        State.wrongCells = wrongCells
+        State.wrongCellsTime = Date.now()
+        Haptics.error()
+      } else {
+        // Word complete and correct, advance to next incomplete word
+        advanceToNextWord()
+      }
+    }
+
     checkWinCondition()
   }
 
@@ -442,6 +516,9 @@ function createEngine(deps) {
     checkWinCondition,
     moveToNextCell,
     moveToPrevCell,
+    isWordComplete,
+    checkWordCorrectness,
+    advanceToNextWord,
     Keyboard
   }
 }
