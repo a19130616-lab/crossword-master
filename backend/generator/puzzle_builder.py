@@ -91,15 +91,19 @@ def build_puzzle(grid, puzzle_id, title="Generated Puzzle"):
         clue_obj = entry.get("clues", {}).get("easy", {}) if entry else {}
         if not clue_obj:
             raise ValueError(f"Missing clue for word: {w['answer']}")
-        clues[w["dir"]].append({
+        clue_entry = {
             "num": w["num"],
             "row": w["row"],
             "col": w["col"],
             "clue": {
                 "en": clue_obj.get("en", "") if isinstance(clue_obj, dict) else str(clue_obj),
                 "zh": clue_obj.get("zh", "") if isinstance(clue_obj, dict) else str(clue_obj),
-            }
-        })
+            },
+        }
+        level = entry.get("level")
+        if level is not None:
+            clue_entry["level"] = level
+        clues[w["dir"]].append(clue_entry)
 
     solution = to_solution_grid(grid)
     white_cells = [(r, c) for r in range(rows) for c in range(cols) if solution[r][c] is not None]

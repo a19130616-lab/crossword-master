@@ -1,167 +1,448 @@
 {
   "id": "puzzle_008",
-  "title": "Easy #8",
-  "rows": 5,
-  "cols": 5,
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
-      "E",
+      null,
+      "C",
+      null,
+      null,
+      null,
       null,
       "U",
+      null,
+      "M"
+    ],
+    [
       "P",
-      "S"
-    ],
-    [
+      "I",
       "L",
-      "I",
-      "M",
-      "I",
-      "T"
+      "O",
+      "T",
+      null,
+      "S",
+      "E",
+      "A"
     ],
     [
-      "D",
-      "S",
+      null,
+      "T",
+      "A",
+      null,
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "G",
+      "Y",
+      "M",
       null,
       "N",
-      "O"
+      "O",
+      null,
+      "R",
+      "A"
     ],
     [
-      "E",
-      "L",
-      "D",
-      "E",
-      "R"
+      "A",
+      null,
+      "P",
+      "A",
+      "I",
+      "N",
+      "T",
+      null,
+      "G"
     ],
     [
       "R",
-      "E",
-      "V",
+      "L",
       null,
-      "M"
+      "R",
+      "G",
+      null,
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "A",
+      "T",
+      "H",
+      null,
+      "R",
+      "H",
+      null
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      null,
+      "T",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "N",
+      null,
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
+        5
+      ],
+      [
+        2,
         4
       ],
       [
-        0,
-        3
+        2,
+        7
       ],
       [
-        3,
-        4
+        5,
+        8
       ],
       [
         1,
+        8
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
         3
       ],
       [
         2,
-        1
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
       ]
     ],
     "medium": [
       [
         2,
+        5
+      ],
+      [
+        2,
         4
       ],
       [
-        0,
+        2,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
         3
-      ],
-      [
-        3,
-        4
       ]
     ],
     "hard": [
       [
         2,
+        5
+      ],
+      [
+        2,
         4
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        5,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A restriction; a bound beyond which one may not go.",
-          "zh": "限制"
-        }
+          "en": "A person who steers a ship, a helmsman.",
+          "zh": "飞行员"
+        },
+        "level": 1
       },
       {
-        "num": 9,
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An older person or an older member, usually a leader, of some community.",
-          "zh": "长老"
-        }
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
       },
       {
-        "num": 11,
+        "num": 15,
         "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
+          "zh": "画"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
-        }
+          "en": "The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.",
+          "zh": "死亡"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
+          "zh": "对待"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An older person or an older member, usually a leader, of some community.",
-          "zh": "长老"
-        }
+          "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+          "zh": "城市"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 8,
         "clue": {
-          "en": "Any coniferous tree of the genus Pinus.",
-          "zh": "松树"
-        }
+          "en": "The act of managing or controlling something.",
+          "zh": "管理"
+        },
+        "level": 1
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 4,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "Any disturbed state of the atmosphere, especially as affecting the earth's surface, and strongly implying destructive or unpleasant weather.",
-          "zh": "风暴"
-        }
+          "en": "A device that generates heat, light or other radiation. Especially an electric light bulb.",
+          "zh": "灯"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The nighttime of the current day or date; this night.",
+          "zh": "今晚"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+          "zh": "花园"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "To become sleepy or weary.",
+          "zh": "胎"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
         "col": 1,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
-        }
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Informal conversation.",
+          "zh": "聊天"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "junior_high"
 }

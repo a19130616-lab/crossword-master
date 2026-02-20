@@ -5,131 +5,98 @@
   "cols": 5,
   "solution": [
     [
+      "G",
+      null,
+      null,
+      null,
+      "A"
+    ],
+    [
+      "R",
       "A",
       "P",
-      "P",
-      "S",
-      null
+      "I",
+      "D"
     ],
     [
-      "P",
-      "H",
-      "I",
+      "O",
       null,
-      "G"
+      "U",
+      null,
+      "U"
     ],
     [
-      "P",
+      "U",
+      "N",
+      "T",
       "I",
-      "X",
-      "E",
       "L"
     ],
     [
-      "S",
+      "P",
       null,
-      "E",
-      "Y",
-      "E"
-    ],
-    [
       null,
-      "G",
-      "L",
-      "E",
-      "N"
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
         4,
         4
       ],
       [
         1,
-        2
-      ],
-      [
-        0,
-        2
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        0
+        4
       ]
     ],
     "medium": [
       [
-        4,
-        4
-      ],
-      [
-        1,
-        2
-      ],
-      [
         0,
+        0
+      ],
+      [
+        3,
         2
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        0,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 0,
-        "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        }
-      },
-      {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
-          "zh": "菲"
-        }
+          "en": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
+          "zh": "迅速的"
+        },
+        "level": 1
       },
       {
-        "num": 6,
-        "row": 2,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "One of the tiny dots that make up the representation of an image in a computer's memory.",
-          "zh": "像素"
-        }
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        }
-      },
-      {
-        "num": 9,
-        "row": 4,
-        "col": 1,
-        "clue": {
-          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
-          "zh": "峡谷"
-        }
+          "en": "Up to the time of (something happening).",
+          "zh": "直到"
+        },
+        "level": 1
       }
     ],
     "down": [
@@ -138,48 +105,34 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        }
+          "en": "A number of things or persons being in some relation to one another.",
+          "zh": "团体"
+        },
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
-          "zh": "菲"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "One of the tiny dots that make up the representation of an image in a computer's memory.",
-          "zh": "像素"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.",
-          "zh": "峡谷"
-        }
+          "en": "A fully grown human or animal.",
+          "zh": "成人"
+        },
+        "level": 1
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 3,
+        "num": 4,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        }
+          "en": "To move something to a particular position or place.",
+          "zh": "放"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "easy",
-  "gridSize": 5
+  "gridSize": 5,
+  "exam": "junior_high"
 }

@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_035",
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "I",
+      null,
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "H",
+      "U",
+      "S",
+      null,
+      "N",
+      "E",
+      "X",
+      "T"
+    ],
+    [
+      null,
+      "O",
+      "E",
+      null,
+      null,
+      "D",
+      null,
+      "P",
+      "E"
+    ],
+    [
+      null,
+      "M",
+      null,
+      "A",
+      "M",
+      "I",
+      "N",
+      "O",
+      null
+    ],
+    [
+      "J",
+      "E",
+      "E",
+      "P",
+      null,
+      "E",
+      null,
+      "S",
+      null
+    ],
+    [
+      null,
+      "W",
+      "O",
+      "O",
+      "L",
+      null,
+      null,
+      "U",
+      null
+    ],
+    [
+      "P",
+      "O",
+      null,
+      "L",
+      "A",
+      "S",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "L",
+      null,
+      "E",
+      "Y",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "K",
+      null,
+      "O",
+      null,
+      "Q",
+      "E",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        8,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        7
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(manner) In this way or manner.",
+          "zh": "因此"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The one that follows after this one.",
+          "zh": "下一个"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The amine functional group.",
+          "zh": "氨基"
+        },
+        "level": 7
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A small, blocky, military-style vehicle with four-wheel drive, suited to rough terrain.",
+          "zh": "吉普车"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The hair of the sheep, llama and some other ruminants.",
+          "zh": "羊毛"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "A device that produces a monochromatic, coherent beam of light.",
+          "zh": "激光"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
+        },
+        "level": 4
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "To observe carefully or appraisingly.",
+          "zh": "有眼睛的"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An independent publisher.",
+          "zh": "独立"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "The condition of being exposed, uncovered, or unprotected.",
+          "zh": "接触"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "Work that is done at home, especially school exercises assigned by a teacher.",
+          "zh": "家庭作业"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A very handsome young man.",
+          "zh": "阿波罗"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Infected by the HIV virus",
+          "zh": "位置"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A set of things next to each other in a set order; a series",
+          "zh": "序列"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

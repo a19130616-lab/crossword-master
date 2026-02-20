@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_040",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "E",
+      null,
+      null,
+      "M",
+      null,
+      null,
+      "M"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "I",
+      "S",
+      "F",
+      "Y"
+    ],
+    [
+      "C",
+      null,
+      "H",
+      "A",
+      "T",
+      null,
+      "S"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      null,
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      "T",
+      "A",
+      "R",
+      null,
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      "Y"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+          "zh": "满足"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+          "zh": "帽子"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A vehicle used in farms e.g. for pulling farm equipment and preparing the fields.",
+          "zh": "拖拉机"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A group of people or vehicles, generally armed, who go with a person or people of importance to safeguard them on a journey or mission.",
+          "zh": "护送"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Something secret or unexplainable; an unknown.",
+          "zh": "神秘"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
+          "zh": "希腊字母θ"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The beginning of an activity.",
+          "zh": "开始"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

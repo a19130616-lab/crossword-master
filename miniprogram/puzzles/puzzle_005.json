@@ -1,77 +1,145 @@
 {
   "id": "puzzle_005",
-  "title": "Easy #5",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
+      null,
+      "O",
+      null,
+      null,
       "S",
-      null,
-      null,
-      null,
-      "B"
-    ],
-    [
-      "C",
-      "H",
-      "A",
       "I",
       "R"
     ],
     [
+      "A",
+      "N",
+      "Y",
+      "M",
+      "O",
       "R",
-      null,
-      "P",
-      null,
       "E"
     ],
     [
+      "L",
+      "C",
+      null,
+      "U",
+      "F",
+      null,
+      "V"
+    ],
+    [
+      "M",
       "E",
-      "X",
+      "S",
+      "S",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      null,
       "T",
-      "R",
+      "I",
+      null,
+      "O",
       "A"
     ],
     [
-      "W",
+      "S",
+      "P",
+      "E",
+      "C",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "O",
+      "P",
       null,
       null,
-      null,
-      "D"
+      "T",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        1,
+        5
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
         2,
         4
       ],
       [
         4,
-        4
-      ],
-      [
-        2,
-        0
-      ],
-      [
-        0,
-        0
+        6
       ]
     ],
     "medium": [
       [
+        1,
+        5
+      ],
+      [
         2,
+        0
+      ],
+      [
+        3,
         4
       ],
       [
-        4,
-        4
+        6,
+        5
+      ],
+      [
+        1,
+        2
       ]
     ],
     "hard": [
       [
+        1,
+        5
+      ],
+      [
         2,
+        0
+      ],
+      [
+        3,
         4
       ]
     ]
@@ -79,54 +147,130 @@
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
-          "zh": "椅子"
-        }
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
+        },
+        "level": 1
       },
       {
         "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+          "zh": "不再"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
-          "zh": "额外的"
-        }
+          "en": "A communication, or what is communicated; any concept or information conveyed.",
+          "zh": "信息"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
+          "zh": "特别的"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A device that has a helical function.",
-          "zh": "拧紧"
-        }
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        },
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A foodstuff made by baking dough made from cereals.",
-          "zh": "面包"
-        }
+          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+          "zh": "沙发"
+        },
+        "level": 1
       },
       {
         "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The outer side of a window or door frame; the jamb.",
+          "zh": "揭示"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
         "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Something or someone that doesn't quite make it.",
+          "zh": "几乎"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+          "zh": "音乐"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
         "col": 2,
         "clue": {
-          "en": "Suitable; appropriate; fit or fitted; suited.",
-          "zh": "合适的"
-        }
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "A mammal, Capra aegagrus hircus, and similar species of the genus Capra.",
+          "zh": "山羊"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

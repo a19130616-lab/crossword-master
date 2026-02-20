@@ -1,77 +1,93 @@
 {
   "id": "puzzle_014",
-  "title": "Medium #4",
+  "title": "Medium #2",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
-      null,
       "B",
       null,
       null,
-      "G",
-      "U",
-      "Y"
+      "D",
+      null,
+      null,
+      "T"
     ],
     [
-      "R",
+      "A",
+      "B",
+      "S",
       "E",
-      "Q",
-      "U",
-      "I",
-      "R",
+      "N",
+      "C",
       "E"
     ],
     [
-      "E",
-      "T",
+      "L",
       null,
+      "P",
+      "R",
+      "O",
+      null,
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      null,
+      "V",
+      "A",
+      "N"
+    ],
+    [
       "N",
-      "F",
       null,
-      "L"
+      "I",
+      "C",
+      "E",
+      null,
+      "A"
     ],
     [
       "C",
       "A",
-      "P",
-      "I",
       "T",
       "A",
-      "L"
+      "L",
+      "O",
+      "G"
     ],
     [
-      "O",
+      "E",
       null,
-      "A",
-      "O",
       null,
-      "T",
-      "O"
-    ],
-    [
       "R",
-      "A",
-      "I",
-      "N",
-      "B",
-      "O",
-      "W"
-    ],
-    [
-      "D",
-      "O",
-      "N",
       null,
       null,
-      "M",
-      null
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         5,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
         6
       ],
       [
@@ -79,67 +95,47 @@
         4
       ],
       [
-        0,
-        1
-      ],
-      [
-        3,
-        5
+        2,
+        6
       ],
       [
         4,
-        5
+        6
       ],
       [
-        5,
-        3
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        6,
+        4,
         2
-      ],
-      [
-        3,
-        3
       ]
     ],
     "medium": [
       [
         5,
-        6
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        0,
         1
       ],
       [
         3,
-        5
+        1
       ],
       [
-        4,
-        5
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        6
       ]
     ],
     "hard": [
       [
         5,
-        6
+        1
       ],
       [
-        2,
-        4
-      ],
-      [
-        0,
+        3,
         1
       ]
     ]
@@ -147,117 +143,130 @@
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
-          "zh": "家伙"
-        }
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To ask (someone) for something; to request.",
-          "zh": "要求"
-        }
+          "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+          "zh": "缺席"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
       },
       {
         "num": 9,
         "row": 3,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
-          "zh": "首都"
-        }
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
+        },
+        "level": 5
       },
       {
-        "num": 14,
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A multicoloured arch in the sky, produced by prismatic refraction of light within droplets of rain in the air.",
-          "zh": "彩虹"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "A university professor, particularly one at Oxford or Cambridge.",
-          "zh": "大学教师"
-        }
+          "en": "A systematic list of names, books, pictures etc.",
+          "zh": "目录"
+        },
+        "level": 5
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
-          "zh": "测试版"
-        }
+          "en": "A state in which opposing forces harmonise; equilibrium.",
+          "zh": "平衡"
+        },
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Something given to another voluntarily, without charge.",
-          "zh": "礼物"
-        }
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
+        },
+        "level": 5
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "The colour of gold, butter, or a lemon; the colour obtained by mixing green and red light, or by subtracting blue from white light.",
-          "zh": "黄色的"
-        }
+          "en": "Brushwood for fences and hedges.",
+          "zh": "十几岁的"
+        },
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A thing constituting a piece of evidence about the past; also, a thin vinyl disc carrying recorded sound.",
-          "zh": "记录"
-        }
+          "en": "A crack or longitudinal fissure.",
+          "zh": "分裂"
+        },
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The act of uniting or joining two or more things into one.",
-          "zh": "联盟"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
-          "zh": "疼痛"
-        }
+          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+          "zh": "小说"
+        },
+        "level": 4
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 5,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
-          "zh": "原子"
-        }
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "medium",
-  "gridSize": 7
+  "gridSize": 7,
+  "exam": "senior_high"
 }

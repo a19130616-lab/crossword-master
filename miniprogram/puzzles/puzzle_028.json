@@ -1,25 +1,17 @@
 {
   "id": "puzzle_028",
-  "title": "Hard #8",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
+      "T",
       null,
-      null,
-      "R",
-      "A",
-      "Y",
-      null,
-      null,
-      null,
-      "L"
+      "C",
+      "O",
+      "W"
     ],
     [
-      "S",
-      "K",
-      "I",
-      null,
       "O",
       "P",
       "E",
@@ -27,407 +19,158 @@
       "A"
     ],
     [
-      null,
+      "D",
       "I",
-      "M",
-      "A",
-      "G",
-      "E",
       null,
-      "E",
+      "A",
       "T"
     ],
     [
-      "U",
-      "L",
-      null,
-      "S",
       "A",
       "P",
-      null,
-      "A",
+      "P",
+      "L",
       "E"
     ],
     [
-      "P",
-      "L",
-      "U",
-      "S",
-      null,
-      "P",
-      "I",
-      "C",
-      "S"
-    ],
-    [
-      "L",
-      "I",
-      null,
-      "U",
-      "S",
+      "Y",
       "E",
-      null,
-      "H",
-      "T"
-    ],
-    [
-      "O",
       "N",
       null,
-      "M",
-      "E",
-      "R",
-      "G",
-      "E",
-      null
-    ],
-    [
-      "A",
-      "G",
-      "R",
-      "E",
-      "E",
-      null,
-      "A",
-      "S",
-      "H"
-    ],
-    [
-      "D",
-      null,
-      null,
-      null,
-      "K",
-      "E",
-      "Y",
-      null,
-      null
+      "R"
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        3,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
         0,
         4
       ],
       [
-        6,
-        3
-      ],
-      [
-        1,
+        0,
         0
       ],
       [
-        4,
+        2,
         3
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        4,
-        6
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        2,
-        7
       ]
     ],
     "medium": [
       [
-        0,
-        4
+        3,
+        2
       ],
       [
-        6,
-        3
-      ],
-      [
-        1,
+        2,
         0
       ],
       [
-        4,
-        3
-      ],
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        4
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        4,
-        7
-      ],
-      [
-        8,
+        0,
         4
       ]
     ],
     "hard": [
       [
-        0,
-        4
-      ],
-      [
-        6,
-        3
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        4,
-        3
+        3,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
+        "num": 2,
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A beam of light or radiation.",
-          "zh": "射线"
-        }
+          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
+          "zh": "奶牛"
+        },
+        "level": 1
       },
       {
-        "num": 4,
+        "num": 5,
         "row": 1,
         "col": 0,
-        "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
-        }
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
         "clue": {
           "en": "A theatrical work, combining drama, music, song and sometimes dance.",
           "zh": "歌剧"
-        }
+        },
+        "level": 1
       },
       {
         "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "图像"
-        }
-      },
-      {
-        "num": 13,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.",
-          "zh": "树液"
-        }
+          "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+          "zh": "苹果"
+        },
+        "level": 1
       },
       {
-        "num": 15,
+        "num": 11,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "A positive quantity.",
-          "zh": "加"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片"
-        }
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        }
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "The joining together of multiple sources.",
-          "zh": "合并"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
-        }
-      },
-      {
-        "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
-        }
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "An object designed to open and close a lock.",
-          "zh": "钥匙"
-        }
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        },
+        "level": 6
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An edge around something, especially when circular.",
-          "zh": "边缘"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "Any of several Hindu or Buddhist disciplines aimed at training the consciousness for a state of perfect spiritual insight and tranquillity; especially a system of exercises practiced to promote control of the body and mind.",
-          "zh": "瑜伽"
-        }
+          "en": "A current day or date.",
+          "zh": "今天"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 3,
         "clue": {
-          "en": "Near the end of a period of time.",
-          "zh": "最新的"
-        }
+          "en": "A spoken test or examination, particularly in a language class.",
+          "zh": "口服"
+        },
+        "level": 4
       },
       {
-        "num": 5,
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+          "zh": "水"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "To put to death; to extinguish the life of.",
-          "zh": "杀戮"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A plant of the family Piperaceae.",
-          "zh": "胡椒"
-        }
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The act of stretching or extending; extension.",
-          "zh": "达到"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
-          "zh": "认为"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Such a file transfer.",
-          "zh": "上传"
-        }
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "The operation of navigating through a stream.",
-          "zh": "寻找"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
-          "zh": "同性恋"
-        }
+          "en": "Meanings relating to a wind instrument.",
+          "zh": "管道"
+        },
+        "level": 4
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
 }

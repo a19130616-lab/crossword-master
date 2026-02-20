@@ -1,263 +1,196 @@
 {
   "id": "puzzle_020",
-  "title": "Medium #10",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
       null,
-      "D",
-      null,
-      null,
-      "T",
-      "A",
-      "N"
-    ],
-    [
-      "S",
-      "U",
-      "P",
-      "P",
-      "O",
-      "S",
-      "E"
-    ],
-    [
-      "T",
-      "D",
-      null,
-      "R",
-      "L",
-      null,
-      "W"
-    ],
-    [
-      "R",
-      "E",
-      "S",
+      "G",
       "O",
       "L",
-      "V",
-      "E"
+      "F"
     ],
     [
-      "I",
+      "B",
       null,
-      "O",
-      "O",
-      null,
-      "A",
-      "S"
-    ],
-    [
       "C",
       "O",
-      "M",
-      "F",
-      "O",
-      "R",
-      "T"
+      "L"
     ],
     [
-      "T",
+      "O",
+      "M",
       "E",
+      "G",
+      "A"
+    ],
+    [
+      "M",
+      "I",
       "A",
       null,
-      null,
-      "Y",
+      "G"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "K",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        2,
-        0
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        0,
-        6
-      ],
-      [
         3,
         4
       ],
       [
-        5,
-        1
+        1,
+        0
       ],
       [
-        4,
-        5
+        2,
+        2
       ],
       [
-        0,
-        1
+        3,
+        0
       ],
       [
         1,
         4
-      ],
-      [
-        4,
-        2
       ]
     ],
     "medium": [
-      [
-        2,
-        0
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        0,
-        6
-      ],
       [
         3,
         4
       ],
       [
-        5,
-        1
+        1,
+        0
+      ],
+      [
+        2,
+        2
       ]
     ],
     "hard": [
       [
-        2,
-        0
-      ],
-      [
         3,
-        5
-      ],
-      [
-        0,
-        6
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A yellowish-brown colour.",
-          "zh": "晒黑"
-        }
+          "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+          "zh": "高尔夫球"
+        },
+        "level": 4
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
-          "zh": "认为"
-        }
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        },
+        "level": 6
       },
       {
         "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "Determination; will power.",
-          "zh": "解决"
-        }
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        },
+        "level": 6
       },
       {
-        "num": 14,
-        "row": 5,
+        "num": 10,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "Contentment, ease.",
-          "zh": "舒适"
-        }
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
-        }
+          "en": "An institution where one can place and borrow money and take care of financial affairs.",
+          "zh": "银行"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A man, generally a younger man.",
-          "zh": "老兄"
-        }
-      },
-      {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "Loss or damage incurred through a disaster.",
-          "zh": "收费"
-        }
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
+        },
+        "level": 5
       },
       {
         "num": 4,
         "row": 0,
-        "col": 6,
+        "col": 4,
         "clue": {
-          "en": "Recently made, or created.",
-          "zh": "最新"
-        }
+          "en": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.",
+          "zh": "旗帜"
+        },
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Strained; drawn close; tight.",
-          "zh": "严格的"
-        }
+          "en": "An explosive device used or intended as a weapon.",
+          "zh": "炸弹"
+        },
+        "level": 4
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 3,
+        "num": 8,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "An effort, process, or operation designed to establish or discover a fact or truth; an act of testing; a test; a trial.",
-          "zh": "证明"
-        }
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
-          "zh": "索马"
-        }
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 5,
-        "clue": {
-          "en": "Alteration; change.",
-          "zh": "各不相同"
-        }
+          "en": "An ancient bluffing game played with dice.",
+          "zh": "米娅"
+        },
+        "level": 6
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
 }

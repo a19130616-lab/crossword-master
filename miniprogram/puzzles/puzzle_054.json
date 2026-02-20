@@ -1,0 +1,426 @@
+{
+  "id": "puzzle_054",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "G",
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "K"
+    ],
+    [
+      "D",
+      "R",
+      "Y",
+      null,
+      "P",
+      "E",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      null,
+      "E",
+      "M",
+      "A",
+      "I",
+      "L",
+      null,
+      "L",
+      "R"
+    ],
+    [
+      "M",
+      "U",
+      null,
+      "N",
+      "O",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      null,
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "S",
+      "T",
+      "E",
+      "R",
+      null,
+      "H",
+      "L"
+    ],
+    [
+      "E",
+      "O",
+      null,
+      "H",
+      "E",
+      "N",
+      "C",
+      "E",
+      null
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      null,
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "M",
+      null,
+      null,
+      "R",
+      null,
+      null,
+      "R",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The process by which something is dried.",
+          "zh": "干燥"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.",
+          "zh": "和平"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A system for transferring messages from one computer to another, usually through a network.",
+          "zh": "电子邮件"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
+          "zh": "概念"
+        },
+        "level": 5
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The act of uniting or joining two or more things into one.",
+          "zh": "联盟"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A daughter of the same parents as another person; a female sibling.",
+          "zh": "姐姐"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "From here, from this place, away",
+          "zh": "因此"
+        },
+        "level": 5
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Being lower; being beneath something.",
+          "zh": "在下面"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
+          "zh": "腰带"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The core, center, or essence of an object or system.",
+          "zh": "核心"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The process or act of reuniting.",
+          "zh": "团圆"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "One who goes before, as into the wilderness, preparing the way for others to follow.",
+          "zh": "先锋"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A woven fabric such as used in dressing, decorating, cleaning or other practical use.",
+          "zh": "衣服"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "An additional one of the same kind.",
+          "zh": "其他"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value.",
+          "zh": "博物馆"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

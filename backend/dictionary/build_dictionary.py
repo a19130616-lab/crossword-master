@@ -12,10 +12,10 @@ OUTPUT_PATH = Path(__file__).parent / "word_dictionary.json"
 ENRICHED_PATH = ROOT / "backend" / "scripts" / "enriched_words.json"
 TRANSLATIONS_PATH = ROOT / "backend" / "scripts" / "word_translations.json"
 OVERRIDES_PATH = Path(__file__).parent / "translation_overrides.json"
+LEVELS_PATH = ROOT / "backend" / "scripts" / "word_levels.json"
 
-# Words to exclude: profanity, proper nouns, place names, brands, abbreviations,
-# non-words, sensitive content, and function words unsuitable for crosswords.
-EXCLUDED_WORDS = {
+# Hard exclusions: never include in any dictionary output.
+HARD_EXCLUDED = {
     # Profanity / sensitive / inappropriate clues
     "sex", "god", "shit", "fuck", "cunt", "dick", "bitch", "nazi", "fag", "damn",
     "hell", "satan", "porn", "xxx", "nude", "abortion", "murder", "nuke",
@@ -31,11 +31,11 @@ EXCLUDED_WORDS = {
     "ralph", "rick", "roger", "ron", "sally", "sam", "spencer", "stan", "ted",
     "terry", "timothy", "tom", "tommy", "tony", "troy", "victoria", "walker",
     "warren", "wright", "apache", "viking", "christ",
-    # Place names / nationalities / country names
-    "broadway", "chad", "holland", "mali", "reno", "roman", "savannah",
-    "surrey", "vegas", "wales", "york", "brazil", "china", "dutch", "french",
-    "german", "greek", "japan", "java", "mars", "mercury", "nato", "nyc",
-    "safari", "shanghai", "spanish", "danish", "easter",
+    # Place names that are purely proper nouns
+    "broadway", "chad", "holland", "mali", "reno", "savannah",
+    "surrey", "vegas", "wales", "york", "brazil", "china",
+    "japan", "java", "mars", "mercury", "nato", "nyc",
+    "safari", "shanghai", "easter",
     # Brand names / tech products
     "acer", "cisco", "dell", "facebook", "ford", "intel", "kodak", "oracle",
     "skype", "unix", "yahoo", "chrome", "linux", "xerox", "zoom", "firewire",
@@ -44,8 +44,8 @@ EXCLUDED_WORDS = {
     "dom", "dos", "etc", "gsm", "ide", "lat", "lol", "mas", "ment", "mil",
     "mrna", "nat", "para", "pas", "str", "tex", "uri", "asp", "jpeg",
     "yrs", "inc", "corp", "exec", "std", "bbs", "thru", "ist", "howto",
-    "aka", "ave", "dna", "rna", "faq", "diy", "gps", "pdf", "usb", "lcd",
-    "atm", "ceo", "cfo", "cto", "coo", "ngo", "fifa", "wifi", "api",
+    "aka", "ave", "faq", "diy", "lcd",
+    "ceo", "cfo", "cto", "coo", "ngo", "fifa",
     "bio", "biz", "kinda", "gonna", "gotta", "wanna",
     "ascii", "dpi", "fcc", "pcs", "plc", "ppm", "rpm", "div", "iso",
     "rom", "san", "eng", "est", "gen", "tri", "vid", "lib", "dod", "kai",
@@ -54,22 +54,59 @@ EXCLUDED_WORDS = {
     "isp", "ent", "neo", "pct", "pre", "eco", "psi", "gel",
     "fwd", "lbs", "msg", "pst", "rrp", "tvs", "thy", "sat",
     "mambo", "sizes",
-    # Tech / computing jargon
-    "adware", "spyware", "freeware", "firmware", "ethernet", "intranet",
-    "webcam", "webcast", "webpage", "wiki", "toolbar", "username", "modem",
     # Month abbreviations
     "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec",
     # Function words — poor crossword entries
     "the", "and", "that", "this", "with", "from", "have", "were", "been",
     "also", "than", "them", "then", "into", "very", "when", "each", "just",
     "only", "onto", "unto", "upon", "your", "what", "which", "their", "there",
-    "about", "would", "shall", "could", "these", "those", "other", "after",
+    "about", "would", "could", "these", "those", "other", "after",
     "where", "every", "being", "does", "doing", "such", "here", "some",
-    "most", "more", "much", "many", "well", "will", "whom", "whose",
+    "most", "more", "much", "many", "well", "will", "whose",
     "any", "are", "both", "but", "can", "did", "few", "had", "has",
     "her", "him", "his", "how", "however", "its", "may", "might", "mine",
-    "must", "nor", "not", "often", "ought", "ours", "out", "she", "should",
+    "must", "nor", "not", "often", "ours", "out", "she", "should",
     "they", "too", "who", "why", "yes", "yet", "you", "yours",
+}
+
+# Soft exclusions: tagged words excluded from the default pool,
+# but available when generating puzzles with specific tag filters.
+SOFT_EXCLUDED = {
+    # Nationality / place-derived adjectives — real vocabulary
+    "dutch":    {"tags": ["nationality"]},
+    "french":   {"tags": ["nationality"]},
+    "german":   {"tags": ["nationality"]},
+    "greek":    {"tags": ["nationality"]},
+    "spanish":  {"tags": ["nationality"]},
+    "danish":   {"tags": ["nationality"]},
+    "roman":    {"tags": ["nationality"]},
+    # Common abbreviations that appear on exams
+    "dna":      {"tags": ["abbreviation", "science"]},
+    "rna":      {"tags": ["abbreviation", "science"]},
+    "gps":      {"tags": ["abbreviation", "technology"]},
+    "wifi":     {"tags": ["abbreviation", "technology"]},
+    "pdf":      {"tags": ["abbreviation", "technology"]},
+    "usb":      {"tags": ["abbreviation", "technology"]},
+    "api":      {"tags": ["abbreviation", "technology"]},
+    "atm":      {"tags": ["abbreviation"]},
+    # Tech jargon — useful for computing-themed puzzles
+    "adware":   {"tags": ["technology"]},
+    "spyware":  {"tags": ["technology"]},
+    "freeware": {"tags": ["technology"]},
+    "firmware": {"tags": ["technology"]},
+    "ethernet": {"tags": ["technology"]},
+    "intranet": {"tags": ["technology"]},
+    "webcam":   {"tags": ["technology"]},
+    "webcast":  {"tags": ["technology"]},
+    "webpage":  {"tags": ["technology"]},
+    "wiki":     {"tags": ["technology"]},
+    "toolbar":  {"tags": ["technology"]},
+    "username": {"tags": ["technology"]},
+    "modem":    {"tags": ["technology"]},
+    # Formal function words that appear in exams
+    "whom":     {"tags": ["formal"]},
+    "ought":    {"tags": ["formal"]},
+    "shall":    {"tags": ["formal"]},
 }
 
 
@@ -118,6 +155,13 @@ def main():
         overrides = json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
         print(f"Loaded {len(overrides)} translation overrides")
 
+    # Load word levels (from score_words.py output)
+    levels_data = {}
+    if LEVELS_PATH.exists():
+        levels_json = json.loads(LEVELS_PATH.read_text(encoding="utf-8"))
+        levels_data = levels_json.get("words", {})
+        print(f"Loaded {len(levels_data)} word levels")
+
     dictionary = {
         "metadata": {
             "word_count": 0,
@@ -127,6 +171,7 @@ def main():
     }
 
     bad_clue_count = 0
+    soft_excluded_count = 0
 
     enriched = json.loads(ENRICHED_PATH.read_text(encoding="utf-8"))
     for raw_word, clue_obj in (enriched or {}).items():
@@ -135,8 +180,11 @@ def main():
             continue
         if not re.fullmatch(r"[a-z]+", w):
             continue
-        if w in EXCLUDED_WORDS:
+        if w in HARD_EXCLUDED:
             continue
+
+        # Check if this is a soft-excluded word
+        soft_info = SOFT_EXCLUDED.get(w)
 
         en = (clue_obj or {}).get("en", "") if isinstance(clue_obj, dict) else ""
         zh = (clue_obj or {}).get("zh", "") if isinstance(clue_obj, dict) else ""
@@ -160,7 +208,7 @@ def main():
             bad_clue_count += 1
             continue
 
-        dictionary["words"][key] = {
+        entry = {
             "length": len(w),
             "clues": {
                 "easy": {"en": en, "zh": zh},
@@ -169,8 +217,24 @@ def main():
             }
         }
 
+        # Merge level data from word_levels.json
+        level_info = levels_data.get(key, {})
+        if level_info:
+            entry["level"] = level_info.get("level", 6)
+            entry["exams"] = level_info.get("exams", [])
+
+        # Tag soft-excluded words
+        if soft_info:
+            entry["tags"] = soft_info["tags"]
+            entry["excludeDefault"] = True
+            soft_excluded_count += 1
+
+        dictionary["words"][key] = entry
+
     if bad_clue_count:
         print(f"Rejected {bad_clue_count} words with bad clues")
+    if soft_excluded_count:
+        print(f"Tagged {soft_excluded_count} soft-excluded words")
 
     # Deduplicate plurals: if both WORD and WORDS exist, keep only WORD
     all_keys = set(dictionary["words"].keys())
@@ -216,7 +280,19 @@ def main():
     if inflected_removed:
         print(f"Removed {len(inflected_removed)} inflected duplicates")
 
+    # Compute level distribution for metadata
+    level_dist = {}
+    for entry in dictionary["words"].values():
+        lvl = entry.get("level")
+        if lvl is not None:
+            level_dist[lvl] = level_dist.get(lvl, 0) + 1
+
     dictionary["metadata"]["word_count"] = len(dictionary["words"])
+    if levels_data:
+        dictionary["metadata"]["levels_source"] = "word_levels.json"
+        dictionary["metadata"]["level_distribution"] = {
+            str(k): v for k, v in sorted(level_dist.items())
+        }
 
     OUTPUT_PATH.write_text(json.dumps(dictionary, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved {dictionary['metadata']['word_count']} words to {OUTPUT_PATH}")

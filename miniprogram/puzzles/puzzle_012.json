@@ -1,272 +1,138 @@
 {
   "id": "puzzle_012",
-  "title": "Medium #2",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      "D",
-      "I",
-      "P",
-      null,
       "A",
-      "B"
-    ],
-    [
-      "S",
       null,
-      "N",
-      "O",
-      "I",
-      "S",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "S",
-      "S",
       null,
-      "I",
+      null,
       "S"
     ],
     [
-      "O",
+      "D",
+      "E",
+      "P",
+      "T",
+      "H"
+    ],
+    [
       "U",
       null,
-      "S",
+      "U",
       null,
-      "D",
       "I"
     ],
     [
-      "W",
-      "R",
-      null,
-      "E",
-      "Y",
-      "E",
-      "D"
-    ],
-    [
       "L",
-      "O",
-      "O",
-      "S",
+      "A",
+      "T",
       "E",
-      null,
-      "E"
+      "R"
     ],
     [
-      "Y",
-      "S",
+      "T",
       null,
-      "S",
-      "A",
-      "Y",
-      null
+      null,
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         0,
-        3
+        4
       ],
       [
-        0,
-        1
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
-        3
+        3,
+        4
       ],
       [
         2,
-        6
+        2
       ],
       [
-        1,
-        0
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        4,
-        1
+        3,
+        2
       ]
     ],
     "medium": [
       [
         0,
-        3
+        4
       ],
       [
-        0,
-        1
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        2,
-        6
+        3,
+        4
       ]
     ],
     "hard": [
       [
         0,
-        3
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        5,
-        3
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A lower section of a road or geological feature.",
-          "zh": "蘸"
-        }
-      },
-      {
-        "num": 7,
+        "num": 3,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "噪音"
-        }
-      },
-      {
-        "num": 8,
-        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A smaller amount or quantity.",
-          "zh": "更少的"
-        }
+          "en": "The vertical distance below a surface; the degree to which something is deep",
+          "zh": "深度"
+        },
+        "level": 4
       },
       {
-        "num": 14,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
-        }
-      },
-      {
-        "num": 16,
-        "row": 5,
+        "num": 5,
+        "row": 3,
         "col": 0,
         "clue": {
-          "en": "The release of an arrow.",
-          "zh": "松动的"
-        }
-      },
-      {
-        "num": 18,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A chance to speak; the right or power to influence or make a decision.",
-          "zh": "说"
-        }
+          "en": "Near the end of a period of time.",
+          "zh": "之后"
+        },
+        "level": 1
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
-        }
+          "en": "A fully grown human or animal.",
+          "zh": "成人"
+        },
+        "level": 1
       },
       {
-        "num": 3,
+        "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "To have; to have ownership of.",
-          "zh": "具有"
-        }
+          "en": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
+          "zh": "衬衫"
+        },
+        "level": 1
       },
       {
         "num": 4,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "To one side; out of the way.",
-          "zh": "放在一边"
-        }
-      },
-      {
-        "num": 5,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "Otherwise; else.",
-          "zh": "旁"
-        }
-      },
-      {
-        "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "(manner) At a slow pace.",
-          "zh": "慢慢地"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "Person living or originating from Europe",
-          "zh": "居住在欧洲或来自欧洲的人"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 4,
-        "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
-        }
+          "en": "To move something to a particular position or place.",
+          "zh": "放"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "senior_high"
 }

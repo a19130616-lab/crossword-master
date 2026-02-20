@@ -1,0 +1,176 @@
+{
+  "id": "puzzle_039",
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      null,
+      "M",
+      "U",
+      "G"
+    ],
+    [
+      "C",
+      "R",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "U",
+      "E",
+      null,
+      "E",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      null,
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A large cup for hot liquids, usually having a handle and used without a saucer.",
+          "zh": "马克杯"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A sudden, intense, loud sound, as made for example by cymbals.",
+          "zh": "碰撞"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Prayer, later especially with a rosary.",
+          "zh": "珠子"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.",
+          "zh": "水肺潜水"
+        },
+        "level": 7
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The spirit; the soul of man.",
+          "zh": "鬼"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A shaky or unsteady gait.",
+          "zh": "卷轴"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

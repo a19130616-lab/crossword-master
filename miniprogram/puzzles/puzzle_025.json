@@ -1,294 +1,350 @@
 {
   "id": "puzzle_025",
-  "title": "Hard #5",
+  "title": "Hard #1",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      "C",
+      "F",
       null,
-      null,
-      null,
-      "T",
-      null,
-      null,
-      "C"
-    ],
-    [
-      "N",
-      "O",
       "D",
-      "E",
-      null,
-      "H",
-      "A",
-      "L",
-      "O"
-    ],
-    [
-      "E",
-      "R",
-      null,
-      "L",
-      "O",
-      "R",
-      "D",
-      null,
-      "M"
-    ],
-    [
-      "I",
-      "N",
-      "T",
-      "E",
-      "R",
-      "I",
-      "M",
-      null,
-      "M"
-    ],
-    [
-      "G",
-      null,
-      "A",
-      "P",
-      null,
-      "L",
+      "U",
       "I",
       null,
-      "E"
-    ],
-    [
-      "H",
       null,
-      "S",
-      "H",
-      "E",
-      "L",
-      "T",
-      "E",
-      "R"
+      "B"
     ],
     [
       "B",
+      "L",
+      "E",
+      "S",
+      "S",
       null,
       "T",
       "A",
-      "L",
-      "E",
-      null,
-      "A",
-      "C"
+      "R"
     ],
     [
-      "O",
-      "V",
-      "E",
-      "N",
       null,
-      "R",
       "I",
+      "X",
+      null,
+      "E",
+      "A",
+      "R",
+      null,
+      "O"
+    ],
+    [
       "S",
+      "P",
+      "A",
+      null,
+      "D",
+      "R",
+      "U",
+      "N",
+      "K"
+    ],
+    [
+      "I",
+      null,
+      "M",
+      "G",
+      null,
+      "M",
+      "S",
+      null,
       "E"
     ],
     [
-      "R",
-      null,
+      "G",
+      "A",
+      "I",
+      "N",
+      "S",
       null,
       "T",
+      "O",
+      "N"
+    ],
+    [
+      "N",
       null,
-      null,
+      "N",
+      "U",
+      "T",
       null,
       "E",
+      "V",
+      null
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      null,
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      null,
+      null,
+      "O",
+      "P",
+      "T",
+      null,
+      "L",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        1
+        6,
+        2
       ],
       [
         5,
-        4
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        8
+        7
       ],
       [
         0,
         1
       ],
       [
-        5,
+        2,
         6
-      ],
-      [
-        5,
-        5
       ],
       [
         6,
         3
       ],
       [
-        3,
-        2
+        5,
+        3
       ],
       [
         3,
-        6
+        1
       ],
       [
-        1,
+        0,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
         0
       ],
       [
         4,
-        6
-      ],
-      [
-        2,
-        5
-      ],
-      [
-        2,
-        4
-      ]
-    ],
-    "medium": [
-      [
-        7,
-        1
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        5,
         8
       ],
       [
         1,
-        8
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        7
       ],
       [
         0,
         1
       ],
       [
-        5,
+        2,
         6
-      ],
-      [
-        5,
-        5
       ],
       [
         6,
         3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        8,
+        4
       ]
     ],
     "hard": [
       [
-        7,
+        6,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        0,
         1
       ],
       [
-        5,
-        4
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        8
+        2,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A knot, knob, protuberance or swelling.",
-          "zh": "节点"
-        }
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "保佑"
+        },
+        "level": 4
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
-          "zh": "晕"
-        }
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        },
+        "level": 6
       },
       {
         "num": 9,
         "row": 2,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "The master of the servants of a household; the master of a feudal manor",
-          "zh": "主"
-        }
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
       },
       {
         "num": 11,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A transitional or temporary period between other events.",
-          "zh": "临时"
-        }
+          "en": "A health resort near a mineral spring or hot spring.",
+          "zh": "温泉"
+        },
+        "level": 6
       },
       {
-        "num": 15,
-        "row": 5,
-        "col": 2,
+        "num": 12,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A refuge, haven or other cover or protection from something.",
-          "zh": "庇护所"
-        }
+          "en": "To consume (a liquid) through the mouth.",
+          "zh": "醉"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "The act of gaining; acquisition.",
+          "zh": "收获"
+        },
+        "level": 6
       },
       {
         "num": 18,
-        "row": 6,
-        "col": 2,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
-          "zh": "故事"
-        }
+          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
+          "zh": "吨"
+        },
+        "level": 1
       },
       {
         "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      },
+      {
+        "num": 22,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "A chamber used for baking or heating.",
-          "zh": "烤箱"
-        }
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
       },
       {
-        "num": 21,
+        "num": 23,
         "row": 7,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "To move, or appear to move, physically upwards relative to the ground.",
-          "zh": "上升"
-        }
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
       }
     ],
     "down": [
@@ -297,75 +353,104 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales.",
-          "zh": "玉米"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 5,
-        "clue": {
-          "en": "Something that thrills.",
-          "zh": "惊悚片"
-        }
+          "en": "A maneuver which rotates an object end over end.",
+          "zh": "翻动"
+        },
+        "level": 6
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 4,
         "clue": {
-          "en": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",
-          "zh": "商业"
-        }
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
       },
       {
         "num": 4,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 8,
         "clue": {
-          "en": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
-          "zh": "邻居"
-        }
+          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+          "zh": "破碎的"
+        },
+        "level": 4
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw.",
-          "zh": "大象"
-        }
+          "en": "To observe or inspect carefully or critically",
+          "zh": "检查"
+        },
+        "level": 1
       },
       {
         "num": 7,
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
-          "zh": "承认"
-        }
+          "en": "A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals, or for public uses; one who is intrusted with property for the benefit of another.",
+          "zh": "受托人"
+        },
+        "level": 6
       },
       {
-        "num": 12,
-        "row": 3,
-        "col": 2,
+        "num": 10,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
-          "zh": "品尝"
-        }
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A sequence of states representing an encoded message in a communication channel.",
+          "zh": "信号"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
+          "zh": "格努"
+        },
+        "level": 6
       },
       {
         "num": 17,
         "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+          "zh": "停止"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
-        }
+          "en": "An elongated round shape resembling an egg or ellipse.",
+          "zh": "椭圆形"
+        },
+        "level": 4
       }
     ]
   },
   "difficulty": "hard",
-  "gridSize": 9
+  "gridSize": 9,
+  "exam": "cet4"
 }

@@ -9,31 +9,31 @@
       null,
       null,
       null,
-      "S"
+      "W"
     ],
     [
-      "M",
-      "A",
-      "G",
-      "I",
-      "C"
-    ],
-    [
-      "I",
-      null,
-      "I",
-      null,
-      "E"
-    ],
-    [
-      "L",
+      "P",
       "O",
-      "G",
-      "I",
-      "N"
+      "L",
+      "A",
+      "R"
     ],
     [
       "E",
+      null,
+      "E",
+      null,
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "L",
       null,
       null,
       null,
@@ -43,36 +43,36 @@
   "prefilled": {
     "easy": [
       [
-        3,
-        4
+        1,
+        0
       ],
       [
         4,
-        0
+        4
       ],
       [
-        3,
+        1,
         2
       ],
       [
-        2,
-        0
+        0,
+        4
       ]
     ],
     "medium": [
       [
-        3,
-        4
+        1,
+        0
       ],
       [
         4,
-        0
+        4
       ]
     ],
     "hard": [
       [
-        3,
-        4
+        1,
+        0
       ]
     ]
   },
@@ -83,18 +83,20 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
-          "zh": "魔法"
-        }
+          "en": "The line joining the points of contact of tangents drawn to meet a curve from a point called the pole of the line.",
+          "zh": "极性"
+        },
+        "level": 1
       },
       {
         "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A combination of a user's identification and password used to enter a computer, program, network, etc.",
-          "zh": "登录"
-        }
+          "en": "The natural agent that stimulates sight and makes things visible; brightness or illumination.",
+          "zh": "光"
+        },
+        "level": 1
       }
     ],
     "down": [
@@ -103,30 +105,34 @@
         "row": 0,
         "col": 0,
         "clue": {
-          "en": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.",
-          "zh": "微笑"
-        }
+          "en": "Words or a formula supposed to have magical powers.",
+          "zh": "拼写"
+        },
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "The location of an event that attracts attention.",
-          "zh": "场景"
-        }
+          "en": "The act or style of writing.",
+          "zh": "写"
+        },
+        "level": 1
       },
       {
         "num": 4,
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
-          "zh": "演出"
-        }
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "easy",
-  "gridSize": 5
+  "gridSize": 5,
+  "exam": "junior_high"
 }

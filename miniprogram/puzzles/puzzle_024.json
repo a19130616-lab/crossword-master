@@ -1,196 +1,116 @@
 {
   "id": "puzzle_024",
-  "title": "Hard #4",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #3",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
-      null,
-      null,
-      "E",
-      null,
-      null,
-      "T",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "H",
-      "A",
-      "Y",
-      null,
-      "M",
-      "O",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "M",
-      "E",
-      "D",
-      "A",
       "L",
       null,
-      "U",
-      "L"
-    ],
-    [
-      "A",
-      "B",
       null,
-      "I",
-      "N",
-      "L",
-      "I",
-      "N",
-      "E"
-    ],
-    [
-      "L",
-      "I",
-      "V",
-      "E",
       "D",
       null,
-      "A",
-      "R",
-      "C"
+      null,
+      "A"
     ],
     [
-      "M",
-      "E",
-      "N",
-      "T",
       "A",
-      "L",
+      "C",
+      "C",
+      "U",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "P",
       null,
+      "L",
       "I",
-      "T"
-    ],
-    [
-      "O",
-      "N",
-      null,
-      "A",
       "T",
-      "L",
-      "A",
-      "S",
-      null
-    ],
-    [
-      "S",
-      "T",
-      "O",
-      "R",
-      "E",
       null,
-      "R",
-      "E",
       "V"
     ],
     [
       "T",
+      "E",
+      "A",
+      null,
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "S",
+      "U",
+      "N",
+      null,
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "S",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "S",
       null,
       null,
-      "Y",
+      "E",
       null,
       null,
-      "M",
-      null,
-      null
+      "E"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
-      ],
-      [
-        1,
+        3,
         0
       ],
       [
-        0,
-        8
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        5,
-        1
-      ],
-      [
         4,
         6
       ],
       [
         2,
-        2
+        0
       ],
       [
         3,
-        1
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        2
       ],
       [
         2,
         4
       ],
       [
-        1,
-        7
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        6,
-        6
-      ],
-      [
-        5,
+        4,
         4
       ]
     ],
     "medium": [
       [
-        1,
-        5
-      ],
-      [
-        1,
+        3,
         0
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        4,
-        1
-      ],
-      [
-        4,
-        4
-      ],
-      [
-        5,
-        1
       ],
       [
         4,
@@ -198,29 +118,25 @@
       ],
       [
         2,
-        2
+        0
       ],
       [
         3,
-        1
+        4
+      ],
+      [
+        1,
+        2
       ]
     ],
     "hard": [
       [
-        1,
-        5
-      ],
-      [
-        1,
+        3,
         0
       ],
       [
-        0,
-        8
-      ],
-      [
         4,
-        1
+        6
       ]
     ]
   },
@@ -231,176 +147,126 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Grass cut and dried for use as animal fodder.",
-          "zh": "干草"
-        }
+          "en": "To find fault with, blame, censure",
+          "zh": "被告"
+        },
+        "level": 6
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 4,
+        "num": 7,
+        "row": 2,
+        "col": 2,
         "clue": {
-          "en": "Any small rodent of the genus Mus.",
-          "zh": "老鼠"
-        }
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        },
+        "level": 5
       },
       {
         "num": 8,
-        "row": 2,
-        "col": 1,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "A stamped metal disc used as a personal ornament, a charm, or a religious object.",
-          "zh": "勋章"
-        }
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A star, especially when seen as the centre of any single solar system.",
+          "zh": "太阳"
+        },
+        "level": 1
       },
       {
         "num": 12,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "Consisting of parts arranged in a single line.",
-          "zh": "排队"
-        }
-      },
-      {
-        "num": 14,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "To be alive; to have life.",
-          "zh": "住过"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
-          "zh": "弧"
-        }
-      },
-      {
-        "num": 17,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Of or relating to the mind or an intellectual process.",
-          "zh": "精神的"
-        }
-      },
-      {
-        "num": 21,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A bound collection of maps often including tables, illustrations or other text.",
-          "zh": "地图集"
-        }
-      },
-      {
-        "num": 23,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A retail establishment selling items to the public.",
-          "zh": "店铺"
-        }
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
-        }
+          "en": "To have; to have ownership of.",
+          "zh": "具有"
+        },
+        "level": 4
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        }
+          "en": "A laptop computer.",
+          "zh": "笔记本电脑"
+        },
+        "level": 6
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "Loss or damage incurred through a disaster.",
-          "zh": "收费"
-        }
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "酒驾"
+        },
+        "level": 6
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 6,
         "clue": {
-          "en": "To choose one or more elements of a set, especially a set of options.",
-          "zh": "选择"
-        }
+          "en": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.",
+          "zh": "不利的"
+        },
+        "level": 6
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "Something that surrounds; encompassing material, substance or shape.",
-          "zh": "周围的"
-        }
+          "en": "A set or category of things having some property in common; a group of students taught together.",
+          "zh": "班级"
+        },
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "An official or authoritative command; an order or injunction; a commission; a judicial precept.",
-          "zh": "授权"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The time of day when the sun appears above the eastern horizon.",
-          "zh": "日出"
-        }
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "A regulated diet.",
-          "zh": "饮食"
-        }
+          "en": "A hard earthen substance that can form large rocks.",
+          "zh": "石头"
+        },
+        "level": 1
       },
       {
         "num": 11,
-        "row": 3,
-        "col": 0,
+        "row": 4,
+        "col": 3,
         "clue": {
-          "en": "Something or someone that doesn't quite make it.",
-          "zh": "几乎"
-        }
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
-        }
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
 }

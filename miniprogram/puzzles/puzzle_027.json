@@ -1,425 +1,456 @@
 {
   "id": "puzzle_027",
-  "title": "Hard #7",
+  "title": "Hard #3",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      "H",
+      null,
+      "D",
+      "E",
+      "R",
       null,
       null,
       null,
-      null,
-      "A",
-      null,
-      "S"
+      "R"
     ],
     [
-      "P",
-      "A",
-      "N",
-      "T",
-      "S",
-      null,
+      "C",
+      "H",
       "I",
-      "L",
-      "L"
-    ],
-    [
       null,
-      "L",
-      "E",
-      null,
-      "T",
-      "H",
-      "R",
-      "E",
-      "E"
-    ],
-    [
+      "A",
       "B",
-      "O",
-      "X",
-      null,
-      "R",
       "U",
-      null,
-      "G",
+      "S",
       "E"
     ],
     [
-      "A",
-      null,
-      "T",
-      "R",
-      "I",
-      "B",
-      "E",
-      null,
-      "V"
-    ],
-    [
-      "T",
-      "B",
       null,
       "O",
       "P",
+      "E",
+      "R",
+      "A",
       null,
+      "U",
+      "G"
+    ],
+    [
+      "A",
+      "S",
+      null,
+      "S",
+      "E",
+      "N",
+      null,
+      "R",
+      "G"
+    ],
+    [
+      "S",
+      "T",
       "A",
       "T",
+      null,
+      "N",
+      "O",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "I",
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      "E",
       "E"
     ],
     [
-      "M",
-      "A",
-      "Y",
-      "B",
-      "E",
+      "I",
+      "L",
       null,
-      "S",
-      "O",
+      "T",
+      "E",
+      "D",
+      "D",
+      "Y",
       null
     ],
     [
-      "A",
-      "G",
-      "E",
-      null,
       "S",
-      "P",
       "E",
-      "L",
-      "L"
+      "V",
+      "E",
+      "N",
+      null,
+      "U",
+      "S",
+      "E"
     ],
     [
-      "N",
-      null,
-      "N",
+      "T",
       null,
       null,
       null,
+      "T",
+      "O",
+      "E",
       null,
-      "L",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        4
+        7,
+        3
       ],
       [
-        0,
-        6
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        7
       ],
       [
         4,
         3
       ],
       [
-        1,
-        4
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        3,
-        8
-      ],
-      [
-        2,
+        0,
         2
       ],
       [
         5,
-        0
-      ],
-      [
-        3,
-        2
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        0,
-        8
-      ],
-      [
-        7,
-        4
-      ],
-      [
-        1,
-        8
-      ]
-    ],
-    "medium": [
-      [
-        6,
-        4
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        4,
         3
       ],
       [
-        1,
-        4
+        5,
+        5
       ],
       [
         3,
         7
       ],
       [
-        4,
-        2
+        5,
+        1
+      ],
+      [
+        1,
+        0
       ],
       [
         3,
-        8
+        5
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        8,
+        5
       ],
       [
         2,
+        7
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
         2
       ]
     ],
     "hard": [
       [
-        6,
-        4
-      ],
-      [
-        0,
-        6
-      ],
-      [
-        4,
+        7,
         3
       ],
       [
+        4,
+        0
+      ],
+      [
         1,
-        4
+        1
+      ],
+      [
+        8,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
+        },
+        "level": 5
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(Manchester) An outer garment that covers the body from the waist downwards, covering each leg separately, usually as far as the ankles; trousers.",
-          "zh": "裤子"
-        }
-      },
-      {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
-          "zh": "患病的"
-        }
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "The digit/figure 3.",
-          "zh": "三"
-        }
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Senses relating to a three-dimensional object or space.",
-          "zh": "盒子"
-        }
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "A socially, ethnically, or politically cohesive group of people.",
-          "zh": "部落"
-        }
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        }
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "Something that is possibly true.",
-          "zh": "或许"
-        }
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        }
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Words or a formula supposed to have magical powers.",
-          "zh": "拼写"
-        }
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
-          "zh": "晕"
-        }
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "The substance constituting earth's atmosphere, particularly:",
-          "zh": "空气"
-        }
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "The part of a garment that covers the arm.",
-          "zh": "袖子"
-        }
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "The one that follows after this one.",
-          "zh": "下一个"
-        }
+          "en": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+          "zh": "气"
+        },
+        "level": 6
       },
       {
         "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A long, relatively straight region of a single colour.",
-          "zh": "条纹"
-        }
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A unit of Japanese currency, worth one hundredth of a yen.",
+          "zh": "森"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "With no delay; at once.",
+          "zh": "统计数据"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "Any sudden brightening of a previously inconspicuous star.",
+          "zh": "新星"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "By extension, any stuffed toy.",
+          "zh": "泰迪熊"
+        },
+        "level": 6
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The digit/figure 7 or an occurrence thereof.",
+          "zh": "七"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "Each of the five digits on the end of the foot.",
+          "zh": "脚趾"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A lower section of a road or geological feature.",
+          "zh": "蘸"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A scarce or uncommon item.",
+          "zh": "稀有的"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A form of music originating in Jamaica and associated with Rastafarianism, featuring a heavy bass line and percussive rhythm guitar on the offbeat, often with close vocal harmonies.",
+          "zh": "雷鬼"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "(chiefly in the plural) An enemy.",
+          "zh": "敌对的"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To summon; to call out.",
+          "zh": "禁止"
+        },
+        "level": 6
       },
       {
         "num": 8,
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
-        }
+          "en": "The act of surveying; a general view.",
+          "zh": "调查"
+        },
+        "level": 6
       },
       {
-        "num": 11,
+        "num": 10,
         "row": 2,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The central part, usually cylindrical, of a wheel; the nave.",
-          "zh": "中心"
-        }
+          "en": "The collective property and liabilities of someone, especially a deceased person.",
+          "zh": "财产"
+        },
+        "level": 5
       },
       {
         "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A servant or valet to an army officer.",
-          "zh": "蝙蝠侠"
-        }
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "To steal from, especially using force or violence.",
-          "zh": "抢"
-        }
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
-        }
+          "en": "A helpful action or an act of giving.",
+          "zh": "协助"
+        },
+        "level": 4
       },
       {
         "num": 19,
         "row": 5,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "A flexible container made of cloth, paper, plastic, etc.",
-          "zh": "包"
-        }
+          "en": "(money) A subunit of currency equal to one-hundredth of the main unit of currency in many countries. Symbol: ¢.",
+          "zh": "分"
+        },
+        "level": 1
       },
       {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "Loss or damage incurred through a disaster.",
-          "zh": "收费"
-        }
-      },
-      {
-        "num": 24,
+        "num": 23,
         "row": 6,
-        "col": 2,
+        "col": 6,
         "clue": {
-          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
-          "zh": "日元"
-        }
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
+        },
+        "level": 4
       }
     ]
   },
   "difficulty": "hard",
-  "gridSize": 9
+  "gridSize": 9,
+  "exam": "cet4"
 }

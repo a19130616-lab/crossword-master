@@ -1,0 +1,286 @@
+{
+  "id": "puzzle_059",
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "M",
+      "I",
+      "N",
+      null,
+      "D",
+      "A"
+    ],
+    [
+      "U",
+      null,
+      "C",
+      "O",
+      "H",
+      "E",
+      "N"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      "T",
+      null,
+      "V",
+      "S"
+    ],
+    [
+      "D",
+      "P",
+      null,
+      "H",
+      null,
+      "I",
+      "W"
+    ],
+    [
+      "A",
+      "E",
+      null,
+      "I",
+      "S",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "N",
+      "K",
+      null,
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      null,
+      "G",
+      "I",
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+          "zh": "分钟"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A Jewish priest: direct male descendant of the Biblical high priest Aaron, brother of Moses.",
+          "zh": "科恩"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A person who writes poems.",
+          "zh": "诗人"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "zh": "小岛"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "(heading, biological) Part of a body.",
+          "zh": "树干"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The physical and behavioural characteristics of a bird that enable it to be immediately recognised by an experienced birder as a certain type of bird, especially to family or genus level.",
+          "zh": "地理信息系统"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Something trifling, or of no consequence or importance.",
+          "zh": "没有什么"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An evil creature.",
+          "zh": "魔鬼"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A response or reply; something said or done in reaction to a statement or question.",
+          "zh": "回答"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An advisement providing more up-to-date information than currently known.",
+          "zh": "更新"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "One of a pair of long flat runners designed for gliding over snow or water",
+          "zh": "滑雪"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "sat"
+}

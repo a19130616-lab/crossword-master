@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_048",
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "J",
+      "E",
+      "T",
+      null
+    ],
+    [
+      "A",
+      "U",
+      null,
+      "I",
+      "Z"
+    ],
+    [
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "C",
+      "C",
+      null,
+      "E",
+      "N"
+    ],
+    [
+      null,
+      "E",
+      "A",
+      "R",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
+          "zh": "喷气式飞机"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The back of any animal; especially the upper or projecting part of the back of a quadruped.",
+          "zh": "岭"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A liquid from a plant, especially fruit.",
+          "zh": "汁"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
+          "zh": "老虎"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+          "zh": "弧"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A denomination of Buddhism.",
+          "zh": "禅"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}
