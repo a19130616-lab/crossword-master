@@ -107,7 +107,8 @@ function renderExams(ctx, deps) {
     ctx.fillStyle = isSelected ? Theme.textOnDark : Theme.text
     ctx.font = Font.headline
     ctx.textAlign = 'left'
-    ctx.fillText(exam.label, 32, y + 28)
+    const examDisplayLabel = State.lang === 'en' ? (exam.label_en || exam.label) : exam.label
+    ctx.fillText(examDisplayLabel, 32, y + 28)
 
     // Show puzzle count for this exam
     const examPuzzles = (State.puzzlesIndex || []).filter(p => p.exam === exam.key)
@@ -135,9 +136,9 @@ function renderLevels(ctx, deps) {
   ctx.fillText('‹ Back', 12, SAFE_TOP + 30)
 
   // Show current exam in the title
-  const examLabel = (State.exams || []).find(e => e.key === State.exam)
-  const titleText = examLabel
-    ? `${examLabel.label}`
+  const examObj = (State.exams || []).find(e => e.key === State.exam)
+  const titleText = examObj
+    ? (State.lang === 'en' ? (examObj.label_en || examObj.label) : examObj.label)
     : (State.lang === 'en' ? 'Select Difficulty' : '选择难度')
 
   ctx.fillStyle = Theme.text
@@ -370,6 +371,27 @@ function renderPlay(ctx, deps) {
   ctx.lineTo(W, L.clueY)
   ctx.stroke()
 
+  // Language toggle button (top-right of clue bar)
+  const langBtnW = 36
+  const langBtnH = 22
+  const langBtnX = W - 16 - langBtnW
+  const langBtnY = L.clueY + 6
+  ctx.fillStyle = Theme.surface
+  roundRect(ctx, langBtnX, langBtnY, langBtnW, langBtnH, 6)
+  ctx.fill()
+  ctx.fillStyle = Theme.blue
+  ctx.font = Font.caption
+  ctx.textAlign = 'center'
+  ctx.fillText(State.lang === 'en' ? 'EN' : '中', langBtnX + langBtnW / 2, langBtnY + 16)
+
+  UI.langToggleBtn = { x: langBtnX, y: langBtnY, w: langBtnW, h: langBtnH }
+
+  // Hints display (left of lang toggle)
+  ctx.fillStyle = Theme.orange
+  ctx.font = Font.subhead
+  ctx.textAlign = 'right'
+  ctx.fillText(`💡 ${State.hints}`, langBtnX - 8, L.clueY + 22)
+
   const clue = getCurrentClue()
   if (clue) {
     ctx.fillStyle = Theme.blue
@@ -398,11 +420,6 @@ function renderPlay(ctx, deps) {
       ctx.fillText('Tap a cell to see clue', 16, L.clueY + 45)
     }
   }
-
-  ctx.fillStyle = Theme.orange
-  ctx.font = Font.subhead
-  ctx.textAlign = 'right'
-  ctx.fillText(`💡 ${State.hints}`, W - 16, L.clueY + 32)
 
   drawKeyboard(ctx, { Theme, Font, W, Keyboard, L })
 }

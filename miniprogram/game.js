@@ -34,7 +34,7 @@ const Haptics = {
 }
 
 const engine = createEngine({ State, Theme, calculateLayout, W, H, SAFE_TOP, HOME_INDICATOR, saveProgress, Haptics })
-const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, examBtns: [], levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
+const UI = { menuPlayBtn: null, menuLangBtn: null, backBtn: null, langToggleBtn: null, examBtns: [], levelBtns: [], puzzleBtns: [], completeNextBtn: null, completeMenuBtn: null }
 
 function loadPuzzleByIndex(idx) {
   const entry = State.puzzlesIndex[idx]
@@ -68,6 +68,7 @@ function handleTouch(x, y) {
       break
     case 'play': {
       if (inRect(x, y, UI.backBtn)) { State.screen = 'puzzles'; return }
+      if (inRect(x, y, UI.langToggleBtn)) { State.lang = State.lang === 'en' ? 'zh' : 'en'; saveProgress(); return }
       const L = State.layout
       if (y >= L.keyboardY) { engine.Keyboard.handleTap(x, y); return }
       if (x >= L.gridX && x < L.gridX + L.gridWidth && y >= L.gridY && y < L.gridY + L.gridHeight) {

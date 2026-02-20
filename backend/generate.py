@@ -33,13 +33,13 @@ EXAM_LEVEL_RANGES = {
 
 # Human-readable labels for each exam (used in frontend)
 EXAM_LABELS = {
-    "junior_high": "初中",
-    "senior_high": "高中",
-    "cet4":        "四级",
-    "cet6":        "六级",
-    "graduate":    "考研",
-    "toefl":       "托福",
-    "sat":         "SAT",
+    "junior_high": {"zh": "初中",  "en": "Junior High"},
+    "senior_high": {"zh": "高中",  "en": "Senior High"},
+    "cet4":        {"zh": "四级",  "en": "CET-4"},
+    "cet6":        {"zh": "六级",  "en": "CET-6"},
+    "graduate":    {"zh": "考研",  "en": "Graduate"},
+    "toefl":       {"zh": "托福",  "en": "TOEFL"},
+    "sat":         {"zh": "SAT",   "en": "SAT"},
 }
 
 
@@ -98,7 +98,7 @@ def generate_all_exams(out_dir, count_per_tier=None):
 
     # Generate a set for each exam level
     for exam_key, (min_lv, max_lv) in EXAM_LEVEL_RANGES.items():
-        label = EXAM_LABELS.get(exam_key, exam_key)
+        label = EXAM_LABELS.get(exam_key, {}).get("zh", exam_key)
         print(f"\n=== {label} ({exam_key}) level {min_lv}-{max_lv} ===")
         words = load_dictionary(min_level=min_lv, max_level=max_lv)
         print(f"  Dictionary: {len(words)} words")
@@ -113,9 +113,11 @@ def generate_all_exams(out_dir, count_per_tier=None):
     # Write exam metadata for the frontend
     exam_meta = []
     for exam_key in EXAM_LEVEL_RANGES:
+        labels = EXAM_LABELS.get(exam_key, {})
         exam_meta.append({
             "key": exam_key,
-            "label": EXAM_LABELS.get(exam_key, exam_key),
+            "label": labels.get("zh", exam_key),
+            "label_en": labels.get("en", exam_key),
         })
     meta_path = out_dir / "exams.json"
     meta_path.write_text(json.dumps(exam_meta, ensure_ascii=False, indent=2), encoding="utf-8")
