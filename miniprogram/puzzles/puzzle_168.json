@@ -1,0 +1,262 @@
+{
+  "id": "puzzle_168",
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "D",
+      null,
+      "M",
+      null,
+      null,
+      "H"
+    ],
+    [
+      "C",
+      "A",
+      "P",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      null,
+      "M",
+      "O",
+      "N",
+      null,
+      "E",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      null,
+      "S",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "O",
+      "G",
+      null,
+      "I",
+      "N",
+      "S",
+      null
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "O",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "N",
+      null,
+      "S",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+          "zh": "有能力的"
+        },
+        "level": 5
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
+          "zh": "沙"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A position of power or influence, or a way to get it.",
+          "zh": "插入"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To give one's time, focus one's efforts, commit oneself, etc. entirely for, on, or to a certain matter",
+          "zh": "奉献的"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Injury or harm; the condition or measure of something not being intact.",
+          "zh": "损害"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A large house or building, usually built for the wealthy.",
+          "zh": "大厦"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "The part of the body of an animal or human which contains the brain, mouth and main sense organs.",
+          "zh": "头"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "zh": "镜片"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A knot, knob, protuberance or swelling.",
+          "zh": "节点"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "toefl"
+}

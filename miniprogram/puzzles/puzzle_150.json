@@ -1,0 +1,388 @@
+{
+  "id": "puzzle_150",
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "O",
+      null,
+      null,
+      null,
+      "C",
+      null,
+      null,
+      "E"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "L",
+      null,
+      "A",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "M",
+      "A",
+      null,
+      "A",
+      "N",
+      "T",
+      "I",
+      null,
+      "I"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      null,
+      "R"
+    ],
+    [
+      "E",
+      null,
+      "W",
+      "D",
+      null,
+      "R",
+      "L",
+      null,
+      "A"
+    ],
+    [
+      "D",
+      null,
+      "A",
+      "M",
+      "B",
+      "I",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "D",
+      null,
+      "R",
+      "A",
+      "I",
+      "N",
+      null,
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "R",
+      null,
+      "G",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      null,
+      null,
+      "K",
+      null,
+      null,
+      null,
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        8
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        8
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        8
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        0,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        },
+        "level": 7
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A heavy, loosely woven fabric, usually large and woollen, used for warmth while sleeping or resting.",
+          "zh": "毯子"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "Something that surrounds; encompassing material, substance or shape.",
+          "zh": "周围的"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Condensed water falling from a cloud.",
+          "zh": "雨"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "The act of going.",
+          "zh": "去"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An elongated round shape resembling an egg or ellipse.",
+          "zh": "椭圆形"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To provide, particularly:",
+          "zh": "餐饮"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A country ruled by an emir.",
+          "zh": "酋长国"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To lay as in a bed; to lay in surrounding matter; to bed.",
+          "zh": "嵌入式"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "An object that marks the boundary of a piece of land (usually a stone, or a tree).",
+          "zh": "地标"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The name of a book, composition, or other artistic work.",
+          "zh": "标题"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

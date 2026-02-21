@@ -1,0 +1,260 @@
+{
+  "id": "puzzle_080",
+  "title": "Medium #10",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      null,
+      "F",
+      null,
+      null,
+      "T"
+    ],
+    [
+      null,
+      "A",
+      null,
+      "E",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      null,
+      "G",
+      "O",
+      "A",
+      "L",
+      null,
+      "N"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "C",
+      "U",
+      "B",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      null,
+      "V",
+      null
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A result that one is attempting to achieve.",
+          "zh": "目标"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A risky or daring undertaking or journey.",
+          "zh": "创业"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A regular polyhedron having six identical square faces.",
+          "zh": "立方体"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "One's structure or make-up: form, shape, bodily proportions.",
+          "zh": "特征"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A specific pitch.",
+          "zh": "语气"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+          "zh": "俱乐部"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A formalized choice on matters of administration or other democratic activities",
+          "zh": "投票"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
+}

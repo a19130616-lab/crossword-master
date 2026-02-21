@@ -1,42 +1,70 @@
 {
   "id": "puzzle_020",
-  "title": "Easy #2",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #10",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "G",
-      "O",
-      "L",
-      "F"
-    ],
-    [
+      "H",
+      null,
+      null,
       "B",
-      null,
-      "C",
-      "O",
-      "L"
-    ],
-    [
-      "O",
-      "M",
-      "E",
-      "G",
-      "A"
-    ],
-    [
-      "M",
       "I",
-      "A",
-      null,
       "G"
     ],
     [
-      "B",
-      "A",
+      "T",
+      "E",
+      "E",
       "N",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "I",
+      "R",
+      null,
+      "E",
+      "S",
+      null,
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "R",
+      "E",
+      "C",
+      "T"
+    ],
+    [
       "K",
+      null,
+      "O",
+      "V",
+      null,
+      "A",
+      "L"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "E",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      null,
+      null,
+      "E",
       null
     ]
   ],
@@ -44,28 +72,52 @@
     "easy": [
       [
         3,
-        4
+        5
       ],
       [
-        1,
+        6,
         0
-      ],
-      [
-        2,
-        2
       ],
       [
         3,
-        0
+        4
       ],
       [
         1,
-        4
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
       ]
     ],
     "medium": [
       [
         3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        3,
         4
       ],
       [
@@ -73,11 +125,19 @@
         0
       ],
       [
-        2,
+        3,
         2
       ]
     ],
     "hard": [
+      [
+        3,
+        5
+      ],
+      [
+        6,
+        0
+      ],
       [
         3,
         4
@@ -87,84 +147,12 @@
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
-          "zh": "高尔夫球"
-        },
-        "level": 4
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A dip on a mountain ridge between two peaks.",
-          "zh": "坳"
-        },
-        "level": 6
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
-        },
-        "level": 6
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "An institution where one can place and borrow money and take care of financial affairs.",
-          "zh": "银行"
-        },
-        "level": 1
-      }
-    ],
-    "down": [
-      {
         "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "One of the large bodies of water separating the continents.",
-          "zh": "海洋"
-        },
-        "level": 1
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
-          "zh": "日志"
-        },
-        "level": 5
-      },
-      {
-        "num": 4,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.",
-          "zh": "旗帜"
+          "en": "Someone or something that is large in stature",
+          "zh": "大的"
         },
         "level": 1
       },
@@ -173,24 +161,116 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An explosive device used or intended as a weapon.",
-          "zh": "炸弹"
+          "en": "Brushwood for fences and hedges.",
+          "zh": "十几岁的"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 8,
-        "row": 2,
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Free from error; true; accurate.",
+          "zh": "正确的"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A spending or consuming, often a disbursement of funds.",
+          "zh": "费用"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
         "col": 1,
         "clue": {
-          "en": "An ancient bluffing game played with dice.",
-          "zh": "米娅"
+          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+          "zh": "英雄"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Something from which other things extend; a foundation.",
+          "zh": "根据"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A person of high birth.",
+          "zh": "温和的"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A pass entitling the holder to admission to a show, concert, etc.",
+          "zh": "票"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.",
+          "zh": "神经"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
+          "zh": "绳索"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "An instance of a particular situation; a specific example of something occurring.",
+          "zh": "案件"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "cet4"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

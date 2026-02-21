@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_085",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "O",
+      null,
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "D",
+      null,
+      "F",
+      "O",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "I",
+      "E",
+      null,
+      null,
+      "F",
+      null,
+      "U",
+      "E"
+    ],
+    [
+      null,
+      "V",
+      null,
+      "G",
+      "R",
+      "E",
+      "A",
+      "T",
+      null
+    ],
+    [
+      "P",
+      "I",
+      "P",
+      "E",
+      null,
+      "R",
+      null,
+      "H",
+      null
+    ],
+    [
+      null,
+      "L",
+      "I",
+      "N",
+      "K",
+      null,
+      null,
+      "E",
+      null
+    ],
+    [
+      "Y",
+      "I",
+      null,
+      "T",
+      "I",
+      "G",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      null,
+      "Y",
+      "A",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "N",
+      null,
+      "E",
+      null,
+      "M",
+      "R",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        7,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        1,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A sour substance.",
+          "zh": "酸"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.",
+          "zh": "脚"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "伟大的"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Meanings relating to a wind instrument.",
+          "zh": "管道"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A relationship or connection between two things.",
+          "zh": "关联"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
+          "zh": "老虎"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        },
+        "level": 6
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A principle in Chinese and related East Asian philosophies associated with bright, hot, masculine, etc. elements of the natural world.",
+          "zh": "阳"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "死"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To present or proffer something for someone to accept or reject.",
+          "zh": "提供"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.",
+          "zh": "南部"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A person following the pursuits of civil life, especially one who is not an active member of the armed forces.",
+          "zh": "平民"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A person of high birth.",
+          "zh": "温和的"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "An affirmative vote, usually but not always spoken",
+          "zh": "是的"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

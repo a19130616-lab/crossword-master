@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_122",
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "G",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "M",
+      null,
+      "O",
+      null,
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      null,
+      null,
+      null,
+      "Y"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+          "zh": "承认"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A landed estate.",
+          "zh": "庄园"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The third letter of the Greek alphabet (Γ, γ), preceded by beta (Β, β) and followed by delta, (Δ, δ).",
+          "zh": "伽马"
+        },
+        "level": 7
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A sequence of real or fictional events; or, an account of such a sequence.",
+          "zh": "故事"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

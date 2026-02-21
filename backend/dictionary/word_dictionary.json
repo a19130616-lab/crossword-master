@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "word_count": 3649,
+    "word_count": 3546,
     "source": "enriched_words.json",
     "levels_source": "word_levels.json",
     "level_distribution": {
-      "1": 1174,
-      "4": 738,
-      "5": 518,
-      "6": 958,
-      "7": 212,
-      "9": 30
+      "1": 1160,
+      "4": 724,
+      "5": 505,
+      "6": 819,
+      "7": 202,
+      "9": 29
     }
   },
   "words": {
@@ -130,30 +130,6 @@
       "exams": [
         "cet4",
         "graduate",
-        "toefl"
-      ]
-    },
-    "NEWS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "New information of interest.",
-          "zh": "新闻"
-        },
-        "medium": {
-          "en": "New information of interest.",
-          "zh": "新闻"
-        },
-        "hard": {
-          "en": "New information of interest.",
-          "zh": "新闻"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "junior_high",
-        "senior_high",
         "toefl"
       ]
     },
@@ -2758,31 +2734,6 @@
         "toefl"
       ]
     },
-    "REPLY": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A written or spoken response; part of a conversation.",
-          "zh": "回复"
-        },
-        "medium": {
-          "en": "A written or spoken response; part of a conversation.",
-          "zh": "回复"
-        },
-        "hard": {
-          "en": "A written or spoken response; part of a conversation.",
-          "zh": "回复"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "graduate",
-        "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "VALUE": {
       "length": 5,
       "clues": {
@@ -3589,29 +3540,6 @@
       "exams": [
         "cet4",
         "graduate",
-        "junior_high",
-        "senior_high"
-      ]
-    },
-    "LESS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "A smaller amount or quantity.",
-          "zh": "更少的"
-        },
-        "medium": {
-          "en": "A smaller amount or quantity.",
-          "zh": "更少的"
-        },
-        "hard": {
-          "en": "A smaller amount or quantity.",
-          "zh": "更少的"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
         "junior_high",
         "senior_high"
       ]
@@ -4626,25 +4554,6 @@
         "senior_high"
       ]
     },
-    "CARDS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A playing card.",
-          "zh": "卡片"
-        },
-        "medium": {
-          "en": "A playing card.",
-          "zh": "卡片"
-        },
-        "hard": {
-          "en": "A playing card.",
-          "zh": "卡片"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "CHILD": {
       "length": 5,
       "clues": {
@@ -4715,25 +4624,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "ADDED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加的"
-        },
-        "medium": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加的"
-        },
-        "hard": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加的"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "BABY": {
       "length": 4,
@@ -5889,25 +5779,6 @@
         "toefl"
       ]
     },
-    "TIPS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "The tip of the external ear.",
-          "zh": "提示"
-        },
-        "medium": {
-          "en": "The tip of the external ear.",
-          "zh": "提示"
-        },
-        "hard": {
-          "en": "The tip of the external ear.",
-          "zh": "提示"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "PLUS": {
       "length": 4,
       "clues": {
@@ -6549,31 +6420,6 @@
         "hard": {
           "en": "Something complete, without any parts missing.",
           "zh": "所有的"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "graduate",
-        "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "LATER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Near the end of a period of time.",
-          "zh": "之后"
-        },
-        "medium": {
-          "en": "Near the end of a period of time.",
-          "zh": "之后"
-        },
-        "hard": {
-          "en": "Near the end of a period of time.",
-          "zh": "之后"
         }
       },
       "level": 1,
@@ -7813,6 +7659,23 @@
         "toefl"
       ]
     },
+    "FLOWER": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+          "zh": "花"
+        },
+        "medium": {
+          "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+          "zh": "花"
+        },
+        "hard": {
+          "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+          "zh": "花"
+        }
+      }
+    },
     "PURPLE": {
       "length": 6,
       "clues": {
@@ -8280,6 +8143,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "MATTER": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Substance, material.",
+          "zh": "事情"
+        },
+        "medium": {
+          "en": "Substance, material.",
+          "zh": "事情"
+        },
+        "hard": {
+          "en": "Substance, material.",
+          "zh": "事情"
+        }
+      }
     },
     "MOTION": {
       "length": 6,
@@ -8880,31 +8760,6 @@
         "cet4",
         "cet6",
         "graduate",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "HONEST": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
-          "zh": "诚实的"
-        },
-        "medium": {
-          "en": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
-          "zh": "诚实的"
-        },
-        "hard": {
-          "en": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
-          "zh": "诚实的"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "graduate",
-        "junior_high",
         "senior_high",
         "toefl"
       ]
@@ -9701,32 +9556,6 @@
         "cet6",
         "graduate",
         "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "DIFFER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Not to have the same traits or characteristics; to be unalike or distinct.",
-          "zh": "不同"
-        },
-        "medium": {
-          "en": "Not to have the same traits or characteristics; to be unalike or distinct.",
-          "zh": "不同"
-        },
-        "hard": {
-          "en": "Not to have the same traits or characteristics; to be unalike or distinct.",
-          "zh": "不同"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "graduate",
-        "junior_high",
-        "sat",
         "senior_high",
         "toefl"
       ]
@@ -11570,6 +11399,23 @@
         "sat"
       ]
     },
+    "RULING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To regulate, be in charge of, make decisions for, reign over.",
+          "zh": "裁决"
+        },
+        "medium": {
+          "en": "To regulate, be in charge of, make decisions for, reign over.",
+          "zh": "裁决"
+        },
+        "hard": {
+          "en": "To regulate, be in charge of, make decisions for, reign over.",
+          "zh": "裁决"
+        }
+      }
+    },
     "ROUTINE": {
       "length": 7,
       "clues": {
@@ -12995,6 +12841,23 @@
         "toefl"
       ]
     },
+    "HOLDING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To grasp or grip.",
+          "zh": "保持"
+        },
+        "medium": {
+          "en": "To grasp or grip.",
+          "zh": "保持"
+        },
+        "hard": {
+          "en": "To grasp or grip.",
+          "zh": "保持"
+        }
+      }
+    },
     "HOLIDAY": {
       "length": 7,
       "clues": {
@@ -13019,6 +12882,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "HOUSING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To keep within a structure or container.",
+          "zh": "住房"
+        },
+        "medium": {
+          "en": "To keep within a structure or container.",
+          "zh": "住房"
+        },
+        "hard": {
+          "en": "To keep within a structure or container.",
+          "zh": "住房"
+        }
+      }
     },
     "HUNDRED": {
       "length": 7,
@@ -13263,6 +13143,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "LASTING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To perform, carry out.",
+          "zh": "持久"
+        },
+        "medium": {
+          "en": "To perform, carry out.",
+          "zh": "持久"
+        },
+        "hard": {
+          "en": "To perform, carry out.",
+          "zh": "持久"
+        }
+      }
     },
     "LECTURE": {
       "length": 7,
@@ -16188,6 +16085,23 @@
         "toefl"
       ]
     },
+    "RANKING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To place abreast, or in a line.",
+          "zh": "排行"
+        },
+        "medium": {
+          "en": "To place abreast, or in a line.",
+          "zh": "排行"
+        },
+        "hard": {
+          "en": "To place abreast, or in a line.",
+          "zh": "排行"
+        }
+      }
+    },
     "CONSENT": {
       "length": 7,
       "clues": {
@@ -16581,31 +16495,6 @@
         "toefl"
       ]
     },
-    "CHARTER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
-          "zh": "宪章"
-        },
-        "medium": {
-          "en": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
-          "zh": "宪章"
-        },
-        "hard": {
-          "en": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
-          "zh": "宪章"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "sat",
-        "toefl"
-      ]
-    },
     "CITIZEN": {
       "length": 7,
       "clues": {
@@ -16976,6 +16865,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "ADVANCED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To promote or advantage.",
+          "zh": "先进的"
+        },
+        "medium": {
+          "en": "To promote or advantage.",
+          "zh": "先进的"
+        },
+        "hard": {
+          "en": "To promote or advantage.",
+          "zh": "先进的"
+        }
+      }
     },
     "ADVOCACY": {
       "length": 8,
@@ -18416,25 +18322,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "EXISTING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "现存的"
-        },
-        "medium": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "现存的"
-        },
-        "hard": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "现存的"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "EXTERIOR": {
       "length": 8,
@@ -21045,27 +20932,6 @@
         "toefl"
       ]
     },
-    "ACTUALLY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "(modal) In act or in fact; really; in truth; positively.",
-          "zh": "实际上"
-        },
-        "medium": {
-          "en": "(modal) In act or in fact; really; in truth; positively.",
-          "zh": "实际上"
-        },
-        "hard": {
-          "en": "(modal) In act or in fact; really; in truth; positively.",
-          "zh": "实际上"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4"
-      ]
-    },
     "AUDIENCE": {
       "length": 8,
       "clues": {
@@ -21752,25 +21618,6 @@
         "toefl"
       ]
     },
-    "MOUNTING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装"
-        },
-        "medium": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装"
-        },
-        "hard": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "MUTATION": {
       "length": 8,
       "clues": {
@@ -21900,6 +21747,23 @@
         "cet6",
         "toefl"
       ]
+    },
+    "OFFERING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To propose or express one's willingness (to do something).",
+          "zh": "奉献"
+        },
+        "medium": {
+          "en": "To propose or express one's willingness (to do something).",
+          "zh": "奉献"
+        },
+        "hard": {
+          "en": "To propose or express one's willingness (to do something).",
+          "zh": "奉献"
+        }
+      }
     },
     "OPTIONAL": {
       "length": 8,
@@ -22298,6 +22162,23 @@
         "toefl"
       ]
     },
+    "UNITED": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To bring together as one.",
+          "zh": "团结的"
+        },
+        "medium": {
+          "en": "To bring together as one.",
+          "zh": "团结的"
+        },
+        "hard": {
+          "en": "To bring together as one.",
+          "zh": "团结的"
+        }
+      }
+    },
     "MEMBER": {
       "length": 6,
       "clues": {
@@ -22394,25 +22275,6 @@
         "toefl"
       ]
     },
-    "POSTED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发布"
-        },
-        "medium": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发布"
-        },
-        "hard": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发布"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "WITHIN": {
       "length": 6,
       "clues": {
@@ -22499,6 +22361,23 @@
         "senior_high"
       ]
     },
+    "RELATED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To tell in a descriptive way.",
+          "zh": "有关的"
+        },
+        "medium": {
+          "en": "To tell in a descriptive way.",
+          "zh": "有关的"
+        },
+        "hard": {
+          "en": "To tell in a descriptive way.",
+          "zh": "有关的"
+        }
+      }
+    },
     "SECURITY": {
       "length": 8,
       "clues": {
@@ -22546,6 +22425,23 @@
         "graduate",
         "toefl"
       ]
+    },
+    "COMPUTER": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "A person employed to perform computations; one who computes.",
+          "zh": "电脑"
+        },
+        "medium": {
+          "en": "A person employed to perform computations; one who computes.",
+          "zh": "电脑"
+        },
+        "hard": {
+          "en": "A person employed to perform computations; one who computes.",
+          "zh": "电脑"
+        }
+      }
     },
     "DOWNLOAD": {
       "length": 8,
@@ -22667,6 +22563,23 @@
         "toefl"
       ]
     },
+    "RATING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To assign or be assigned a particular rank or level.",
+          "zh": "等级"
+        },
+        "medium": {
+          "en": "To assign or be assigned a particular rank or level.",
+          "zh": "等级"
+        },
+        "hard": {
+          "en": "To assign or be assigned a particular rank or level.",
+          "zh": "等级"
+        }
+      }
+    },
     "CHILDREN": {
       "length": 8,
       "clues": {
@@ -22778,6 +22691,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "LISTING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To create or recite a list.",
+          "zh": "上市"
+        },
+        "medium": {
+          "en": "To create or recite a list.",
+          "zh": "上市"
+        },
+        "hard": {
+          "en": "To create or recite a list.",
+          "zh": "上市"
+        }
+      }
     },
     "LITTLE": {
       "length": 6,
@@ -22974,6 +22904,23 @@
         "toefl"
       ]
     },
+    "TRAINING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To practice an ability.",
+          "zh": "训练"
+        },
+        "medium": {
+          "en": "To practice an ability.",
+          "zh": "训练"
+        },
+        "hard": {
+          "en": "To practice an ability.",
+          "zh": "训练"
+        }
+      }
+    },
     "CREDIT": {
       "length": 6,
       "clues": {
@@ -23147,28 +23094,6 @@
         "toefl"
       ]
     },
-    "REALLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "In a way or manner that is real, not unreal.",
-          "zh": "真的"
-        },
-        "medium": {
-          "en": "In a way or manner that is real, not unreal.",
-          "zh": "真的"
-        },
-        "hard": {
-          "en": "In a way or manner that is real, not unreal.",
-          "zh": "真的"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "junior_high"
-      ]
-    },
     "SERIES": {
       "length": 6,
       "clues": {
@@ -23308,6 +23233,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "WORKING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "(usually in the plural) Operation; action.",
+          "zh": "在职的"
+        },
+        "medium": {
+          "en": "(usually in the plural) Operation; action.",
+          "zh": "在职的"
+        },
+        "hard": {
+          "en": "(usually in the plural) Operation; action.",
+          "zh": "在职的"
+        }
+      }
     },
     "AGAINST": {
       "length": 7,
@@ -23550,30 +23492,6 @@
       "level": 6,
       "exams": []
     },
-    "LATEST": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Near the end of a period of time.",
-          "zh": "最新的"
-        },
-        "medium": {
-          "en": "Near the end of a period of time.",
-          "zh": "最新的"
-        },
-        "hard": {
-          "en": "Near the end of a period of time.",
-          "zh": "最新的"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "junior_high",
-        "sat",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "QUESTION": {
       "length": 8,
       "clues": {
@@ -23648,26 +23566,22 @@
         "toefl"
       ]
     },
-    "SELLER": {
-      "length": 6,
+    "BUILDING": {
+      "length": 8,
       "clues": {
         "easy": {
-          "en": "Someone who sells; a vendor; a clerk.",
-          "zh": "卖方"
+          "en": "The act or process by which something is built; construction.",
+          "zh": "建筑"
         },
         "medium": {
-          "en": "Someone who sells; a vendor; a clerk.",
-          "zh": "卖方"
+          "en": "The act or process by which something is built; construction.",
+          "zh": "建筑"
         },
         "hard": {
-          "en": "Someone who sells; a vendor; a clerk.",
-          "zh": "卖方"
+          "en": "The act or process by which something is built; construction.",
+          "zh": "建筑"
         }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
+      }
     },
     "ALWAYS": {
       "length": 6,
@@ -23717,6 +23631,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "MEETING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "(gerund) The act of persons or things that meet.",
+          "zh": "会议"
+        },
+        "medium": {
+          "en": "(gerund) The act of persons or things that meet.",
+          "zh": "会议"
+        },
+        "hard": {
+          "en": "(gerund) The act of persons or things that meet.",
+          "zh": "会议"
+        }
+      }
     },
     "BECOME": {
       "length": 6,
@@ -23948,25 +23879,6 @@
         "toefl"
       ]
     },
-    "HAVING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To possess, own.",
-          "zh": "拥有"
-        },
-        "medium": {
-          "en": "To possess, own.",
-          "zh": "拥有"
-        },
-        "hard": {
-          "en": "To possess, own.",
-          "zh": "拥有"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ALREADY": {
       "length": 7,
       "clues": {
@@ -24082,6 +23994,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "LIMITED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To restrict; not to allow to go beyond a certain bound, to set boundaries.",
+          "zh": "有限的"
+        },
+        "medium": {
+          "en": "To restrict; not to allow to go beyond a certain bound, to set boundaries.",
+          "zh": "有限的"
+        },
+        "hard": {
+          "en": "To restrict; not to allow to go beyond a certain bound, to set boundaries.",
+          "zh": "有限的"
+        }
+      }
     },
     "PERIOD": {
       "length": 6,
@@ -24529,25 +24458,6 @@
         "toefl"
       ]
     },
-    "RECEIVED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
-          "zh": "已收到"
-        },
-        "medium": {
-          "en": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
-          "zh": "已收到"
-        },
-        "hard": {
-          "en": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
-          "zh": "已收到"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "CHOOSE": {
       "length": 6,
       "clues": {
@@ -24810,6 +24720,23 @@
         "graduate",
         "toefl"
       ]
+    },
+    "WRITING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "Graphism of symbols such as letters that express some meaning.",
+          "zh": "写作"
+        },
+        "medium": {
+          "en": "Graphism of symbols such as letters that express some meaning.",
+          "zh": "写作"
+        },
+        "hard": {
+          "en": "Graphism of symbols such as letters that express some meaning.",
+          "zh": "写作"
+        }
+      }
     },
     "REMEMBER": {
       "length": 8,
@@ -25076,25 +25003,6 @@
         "senior_high"
       ]
     },
-    "PICS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片"
-        },
-        "medium": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片"
-        },
-        "hard": {
-          "en": "A picture, especially a photographic image.",
-          "zh": "图片"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "WESTERN": {
       "length": 7,
       "clues": {
@@ -25218,25 +25126,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "CONTENTS": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "内容"
-        },
-        "medium": {
-          "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "内容"
-        },
-        "hard": {
-          "en": "To give contentment or satisfaction; to satisfy; to make happy.",
-          "zh": "内容"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SEEN": {
       "length": 4,
@@ -25567,31 +25456,6 @@
         "toefl"
       ]
     },
-    "APPLY": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
-        },
-        "medium": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
-        },
-        "hard": {
-          "en": "To lay or place; to put (one thing to another)",
-          "zh": "申请"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "HELD": {
       "length": 4,
       "clues": {
@@ -25610,29 +25474,6 @@
       },
       "level": 6,
       "exams": []
-    },
-    "PRINTER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "One who makes prints.",
-          "zh": "打印机"
-        },
-        "medium": {
-          "en": "One who makes prints.",
-          "zh": "打印机"
-        },
-        "hard": {
-          "en": "One who makes prints.",
-          "zh": "打印机"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet6",
-        "senior_high",
-        "toefl"
-      ]
     },
     "BELIEVE": {
       "length": 7,
@@ -25657,25 +25498,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "ASKED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "问"
-        },
-        "medium": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "问"
-        },
-        "hard": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "问"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "MIND": {
       "length": 4,
@@ -26166,25 +25988,6 @@
         "toefl"
       ]
     },
-    "SKILLS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To set apart; separate.",
-          "zh": "技能"
-        },
-        "medium": {
-          "en": "To set apart; separate.",
-          "zh": "技能"
-        },
-        "hard": {
-          "en": "To set apart; separate.",
-          "zh": "技能"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "SIX": {
       "length": 3,
       "clues": {
@@ -26255,29 +26058,6 @@
         "graduate",
         "junior_high",
         "senior_high",
-        "toefl"
-      ]
-    },
-    "CAREER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "One's calling in life; a person's occupation; one's profession.",
-          "zh": "职业"
-        },
-        "medium": {
-          "en": "One's calling in life; a person's occupation; one's profession.",
-          "zh": "职业"
-        },
-        "hard": {
-          "en": "One's calling in life; a person's occupation; one's profession.",
-          "zh": "职业"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "graduate",
         "toefl"
       ]
     },
@@ -26469,6 +26249,23 @@
         "toefl"
       ]
     },
+    "COMING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To move from further away to nearer to.",
+          "zh": "未来"
+        },
+        "medium": {
+          "en": "To move from further away to nearer to.",
+          "zh": "未来"
+        },
+        "hard": {
+          "en": "To move from further away to nearer to.",
+          "zh": "未来"
+        }
+      }
+    },
     "LESBIAN": {
       "length": 7,
       "clues": {
@@ -26582,25 +26379,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "RETURNS": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "The act of returning.",
-          "zh": "返回"
-        },
-        "medium": {
-          "en": "The act of returning.",
-          "zh": "返回"
-        },
-        "hard": {
-          "en": "The act of returning.",
-          "zh": "返回"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "FOLLOW": {
       "length": 6,
@@ -26963,6 +26741,23 @@
       "level": 6,
       "exams": []
     },
+    "LOCATED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To place; to set in a particular spot or position.",
+          "zh": "位于"
+        },
+        "medium": {
+          "en": "To place; to set in a particular spot or position.",
+          "zh": "位于"
+        },
+        "hard": {
+          "en": "To place; to set in a particular spot or position.",
+          "zh": "位于"
+        }
+      }
+    },
     "MULTIPLE": {
       "length": 8,
       "clues": {
@@ -27204,6 +26999,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "FRIENDLY": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "A game which is of no consequence in terms of ranking, betting etc.",
+          "zh": "友好的"
+        },
+        "medium": {
+          "en": "A game which is of no consequence in terms of ranking, betting etc.",
+          "zh": "友好的"
+        },
+        "hard": {
+          "en": "A game which is of no consequence in terms of ranking, betting etc.",
+          "zh": "友好的"
+        }
+      }
     },
     "SCHEDULE": {
       "length": 8,
@@ -28242,6 +28054,23 @@
         "toefl"
       ]
     },
+    "SELECTED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To choose one or more elements of a set, especially a set of options.",
+          "zh": "已选择"
+        },
+        "medium": {
+          "en": "To choose one or more elements of a set, especially a set of options.",
+          "zh": "已选择"
+        },
+        "hard": {
+          "en": "To choose one or more elements of a set, especially a set of options.",
+          "zh": "已选择"
+        }
+      }
+    },
     "WINE": {
       "length": 4,
       "clues": {
@@ -28518,25 +28347,6 @@
       "level": 6,
       "exams": []
     },
-    "TRYING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To attempt; to endeavour. Followed by infinitive.",
-          "zh": "尝试"
-        },
-        "medium": {
-          "en": "To attempt; to endeavour. Followed by infinitive.",
-          "zh": "尝试"
-        },
-        "hard": {
-          "en": "To attempt; to endeavour. Followed by infinitive.",
-          "zh": "尝试"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "TOLD": {
       "length": 4,
       "clues": {
@@ -28723,6 +28533,23 @@
         "graduate"
       ]
     },
+    "TEACHING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "Something taught by a religious or philosophical authority.",
+          "zh": "教学"
+        },
+        "medium": {
+          "en": "Something taught by a religious or philosophical authority.",
+          "zh": "教学"
+        },
+        "hard": {
+          "en": "Something taught by a religious or philosophical authority.",
+          "zh": "教学"
+        }
+      }
+    },
     "TRIAL": {
       "length": 5,
       "clues": {
@@ -28767,6 +28594,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "LEADING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To cover, fill, or affect with lead",
+          "zh": "领导"
+        },
+        "medium": {
+          "en": "To cover, fill, or affect with lead",
+          "zh": "领导"
+        },
+        "hard": {
+          "en": "To cover, fill, or affect with lead",
+          "zh": "领导"
+        }
+      }
     },
     "METAL": {
       "length": 5,
@@ -28889,33 +28733,6 @@
         "cet4",
         "graduate",
         "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "PASS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "To change place.",
-          "zh": "通过"
-        },
-        "medium": {
-          "en": "To change place.",
-          "zh": "通过"
-        },
-        "hard": {
-          "en": "To change place.",
-          "zh": "通过"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "junior_high",
-        "sat",
         "senior_high",
         "toefl"
       ]
@@ -29118,27 +28935,6 @@
         "toefl"
       ]
     },
-    "LONGER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
-          "zh": "更长"
-        },
-        "medium": {
-          "en": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
-          "zh": "更长"
-        },
-        "hard": {
-          "en": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
-          "zh": "更长"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
-    },
     "BEHIND": {
       "length": 6,
       "clues": {
@@ -29232,6 +29028,23 @@
         "nationality"
       ],
       "excludeDefault": true
+    },
+    "PROPOSED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To suggest a plan, course of action, etc.",
+          "zh": "建议的"
+        },
+        "medium": {
+          "en": "To suggest a plan, course of action, etc.",
+          "zh": "建议的"
+        },
+        "hard": {
+          "en": "To suggest a plan, course of action, etc.",
+          "zh": "建议的"
+        }
+      }
     },
     "OUTDOOR": {
       "length": 7,
@@ -29595,6 +29408,23 @@
         "toefl"
       ]
     },
+    "DETAILED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To explain in detail.",
+          "zh": "详细的"
+        },
+        "medium": {
+          "en": "To explain in detail.",
+          "zh": "详细的"
+        },
+        "hard": {
+          "en": "To explain in detail.",
+          "zh": "详细的"
+        }
+      }
+    },
     "RACE": {
       "length": 4,
       "clues": {
@@ -29669,25 +29499,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "MOVING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "移动"
-        },
-        "medium": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "移动"
-        },
-        "hard": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "移动"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SOUTHERN": {
       "length": 8,
@@ -29907,28 +29718,6 @@
         "graduate",
         "senior_high",
         "toefl"
-      ]
-    },
-    "READER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A person who reads",
-          "zh": "读者"
-        },
-        "medium": {
-          "en": "A person who reads",
-          "zh": "读者"
-        },
-        "hard": {
-          "en": "A person who reads",
-          "zh": "读者"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "graduate"
       ]
     },
     "RENT": {
@@ -30308,6 +30097,23 @@
         "toefl"
       ]
     },
+    "FIXED": {
+      "length": 5,
+      "clues": {
+        "easy": {
+          "en": "To pierce; now generally replaced by transfix.",
+          "zh": "固定的"
+        },
+        "medium": {
+          "en": "To pierce; now generally replaced by transfix.",
+          "zh": "固定的"
+        },
+        "hard": {
+          "en": "To pierce; now generally replaced by transfix.",
+          "zh": "固定的"
+        }
+      }
+    },
     "WRONG": {
       "length": 5,
       "clues": {
@@ -30331,6 +30137,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "FINALLY": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "At the end or conclusion; ultimately.",
+          "zh": "最后"
+        },
+        "medium": {
+          "en": "At the end or conclusion; ultimately.",
+          "zh": "最后"
+        },
+        "hard": {
+          "en": "At the end or conclusion; ultimately.",
+          "zh": "最后"
+        }
+      }
     },
     "DESKTOP": {
       "length": 7,
@@ -31144,6 +30967,23 @@
         "graduate"
       ]
     },
+    "MONTHLY": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "A publication that is published once a month.",
+          "zh": "每月"
+        },
+        "medium": {
+          "en": "A publication that is published once a month.",
+          "zh": "每月"
+        },
+        "hard": {
+          "en": "A publication that is published once a month.",
+          "zh": "每月"
+        }
+      }
+    },
     "FRAME": {
       "length": 5,
       "clues": {
@@ -31406,6 +31246,23 @@
       "level": 6,
       "exams": []
     },
+    "WEEKLY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "A publication that is published once a week.",
+          "zh": "每周"
+        },
+        "medium": {
+          "en": "A publication that is published once a week.",
+          "zh": "每周"
+        },
+        "hard": {
+          "en": "A publication that is published once a week.",
+          "zh": "每周"
+        }
+      }
+    },
     "SUITE": {
       "length": 5,
       "clues": {
@@ -31603,25 +31460,6 @@
         "toefl"
       ]
     },
-    "SELLING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "(ditransitive) To transfer goods or provide services in exchange for money.",
-          "zh": "卖"
-        },
-        "medium": {
-          "en": "(ditransitive) To transfer goods or provide services in exchange for money.",
-          "zh": "卖"
-        },
-        "hard": {
-          "en": "(ditransitive) To transfer goods or provide services in exchange for money.",
-          "zh": "卖"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "PIECE": {
       "length": 5,
       "clues": {
@@ -31791,6 +31629,23 @@
         "toefl"
       ]
     },
+    "PRICING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To determine the monetary value of (an item); to put a price on.",
+          "zh": "定价"
+        },
+        "medium": {
+          "en": "To determine the monetary value of (an item); to put a price on.",
+          "zh": "定价"
+        },
+        "hard": {
+          "en": "To determine the monetary value of (an item); to put a price on.",
+          "zh": "定价"
+        }
+      }
+    },
     "LOOKS": {
       "length": 5,
       "clues": {
@@ -31835,6 +31690,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "TRADING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To engage in trade.",
+          "zh": "贸易"
+        },
+        "medium": {
+          "en": "To engage in trade.",
+          "zh": "贸易"
+        },
+        "hard": {
+          "en": "To engage in trade.",
+          "zh": "贸易"
+        }
+      }
     },
     "COVERAGE": {
       "length": 8,
@@ -32346,30 +32218,6 @@
         "toefl"
       ]
     },
-    "POSTER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A picture of a celebrity, an event etc., intended to be attached to a wall.",
-          "zh": "海报"
-        },
-        "medium": {
-          "en": "A picture of a celebrity, an event etc., intended to be attached to a wall.",
-          "zh": "海报"
-        },
-        "hard": {
-          "en": "A picture of a celebrity, an event etc., intended to be attached to a wall.",
-          "zh": "海报"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "graduate",
-        "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "EDGE": {
       "length": 4,
       "clues": {
@@ -32420,6 +32268,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "CLOSED": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "(physical) To remove a gap.",
+          "zh": "关闭"
+        },
+        "medium": {
+          "en": "(physical) To remove a gap.",
+          "zh": "关闭"
+        },
+        "hard": {
+          "en": "(physical) To remove a gap.",
+          "zh": "关闭"
+        }
+      }
     },
     "ICE": {
       "length": 3,
@@ -32535,28 +32400,6 @@
         "cet6",
         "graduate",
         "toefl"
-      ]
-    },
-    "THINKING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "Thought; gerund of think.",
-          "zh": "思维"
-        },
-        "medium": {
-          "en": "Thought; gerund of think.",
-          "zh": "思维"
-        },
-        "hard": {
-          "en": "Thought; gerund of think.",
-          "zh": "思维"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "senior_high"
       ]
     },
     "CANON": {
@@ -32822,32 +32665,6 @@
         "cet4",
         "graduate",
         "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "MASS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "(physical) Matter, material.",
-          "zh": "质量"
-        },
-        "medium": {
-          "en": "(physical) Matter, material.",
-          "zh": "质量"
-        },
-        "hard": {
-          "en": "(physical) Matter, material.",
-          "zh": "质量"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "sat",
         "senior_high",
         "toefl"
       ]
@@ -33471,6 +33288,23 @@
         "toefl"
       ]
     },
+    "HEARING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "(stative) To perceive sounds through the ear.",
+          "zh": "听力"
+        },
+        "medium": {
+          "en": "(stative) To perceive sounds through the ear.",
+          "zh": "听力"
+        },
+        "hard": {
+          "en": "(stative) To perceive sounds through the ear.",
+          "zh": "听力"
+        }
+      }
+    },
     "EASTERN": {
       "length": 7,
       "clues": {
@@ -33629,6 +33463,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "INFORMED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To instruct, train (usually in matters of knowledge).",
+          "zh": "知情的"
+        },
+        "medium": {
+          "en": "To instruct, train (usually in matters of knowledge).",
+          "zh": "知情的"
+        },
+        "hard": {
+          "en": "To instruct, train (usually in matters of knowledge).",
+          "zh": "知情的"
+        }
+      }
     },
     "CREEK": {
       "length": 5,
@@ -33844,25 +33695,6 @@
         "toefl"
       ]
     },
-    "COVERED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        },
-        "medium": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        },
-        "hard": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "RECOVERY": {
       "length": 8,
       "clues": {
@@ -34056,6 +33888,23 @@
         "cet6",
         "graduate"
       ]
+    },
+    "FINDING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To encounter or discover by accident; to happen upon.",
+          "zh": "发现"
+        },
+        "medium": {
+          "en": "To encounter or discover by accident; to happen upon.",
+          "zh": "发现"
+        },
+        "hard": {
+          "en": "To encounter or discover by accident; to happen upon.",
+          "zh": "发现"
+        }
+      }
     },
     "SEEM": {
       "length": 4,
@@ -34525,6 +34374,23 @@
         "toefl"
       ]
     },
+    "MISSING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To fail to hit.",
+          "zh": "丢失的"
+        },
+        "medium": {
+          "en": "To fail to hit.",
+          "zh": "丢失的"
+        },
+        "hard": {
+          "en": "To fail to hit.",
+          "zh": "丢失的"
+        }
+      }
+    },
     "DIED": {
       "length": 4,
       "clues": {
@@ -34539,25 +34405,6 @@
         "hard": {
           "en": "To stop living; to become dead; to undergo death.",
           "zh": "死了"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "MOVED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "搬家了"
-        },
-        "medium": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "搬家了"
-        },
-        "hard": {
-          "en": "To change place or posture; to go, in any manner, from one place or position to another.",
-          "zh": "搬家了"
         }
       },
       "level": 6,
@@ -34611,6 +34458,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "EXTENDED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To increase in extent.",
+          "zh": "扩展"
+        },
+        "medium": {
+          "en": "To increase in extent.",
+          "zh": "扩展"
+        },
+        "hard": {
+          "en": "To increase in extent.",
+          "zh": "扩展"
+        }
+      }
     },
     "SEQUENCE": {
       "length": 8,
@@ -35016,25 +34880,6 @@
       "level": 6,
       "exams": []
     },
-    "MATCHING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配"
-        },
-        "medium": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配"
-        },
-        "hard": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "PROFIT": {
       "length": 6,
       "clues": {
@@ -35060,24 +34905,22 @@
         "toefl"
       ]
     },
-    "COMPARED": {
-      "length": 8,
+    "PARKING": {
+      "length": 7,
       "clues": {
         "easy": {
-          "en": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
-          "zh": "比较的"
+          "en": "To bring (something such as a vehicle) to a halt or store in a specified place.",
+          "zh": "停車處"
         },
         "medium": {
-          "en": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
-          "zh": "比较的"
+          "en": "To bring (something such as a vehicle) to a halt or store in a specified place.",
+          "zh": "停車處"
         },
         "hard": {
-          "en": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
-          "zh": "比较的"
+          "en": "To bring (something such as a vehicle) to a halt or store in a specified place.",
+          "zh": "停車處"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "SENATE": {
       "length": 6,
@@ -35151,25 +34994,6 @@
         "toefl"
       ]
     },
-    "TRIED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Tested, hence, proven to be firm or reliable.",
-          "zh": "尝试过"
-        },
-        "medium": {
-          "en": "Tested, hence, proven to be firm or reliable.",
-          "zh": "尝试过"
-        },
-        "hard": {
-          "en": "Tested, hence, proven to be firm or reliable.",
-          "zh": "尝试过"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "DISC": {
       "length": 4,
       "clues": {
@@ -35191,25 +35015,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "RETURNED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To come or go back (to a place or person).",
-          "zh": "返回"
-        },
-        "medium": {
-          "en": "To come or go back (to a place or person).",
-          "zh": "返回"
-        },
-        "hard": {
-          "en": "To come or go back (to a place or person).",
-          "zh": "返回"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "BOAT": {
       "length": 4,
@@ -35859,27 +35664,6 @@
         "toefl"
       ]
     },
-    "PREPARED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To make ready for a specific future purpose; to set up; to assemble or equip.",
-          "zh": "准备好了"
-        },
-        "medium": {
-          "en": "To make ready for a specific future purpose; to set up; to assemble or equip.",
-          "zh": "准备好了"
-        },
-        "hard": {
-          "en": "To make ready for a specific future purpose; to set up; to assemble or equip.",
-          "zh": "准备好了"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
-    },
     "VOID": {
       "length": 4,
       "clues": {
@@ -36395,6 +36179,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "NEARLY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "With great scrutiny; carefully.",
+          "zh": "几乎"
+        },
+        "medium": {
+          "en": "With great scrutiny; carefully.",
+          "zh": "几乎"
+        },
+        "hard": {
+          "en": "With great scrutiny; carefully.",
+          "zh": "几乎"
+        }
+      }
     },
     "CHECKOUT": {
       "length": 8,
@@ -36932,30 +36733,6 @@
       "level": 6,
       "exams": []
     },
-    "SPEAKER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "One who speaks.",
-          "zh": "扬声器"
-        },
-        "medium": {
-          "en": "One who speaks.",
-          "zh": "扬声器"
-        },
-        "hard": {
-          "en": "One who speaks.",
-          "zh": "扬声器"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "graduate",
-        "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "MARRIAGE": {
       "length": 8,
       "clues": {
@@ -37165,25 +36942,6 @@
       "level": 6,
       "exams": []
     },
-    "WAITING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
-          "zh": "等待"
-        },
-        "medium": {
-          "en": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
-          "zh": "等待"
-        },
-        "hard": {
-          "en": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
-          "zh": "等待"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "BIRTHDAY": {
       "length": 8,
       "clues": {
@@ -37313,28 +37071,6 @@
       "level": 6,
       "exams": []
     },
-    "SLIGHTLY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "Slenderly; delicately.",
-          "zh": "轻微地"
-        },
-        "medium": {
-          "en": "Slenderly; delicately.",
-          "zh": "轻微地"
-        },
-        "hard": {
-          "en": "Slenderly; delicately.",
-          "zh": "轻微地"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "cet6"
-      ]
-    },
     "ASSIST": {
       "length": 6,
       "clues": {
@@ -37451,25 +37187,6 @@
         "toefl"
       ]
     },
-    "BREAKING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
-          "zh": "打破"
-        },
-        "medium": {
-          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
-          "zh": "打破"
-        },
-        "hard": {
-          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
-          "zh": "打破"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "COMBINED": {
       "length": 8,
       "clues": {
@@ -37559,6 +37276,23 @@
         "junior_high",
         "senior_high"
       ]
+    },
+    "REDUCED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+          "zh": "减少"
+        },
+        "medium": {
+          "en": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+          "zh": "减少"
+        },
+        "hard": {
+          "en": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+          "zh": "减少"
+        }
+      }
     },
     "PHYSICS": {
       "length": 7,
@@ -37890,28 +37624,6 @@
       "exams": [
         "graduate",
         "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "HUNTER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "One who hunts game for sport or for food; a huntsman or huntswoman.",
-          "zh": "猎人"
-        },
-        "medium": {
-          "en": "One who hunts game for sport or for food; a huntsman or huntswoman.",
-          "zh": "猎人"
-        },
-        "hard": {
-          "en": "One who hunts game for sport or for food; a huntsman or huntswoman.",
-          "zh": "猎人"
-        }
-      },
-      "level": 4,
-      "exams": [
         "senior_high",
         "toefl"
       ]
@@ -38413,25 +38125,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "POSTING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发帖"
-        },
-        "medium": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发帖"
-        },
-        "hard": {
-          "en": "To hang (a notice) in a conspicuous manner for general review.",
-          "zh": "发帖"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "PRESENCE": {
       "length": 8,
@@ -38960,6 +38653,23 @@
         "toefl"
       ]
     },
+    "SMOKING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To inhale and exhale the smoke from a burning cigarette, cigar, pipe, etc.",
+          "zh": "吸烟"
+        },
+        "medium": {
+          "en": "To inhale and exhale the smoke from a burning cigarette, cigar, pipe, etc.",
+          "zh": "吸烟"
+        },
+        "hard": {
+          "en": "To inhale and exhale the smoke from a burning cigarette, cigar, pipe, etc.",
+          "zh": "吸烟"
+        }
+      }
+    },
     "TEA": {
       "length": 3,
       "clues": {
@@ -39196,32 +38906,6 @@
         "cet4"
       ]
     },
-    "REFER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To direct the attention of.",
-          "zh": "参考"
-        },
-        "medium": {
-          "en": "To direct the attention of.",
-          "zh": "参考"
-        },
-        "hard": {
-          "en": "To direct the attention of.",
-          "zh": "参考"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "sat",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "CLOTHES": {
       "length": 7,
       "clues": {
@@ -39341,25 +39025,6 @@
         "toefl"
       ]
     },
-    "PRINTED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To produce one or more copies of a text or image on a surface, especially by machine; often used with out or off: print out, print off.",
-          "zh": "打印"
-        },
-        "medium": {
-          "en": "To produce one or more copies of a text or image on a surface, especially by machine; often used with out or off: print out, print off.",
-          "zh": "打印"
-        },
-        "hard": {
-          "en": "To produce one or more copies of a text or image on a surface, especially by machine; often used with out or off: print out, print off.",
-          "zh": "打印"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "REMOVAL": {
       "length": 7,
       "clues": {
@@ -39447,47 +39112,6 @@
         "junior_high",
         "senior_high",
         "toefl"
-      ]
-    },
-    "ADDING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加"
-        },
-        "medium": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加"
-        },
-        "hard": {
-          "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
-          "zh": "添加"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "MOSTLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Mainly or chiefly; for the most part; usually, generally, on the whole.",
-          "zh": "大多"
-        },
-        "medium": {
-          "en": "Mainly or chiefly; for the most part; usually, generally, on the whole.",
-          "zh": "大多"
-        },
-        "hard": {
-          "en": "Mainly or chiefly; for the most part; usually, generally, on the whole.",
-          "zh": "大多"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "graduate"
       ]
     },
     "SPOT": {
@@ -39752,6 +39376,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "FEELING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "(heading) To use or experience the sense of touch.",
+          "zh": "感觉"
+        },
+        "medium": {
+          "en": "(heading) To use or experience the sense of touch.",
+          "zh": "感觉"
+        },
+        "hard": {
+          "en": "(heading) To use or experience the sense of touch.",
+          "zh": "感觉"
+        }
+      }
     },
     "HIDDEN": {
       "length": 6,
@@ -40896,44 +40537,6 @@
         "senior_high"
       ]
     },
-    "SMALLER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
-        },
-        "medium": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
-        },
-        "hard": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "较小"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "NEWEST": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Recently made, or created.",
-          "zh": "最新"
-        },
-        "medium": {
-          "en": "Recently made, or created.",
-          "zh": "最新"
-        },
-        "hard": {
-          "en": "Recently made, or created.",
-          "zh": "最新"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "GNU": {
       "length": 3,
       "clues": {
@@ -41049,28 +40652,6 @@
         "toefl"
       ]
     },
-    "EMPLOYER": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "A person, firm or other entity which pays for or hires the services of another person.",
-          "zh": "雇主"
-        },
-        "medium": {
-          "en": "A person, firm or other entity which pays for or hires the services of another person.",
-          "zh": "雇主"
-        },
-        "hard": {
-          "en": "A person, firm or other entity which pays for or hires the services of another person.",
-          "zh": "雇主"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "graduate"
-      ]
-    },
     "OCCUR": {
       "length": 5,
       "clues": {
@@ -41095,25 +40676,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "KNOWS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Knowledge; the state of knowing.",
-          "zh": "知道"
-        },
-        "medium": {
-          "en": "Knowledge; the state of knowing.",
-          "zh": "知道"
-        },
-        "hard": {
-          "en": "Knowledge; the state of knowing.",
-          "zh": "知道"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "DESCRIBE": {
       "length": 8,
@@ -41187,25 +40749,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "ASSIGNED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To designate or set apart something for some purpose.",
-          "zh": "分配的"
-        },
-        "medium": {
-          "en": "To designate or set apart something for some purpose.",
-          "zh": "分配的"
-        },
-        "hard": {
-          "en": "To designate or set apart something for some purpose.",
-          "zh": "分配的"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "PLUG": {
       "length": 4,
@@ -41327,6 +40870,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "SPORTING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To amuse oneself, to play.",
+          "zh": "体育运动"
+        },
+        "medium": {
+          "en": "To amuse oneself, to play.",
+          "zh": "体育运动"
+        },
+        "hard": {
+          "en": "To amuse oneself, to play.",
+          "zh": "体育运动"
+        }
+      }
     },
     "BIKE": {
       "length": 4,
@@ -41694,25 +41254,6 @@
         "graduate",
         "senior_high"
       ]
-    },
-    "ENTERED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        },
-        "medium": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        },
-        "hard": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "ARM": {
       "length": 3,
@@ -42084,25 +41625,6 @@
         "graduate"
       ]
     },
-    "KILLED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To put to death; to extinguish the life of.",
-          "zh": "被杀"
-        },
-        "medium": {
-          "en": "To put to death; to extinguish the life of.",
-          "zh": "被杀"
-        },
-        "hard": {
-          "en": "To put to death; to extinguish the life of.",
-          "zh": "被杀"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ANCIENT": {
       "length": 7,
       "clues": {
@@ -42179,29 +41701,6 @@
         "toefl"
       ]
     },
-    "LEARNED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
-        },
-        "medium": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
-        },
-        "hard": {
-          "en": "Having much learning, knowledgeable, erudite; highly educated.",
-          "zh": "学到了"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "graduate",
-        "senior_high"
-      ]
-    },
     "HISTORIC": {
       "length": 8,
       "clues": {
@@ -42227,24 +41726,22 @@
         "toefl"
       ]
     },
-    "OPENED": {
-      "length": 6,
+    "ATTACHED": {
+      "length": 8,
       "clues": {
         "easy": {
-          "en": "To make something accessible or allow for passage by moving from a shut position.",
-          "zh": "打开"
+          "en": "To fasten, to join to (literally and figuratively).",
+          "zh": "随附的"
         },
         "medium": {
-          "en": "To make something accessible or allow for passage by moving from a shut position.",
-          "zh": "打开"
+          "en": "To fasten, to join to (literally and figuratively).",
+          "zh": "随附的"
         },
         "hard": {
-          "en": "To make something accessible or allow for passage by moving from a shut position.",
-          "zh": "打开"
+          "en": "To fasten, to join to (literally and figuratively).",
+          "zh": "随附的"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "HUSBAND": {
       "length": 7,
@@ -42270,6 +41767,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "DISABLED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To render unable; to take away an ability of, as by crippling.",
+          "zh": "残疾人"
+        },
+        "medium": {
+          "en": "To render unable; to take away an ability of, as by crippling.",
+          "zh": "残疾人"
+        },
+        "hard": {
+          "en": "To render unable; to take away an ability of, as by crippling.",
+          "zh": "残疾人"
+        }
+      }
     },
     "CRAZY": {
       "length": 5,
@@ -42441,6 +41955,23 @@
         "toefl"
       ]
     },
+    "LINKED": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To connect two or more things.",
+          "zh": "链接的"
+        },
+        "medium": {
+          "en": "To connect two or more things.",
+          "zh": "链接的"
+        },
+        "hard": {
+          "en": "To connect two or more things.",
+          "zh": "链接的"
+        }
+      }
+    },
     "GUN": {
       "length": 3,
       "clues": {
@@ -42490,25 +42021,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "BEGINS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始"
-        },
-        "medium": {
-          "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始"
-        },
-        "hard": {
-          "en": "To start, to initiate or take the first step into something.",
-          "zh": "开始"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "LENS": {
       "length": 4,
@@ -42861,25 +42373,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "LAPTOPS": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "A laptop computer.",
-          "zh": "笔记本电脑"
-        },
-        "medium": {
-          "en": "A laptop computer.",
-          "zh": "笔记本电脑"
-        },
-        "hard": {
-          "en": "A laptop computer.",
-          "zh": "笔记本电脑"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "MILE": {
       "length": 4,
@@ -43313,6 +42806,23 @@
         "toefl"
       ]
     },
+    "PAINTING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To apply paint to.",
+          "zh": "绘画"
+        },
+        "medium": {
+          "en": "To apply paint to.",
+          "zh": "绘画"
+        },
+        "hard": {
+          "en": "To apply paint to.",
+          "zh": "绘画"
+        }
+      }
+    },
     "PATENT": {
       "length": 6,
       "clues": {
@@ -43359,25 +42869,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "EATING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃"
-        },
-        "medium": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃"
-        },
-        "hard": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "STERLING": {
       "length": 8,
@@ -43700,6 +43191,23 @@
         "toefl"
       ]
     },
+    "SAVING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To prevent harm or difficulty.",
+          "zh": "保存"
+        },
+        "medium": {
+          "en": "To prevent harm or difficulty.",
+          "zh": "保存"
+        },
+        "hard": {
+          "en": "To prevent harm or difficulty.",
+          "zh": "保存"
+        }
+      }
+    },
     "RESUME": {
       "length": 6,
       "clues": {
@@ -43933,25 +43441,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "VISITING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "来访"
-        },
-        "medium": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "来访"
-        },
-        "hard": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "来访"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "CONTEST": {
       "length": 7,
@@ -44755,6 +44244,23 @@
       "level": 6,
       "exams": []
     },
+    "DRAWING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To move or develop something.",
+          "zh": "绘画"
+        },
+        "medium": {
+          "en": "To move or develop something.",
+          "zh": "绘画"
+        },
+        "hard": {
+          "en": "To move or develop something.",
+          "zh": "绘画"
+        }
+      }
+    },
     "SPY": {
       "length": 3,
       "clues": {
@@ -44826,25 +44332,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "ASKING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        },
-        "medium": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        },
-        "hard": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SUIT": {
       "length": 4,
@@ -44978,6 +44465,23 @@
       "level": 6,
       "exams": []
     },
+    "LOVED": {
+      "length": 5,
+      "clues": {
+        "easy": {
+          "en": "(usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).",
+          "zh": "爱过"
+        },
+        "medium": {
+          "en": "(usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).",
+          "zh": "爱过"
+        },
+        "hard": {
+          "en": "(usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).",
+          "zh": "爱过"
+        }
+      }
+    },
     "MAPPING": {
       "length": 7,
       "clues": {
@@ -45048,25 +44552,6 @@
         "toefl"
       ]
     },
-    "GRANTED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "(ditransitive) to give (permission or wish)",
-          "zh": "的确"
-        },
-        "medium": {
-          "en": "(ditransitive) to give (permission or wish)",
-          "zh": "的确"
-        },
-        "hard": {
-          "en": "(ditransitive) to give (permission or wish)",
-          "zh": "的确"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "CARBON": {
       "length": 6,
       "clues": {
@@ -45090,6 +44575,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "SPENDING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "Present participle of spend, expenditure.",
+          "zh": "开支"
+        },
+        "medium": {
+          "en": "Present participle of spend, expenditure.",
+          "zh": "开支"
+        },
+        "hard": {
+          "en": "Present participle of spend, expenditure.",
+          "zh": "开支"
+        }
+      }
     },
     "REGISTRY": {
       "length": 8,
@@ -45414,25 +44916,6 @@
         "hard": {
           "en": "A contributor to a blog (from weblog) or online journal.",
           "zh": "博主"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "STANDS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "The act of standing.",
-          "zh": "站立"
-        },
-        "medium": {
-          "en": "The act of standing.",
-          "zh": "站立"
-        },
-        "hard": {
-          "en": "The act of standing.",
-          "zh": "站立"
         }
       },
       "level": 6,
@@ -45921,25 +45404,6 @@
         "toefl"
       ]
     },
-    "FLASHING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To cause to shine briefly or intermittently.",
-          "zh": "闪烁"
-        },
-        "medium": {
-          "en": "To cause to shine briefly or intermittently.",
-          "zh": "闪烁"
-        },
-        "hard": {
-          "en": "To cause to shine briefly or intermittently.",
-          "zh": "闪烁"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "THREAT": {
       "length": 6,
       "clues": {
@@ -45963,25 +45427,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "SURVEYS": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "The act of surveying; a general view.",
-          "zh": "调查"
-        },
-        "medium": {
-          "en": "The act of surveying; a general view.",
-          "zh": "调查"
-        },
-        "hard": {
-          "en": "The act of surveying; a general view.",
-          "zh": "调查"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SITTING": {
       "length": 7,
@@ -46400,25 +45845,6 @@
       "level": 6,
       "exams": []
     },
-    "LIVED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To be alive; to have life.",
-          "zh": "住过"
-        },
-        "medium": {
-          "en": "To be alive; to have life.",
-          "zh": "住过"
-        },
-        "hard": {
-          "en": "To be alive; to have life.",
-          "zh": "住过"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "BULK": {
       "length": 4,
       "clues": {
@@ -46458,25 +45884,6 @@
         "hard": {
           "en": "In conformance to, or in agreement with.",
           "zh": "依据"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "VISITS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A single act of visiting.",
-          "zh": "访问"
-        },
-        "medium": {
-          "en": "A single act of visiting.",
-          "zh": "访问"
-        },
-        "hard": {
-          "en": "A single act of visiting.",
-          "zh": "访问"
         }
       },
       "level": 6,
@@ -47686,24 +47093,22 @@
         "toefl"
       ]
     },
-    "STAMPS": {
-      "length": 6,
+    "LOADING": {
+      "length": 7,
       "clues": {
         "easy": {
-          "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "邮票"
+          "en": "To put a load on or in (a means of conveyance or a place of storage).",
+          "zh": "加载中"
         },
         "medium": {
-          "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "邮票"
+          "en": "To put a load on or in (a means of conveyance or a place of storage).",
+          "zh": "加载中"
         },
         "hard": {
-          "en": "An act of stamping the foot, paw or hoof.",
-          "zh": "邮票"
+          "en": "To put a load on or in (a means of conveyance or a place of storage).",
+          "zh": "加载中"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "ROB": {
       "length": 3,
@@ -47748,6 +47153,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "MINING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To remove (ore) from the ground.",
+          "zh": "矿业"
+        },
+        "medium": {
+          "en": "To remove (ore) from the ground.",
+          "zh": "矿业"
+        },
+        "hard": {
+          "en": "To remove (ore) from the ground.",
+          "zh": "矿业"
+        }
+      }
     },
     "WORST": {
       "length": 5,
@@ -48139,25 +47561,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "PICKS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A tool used for digging; a pickaxe.",
-          "zh": "挑选"
-        },
-        "medium": {
-          "en": "A tool used for digging; a pickaxe.",
-          "zh": "挑选"
-        },
-        "hard": {
-          "en": "A tool used for digging; a pickaxe.",
-          "zh": "挑选"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "GANG": {
       "length": 4,
@@ -48560,27 +47963,6 @@
         "toefl"
       ]
     },
-    "MAINLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Forcefully, vigorously.",
-          "zh": "主要是"
-        },
-        "medium": {
-          "en": "Forcefully, vigorously.",
-          "zh": "主要是"
-        },
-        "hard": {
-          "en": "Forcefully, vigorously.",
-          "zh": "主要是"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4"
-      ]
-    },
     "ACTOR": {
       "length": 5,
       "clues": {
@@ -48870,25 +48252,6 @@
         "toefl"
       ]
     },
-    "BREAKS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "An instance of breaking something into two or more pieces.",
-          "zh": "打破"
-        },
-        "medium": {
-          "en": "An instance of breaking something into two or more pieces.",
-          "zh": "打破"
-        },
-        "hard": {
-          "en": "An instance of breaking something into two or more pieces.",
-          "zh": "打破"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "THIN": {
       "length": 4,
       "clues": {
@@ -49046,6 +48409,23 @@
       "level": 6,
       "exams": []
     },
+    "TURNING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        },
+        "medium": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        },
+        "hard": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        }
+      }
+    },
     "BUFFER": {
       "length": 6,
       "clues": {
@@ -49138,25 +48518,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "MOVES": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "The act of moving; a movement.",
-          "zh": "移动"
-        },
-        "medium": {
-          "en": "The act of moving; a movement.",
-          "zh": "移动"
-        },
-        "hard": {
-          "en": "The act of moving; a movement.",
-          "zh": "移动"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "INQUIRY": {
       "length": 7,
@@ -49317,30 +48678,6 @@
         "toefl"
       ]
     },
-    "RECEIVER": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "A person who or thing that receives or is intended to receive something. More formal, usually referring to one who receives such things as an award or medal.",
-          "zh": "接收者"
-        },
-        "medium": {
-          "en": "A person who or thing that receives or is intended to receive something. More formal, usually referring to one who receives such things as an award or medal.",
-          "zh": "接收者"
-        },
-        "hard": {
-          "en": "A person who or thing that receives or is intended to receive something. More formal, usually referring to one who receives such things as an award or medal.",
-          "zh": "接收者"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "cet6",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "GLANCE": {
       "length": 6,
       "clues": {
@@ -49386,27 +48723,6 @@
       "level": 7,
       "exams": [
         "sat",
-        "toefl"
-      ]
-    },
-    "COVERING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        },
-        "medium": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        },
-        "hard": {
-          "en": "To place something over or upon, as to conceal or protect.",
-          "zh": "覆盖"
-        }
-      },
-      "level": 7,
-      "exams": [
         "toefl"
       ]
     },
@@ -49566,25 +48882,6 @@
         "toefl"
       ]
     },
-    "COUNTS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "The act of counting or tallying a quantity.",
-          "zh": "计数"
-        },
-        "medium": {
-          "en": "The act of counting or tallying a quantity.",
-          "zh": "计数"
-        },
-        "hard": {
-          "en": "The act of counting or tallying a quantity.",
-          "zh": "计数"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "HIST": {
       "length": 4,
       "clues": {
@@ -49626,27 +48923,6 @@
         "cet6",
         "graduate",
         "senior_high",
-        "toefl"
-      ]
-    },
-    "INTER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To place a dead body in a grave or tomb; to bury.",
-          "zh": "国际米兰"
-        },
-        "medium": {
-          "en": "To place a dead body in a grave or tomb; to bury.",
-          "zh": "国际米兰"
-        },
-        "hard": {
-          "en": "To place a dead body in a grave or tomb; to bury.",
-          "zh": "国际米兰"
-        }
-      },
-      "level": 7,
-      "exams": [
         "toefl"
       ]
     },
@@ -49784,25 +49060,6 @@
         "junior_high"
       ]
     },
-    "ENTERING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        },
-        "medium": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        },
-        "hard": {
-          "en": "To go or come into an enclosed or partially enclosed space.",
-          "zh": "进入"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "PACKET": {
       "length": 6,
       "clues": {
@@ -49917,25 +49174,6 @@
         "cet4",
         "graduate"
       ]
-    },
-    "ROLLING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "滚动"
-        },
-        "medium": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "滚动"
-        },
-        "hard": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "滚动"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "FELL": {
       "length": 4,
@@ -50115,25 +49353,6 @@
       ],
       "excludeDefault": true
     },
-    "ENTIRELY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To the full or entire extent.",
-          "zh": "完全"
-        },
-        "medium": {
-          "en": "To the full or entire extent.",
-          "zh": "完全"
-        },
-        "hard": {
-          "en": "To the full or entire extent.",
-          "zh": "完全"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "RADAR": {
       "length": 5,
       "clues": {
@@ -50201,24 +49420,22 @@
         "senior_high"
       ]
     },
-    "ADDS": {
-      "length": 4,
+    "SHOOTING": {
+      "length": 8,
       "clues": {
         "easy": {
-          "en": "An act or instance of adding.",
-          "zh": "添加"
+          "en": "To launch a projectile.",
+          "zh": "射击"
         },
         "medium": {
-          "en": "An act or instance of adding.",
-          "zh": "添加"
+          "en": "To launch a projectile.",
+          "zh": "射击"
         },
         "hard": {
-          "en": "An act or instance of adding.",
-          "zh": "添加"
+          "en": "To launch a projectile.",
+          "zh": "射击"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "EAR": {
       "length": 3,
@@ -50347,25 +49564,6 @@
         "hard": {
           "en": "Past participle of draw; produced by drawing with a pen or pencil.",
           "zh": "绘制的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "VISITED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "访问过"
-        },
-        "medium": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "访问过"
-        },
-        "hard": {
-          "en": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.)",
-          "zh": "访问过"
         }
       },
       "level": 6,
@@ -50693,6 +49891,23 @@
         "graduate"
       ]
     },
+    "SUPPOSED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+          "zh": "假设"
+        },
+        "medium": {
+          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+          "zh": "假设"
+        },
+        "hard": {
+          "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+          "zh": "假设"
+        }
+      }
+    },
     "NOBODY": {
       "length": 6,
       "clues": {
@@ -50788,25 +50003,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "KNOWING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To perceive the truth or factuality of; to be certain of or that.",
-          "zh": "会心"
-        },
-        "medium": {
-          "en": "To perceive the truth or factuality of; to be certain of or that.",
-          "zh": "会心"
-        },
-        "hard": {
-          "en": "To perceive the truth or factuality of; to be certain of or that.",
-          "zh": "会心"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "CLOUDY": {
       "length": 6,
@@ -51380,27 +50576,6 @@
         "toefl"
       ]
     },
-    "TRAVELER": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "A member of a particular nomadic ethnic minority in Ireland, the Pavee.",
-          "zh": "游客"
-        },
-        "medium": {
-          "en": "A member of a particular nomadic ethnic minority in Ireland, the Pavee.",
-          "zh": "游客"
-        },
-        "hard": {
-          "en": "A member of a particular nomadic ethnic minority in Ireland, the Pavee.",
-          "zh": "游客"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "senior_high"
-      ]
-    },
     "SEGMENT": {
       "length": 7,
       "clues": {
@@ -51911,6 +51086,23 @@
         "toefl"
       ]
     },
+    "ARMED": {
+      "length": 5,
+      "clues": {
+        "easy": {
+          "en": "To take by the arm; to take up in one's arms.",
+          "zh": "武装的"
+        },
+        "medium": {
+          "en": "To take by the arm; to take up in one's arms.",
+          "zh": "武装的"
+        },
+        "hard": {
+          "en": "To take by the arm; to take up in one's arms.",
+          "zh": "武装的"
+        }
+      }
+    },
     "PINE": {
       "length": 4,
       "clues": {
@@ -51933,27 +51125,6 @@
         "graduate",
         "senior_high",
         "toefl"
-      ]
-    },
-    "COOLING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To lose heat, to get colder.",
-          "zh": "冷却"
-        },
-        "medium": {
-          "en": "To lose heat, to get colder.",
-          "zh": "冷却"
-        },
-        "hard": {
-          "en": "To lose heat, to get colder.",
-          "zh": "冷却"
-        }
-      },
-      "level": 9,
-      "exams": [
-        "sat"
       ]
     },
     "GULF": {
@@ -52024,6 +51195,23 @@
       "exams": [
         "toefl"
       ]
+    },
+    "PARTLY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "In part, or to some degree, but not completely.",
+          "zh": "部分地"
+        },
+        "medium": {
+          "en": "In part, or to some degree, but not completely.",
+          "zh": "部分地"
+        },
+        "hard": {
+          "en": "In part, or to some degree, but not completely.",
+          "zh": "部分地"
+        }
+      }
     },
     "CANDY": {
       "length": 5,
@@ -52136,25 +51324,6 @@
         "graduate"
       ]
     },
-    "SEALED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Closed or fastened securely so that nothing can get in or out.",
-          "zh": "密封的"
-        },
-        "medium": {
-          "en": "Closed or fastened securely so that nothing can get in or out.",
-          "zh": "密封的"
-        },
-        "hard": {
-          "en": "Closed or fastened securely so that nothing can get in or out.",
-          "zh": "密封的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "BOOST": {
       "length": 5,
       "clues": {
@@ -52178,25 +51347,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "SPANKING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To beat, smack or slap a person's buttocks, with the bare hand or other object, as punishment, gesture, or form of sexual interaction.",
-          "zh": "打屁股"
-        },
-        "medium": {
-          "en": "To beat, smack or slap a person's buttocks, with the bare hand or other object, as punishment, gesture, or form of sexual interaction.",
-          "zh": "打屁股"
-        },
-        "hard": {
-          "en": "To beat, smack or slap a person's buttocks, with the bare hand or other object, as punishment, gesture, or form of sexual interaction.",
-          "zh": "打屁股"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "MILL": {
       "length": 4,
@@ -52578,28 +51728,6 @@
         "toefl"
       ]
     },
-    "SHORTS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A short circuit.",
-          "zh": "短裤"
-        },
-        "medium": {
-          "en": "A short circuit.",
-          "zh": "短裤"
-        },
-        "hard": {
-          "en": "A short circuit.",
-          "zh": "短裤"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "junior_high",
-        "senior_high"
-      ]
-    },
     "MINORITY": {
       "length": 8,
       "clues": {
@@ -52834,48 +51962,6 @@
         "toefl"
       ]
     },
-    "DIVIDED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To split or separate (something) into two or more parts.",
-          "zh": "分裂的"
-        },
-        "medium": {
-          "en": "To split or separate (something) into two or more parts.",
-          "zh": "分裂的"
-        },
-        "hard": {
-          "en": "To split or separate (something) into two or more parts.",
-          "zh": "分裂的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "ODDS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "(diminutive) An odd number.",
-          "zh": "几率"
-        },
-        "medium": {
-          "en": "(diminutive) An odd number.",
-          "zh": "几率"
-        },
-        "hard": {
-          "en": "(diminutive) An odd number.",
-          "zh": "几率"
-        }
-      },
-      "level": 6,
-      "exams": [
-        "cet6",
-        "graduate",
-        "sat"
-      ]
-    },
     "WORRY": {
       "length": 5,
       "clues": {
@@ -52922,26 +52008,22 @@
         "toefl"
       ]
     },
-    "WIDELY": {
-      "length": 6,
+    "PLEASED": {
+      "length": 7,
       "clues": {
         "easy": {
-          "en": "In a wide manner; across a wide area.",
-          "zh": "广泛"
+          "en": "To make happy or satisfy; to give pleasure to.",
+          "zh": "高兴"
         },
         "medium": {
-          "en": "In a wide manner; across a wide area.",
-          "zh": "广泛"
+          "en": "To make happy or satisfy; to give pleasure to.",
+          "zh": "高兴"
         },
         "hard": {
-          "en": "In a wide manner; across a wide area.",
-          "zh": "广泛"
+          "en": "To make happy or satisfy; to give pleasure to.",
+          "zh": "高兴"
         }
-      },
-      "level": 6,
-      "exams": [
-        "cet6"
-      ]
+      }
     },
     "PHRASE": {
       "length": 6,
@@ -53240,27 +52322,6 @@
         "toefl"
       ]
     },
-    "SLOWLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(manner) At a slow pace.",
-          "zh": "慢慢地"
-        },
-        "medium": {
-          "en": "(manner) At a slow pace.",
-          "zh": "慢慢地"
-        },
-        "hard": {
-          "en": "(manner) At a slow pace.",
-          "zh": "慢慢地"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
-    },
     "RUGBY": {
       "length": 5,
       "clues": {
@@ -53518,30 +52579,6 @@
         "toefl"
       ]
     },
-    "COMPLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform.",
-          "zh": "遵守"
-        },
-        "medium": {
-          "en": "To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform.",
-          "zh": "遵守"
-        },
-        "hard": {
-          "en": "To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform.",
-          "zh": "遵守"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "toefl"
-      ]
-    },
     "FLORIST": {
       "length": 7,
       "clues": {
@@ -53607,25 +52644,6 @@
       ],
       "excludeDefault": true
     },
-    "CUTS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "The act of cutting.",
-          "zh": "切割"
-        },
-        "medium": {
-          "en": "The act of cutting.",
-          "zh": "切割"
-        },
-        "hard": {
-          "en": "The act of cutting.",
-          "zh": "切割"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "FUNERAL": {
       "length": 7,
       "clues": {
@@ -53663,25 +52681,6 @@
         "hard": {
           "en": "A piece of jewelry worn on the ear.",
           "zh": "耳环"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "SIZED": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "To adjust the size of; to make a certain size.",
-          "zh": "大小"
-        },
-        "medium": {
-          "en": "To adjust the size of; to make a certain size.",
-          "zh": "大小"
-        },
-        "hard": {
-          "en": "To adjust the size of; to make a certain size.",
-          "zh": "大小"
         }
       },
       "level": 6,
@@ -53843,6 +52842,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "DATED": {
+      "length": 5,
+      "clues": {
+        "easy": {
+          "en": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+          "zh": "过时的"
+        },
+        "medium": {
+          "en": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+          "zh": "过时的"
+        },
+        "hard": {
+          "en": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+          "zh": "过时的"
+        }
+      }
     },
     "WISDOM": {
       "length": 6,
@@ -54496,25 +53512,6 @@
       "level": 6,
       "exams": []
     },
-    "MOUNTED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装的"
-        },
-        "medium": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装的"
-        },
-        "hard": {
-          "en": "To get upon; to ascend; to climb.",
-          "zh": "安装的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "FIREWALL": {
       "length": 8,
       "clues": {
@@ -54889,25 +53886,6 @@
         "sat"
       ]
     },
-    "DELETED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To remove, get rid of or erase, especially written or printed material, or data on a computer or other device.",
-          "zh": "已删除"
-        },
-        "medium": {
-          "en": "To remove, get rid of or erase, especially written or printed material, or data on a computer or other device.",
-          "zh": "已删除"
-        },
-        "hard": {
-          "en": "To remove, get rid of or erase, especially written or printed material, or data on a computer or other device.",
-          "zh": "已删除"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "COAT": {
       "length": 4,
       "clues": {
@@ -55090,24 +54068,22 @@
         "toefl"
       ]
     },
-    "PICKED": {
-      "length": 6,
+    "ASSUMED": {
+      "length": 7,
       "clues": {
         "easy": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "挑选的"
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "假定"
         },
         "medium": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "挑选的"
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "假定"
         },
         "hard": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "挑选的"
+          "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "zh": "假定"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "BELIEF": {
       "length": 6,
@@ -55301,29 +54277,6 @@
       "level": 6,
       "exams": []
     },
-    "SINGER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A person who sings, often professionally.",
-          "zh": "歌手"
-        },
-        "medium": {
-          "en": "A person who sings, often professionally.",
-          "zh": "歌手"
-        },
-        "hard": {
-          "en": "A person who sings, often professionally.",
-          "zh": "歌手"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "HERALD": {
       "length": 6,
       "clues": {
@@ -55482,25 +54435,6 @@
         "senior_high"
       ]
     },
-    "YOUNGER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "In the early part of growth or life; born not long ago.",
-          "zh": "年轻的"
-        },
-        "medium": {
-          "en": "In the early part of growth or life; born not long ago.",
-          "zh": "年轻的"
-        },
-        "hard": {
-          "en": "In the early part of growth or life; born not long ago.",
-          "zh": "年轻的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "MICE": {
       "length": 4,
       "clues": {
@@ -55545,25 +54479,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "RECEIVES": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "An operation in which data is received.",
-          "zh": "接收"
-        },
-        "medium": {
-          "en": "An operation in which data is received.",
-          "zh": "接收"
-        },
-        "hard": {
-          "en": "An operation in which data is received.",
-          "zh": "接收"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "WRAP": {
       "length": 4,
@@ -56336,25 +55251,6 @@
         "toefl"
       ]
     },
-    "METERS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(always meter) A device that measures things.",
-          "zh": "米"
-        },
-        "medium": {
-          "en": "(always meter) A device that measures things.",
-          "zh": "米"
-        },
-        "hard": {
-          "en": "(always meter) A device that measures things.",
-          "zh": "米"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "MERELY": {
       "length": 6,
       "clues": {
@@ -56626,25 +55522,6 @@
         "junior_high"
       ]
     },
-    "REMAINED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to be left after a number or quantity has been subtracted or cut off; to be left as not included or comprised.",
-          "zh": "留下来"
-        },
-        "medium": {
-          "en": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to be left after a number or quantity has been subtracted or cut off; to be left as not included or comprised.",
-          "zh": "留下来"
-        },
-        "hard": {
-          "en": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to be left after a number or quantity has been subtracted or cut off; to be left as not included or comprised.",
-          "zh": "留下来"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ENTITIES": {
       "length": 8,
       "clues": {
@@ -56777,6 +55654,23 @@
         "toefl"
       ]
     },
+    "SKIING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To move on skis",
+          "zh": "滑雪"
+        },
+        "medium": {
+          "en": "To move on skis",
+          "zh": "滑雪"
+        },
+        "hard": {
+          "en": "To move on skis",
+          "zh": "滑雪"
+        }
+      }
+    },
     "CLOUD": {
       "length": 5,
       "clues": {
@@ -56874,24 +55768,22 @@
         "toefl"
       ]
     },
-    "LIKED": {
-      "length": 5,
+    "TIMING": {
+      "length": 6,
       "clues": {
         "easy": {
-          "en": "To enjoy, be pleased by; favor; be in favor of.",
-          "zh": "喜欢"
+          "en": "To measure or record the time, duration, or rate of.",
+          "zh": "定时"
         },
         "medium": {
-          "en": "To enjoy, be pleased by; favor; be in favor of.",
-          "zh": "喜欢"
+          "en": "To measure or record the time, duration, or rate of.",
+          "zh": "定时"
         },
         "hard": {
-          "en": "To enjoy, be pleased by; favor; be in favor of.",
-          "zh": "喜欢"
+          "en": "To measure or record the time, duration, or rate of.",
+          "zh": "定时"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "ADOPT": {
       "length": 5,
@@ -57028,6 +55920,23 @@
         "toefl"
       ]
     },
+    "TIRED": {
+      "length": 5,
+      "clues": {
+        "easy": {
+          "en": "To become sleepy or weary.",
+          "zh": "疲劳的"
+        },
+        "medium": {
+          "en": "To become sleepy or weary.",
+          "zh": "疲劳的"
+        },
+        "hard": {
+          "en": "To become sleepy or weary.",
+          "zh": "疲劳的"
+        }
+      }
+    },
     "ADVERSE": {
       "length": 7,
       "clues": {
@@ -57113,25 +56022,6 @@
         "hard": {
           "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
           "zh": "高手"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "CLIMBING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To ascend; rise; to go up.",
-          "zh": "攀登"
-        },
-        "medium": {
-          "en": "To ascend; rise; to go up.",
-          "zh": "攀登"
-        },
-        "hard": {
-          "en": "To ascend; rise; to go up.",
-          "zh": "攀登"
         }
       },
       "level": 6,
@@ -57664,6 +56554,23 @@
         "toefl"
       ]
     },
+    "POINTED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "zh": "尖"
+        },
+        "medium": {
+          "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "zh": "尖"
+        },
+        "hard": {
+          "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "zh": "尖"
+        }
+      }
+    },
     "MISTAKE": {
       "length": 7,
       "clues": {
@@ -57982,44 +56889,6 @@
         "toefl"
       ]
     },
-    "TAGGED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To label (something).",
-          "zh": "标记的"
-        },
-        "medium": {
-          "en": "To label (something).",
-          "zh": "标记的"
-        },
-        "hard": {
-          "en": "To label (something).",
-          "zh": "标记的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "KILLER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "One who or that which kills.",
-          "zh": "杀手"
-        },
-        "medium": {
-          "en": "One who or that which kills.",
-          "zh": "杀手"
-        },
-        "hard": {
-          "en": "One who or that which kills.",
-          "zh": "杀手"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "RAP": {
       "length": 3,
       "clues": {
@@ -58064,25 +56933,6 @@
         "senior_high"
       ]
     },
-    "PULLED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        },
-        "medium": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        },
-        "hard": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "CORN": {
       "length": 4,
       "clues": {
@@ -58107,25 +56957,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "COUNTERS": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "A deal to swap goods or services.",
-          "zh": "柜台"
-        },
-        "medium": {
-          "en": "A deal to swap goods or services.",
-          "zh": "柜台"
-        },
-        "hard": {
-          "en": "A deal to swap goods or services.",
-          "zh": "柜台"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "GREW": {
       "length": 4,
@@ -58294,25 +57125,6 @@
       "level": 6,
       "exams": []
     },
-    "RESULTED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
-          "zh": "结果"
-        },
-        "medium": {
-          "en": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
-          "zh": "结果"
-        },
-        "hard": {
-          "en": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
-          "zh": "结果"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "MOBILITY": {
       "length": 8,
       "clues": {
@@ -58418,24 +57230,22 @@
       "level": 6,
       "exams": []
     },
-    "EQUALLY": {
+    "HEADING": {
       "length": 7,
       "clues": {
         "easy": {
-          "en": "(manner) In an equal manner; in equal shares or proportion; with equal and impartial justice; evenly",
-          "zh": "同样地"
+          "en": "To be in command of. (See also head up.)",
+          "zh": "标题"
         },
         "medium": {
-          "en": "(manner) In an equal manner; in equal shares or proportion; with equal and impartial justice; evenly",
-          "zh": "同样地"
+          "en": "To be in command of. (See also head up.)",
+          "zh": "标题"
         },
         "hard": {
-          "en": "(manner) In an equal manner; in equal shares or proportion; with equal and impartial justice; evenly",
-          "zh": "同样地"
+          "en": "To be in command of. (See also head up.)",
+          "zh": "标题"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "COMBO": {
       "length": 5,
@@ -59140,25 +57950,6 @@
         "toefl"
       ]
     },
-    "SINGING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To produce musical or harmonious sounds with one’s voice.",
-          "zh": "歌唱"
-        },
-        "medium": {
-          "en": "To produce musical or harmonious sounds with one’s voice.",
-          "zh": "歌唱"
-        },
-        "hard": {
-          "en": "To produce musical or harmonious sounds with one’s voice.",
-          "zh": "歌唱"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "AFFORD": {
       "length": 6,
       "clues": {
@@ -59558,27 +58349,6 @@
         "toefl"
       ]
     },
-    "REPAIRS": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "The act of repairing something.",
-          "zh": "修理"
-        },
-        "medium": {
-          "en": "The act of repairing something.",
-          "zh": "修理"
-        },
-        "hard": {
-          "en": "The act of repairing something.",
-          "zh": "修理"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "senior_high"
-      ]
-    },
     "CANDLE": {
       "length": 6,
       "clues": {
@@ -59604,24 +58374,22 @@
         "toefl"
       ]
     },
-    "HANGING": {
+    "COLORED": {
       "length": 7,
       "clues": {
         "easy": {
-          "en": "To be or remain suspended.",
-          "zh": "绞刑"
+          "en": "To give something color.",
+          "zh": "有色"
         },
         "medium": {
-          "en": "To be or remain suspended.",
-          "zh": "绞刑"
+          "en": "To give something color.",
+          "zh": "有色"
         },
         "hard": {
-          "en": "To be or remain suspended.",
-          "zh": "绞刑"
+          "en": "To give something color.",
+          "zh": "有色"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "TALE": {
       "length": 4,
@@ -59666,28 +58434,6 @@
       },
       "level": 6,
       "exams": []
-    },
-    "FORMERLY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "At some time in the past",
-          "zh": "以前"
-        },
-        "medium": {
-          "en": "At some time in the past",
-          "zh": "以前"
-        },
-        "hard": {
-          "en": "At some time in the past",
-          "zh": "以前"
-        }
-      },
-      "level": 6,
-      "exams": [
-        "cet6",
-        "toefl"
-      ]
     },
     "SITUATED": {
       "length": 8,
@@ -59755,25 +58501,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "GAINS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "The act of gaining; acquisition.",
-          "zh": "收获"
-        },
-        "medium": {
-          "en": "The act of gaining; acquisition.",
-          "zh": "收获"
-        },
-        "hard": {
-          "en": "The act of gaining; acquisition.",
-          "zh": "收获"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "RENEWAL": {
       "length": 7,
@@ -59883,6 +58610,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "SOLELY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Alone; exclusively.",
+          "zh": "仅仅"
+        },
+        "medium": {
+          "en": "Alone; exclusively.",
+          "zh": "仅仅"
+        },
+        "hard": {
+          "en": "Alone; exclusively.",
+          "zh": "仅仅"
+        }
+      }
     },
     "FAKE": {
       "length": 4,
@@ -60017,25 +58761,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "THINKS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "An act of thinking; consideration (of something).",
-          "zh": "思考"
-        },
-        "medium": {
-          "en": "An act of thinking; consideration (of something).",
-          "zh": "思考"
-        },
-        "hard": {
-          "en": "An act of thinking; consideration (of something).",
-          "zh": "思考"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SOLDIER": {
       "length": 7,
@@ -61893,29 +60618,6 @@
         "toefl"
       ]
     },
-    "ANNUALLY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "Once every year without fail, yearly",
-          "zh": "每年"
-        },
-        "medium": {
-          "en": "Once every year without fail, yearly",
-          "zh": "每年"
-        },
-        "hard": {
-          "en": "Once every year without fail, yearly",
-          "zh": "每年"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "cet6",
-        "toefl"
-      ]
-    },
     "NECKLACE": {
       "length": 8,
       "clues": {
@@ -61960,25 +60662,6 @@
       "exams": [
         "toefl"
       ]
-    },
-    "ARRANGED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To set up; to organize; to put into an orderly sequence or arrangement.",
-          "zh": "安排的"
-        },
-        "medium": {
-          "en": "To set up; to organize; to put into an orderly sequence or arrangement.",
-          "zh": "安排的"
-        },
-        "hard": {
-          "en": "To set up; to organize; to put into an orderly sequence or arrangement.",
-          "zh": "安排的"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "MASON": {
       "length": 5,
@@ -62382,27 +61065,6 @@
         "graduate"
       ]
     },
-    "SAILING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To be impelled or driven forward by the action of wind upon sails, as a ship on water; to be impelled on a body of water by steam or other power.",
-          "zh": "航行"
-        },
-        "medium": {
-          "en": "To be impelled or driven forward by the action of wind upon sails, as a ship on water; to be impelled on a body of water by steam or other power.",
-          "zh": "航行"
-        },
-        "hard": {
-          "en": "To be impelled or driven forward by the action of wind upon sails, as a ship on water; to be impelled on a body of water by steam or other power.",
-          "zh": "航行"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "senior_high"
-      ]
-    },
     "SACRED": {
       "length": 6,
       "clues": {
@@ -62672,25 +61334,6 @@
         "toefl"
       ]
     },
-    "TEARS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A hole or break caused by tearing.",
-          "zh": "眼泪"
-        },
-        "medium": {
-          "en": "A hole or break caused by tearing.",
-          "zh": "眼泪"
-        },
-        "hard": {
-          "en": "A hole or break caused by tearing.",
-          "zh": "眼泪"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "OASIS": {
       "length": 5,
       "clues": {
@@ -62949,25 +61592,6 @@
         "toefl"
       ]
     },
-    "HEATHER": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "An evergreen plant, Calluna vulgaris, with spiky leaves and small purple, pink, or white flowers.",
-          "zh": "石南花"
-        },
-        "medium": {
-          "en": "An evergreen plant, Calluna vulgaris, with spiky leaves and small purple, pink, or white flowers.",
-          "zh": "石南花"
-        },
-        "hard": {
-          "en": "An evergreen plant, Calluna vulgaris, with spiky leaves and small purple, pink, or white flowers.",
-          "zh": "石南花"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "MOTEL": {
       "length": 5,
       "clues": {
@@ -63174,25 +61798,6 @@
         "toefl"
       ]
     },
-    "ARRESTED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To stop the motion of (a person or animal).",
-          "zh": "被捕"
-        },
-        "medium": {
-          "en": "To stop the motion of (a person or animal).",
-          "zh": "被捕"
-        },
-        "hard": {
-          "en": "To stop the motion of (a person or animal).",
-          "zh": "被捕"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "RELY": {
       "length": 4,
       "clues": {
@@ -63217,25 +61822,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "GAINED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To acquire possession of.",
-          "zh": "获得"
-        },
-        "medium": {
-          "en": "To acquire possession of.",
-          "zh": "获得"
-        },
-        "hard": {
-          "en": "To acquire possession of.",
-          "zh": "获得"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "DYING": {
       "length": 5,
@@ -63324,6 +61910,23 @@
         "senior_high",
         "toefl"
       ]
+    },
+    "FILLING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To occupy fully, to take up all of.",
+          "zh": "填充"
+        },
+        "medium": {
+          "en": "To occupy fully, to take up all of.",
+          "zh": "填充"
+        },
+        "hard": {
+          "en": "To occupy fully, to take up all of.",
+          "zh": "填充"
+        }
+      }
     },
     "SILENCE": {
       "length": 7,
@@ -63573,25 +62176,6 @@
         "sat"
       ]
     },
-    "REJECTED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To refuse to accept.",
-          "zh": "被拒绝"
-        },
-        "medium": {
-          "en": "To refuse to accept.",
-          "zh": "被拒绝"
-        },
-        "hard": {
-          "en": "To refuse to accept.",
-          "zh": "被拒绝"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "SATISFY": {
       "length": 7,
       "clues": {
@@ -63637,25 +62221,6 @@
         "cet6",
         "toefl"
       ]
-    },
-    "GUIDED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To serve as a guide for someone or something; to lead or direct in a way; to conduct in a course or path.",
-          "zh": "引导的"
-        },
-        "medium": {
-          "en": "To serve as a guide for someone or something; to lead or direct in a way; to conduct in a course or path.",
-          "zh": "引导的"
-        },
-        "hard": {
-          "en": "To serve as a guide for someone or something; to lead or direct in a way; to conduct in a course or path.",
-          "zh": "引导的"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "BENCH": {
       "length": 5,
@@ -63887,29 +62452,6 @@
         "toefl"
       ]
     },
-    "TENDER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Care, kind concern, regard.",
-          "zh": "投标"
-        },
-        "medium": {
-          "en": "Care, kind concern, regard.",
-          "zh": "投标"
-        },
-        "hard": {
-          "en": "Care, kind concern, regard.",
-          "zh": "投标"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "graduate",
-        "toefl"
-      ]
-    },
     "FOAM": {
       "length": 4,
       "clues": {
@@ -64068,6 +62610,23 @@
         "toefl"
       ]
     },
+    "LANDING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To descend to a surface, especially from the air.",
+          "zh": "降落"
+        },
+        "medium": {
+          "en": "To descend to a surface, especially from the air.",
+          "zh": "降落"
+        },
+        "hard": {
+          "en": "To descend to a surface, especially from the air.",
+          "zh": "降落"
+        }
+      }
+    },
     "SHOWCASE": {
       "length": 8,
       "clues": {
@@ -64082,25 +62641,6 @@
         "hard": {
           "en": "A case for displaying merchandise or valuable items.",
           "zh": "展示"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "ASKS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        },
-        "medium": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        },
-        "hard": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
         }
       },
       "level": 6,
@@ -64126,6 +62666,23 @@
       "exams": [
         "sat"
       ]
+    },
+    "HARDLY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "(manner) Firmly, vigorously, with strength or exertion.",
+          "zh": "几乎不"
+        },
+        "medium": {
+          "en": "(manner) Firmly, vigorously, with strength or exertion.",
+          "zh": "几乎不"
+        },
+        "hard": {
+          "en": "(manner) Firmly, vigorously, with strength or exertion.",
+          "zh": "几乎不"
+        }
+      }
     },
     "PRAIRIE": {
       "length": 7,
@@ -64219,25 +62776,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "SELLS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "An act of selling.",
-          "zh": "销售"
-        },
-        "medium": {
-          "en": "An act of selling.",
-          "zh": "销售"
-        },
-        "hard": {
-          "en": "An act of selling.",
-          "zh": "销售"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "CORAL": {
       "length": 5,
@@ -64600,25 +63138,6 @@
       "level": 6,
       "exams": []
     },
-    "MALES": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性"
-        },
-        "medium": {
-          "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性"
-        },
-        "hard": {
-          "en": "One of the male (masculine) sex or gender.",
-          "zh": "男性"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "RETAIN": {
       "length": 6,
       "clues": {
@@ -64875,25 +63394,6 @@
         "senior_high"
       ]
     },
-    "RATS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "老鼠"
-        },
-        "medium": {
-          "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "老鼠"
-        },
-        "hard": {
-          "en": "A medium-sized rodent belonging to the genus Rattus.",
-          "zh": "老鼠"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "BEGUN": {
       "length": 5,
       "clues": {
@@ -65142,44 +63642,6 @@
         "hard": {
           "en": "A person who baptizes",
           "zh": "浸信会"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "BIOS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "Biographical sketch",
-          "zh": "传记素描"
-        },
-        "medium": {
-          "en": "Biographical sketch",
-          "zh": "传记素描"
-        },
-        "hard": {
-          "en": "Biographical sketch",
-          "zh": "传记素描"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "FEMALES": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性"
-        },
-        "medium": {
-          "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性"
-        },
-        "hard": {
-          "en": "One of the female (feminine) sex or gender.",
-          "zh": "女性"
         }
       },
       "level": 6,
@@ -65655,25 +64117,6 @@
         "hard": {
           "en": "(sometimes with out or through) To delete or cross out; to scratch or eliminate.",
           "zh": "击中"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "APPS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        },
-        "medium": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
-        },
-        "hard": {
-          "en": "An application (program), especially a small one designed for a mobile device.",
-          "zh": "应用程序"
         }
       },
       "level": 6,
@@ -66195,6 +64638,23 @@
       "exams": [
         "sat"
       ]
+    },
+    "RARELY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Not occurring at a regular interval; seldom; not often.",
+          "zh": "很少"
+        },
+        "medium": {
+          "en": "Not occurring at a regular interval; seldom; not often.",
+          "zh": "很少"
+        },
+        "hard": {
+          "en": "Not occurring at a regular interval; seldom; not often.",
+          "zh": "很少"
+        }
+      }
     },
     "INFECTED": {
       "length": 8,
@@ -66995,25 +65455,6 @@
         "toefl"
       ]
     },
-    "WIDER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Having a large physical extent from side to side.",
-          "zh": "更宽"
-        },
-        "medium": {
-          "en": "Having a large physical extent from side to side.",
-          "zh": "更宽"
-        },
-        "hard": {
-          "en": "Having a large physical extent from side to side.",
-          "zh": "更宽"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ENROLLED": {
       "length": 8,
       "clues": {
@@ -67205,25 +65646,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "COUNTING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To recite numbers in sequence.",
-          "zh": "计数"
-        },
-        "medium": {
-          "en": "To recite numbers in sequence.",
-          "zh": "计数"
-        },
-        "hard": {
-          "en": "To recite numbers in sequence.",
-          "zh": "计数"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "SINK": {
       "length": 4,
@@ -67479,30 +65901,6 @@
         "toefl"
       ]
     },
-    "SHORTLY": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "In a short or brief time or manner; quickly.",
-          "zh": "不久"
-        },
-        "medium": {
-          "en": "In a short or brief time or manner; quickly.",
-          "zh": "不久"
-        },
-        "hard": {
-          "en": "In a short or brief time or manner; quickly.",
-          "zh": "不久"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "graduate",
-        "senior_high",
-        "toefl"
-      ]
-    },
     "WARRIOR": {
       "length": 7,
       "clues": {
@@ -67581,25 +65979,6 @@
         "hard": {
           "en": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal.",
           "zh": "马球"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "COPYING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To produce an object identical to a given object.",
-          "zh": "复制"
-        },
-        "medium": {
-          "en": "To produce an object identical to a given object.",
-          "zh": "复制"
-        },
-        "hard": {
-          "en": "To produce an object identical to a given object.",
-          "zh": "复制"
         }
       },
       "level": 6,
@@ -68404,25 +66783,6 @@
         "toefl"
       ]
     },
-    "SPEAKS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A low class bar, a speakeasy.",
-          "zh": "说话"
-        },
-        "medium": {
-          "en": "A low class bar, a speakeasy.",
-          "zh": "说话"
-        },
-        "hard": {
-          "en": "A low class bar, a speakeasy.",
-          "zh": "说话"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "COPIED": {
       "length": 6,
       "clues": {
@@ -68482,30 +66842,6 @@
         "cet4",
         "graduate",
         "junior_high",
-        "senior_high",
-        "toefl"
-      ]
-    },
-    "ROLLER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(heading) Anything that rolls.",
-          "zh": "滚筒"
-        },
-        "medium": {
-          "en": "(heading) Anything that rolls.",
-          "zh": "滚筒"
-        },
-        "hard": {
-          "en": "(heading) Anything that rolls.",
-          "zh": "滚筒"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "cet4",
-        "cet6",
         "senior_high",
         "toefl"
       ]
@@ -68574,25 +66910,6 @@
         "graduate",
         "senior_high"
       ]
-    },
-    "FITTED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To be suitable for.",
-          "zh": "已安装"
-        },
-        "medium": {
-          "en": "To be suitable for.",
-          "zh": "已安装"
-        },
-        "hard": {
-          "en": "To be suitable for.",
-          "zh": "已安装"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "HARMONY": {
       "length": 7,
@@ -68829,25 +67146,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "SIMS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "A simulation or simulator.",
-          "zh": "模拟"
-        },
-        "medium": {
-          "en": "A simulation or simulator.",
-          "zh": "模拟"
-        },
-        "hard": {
-          "en": "A simulation or simulator.",
-          "zh": "模拟"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "TRAY": {
       "length": 4,
@@ -69401,27 +67699,6 @@
         "toefl"
       ]
     },
-    "DEEPLY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "At depth, in a deep way.",
-          "zh": "深"
-        },
-        "medium": {
-          "en": "At depth, in a deep way.",
-          "zh": "深"
-        },
-        "hard": {
-          "en": "At depth, in a deep way.",
-          "zh": "深"
-        }
-      },
-      "level": 4,
-      "exams": [
-        "senior_high"
-      ]
-    },
     "TOOLBOX": {
       "length": 7,
       "clues": {
@@ -69478,6 +67755,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "SURFING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To ride a wave, usually on a surfboard.",
+          "zh": "冲浪"
+        },
+        "medium": {
+          "en": "To ride a wave, usually on a surfboard.",
+          "zh": "冲浪"
+        },
+        "hard": {
+          "en": "To ride a wave, usually on a surfboard.",
+          "zh": "冲浪"
+        }
+      }
     },
     "OPTICS": {
       "length": 6,
@@ -69699,6 +67993,23 @@
         "toefl"
       ]
     },
+    "LONELY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Unhappy because of feeling isolated from contact with other people.",
+          "zh": "孤独"
+        },
+        "medium": {
+          "en": "Unhappy because of feeling isolated from contact with other people.",
+          "zh": "孤独"
+        },
+        "hard": {
+          "en": "Unhappy because of feeling isolated from contact with other people.",
+          "zh": "孤独"
+        }
+      }
+    },
     "FOOL": {
       "length": 4,
       "clues": {
@@ -69838,25 +68149,6 @@
         "toefl"
       ]
     },
-    "EXHIBITS": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "An instance of exhibiting.",
-          "zh": "展览"
-        },
-        "medium": {
-          "en": "An instance of exhibiting.",
-          "zh": "展览"
-        },
-        "hard": {
-          "en": "An instance of exhibiting.",
-          "zh": "展览"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "TERRACE": {
       "length": 7,
       "clues": {
@@ -69961,27 +68253,6 @@
         "cet4",
         "cet6",
         "graduate"
-      ]
-    },
-    "SAFELY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "In a safe manner; without risk; using caution above all else.",
-          "zh": "安全地"
-        },
-        "medium": {
-          "en": "In a safe manner; without risk; using caution above all else.",
-          "zh": "安全地"
-        },
-        "hard": {
-          "en": "In a safe manner; without risk; using caution above all else.",
-          "zh": "安全地"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
       ]
     },
     "FINITE": {
@@ -70568,6 +68839,23 @@
         "toefl"
       ]
     },
+    "SPELLING": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm.",
+          "zh": "拼写"
+        },
+        "medium": {
+          "en": "To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm.",
+          "zh": "拼写"
+        },
+        "hard": {
+          "en": "To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm.",
+          "zh": "拼写"
+        }
+      }
+    },
     "ARCTIC": {
       "length": 6,
       "clues": {
@@ -70590,25 +68878,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "EXAMS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "The act of examining.",
-          "zh": "考试"
-        },
-        "medium": {
-          "en": "The act of examining.",
-          "zh": "考试"
-        },
-        "hard": {
-          "en": "The act of examining.",
-          "zh": "考试"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "BENEATH": {
       "length": 7,
@@ -70680,25 +68949,6 @@
         "sat",
         "toefl"
       ]
-    },
-    "GODS": {
-      "length": 4,
-      "clues": {
-        "easy": {
-          "en": "Supernatural beings worshipped as having power over nature and human affairs.",
-          "zh": "众神"
-        },
-        "medium": {
-          "en": "Supernatural beings worshipped as having power over nature and human affairs.",
-          "zh": "众神"
-        },
-        "hard": {
-          "en": "Supernatural beings worshipped as having power over nature and human affairs.",
-          "zh": "众神"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "WELSH": {
       "length": 5,
@@ -70880,25 +69130,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "ZONING": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To divide into or assign sections or areas.",
-          "zh": "分区"
-        },
-        "medium": {
-          "en": "To divide into or assign sections or areas.",
-          "zh": "分区"
-        },
-        "hard": {
-          "en": "To divide into or assign sections or areas.",
-          "zh": "分区"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "THUMB": {
       "length": 5,
@@ -71261,25 +69492,6 @@
         "toefl"
       ]
     },
-    "FOLDING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To bend (any thin material, such as paper) over so that it comes in contact with itself.",
-          "zh": "折叠式的"
-        },
-        "medium": {
-          "en": "To bend (any thin material, such as paper) over so that it comes in contact with itself.",
-          "zh": "折叠式的"
-        },
-        "hard": {
-          "en": "To bend (any thin material, such as paper) over so that it comes in contact with itself.",
-          "zh": "折叠式的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "EMIRATES": {
       "length": 8,
       "clues": {
@@ -71589,25 +69801,6 @@
         "sat"
       ]
     },
-    "NEWER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        },
-        "medium": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        },
-        "hard": {
-          "en": "Recently made, or created.",
-          "zh": "较新的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "SPICE": {
       "length": 5,
       "clues": {
@@ -71692,27 +69885,6 @@
       },
       "level": 6,
       "exams": []
-    },
-    "COOLER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Having a slightly low temperature; mildly or pleasantly cold.",
-          "zh": "冷却器"
-        },
-        "medium": {
-          "en": "Having a slightly low temperature; mildly or pleasantly cold.",
-          "zh": "冷却器"
-        },
-        "hard": {
-          "en": "Having a slightly low temperature; mildly or pleasantly cold.",
-          "zh": "冷却器"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
     },
     "MARITIME": {
       "length": 8,
@@ -72393,25 +70565,6 @@
         "toefl"
       ]
     },
-    "MATCHED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配的"
-        },
-        "medium": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配的"
-        },
-        "hard": {
-          "en": "To agree; to be equal; to correspond.",
-          "zh": "匹配的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ROPE": {
       "length": 4,
       "clues": {
@@ -72483,25 +70636,6 @@
         "cet6",
         "graduate"
       ]
-    },
-    "DEEPER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(of a physical distance) Extending far away from a point of reference, especially downwards.",
-          "zh": "更深"
-        },
-        "medium": {
-          "en": "(of a physical distance) Extending far away from a point of reference, especially downwards.",
-          "zh": "更深"
-        },
-        "hard": {
-          "en": "(of a physical distance) Extending far away from a point of reference, especially downwards.",
-          "zh": "更深"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "HOSE": {
       "length": 4,
@@ -73129,27 +71263,6 @@
         "toefl"
       ]
     },
-    "LEGALLY": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "As permitted by law; not contrary to law.",
-          "zh": "合法地"
-        },
-        "medium": {
-          "en": "As permitted by law; not contrary to law.",
-          "zh": "合法地"
-        },
-        "hard": {
-          "en": "As permitted by law; not contrary to law.",
-          "zh": "合法地"
-        }
-      },
-      "level": 7,
-      "exams": [
-        "toefl"
-      ]
-    },
     "SHAME": {
       "length": 5,
       "clues": {
@@ -73281,30 +71394,6 @@
       },
       "level": 6,
       "exams": []
-    },
-    "BARELY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "(degree) By a small margin.",
-          "zh": "仅仅"
-        },
-        "medium": {
-          "en": "(degree) By a small margin.",
-          "zh": "仅仅"
-        },
-        "hard": {
-          "en": "(degree) By a small margin.",
-          "zh": "仅仅"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "cet6",
-        "graduate",
-        "toefl"
-      ]
     },
     "WHEREVER": {
       "length": 8,
@@ -73982,25 +72071,6 @@
         "toefl"
       ]
     },
-    "COMBINES": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "A combine harvester",
-          "zh": "联合收割机"
-        },
-        "medium": {
-          "en": "A combine harvester",
-          "zh": "联合收割机"
-        },
-        "hard": {
-          "en": "A combine harvester",
-          "zh": "联合收割机"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "BORING": {
       "length": 6,
       "clues": {
@@ -74396,6 +72466,23 @@
         "senior_high"
       ]
     },
+    "NAMELY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Specifically; that is to say.",
+          "zh": "即"
+        },
+        "medium": {
+          "en": "Specifically; that is to say.",
+          "zh": "即"
+        },
+        "hard": {
+          "en": "Specifically; that is to say.",
+          "zh": "即"
+        }
+      }
+    },
     "DEPT": {
       "length": 4,
       "clues": {
@@ -74461,25 +72548,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "EUROS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Person living or originating from Europe",
-          "zh": "居住在欧洲或来自欧洲的人"
-        },
-        "medium": {
-          "en": "Person living or originating from Europe",
-          "zh": "居住在欧洲或来自欧洲的人"
-        },
-        "hard": {
-          "en": "Person living or originating from Europe",
-          "zh": "居住在欧洲或来自欧洲的人"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "PIRATES": {
       "length": 7,
@@ -74634,25 +72702,6 @@
       "level": 6,
       "exams": []
     },
-    "KILLS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "The act of killing.",
-          "zh": "击杀"
-        },
-        "medium": {
-          "en": "The act of killing.",
-          "zh": "击杀"
-        },
-        "hard": {
-          "en": "The act of killing.",
-          "zh": "击杀"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "ROOMMATE": {
       "length": 8,
       "clues": {
@@ -74667,25 +72716,6 @@
         "hard": {
           "en": "A person with whom one shares a room, as at university etc.",
           "zh": "室友"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "PUSHED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推"
-        },
-        "medium": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推"
-        },
-        "hard": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推"
         }
       },
       "level": 6,
@@ -75195,6 +73225,23 @@
         "graduate",
         "toefl"
       ]
+    },
+    "BLESSED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "有福的"
+        },
+        "medium": {
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "有福的"
+        },
+        "hard": {
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "有福的"
+        }
+      }
     },
     "POTATO": {
       "length": 6,
@@ -75710,25 +73757,6 @@
       "level": 6,
       "exams": []
     },
-    "PALMER": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A pilgrim who had been to the Holy Land and who brought back a palm branch in signification; a wandering religious votary.",
-          "zh": "帕尔默"
-        },
-        "medium": {
-          "en": "A pilgrim who had been to the Holy Land and who brought back a palm branch in signification; a wandering religious votary.",
-          "zh": "帕尔默"
-        },
-        "hard": {
-          "en": "A pilgrim who had been to the Holy Land and who brought back a palm branch in signification; a wandering religious votary.",
-          "zh": "帕尔默"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "FLUX": {
       "length": 4,
       "clues": {
@@ -75766,25 +73794,6 @@
         "hard": {
           "en": "Any of several annual horse races.",
           "zh": "德比"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "ALTERED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To change the form or structure of.",
-          "zh": "改变的"
-        },
-        "medium": {
-          "en": "To change the form or structure of.",
-          "zh": "改变的"
-        },
-        "hard": {
-          "en": "To change the form or structure of.",
-          "zh": "改变的"
         }
       },
       "level": 6,
@@ -75960,6 +73969,23 @@
         "graduate"
       ]
     },
+    "TALENTED": {
+      "length": 8,
+      "clues": {
+        "easy": {
+          "en": "Endowed with one or more talents.",
+          "zh": "有才华的"
+        },
+        "medium": {
+          "en": "Endowed with one or more talents.",
+          "zh": "有才华的"
+        },
+        "hard": {
+          "en": "Endowed with one or more talents.",
+          "zh": "有才华的"
+        }
+      }
+    },
     "PILLOW": {
       "length": 6,
       "clues": {
@@ -75984,24 +74010,22 @@
         "toefl"
       ]
     },
-    "SHORTER": {
+    "REFINED": {
       "length": 7,
       "clues": {
         "easy": {
-          "en": "Having a small distance from one end or edge to another, either horizontally or vertically.",
-          "zh": "更短"
+          "en": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+          "zh": "精制"
         },
         "medium": {
-          "en": "Having a small distance from one end or edge to another, either horizontally or vertically.",
-          "zh": "更短"
+          "en": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+          "zh": "精制"
         },
         "hard": {
-          "en": "Having a small distance from one end or edge to another, either horizontally or vertically.",
-          "zh": "更短"
+          "en": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+          "zh": "精制"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "FIFTEEN": {
       "length": 7,
@@ -76041,44 +74065,6 @@
         "hard": {
           "en": "A small shop, especially one that sells fashionable clothes, jewelry and the like.",
           "zh": "精品店"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "ROLLED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "卷起的"
-        },
-        "medium": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "卷起的"
-        },
-        "hard": {
-          "en": "To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
-          "zh": "卷起的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "TUNER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
-        },
-        "medium": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
-        },
-        "hard": {
-          "en": "A person who tunes a piano or organ.",
-          "zh": "调音器"
         }
       },
       "level": 6,
@@ -77093,6 +75079,23 @@
         "toefl"
       ]
     },
+    "ASSURED": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To make sure and secure.",
+          "zh": "保证"
+        },
+        "medium": {
+          "en": "To make sure and secure.",
+          "zh": "保证"
+        },
+        "hard": {
+          "en": "To make sure and secure.",
+          "zh": "保证"
+        }
+      }
+    },
     "BIBLICAL": {
       "length": 8,
       "clues": {
@@ -77352,6 +75355,23 @@
         "toefl"
       ]
     },
+    "MERGER": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "One that merges.",
+          "zh": "合并"
+        },
+        "medium": {
+          "en": "One that merges.",
+          "zh": "合并"
+        },
+        "hard": {
+          "en": "One that merges.",
+          "zh": "合并"
+        }
+      }
+    },
     "SOFTBALL": {
       "length": 8,
       "clues": {
@@ -77479,25 +75499,6 @@
         "hard": {
           "en": "To change with time or a similar parameter.",
           "zh": "各不相同"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "PICKING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "采摘"
-        },
-        "medium": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "采摘"
-        },
-        "hard": {
-          "en": "To grasp and pull with the fingers or fingernails.",
-          "zh": "采摘"
         }
       },
       "level": 6,
@@ -77653,25 +75654,6 @@
         "graduate",
         "toefl"
       ]
-    },
-    "PUSHING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推动"
-        },
-        "medium": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推动"
-        },
-        "hard": {
-          "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
-          "zh": "推动"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "FLEECE": {
       "length": 6,
@@ -78025,6 +76007,23 @@
         "toefl"
       ]
     },
+    "WIRING": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "To fasten with wire, especially with reference to wine bottles, corks, or fencing.",
+          "zh": "接线"
+        },
+        "medium": {
+          "en": "To fasten with wire, especially with reference to wine bottles, corks, or fencing.",
+          "zh": "接线"
+        },
+        "hard": {
+          "en": "To fasten with wire, especially with reference to wine bottles, corks, or fencing.",
+          "zh": "接线"
+        }
+      }
+    },
     "PASTOR": {
       "length": 6,
       "clues": {
@@ -78115,25 +76114,6 @@
       "exams": [
         "toefl"
       ]
-    },
-    "LAUGHING": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat; to indulge in laughter.",
-          "zh": "笑"
-        },
-        "medium": {
-          "en": "To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat; to indulge in laughter.",
-          "zh": "笑"
-        },
-        "hard": {
-          "en": "To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat; to indulge in laughter.",
-          "zh": "笑"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "CLIFF": {
       "length": 5,
@@ -78295,25 +76275,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "BANNED": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "To summon; to call out.",
-          "zh": "禁止"
-        },
-        "medium": {
-          "en": "To summon; to call out.",
-          "zh": "禁止"
-        },
-        "hard": {
-          "en": "To summon; to call out.",
-          "zh": "禁止"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "COVE": {
       "length": 4,
@@ -78659,25 +76620,6 @@
       "exams": [
         "toefl"
       ]
-    },
-    "CENTERED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To cause (an object) to occupy the center of an area.",
-          "zh": "居中"
-        },
-        "medium": {
-          "en": "To cause (an object) to occupy the center of an area.",
-          "zh": "居中"
-        },
-        "hard": {
-          "en": "To cause (an object) to occupy the center of an area.",
-          "zh": "居中"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "WOUND": {
       "length": 5,
@@ -79085,6 +77027,23 @@
         "toefl"
       ]
     },
+    "DEADLY": {
+      "length": 6,
+      "clues": {
+        "easy": {
+          "en": "Subject to death; mortal.",
+          "zh": "致命"
+        },
+        "medium": {
+          "en": "Subject to death; mortal.",
+          "zh": "致命"
+        },
+        "hard": {
+          "en": "Subject to death; mortal.",
+          "zh": "致命"
+        }
+      }
+    },
     "BUNNY": {
       "length": 5,
       "clues": {
@@ -79118,25 +77077,6 @@
         "hard": {
           "en": "A hunt or pursuit; a chase.",
           "zh": "雪佛兰"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "LONGEST": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To take a long position in.",
-          "zh": "最长"
-        },
-        "medium": {
-          "en": "To take a long position in.",
-          "zh": "最长"
-        },
-        "hard": {
-          "en": "To take a long position in.",
-          "zh": "最长"
         }
       },
       "level": 6,
@@ -79288,25 +77228,6 @@
         "toefl"
       ]
     },
-    "BATHS": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "浴室"
-        },
-        "medium": {
-          "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "浴室"
-        },
-        "hard": {
-          "en": "A tub or pool which is used for bathing: bathtub.",
-          "zh": "浴室"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "NIRVANA": {
       "length": 7,
       "clues": {
@@ -79387,25 +77308,6 @@
         "hard": {
           "en": "The state of being mad; insanity; mental disease.",
           "zh": "疯狂"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "BLOWING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To produce an air current.",
-          "zh": "吹"
-        },
-        "medium": {
-          "en": "To produce an air current.",
-          "zh": "吹"
-        },
-        "hard": {
-          "en": "To produce an air current.",
-          "zh": "吹"
         }
       },
       "level": 6,
@@ -79689,44 +77591,6 @@
       "level": 6,
       "exams": []
     },
-    "INSERTED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To put in between or into.",
-          "zh": "插入"
-        },
-        "medium": {
-          "en": "To put in between or into.",
-          "zh": "插入"
-        },
-        "hard": {
-          "en": "To put in between or into.",
-          "zh": "插入"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "PULLING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        },
-        "medium": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        },
-        "hard": {
-          "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
-          "zh": "拉"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "OBESITY": {
       "length": 7,
       "clues": {
@@ -79882,25 +77746,6 @@
         "toefl"
       ]
     },
-    "COUNTED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To recite numbers in sequence.",
-          "zh": "数过的"
-        },
-        "medium": {
-          "en": "To recite numbers in sequence.",
-          "zh": "数过的"
-        },
-        "hard": {
-          "en": "To recite numbers in sequence.",
-          "zh": "数过的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "DECLARE": {
       "length": 7,
       "clues": {
@@ -80005,30 +77850,6 @@
       },
       "level": 6,
       "exams": []
-    },
-    "STRANGER": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "Not normal; odd, unusual, surprising, out of the ordinary.",
-          "zh": "陌生人"
-        },
-        "medium": {
-          "en": "Not normal; odd, unusual, surprising, out of the ordinary.",
-          "zh": "陌生人"
-        },
-        "hard": {
-          "en": "Not normal; odd, unusual, surprising, out of the ordinary.",
-          "zh": "陌生人"
-        }
-      },
-      "level": 1,
-      "exams": [
-        "cet4",
-        "graduate",
-        "junior_high",
-        "senior_high"
-      ]
     },
     "TRAGEDY": {
       "length": 7,
@@ -80231,28 +78052,6 @@
       "level": 4,
       "exams": [
         "senior_high"
-      ]
-    },
-    "LATELY": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "Recently; not long ago; of late.",
-          "zh": "最近"
-        },
-        "medium": {
-          "en": "Recently; not long ago; of late.",
-          "zh": "最近"
-        },
-        "hard": {
-          "en": "Recently; not long ago; of late.",
-          "zh": "最近"
-        }
-      },
-      "level": 5,
-      "exams": [
-        "cet4",
-        "toefl"
       ]
     },
     "SCARY": {
@@ -81139,25 +78938,6 @@
         "toefl"
       ]
     },
-    "POLISHED": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
-          "zh": "抛光的"
-        },
-        "medium": {
-          "en": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
-          "zh": "抛光的"
-        },
-        "hard": {
-          "en": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
-          "zh": "抛光的"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "YANG": {
       "length": 4,
       "clues": {
@@ -81686,24 +79466,22 @@
         "toefl"
       ]
     },
-    "PRESSED": {
-      "length": 7,
+    "HUNGER": {
+      "length": 6,
       "clues": {
         "easy": {
-          "en": "To exert weight or force against, to act upon with force or weight; to exert pressure upon.",
-          "zh": "按下"
+          "en": "A need or compelling desire for food.",
+          "zh": "饥饿"
         },
         "medium": {
-          "en": "To exert weight or force against, to act upon with force or weight; to exert pressure upon.",
-          "zh": "按下"
+          "en": "A need or compelling desire for food.",
+          "zh": "饥饿"
         },
         "hard": {
-          "en": "To exert weight or force against, to act upon with force or weight; to exert pressure upon.",
-          "zh": "按下"
+          "en": "A need or compelling desire for food.",
+          "zh": "饥饿"
         }
-      },
-      "level": 6,
-      "exams": []
+      }
     },
     "SURGEON": {
       "length": 7,
@@ -81902,27 +79680,6 @@
         "cet6",
         "graduate",
         "sat",
-        "toefl"
-      ]
-    },
-    "SEXUALLY": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "In a sexual manner: erotically.",
-          "zh": "性方面的"
-        },
-        "medium": {
-          "en": "In a sexual manner: erotically.",
-          "zh": "性方面的"
-        },
-        "hard": {
-          "en": "In a sexual manner: erotically.",
-          "zh": "性方面的"
-        }
-      },
-      "level": 7,
-      "exams": [
         "toefl"
       ]
     },
@@ -82219,6 +79976,23 @@
       },
       "level": 6,
       "exams": []
+    },
+    "EARNING": {
+      "length": 7,
+      "clues": {
+        "easy": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚取"
+        },
+        "medium": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚取"
+        },
+        "hard": {
+          "en": "To gain (success, reward, recognition) through applied effort or work.",
+          "zh": "赚取"
+        }
+      }
     },
     "MAILMAN": {
       "length": 7,
@@ -82668,25 +80442,6 @@
         "graduate"
       ]
     },
-    "EXISTED": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "存在过"
-        },
-        "medium": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "存在过"
-        },
-        "hard": {
-          "en": "(stative) to be; have existence; have being or reality",
-          "zh": "存在过"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "WAGON": {
       "length": 5,
       "clues": {
@@ -82931,25 +80686,6 @@
         "senior_high",
         "toefl"
       ]
-    },
-    "MOUNTS": {
-      "length": 6,
-      "clues": {
-        "easy": {
-          "en": "A hill or mountain.",
-          "zh": "安装"
-        },
-        "medium": {
-          "en": "A hill or mountain.",
-          "zh": "安装"
-        },
-        "hard": {
-          "en": "A hill or mountain.",
-          "zh": "安装"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "LONE": {
       "length": 4,
@@ -83249,25 +80985,6 @@
       "exams": [
         "cet6"
       ]
-    },
-    "JUMPING": {
-      "length": 7,
-      "clues": {
-        "easy": {
-          "en": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
-          "zh": "跳跃"
-        },
-        "medium": {
-          "en": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
-          "zh": "跳跃"
-        },
-        "hard": {
-          "en": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
-          "zh": "跳跃"
-        }
-      },
-      "level": 6,
-      "exams": []
     },
     "HYGIENE": {
       "length": 7,
@@ -83763,44 +81480,6 @@
         "toefl"
       ]
     },
-    "SAFER": {
-      "length": 5,
-      "clues": {
-        "easy": {
-          "en": "Not in danger; out of harm's reach.",
-          "zh": "更安全"
-        },
-        "medium": {
-          "en": "Not in danger; out of harm's reach.",
-          "zh": "更安全"
-        },
-        "hard": {
-          "en": "Not in danger; out of harm's reach.",
-          "zh": "更安全"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "IDS": {
-      "length": 3,
-      "clues": {
-        "easy": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        },
-        "medium": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        },
-        "hard": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
     "COLOGNE": {
       "length": 7,
       "clues": {
@@ -83815,25 +81494,6 @@
         "hard": {
           "en": "A type of perfume consisting of 2-5% essential oils, 70-90 % alcohol and water.",
           "zh": "科隆"
-        }
-      },
-      "level": 6,
-      "exams": []
-    },
-    "SMALLEST": {
-      "length": 8,
-      "clues": {
-        "easy": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "最小的"
-        },
-        "medium": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "最小的"
-        },
-        "hard": {
-          "en": "Not large or big; insignificant; few in number.",
-          "zh": "最小的"
         }
       },
       "level": 6,

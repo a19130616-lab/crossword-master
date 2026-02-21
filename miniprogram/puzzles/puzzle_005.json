@@ -1,128 +1,76 @@
 {
   "id": "puzzle_005",
-  "title": "Medium #2",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #5",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      "O",
-      null,
-      null,
       "S",
-      "I",
-      "R"
-    ],
-    [
-      "A",
-      "N",
-      "Y",
-      "M",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "L",
-      "C",
-      null,
-      "U",
-      "F",
-      null,
-      "V"
-    ],
-    [
-      "M",
-      "E",
-      "S",
-      "S",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      "O",
-      null,
       "T",
-      "I",
-      null,
       "O",
-      "A"
+      "P",
+      null
     ],
     [
-      "S",
       "P",
-      "E",
-      "C",
-      "I",
-      "A",
+      "O",
+      "P",
+      null,
       "L"
     ],
     [
-      "T",
       "O",
       "P",
-      null,
-      null,
+      "E",
+      "R",
+      "A"
+    ],
+    [
       "T",
-      null
+      null,
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      null,
+      "L",
+      "A",
+      "D",
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        5
+        2,
+        3
       ],
       [
         2,
         0
       ],
       [
-        3,
-        4
-      ],
-      [
-        6,
-        5
-      ],
-      [
         1,
         2
       ],
       [
-        6,
-        2
-      ],
-      [
-        0,
-        4
+        1,
+        0
       ],
       [
         2,
-        4
-      ],
-      [
-        4,
-        6
+        1
       ]
     ],
     "medium": [
       [
-        1,
-        5
+        2,
+        3
       ],
       [
         2,
         0
-      ],
-      [
-        3,
-        4
-      ],
-      [
-        6,
-        5
       ],
       [
         1,
@@ -131,68 +79,60 @@
     ],
     "hard": [
       [
-        1,
-        5
-      ],
-      [
         2,
-        0
-      ],
-      [
-        3,
-        4
+        3
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "A man of a higher rank or position.",
-          "zh": "先生"
+          "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+          "zh": "停止"
         },
         "level": 1
       },
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
-          "zh": "不再"
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         },
         "level": 1
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
+        "row": 4,
+        "col": 1,
         "clue": {
-          "en": "A communication, or what is communicated; any concept or information conveyed.",
-          "zh": "信息"
-        },
-        "level": 1
-      },
-      {
-        "num": 14,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
-          "zh": "特别的"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "The highest or uppermost part of something.",
-          "zh": "顶部"
+          "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+          "zh": "女士"
         },
         "level": 1
       }
@@ -201,76 +141,56 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "(frequency) One and only one time.",
-          "zh": "一次"
+          "en": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+          "zh": "点"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
-          "zh": "沙发"
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
         },
         "level": 1
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 0,
-        "col": 6,
+        "col": 2,
         "clue": {
-          "en": "The outer side of a window or door frame; the jamb.",
-          "zh": "揭示"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
         },
         "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 4,
         "clue": {
-          "en": "Something or someone that doesn't quite make it.",
-          "zh": "几乎"
+          "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+          "zh": "女士"
         },
         "level": 1
       },
       {
-        "num": 6,
-        "row": 1,
+        "num": 7,
+        "row": 2,
         "col": 3,
         "clue": {
-          "en": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
-          "zh": "音乐"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 3,
-        "col": 5,
-        "clue": {
-          "en": "A mammal, Capra aegagrus hircus, and similar species of the genus Capra.",
-          "zh": "山羊"
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

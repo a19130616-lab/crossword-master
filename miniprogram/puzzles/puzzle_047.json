@@ -1,112 +1,196 @@
 {
   "id": "puzzle_047",
-  "title": "Easy #2",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #7",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "S",
-      "A",
-      "Y",
-      null
-    ],
-    [
-      "I",
-      "H",
-      null,
-      "E",
-      "B"
-    ],
-    [
       "D",
-      "E",
-      "L",
-      "A",
-      "Y"
+      null,
+      "J",
+      null,
+      null,
+      "M"
     ],
     [
-      "S",
+      "R",
+      "E",
       "L",
-      null,
+      "E",
+      "A",
       "S",
       "E"
     ],
     [
       null,
-      "F",
+      "S",
+      "A",
+      "W",
+      null,
+      "W",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      null,
+      "E",
+      "V",
+      "I",
+      "L"
+    ],
+    [
+      "E",
+      "R",
+      null,
+      "L",
+      "I",
+      "T",
+      null
+    ],
+    [
       "A",
       "T",
+      "T",
+      "R",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "Y",
+      null,
+      "H",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        5,
+        0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
         0,
         3
       ],
       [
-        2,
+        4,
         4
       ],
       [
-        2,
-        1
+        4,
+        3
       ],
       [
         3,
-        0
+        6
       ]
     ],
     "medium": [
       [
-        0,
-        3
+        5,
+        0
       ],
       [
-        2,
-        4
+        5,
+        6
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        2
       ]
     ],
     "hard": [
       [
-        0,
-        3
+        5,
+        0
+      ],
+      [
+        5,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "A chance to speak; the right or power to influence or make a decision.",
-          "zh": "说"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 2,
+        "num": 4,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "To make someone or something late or slow; a period of time by which something is late.",
-          "zh": "延迟"
+          "en": "The event of setting (someone or something) free (e.g. hostages, slaves, prisoners, caged animals, hooked or stuck mechanisms).",
+          "zh": "发布"
         },
-        "level": 4
+        "level": 5
       },
       {
-        "num": 9,
-        "row": 4,
+        "num": 7,
+        "row": 2,
         "col": 1,
         "clue": {
-          "en": "A specialized animal tissue with a high oil content, used for long-term storage of energy.",
-          "zh": "胖的"
+          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+          "zh": "锯"
         },
-        "level": 1
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+          "zh": "邪恶的"
+        },
+        "level": 5
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "To start (a fire).",
+          "zh": "点亮"
+        },
+        "level": 5
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To pull toward without touching.",
+          "zh": "吸引"
+        },
+        "level": 4
       }
     ],
     "down": [
@@ -115,44 +199,64 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
-          "zh": "架子"
+          "en": "(usually in the plural) That which is deserved or merited; a just punishment or reward",
+          "zh": "沙漠"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 2,
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "An often humid, yellowish froth produced by fermenting malt worts, and used to brew beer, leaven bread, and also used in certain medicines.",
-          "zh": "酵母"
+          "en": "Collectively, personal ornamentation such as rings, necklaces, brooches and bracelets, made of precious metals and sometimes set with gemstones.",
+          "zh": "珠宝"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 0,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
-          "zh": "再见"
+          "en": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack).",
+          "zh": "一顿饭"
         },
         "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
+          "zh": "转变"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Equipment or paraphernalia, especially that used for an athletic endeavor.",
+          "zh": "齿轮"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        },
+        "level": 4
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "toefl"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "senior_high"
 }

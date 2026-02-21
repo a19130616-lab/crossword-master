@@ -1,0 +1,176 @@
+{
+  "id": "puzzle_096",
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      null,
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "W",
+      null,
+      "O",
+      "V"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      "L"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+          "zh": "面食"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.",
+          "zh": "业力"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A support structure that connects the axle or the hub of a wheel to the rim.",
+          "zh": "辐"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Of or relating to a navy.",
+          "zh": "海军"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

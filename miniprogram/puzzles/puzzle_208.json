@@ -1,0 +1,388 @@
+{
+  "id": "puzzle_208",
+  "title": "Hard #8",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "C",
+      null,
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "T",
+      "E",
+      null,
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      null,
+      "N",
+      "O",
+      "S",
+      "E",
+      null,
+      "R"
+    ],
+    [
+      "N",
+      "E",
+      "U",
+      "T",
+      "R",
+      "A",
+      "L",
+      null,
+      "L"
+    ],
+    [
+      "D",
+      null,
+      "P",
+      "I",
+      null,
+      "G",
+      "T",
+      null,
+      "I"
+    ],
+    [
+      "B",
+      null,
+      "S",
+      "T",
+      "O",
+      "R",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "E",
+      "L",
+      "S",
+      "E",
+      null,
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "A",
+      "T",
+      "E",
+      null,
+      "E",
+      "X",
+      "I",
+      "T"
+    ],
+    [
+      "S",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      null,
+      "P",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An object of hatred.",
+          "zh": "恨"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+          "zh": "鼻子"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A nonaligned state, or a member of such a state.",
+          "zh": "中性的"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "The act of storing goods; the state of being stored.",
+          "zh": "贮存"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A doorlike structure outside a house.",
+          "zh": "门"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "An act of going out or going away, or leaving; a departure.",
+          "zh": "出口"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "An enclosure made of bars, normally to hold animals.",
+          "zh": "笼"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To fail to agree; to have a different opinion or belief.",
+          "zh": "不同意"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "At a time in advance of the usual or expected event.",
+          "zh": "最早的"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(mainly Commonwealth) A small bag used by women (or sometimes by men) for carrying various small personal items.",
+          "zh": "手袋"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To give a title to.",
+          "zh": "有权"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
+        },
+        "level": 7
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Disturbance or disruption.",
+          "zh": "沮丧的"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To take hold of, particularly with the hand.",
+          "zh": "紧握"
+        },
+        "level": 5
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

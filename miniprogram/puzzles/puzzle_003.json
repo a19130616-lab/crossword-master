@@ -5,96 +5,106 @@
   "cols": 5,
   "solution": [
     [
+      null,
+      "A",
+      "I",
+      "R",
+      null
+    ],
+    [
+      "H",
       "G",
       null,
-      null,
-      null,
-      "A"
-    ],
-    [
-      "R",
-      "A",
-      "P",
-      "I",
-      "D"
-    ],
-    [
       "O",
-      null,
-      "U",
-      null,
-      "U"
+      "S"
     ],
     [
+      "A",
+      "R",
+      "G",
       "U",
-      "N",
+      "E"
+    ],
+    [
       "T",
-      "I",
-      "L"
+      "E",
+      null,
+      "N",
+      "T"
     ],
     [
-      "P",
       null,
-      null,
-      null,
-      "T"
+      "E",
+      "N",
+      "D",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        0
-      ],
-      [
         3,
-        2
-      ],
-      [
-        4,
-        4
+        1
       ],
       [
         1,
+        1
+      ],
+      [
+        2,
         4
+      ],
+      [
+        2,
+        1
       ]
     ],
     "medium": [
       [
-        0,
-        0
+        3,
+        1
       ],
       [
-        3,
-        2
+        1,
+        1
       ]
     ],
     "hard": [
       [
-        0,
-        0
+        3,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "(often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.",
-          "zh": "迅速的"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         },
         "level": 1
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "Up to the time of (something happening).",
-          "zh": "直到"
+          "en": "To show grounds for concluding (that); to indicate, imply.",
+          "zh": "争论"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         },
         "level": 1
       }
@@ -103,29 +113,39 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A number of things or persons being in some relation to one another.",
-          "zh": "团体"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "A fully grown human or animal.",
-          "zh": "成人"
+          "en": "So as to form a circle or trace a circular path, or approximation thereof.",
+          "zh": "圆形的"
         },
         "level": 1
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "To move something to a particular position or place.",
+          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+          "zh": "帽子"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To put (something) down, to rest.",
           "zh": "放"
         },
         "level": 1

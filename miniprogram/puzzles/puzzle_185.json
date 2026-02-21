@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_185",
+  "title": "Easy #5",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "E",
+      null,
+      null,
+      null,
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      null,
+      "E",
+      null,
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "N"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A yellowish citrus fruit.",
+          "zh": "柠檬"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Joint sovereignty over a territory by two or more countries.",
+          "zh": "公寓"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "One chosen or set apart.",
+          "zh": "选"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.",
+          "zh": "洋葱"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

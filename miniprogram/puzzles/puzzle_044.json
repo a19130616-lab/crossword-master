@@ -1,236 +1,164 @@
 {
   "id": "puzzle_044",
-  "title": "Hard #2",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #4",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
+      "V",
       null,
       "F",
       null,
       null,
-      "O",
-      null,
-      "D",
-      "O"
+      "B"
     ],
     [
-      "I",
-      "S",
-      "L",
+      "B",
       "E",
-      null,
-      "M",
+      "C",
       "A",
-      "I",
-      "L"
-    ],
-    [
-      null,
-      "O",
-      "Y",
-      null,
-      null,
-      "E",
-      null,
-      "S",
-      "D"
-    ],
-    [
-      null,
       "U",
+      "S",
+      "E"
+    ],
+    [
       null,
       "S",
+      "U",
+      "N",
+      null,
+      "P",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      null,
+      "T",
+      "W",
       "I",
-      "G",
-      "M",
+      "N"
+    ],
+    [
+      "O",
+      "E",
+      null,
       "A",
+      "I",
+      "R",
       null
     ],
     [
+      "P",
+      "L",
+      "A",
       "S",
       "T",
-      "E",
-      "P",
-      null,
-      "A",
-      null,
-      "G",
-      null
-    ],
-    [
-      null,
-      "H",
-      "E",
-      "R",
-      "O",
-      null,
-      null,
-      "R",
-      null
-    ],
-    [
-      "W",
-      "E",
-      null,
       "I",
-      "S",
-      "S",
-      "U",
-      "E",
-      null
+      "C"
     ],
     [
-      "I",
-      "R",
-      "O",
-      "N",
-      null,
-      "U",
-      "S",
-      "E",
-      "D"
-    ],
-    [
-      "N",
-      "N",
-      null,
-      "G",
-      null,
-      "N",
       "E",
       null,
+      null,
+      "Y",
+      null,
+      "T",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        7,
-        0
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        8,
+        5,
         5
       ],
       [
-        4,
+        0,
+        6
+      ],
+      [
+        5,
         1
       ],
       [
-        7,
-        3
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        5,
-        2
+        4,
+        0
       ],
       [
         3,
-        7
-      ],
-      [
-        1,
-        7
+        0
       ],
       [
         5,
+        0
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        1,
         3
       ],
       [
-        5,
-        1
-      ],
-      [
         1,
-        8
+        2
       ]
     ],
     "medium": [
       [
-        7,
-        0
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        8,
+        5,
         5
       ],
       [
-        4,
+        0,
+        6
+      ],
+      [
+        5,
         1
       ],
       [
-        7,
-        3
+        4,
+        0
       ],
       [
-        5,
-        7
-      ],
-      [
-        5,
-        2
+        3,
+        0
       ]
     ],
     "hard": [
       [
-        7,
-        0
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        8,
+        5,
         5
+      ],
+      [
+        0,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
-          "zh": "小岛"
+          "en": "For the reason (that).",
+          "zh": "因为"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 5,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "Letters and packages sent or delivered by the postal system.",
-          "zh": "邮件"
+          "en": "A star, especially when seen as the centre of any single solar system.",
+          "zh": "太阳"
         },
         "level": 1
       },
@@ -239,58 +167,28 @@
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
-          "zh": "希腊字母σ"
-        },
-        "level": 6
-      },
-      {
-        "num": 11,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
+          "en": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling.",
+          "zh": "双"
         },
         "level": 1
       },
       {
         "num": 13,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
-          "zh": "英雄"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 6,
+        "row": 4,
         "col": 3,
         "clue": {
-          "en": "An important topic or problem for debate or discussion.",
-          "zh": "问题"
-        },
-        "level": 5
-      },
-      {
-        "num": 19,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
-          "zh": "铁"
+          "en": "The substance constituting earth's atmosphere, particularly:",
+          "zh": "空气"
         },
         "level": 1
       },
       {
-        "num": 20,
-        "row": 7,
-        "col": 5,
+        "num": 14,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A synthetic material made from organic polymers that can be molded into shape while soft.",
+          "zh": "塑料"
         },
         "level": 1
       }
@@ -299,96 +197,66 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
-          "zh": "飞"
+          "en": "Any craft designed for transportation on water, such as a ship or boat.",
+          "zh": "血管"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 3,
         "clue": {
-          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
-          "zh": "欧米茄"
-        },
-        "level": 6
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 7,
-        "clue": {
-          "en": "To fail to agree; to have a different opinion or belief.",
-          "zh": "不同意"
+          "en": "That which comes from one's imagination.",
+          "zh": "幻想"
         },
         "level": 4
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 6,
         "clue": {
-          "en": "Having lived for a long time; no longer young.",
-          "zh": "老的"
+          "en": "A reusable software component written in Java.",
+          "zh": "豆"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.",
-          "zh": "南部"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 3,
-        "clue": {
-          "en": "To weaken, as a joint, ligament, or muscle, by sudden and excessive exertion, as by wrenching; to overstrain, or stretch injuriously, but without luxation",
-          "zh": "春天"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "To conquer, defeat.",
-          "zh": "赢"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 6,
         "col": 5,
         "clue": {
-          "en": "A star, especially when seen as the centre of any single solar system.",
-          "zh": "太阳"
+          "en": "The soul of a person or other creature. What moves through experience into self-definition as souls purpose.",
+          "zh": "精神"
         },
         "level": 1
       },
       {
-        "num": 18,
-        "row": 6,
-        "col": 6,
+        "num": 9,
+        "row": 3,
+        "col": 0,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
+          "zh": "绳索"
         },
         "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
+        },
+        "level": 4
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "graduate"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "senior_high"
 }

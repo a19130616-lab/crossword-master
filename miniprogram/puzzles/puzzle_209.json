@@ -1,0 +1,387 @@
+{
+  "id": "puzzle_209",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "G",
+      null,
+      null,
+      null,
+      "S",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "R",
+      null,
+      "P",
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      null,
+      "O",
+      "V",
+      "E",
+      "N",
+      null,
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      null,
+      "E"
+    ],
+    [
+      "R",
+      null,
+      "E",
+      "M",
+      null,
+      "D",
+      "I",
+      null,
+      "P"
+    ],
+    [
+      "I",
+      null,
+      "A",
+      "M",
+      "B",
+      "I",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "B",
+      null,
+      "D",
+      "A",
+      "W",
+      "N",
+      null,
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "T",
+      null,
+      "G",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      null,
+      "R",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(stative) To perceive sounds through the ear.",
+          "zh": "听到"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Meanings relating to a wind instrument.",
+          "zh": "管道"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The recoil of an object bouncing off another.",
+          "zh": "反弹"
+        },
+        "level": 7
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "Something that surrounds; encompassing material, substance or shape.",
+          "zh": "周围的"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The morning twilight period immediately before sunrise.",
+          "zh": "黎明"
+        },
+        "level": 4
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+          "zh": "丢失的"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "Equipment or paraphernalia, especially that used for an athletic endeavor.",
+          "zh": "齿轮"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
+        },
+        "level": 5
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Present participle of spend, expenditure.",
+          "zh": "开支"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A protein on a cell wall that binds with specific molecules so that they can be absorbed into the cell in order to control certain functions.",
+          "zh": "受体"
+        },
+        "level": 7
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A thing that causes horror; a terrifying thing, particularly a prospective bad consequence asserted as likely to result from an act.",
+          "zh": "可怕"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A person with whom one shares a room, as at university etc.",
+          "zh": "室友"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "An independent publisher.",
+          "zh": "独立"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Prayer, later especially with a rosary.",
+          "zh": "珠子"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+          "zh": "靠近"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

@@ -1,310 +1,100 @@
 {
   "id": "puzzle_009",
-  "title": "Hard #3",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #9",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      "J",
-      null,
+      "S",
       null,
       null,
-      null,
-      "F",
       null,
       "S"
     ],
     [
-      "W",
-      "O",
-      "R",
-      "S",
-      "T",
-      null,
-      "A",
-      "N",
-      "T"
-    ],
-    [
-      null,
-      "K",
-      "E",
-      null,
-      "H",
-      "O",
-      "N",
-      "O",
-      "R"
-    ],
-    [
       "M",
-      "E",
-      "N",
+      "A",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "A",
       null,
       "E",
-      "W",
       null,
-      "W",
       "O"
     ],
     [
-      "A",
-      null,
-      "T",
-      "H",
-      "A",
-      "N",
-      "K",
-      null,
-      "N"
-    ],
-    [
-      "S",
-      "S",
-      null,
-      "A",
-      "T",
-      null,
-      "E",
-      "G",
-      "G"
-    ],
-    [
-      "T",
-      "A",
-      "S",
-      "T",
-      "E",
-      null,
-      "E",
-      "O",
-      null
-    ],
-    [
-      "E",
-      "Y",
-      "E",
-      null,
       "R",
-      "E",
-      "P",
-      "L",
-      "Y"
-    ],
-    [
-      "R",
-      null,
-      "E",
-      null,
-      null,
-      null,
-      null,
+      "A",
       "D",
-      null
+      "I",
+      "O"
+    ],
+    [
+      "T",
+      null,
+      null,
+      null,
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        7
+        3,
+        2
       ],
       [
-        4,
-        5
+        3,
+        3
       ],
       [
-        5,
+        3,
         0
       ],
       [
         4,
-        6
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        7
-      ],
-      [
-        3,
-        7
-      ],
-      [
-        8,
-        2
-      ],
-      [
-        2,
-        6
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        7,
-        5
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        3,
-        2
+        0
       ]
     ],
     "medium": [
       [
-        6,
-        7
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        4,
-        6
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        0,
-        1
-      ],
-      [
-        1,
-        7
+        3,
+        2
       ],
       [
         3,
-        7
+        3
       ]
     ],
     "hard": [
       [
-        6,
-        7
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        5,
-        0
-      ],
-      [
-        4,
-        6
+        3,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "Unfavorable; negative; not good.",
-          "zh": "最糟糕的"
+          "en": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+          "zh": "行进"
         },
         "level": 1
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
-          "zh": "蚂蚁"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "Recognition of importance or value; respect; veneration (of someone, usually for being morally upright or successful)",
-          "zh": "荣誉"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
+        "num": 5,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "An adult male human.",
-          "zh": "男人"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "An expression of appreciation; a thought.",
-          "zh": "感谢"
-        },
-        "level": 1
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
-        },
-        "level": 1
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
-          "zh": "品尝"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        },
-        "level": 1
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "A written or spoken response; part of a conversation.",
-          "zh": "回复"
+          "en": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+          "zh": "收音机"
         },
         "level": 1
       }
@@ -313,136 +103,36 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "An amusing story.",
-          "zh": "开玩笑"
+          "en": "To hurt or sting.",
+          "zh": "聪明的"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself.",
-          "zh": "扇子"
-        },
-        "level": 1
-      },
-      {
-        "num": 3,
-        "row": 0,
-        "col": 8,
-        "clue": {
-          "en": "Capable of producing great physical force.",
-          "zh": "强的"
-        },
-        "level": 1
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A payment made by a tenant at intervals in order to occupy a property.",
-          "zh": "租"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
-          "zh": "剧院"
+          "en": "The emerging stem and embryonic leaves of a new plant.",
+          "zh": "射击"
         },
         "level": 1
       },
       {
-        "num": 8,
+        "num": 4,
         "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The present time.",
-          "zh": "现在"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Someone who has control over something or someone.",
-          "zh": "掌握"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
-          "zh": "帽子"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "To have or retain possession of something.",
-          "zh": "保持"
-        },
-        "level": 1
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A chance to speak; the right or power to influence or make a decision.",
-          "zh": "说"
-        },
-        "level": 1
-      },
-      {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.",
-          "zh": "金子"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 6,
         "col": 2,
         "clue": {
-          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-          "zh": "看"
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

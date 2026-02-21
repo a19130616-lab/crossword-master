@@ -1,0 +1,292 @@
+{
+  "id": "puzzle_105",
+  "title": "Medium #5",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "T",
+      "U",
+      "B",
+      null,
+      "M"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      null,
+      "R",
+      "A",
+      null,
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      null,
+      null,
+      null,
+      "M",
+      "H"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      null,
+      "C",
+      "O",
+      null
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "F",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "E",
+      null,
+      "P",
+      "A",
+      "L",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A flat-bottomed vessel, of width similar to or greater than its height, used for storing or packing things, or for washing things in.",
+          "zh": "浴缸"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A thin skin membrane that covers and moves over an eye.",
+          "zh": "盖"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A distinctive outfit that serves to identify members of a group.",
+          "zh": "制服"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A friend, buddy, mate, cobber; someone to hang around with.",
+          "zh": "朋友"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A box, frame, crib, or enclosed place, used as a storage container.",
+          "zh": "垃圾桶"
+        },
+        "level": 7
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition, attention, memory, emotion, and action.",
+          "zh": "脑"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An abnormal growth; differential diagnosis includes abscess, metaplasia, and neoplasia.",
+          "zh": "瘤"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this.",
+          "zh": "蓝色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A lower section of a road or geological feature.",
+          "zh": "蘸"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

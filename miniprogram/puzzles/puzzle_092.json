@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_092",
+  "title": "Easy #2",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "G",
+      "I",
+      "G",
+      null
+    ],
+    [
+      "A",
+      "R",
+      null,
+      "R",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "A",
+      null,
+      "V",
+      "O"
+    ],
+    [
+      null,
+      "T",
+      "E",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
+          "zh": "演出"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "In a lower place.",
+          "zh": "以下"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "伟大的"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A small forest.",
+          "zh": "树林"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

@@ -1,0 +1,388 @@
+{
+  "id": "puzzle_113",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "B",
+      null,
+      null,
+      null,
+      "C",
+      null,
+      null,
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "H",
+      null,
+      "A",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "O",
+      "L",
+      null,
+      "A",
+      "N",
+      "T",
+      "I",
+      null,
+      "I"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      null,
+      "R"
+    ],
+    [
+      "I",
+      null,
+      "W",
+      "D",
+      null,
+      "R",
+      "L",
+      null,
+      "A"
+    ],
+    [
+      "L",
+      null,
+      "A",
+      "M",
+      "B",
+      "I",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      null,
+      "R",
+      "A",
+      "I",
+      "N",
+      null,
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "D",
+      null,
+      "G",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "Y",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      null,
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        8,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        8,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        8
+      ]
+    ],
+    "hard": [
+      [
+        8,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        7,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A mowing; what is gathered from mowing.",
+          "zh": "数学"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A person opposed to a concept or principle.",
+          "zh": "反对"
+        },
+        "level": 7
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A heavy, loosely woven fabric, usually large and woollen, used for warmth while sleeping or resting.",
+          "zh": "毯子"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "Something that surrounds; encompassing material, substance or shape.",
+          "zh": "周围的"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Condensed water falling from a cloud.",
+          "zh": "雨"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To twist (a string, rope, or the like) around itself securely.",
+          "zh": "捆绑"
+        },
+        "level": 6
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "The act of going.",
+          "zh": "去"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A solid or hollow sphere, or roughly spherical mass.",
+          "zh": "球"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "To provide, particularly:",
+          "zh": "餐饮"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A country ruled by an emir.",
+          "zh": "酋长国"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The ability to move; capacity for movement.",
+          "zh": "流动性"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "An art or craft object made by hand.",
+          "zh": "手工制作的"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The name of a book, composition, or other artistic work.",
+          "zh": "标题"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

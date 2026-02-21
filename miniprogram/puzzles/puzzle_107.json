@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_107",
+  "title": "Medium #7",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "B",
+      null,
+      null,
+      "D",
+      "I",
+      "G"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "D",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "R",
+      null,
+      "Y",
+      "N",
+      null,
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "C",
+      "I",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "N",
+      null,
+      "O",
+      "N",
+      null,
+      "O",
+      "I"
+    ],
+    [
+      "G",
+      "A",
+      "D",
+      "G",
+      "E",
+      "T",
+      "S"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "An archeological or paleontological investigation, or the site where such an investigation is taking place.",
+          "zh": "挖"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(in some African communities) To publicly display a child after it has been named",
+          "zh": "户外的"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A person who is very old.",
+          "zh": "古老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A thing whose name cannot be remembered; thingamajig, doohickey.",
+          "zh": "小玩意"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A physical injury caused by heat, cold, electricity, radiation or caustic chemicals.",
+          "zh": "烧伤"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Carried out, completed, or finished.",
+          "zh": "完毕"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Free, without charge.",
+          "zh": "免费"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An evergreen tree of the genus Citrus such as Citrus sinensis.",
+          "zh": "橙子"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To stop living; to become dead; to undergo death.",
+          "zh": "垂死"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A short symbol, often with little relation to the item it represents.",
+          "zh": "代码"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "(heading) A symbol or annotation.",
+          "zh": "笔记"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

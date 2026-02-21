@@ -1,106 +1,70 @@
 {
   "id": "puzzle_018",
-  "title": "Hard #3",
-  "rows": 9,
-  "cols": 9,
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      null,
-      "A",
-      "G",
-      "E",
-      null,
-      null,
-      null,
-      "B"
-    ],
-    [
-      "D",
-      "I",
-      "G",
-      null,
-      "A",
-      "B",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "N",
-      "O",
-      "I",
-      "S",
-      "E",
-      null,
-      "P",
-      "C"
-    ],
-    [
-      "T",
       "T",
       null,
-      "M",
-      "E",
-      "T",
+      "F",
       null,
-      "E",
-      "O"
-    ],
-    [
-      "H",
-      "E",
-      "L",
-      "P",
       null,
-      "T",
-      "E",
-      "A",
-      "M"
-    ],
-    [
-      "E",
-      "N",
-      null,
-      "O",
-      "N",
-      "E",
-      null,
-      "K",
-      "E"
-    ],
-    [
-      "O",
-      "S",
-      null,
-      "S",
-      "E",
-      "R",
-      "V",
-      "E",
-      null
-    ],
-    [
-      "R",
-      "E",
-      "N",
-      "E",
-      "W",
-      null,
-      "A",
-      "R",
       "T"
     ],
     [
-      "Y",
-      null,
-      null,
-      null,
       "S",
+      "O",
+      "C",
       "I",
+      "E",
+      "T",
+      "Y"
+    ],
+    [
+      null,
+      "M",
+      "E",
       "N",
       null,
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "A",
+      null,
+      "D",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "T",
+      null,
+      "I",
+      "N",
+      "K",
+      null
+    ],
+    [
+      "P",
+      "O",
+      "I",
+      "N",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "G",
+      null,
+      "Y",
       null
     ]
   ],
@@ -108,51 +72,31 @@
     "easy": [
       [
         5,
-        1
-      ],
-      [
-        2,
         4
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        0
       ],
       [
         3,
-        7
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        5,
         5
       ],
       [
-        0,
-        8
-      ],
-      [
-        5,
-        3
-      ],
-      [
         1,
-        8
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        4
       ],
       [
         3,
-        1
+        4
       ],
       [
         1,
@@ -161,296 +105,156 @@
       [
         2,
         3
-      ],
-      [
-        8,
-        6
       ]
     ],
     "medium": [
       [
         5,
-        1
-      ],
-      [
-        2,
         4
-      ],
-      [
-        7,
-        1
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        5,
-        0
       ],
       [
         3,
-        7
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        5,
         5
       ],
       [
+        1,
+        2
+      ],
+      [
         0,
-        8
+        6
+      ],
+      [
+        2,
+        2
       ]
     ],
     "hard": [
       [
         5,
-        1
-      ],
-      [
-        2,
         4
       ],
       [
-        7,
-        1
-      ],
-      [
-        4,
-        3
+        3,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
-        },
-        "level": 1
-      },
-      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An archeological or paleontological investigation, or the site where such an investigation is taking place.",
-          "zh": "挖"
+          "en": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",
+          "zh": "社会"
         },
         "level": 1
       },
       {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
-          "zh": "虐待"
-        },
-        "level": 4
-      },
-      {
-        "num": 9,
+        "num": 7,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "Various sounds, usually unwanted or unpleasant.",
-          "zh": "噪音"
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
         },
         "level": 1
       },
       {
         "num": 13,
-        "row": 3,
+        "row": 4,
         "col": 3,
         "clue": {
-          "en": "To make contact (with) while in proximity.",
-          "zh": "遇见"
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
         },
         "level": 1
       },
       {
-        "num": 15,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "Action given to provide assistance; aid.",
-          "zh": "帮助"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "A group of people who work together toward a common goal, especially in sports or business.",
-          "zh": "团队"
-        },
-        "level": 1
-      },
-      {
-        "num": 18,
+        "num": 14,
         "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "The digit or figure 1.",
-          "zh": "一"
-        },
-        "level": 1
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "An act of putting the ball or shuttlecock in play in various games.",
-          "zh": "服务"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 7,
         "col": 0,
         "clue": {
-          "en": "To make (something) new again; to restore to freshness or original condition.",
-          "zh": "更新"
-        },
-        "level": 5
-      },
-      {
-        "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "A violation of God's will or religious law.",
-          "zh": "罪"
-        },
-        "level": 5
+          "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "zh": "尖"
+        }
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
+          "en": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
+          "zh": "番茄"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "Ability, the means to do something, particularly:",
-          "zh": "舒适"
-        },
-        "level": 4
+          "en": "To encounter or discover by accident; to happen upon.",
+          "zh": "发现"
+        }
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 6,
         "clue": {
-          "en": "To arrive, come (to a place).",
-          "zh": "变得"
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         },
         "level": 1
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "Strained; tightly drawn.",
-          "zh": "激烈的"
-        },
-        "level": 5
-      },
-      {
-        "num": 7,
+        "num": 6,
         "row": 1,
         "col": 5,
         "clue": {
-          "en": "An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior.",
-          "zh": "更好的"
+          "en": "The guinea fowl (family Numididae).",
+          "zh": "火鸡"
         },
         "level": 1
       },
       {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "One who speaks.",
-          "zh": "扬声器"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 3,
-        "clue": {
-          "en": "To establish or apply by authority.",
-          "zh": "强加"
-        },
-        "level": 5
-      },
-      {
-        "num": 12,
+        "num": 9,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A description of an event or system that is considered to be accurate.",
-          "zh": "理论"
-        },
-        "level": 4
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "New information of interest.",
-          "zh": "新闻"
+          "en": "An honorary title of the Roman Catholic bishop of Rome as father and head of his church, a sovereign of the Vatican city state.",
+          "zh": "教皇"
         },
         "level": 1
       },
       {
-        "num": 23,
-        "row": 6,
-        "col": 6,
+        "num": 11,
+        "row": 3,
+        "col": 4,
         "clue": {
-          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
-          "zh": "面包车"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         },
-        "level": 5
+        "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "senior_high"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

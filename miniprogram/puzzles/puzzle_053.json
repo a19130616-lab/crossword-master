@@ -1,394 +1,448 @@
 {
   "id": "puzzle_053",
-  "title": "Hard #2",
+  "title": "Hard #3",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      null,
-      "Z",
-      null,
-      null,
-      "V",
-      null,
-      "N",
-      "I"
-    ],
-    [
-      "C",
       "R",
-      "E",
-      "W",
-      null,
-      "E",
-      "Y",
-      "E",
-      "D"
-    ],
-    [
-      null,
-      "E",
-      "N",
       null,
       null,
-      "N",
       null,
-      "C",
-      "S"
-    ],
-    [
       null,
-      "L",
-      null,
-      "D",
-      "R",
-      "U",
-      "N",
-      "K",
-      null
-    ],
-    [
-      "H",
-      "A",
-      "L",
       "O",
       null,
-      "E",
-      null,
-      "L",
-      null
+      "A"
     ],
     [
+      "D",
+      "E",
+      "P",
+      "T",
+      "H",
+      null,
+      "P",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "L",
+      "U",
+      null,
+      "E",
+      "N",
+      "T",
+      "R",
+      "Y"
+    ],
+    [
+      "G",
+      "Y",
+      "M",
+      null,
+      "R",
+      "U",
       null,
       "T",
-      "O",
-      "U",
-      "R",
-      null,
-      null,
-      "A",
-      null
-    ],
-    [
-      "P",
-      "I",
-      null,
-      "B",
-      "A",
-      "S",
-      "I",
-      "C",
-      null
-    ],
-    [
-      "O",
-      "V",
-      "A",
-      "L",
-      null,
-      "K",
-      "N",
-      "E",
       "W"
     ],
     [
+      "U",
+      null,
+      "P",
+      "A",
+      "S",
       "T",
       "E",
       null,
-      "E",
-      null,
+      "A"
+    ],
+    [
       "I",
       "S",
       null,
+      "G",
+      "E",
+      null,
+      "D",
+      "A",
+      "Y"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "E",
+      "L",
+      null,
+      "G",
+      "R",
+      null
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      null,
+      "F",
+      "L",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "Y",
+      null,
+      "W",
+      null,
+      null,
+      null,
+      null,
+      "A",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        2,
+        6
+      ],
+      [
+        5,
+        0
+      ],
+      [
         1,
-        5
+        7
       ],
       [
-        3,
+        1,
+        1
+      ],
+      [
+        6,
         3
-      ],
-      [
-        3,
-        5
       ],
       [
         6,
         0
       ],
       [
-        7,
-        3
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        2,
-        2
+        3,
+        4
       ],
       [
         7,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        0,
         6
-      ],
-      [
-        7,
-        0
-      ],
-      [
-        1,
-        2
       ],
       [
         4,
         5
       ],
       [
-        0,
-        7
+        4,
+        8
       ],
       [
-        6,
-        4
-      ]
-    ],
-    "medium": [
-      [
-        1,
-        5
-      ],
-      [
-        3,
-        3
-      ],
-      [
-        3,
-        5
-      ],
-      [
-        6,
-        0
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        8,
-        0
-      ],
-      [
-        2,
+        4,
         2
       ],
       [
         7,
-        6
+        1
       ]
     ],
-    "hard": [
+    "medium": [
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        0
+      ],
       [
         1,
-        5
+        7
       ],
       [
-        3,
+        1,
+        1
+      ],
+      [
+        6,
         3
-      ],
-      [
-        3,
-        5
       ],
       [
         6,
         0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
-          "zh": "全体人员"
+          "en": "The vertical distance below a surface; the degree to which something is deep",
+          "zh": "深度"
         },
         "level": 4
       },
       {
         "num": 7,
         "row": 1,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "To observe carefully or appraisingly.",
-          "zh": "有眼睛的"
+          "en": "A wide, flat receptacle used around the house, especially for cooking.",
+          "zh": "平底锅"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "The act of entering.",
+          "zh": "入口"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
         "row": 3,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "To consume (a liquid) through the mouth.",
-          "zh": "醉"
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 11,
+        "num": 15,
         "row": 4,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
-          "zh": "晕"
+          "en": "A soft moist mixture, in particular:",
+          "zh": "粘贴"
         },
-        "level": 6
+        "level": 5
       },
       {
-        "num": 13,
+        "num": 21,
         "row": 5,
-        "col": 1,
+        "col": 6,
         "clue": {
-          "en": "A journey through a particular building, estate, country, etc.",
-          "zh": "旅游"
+          "en": "Any period of 24 hours.",
+          "zh": "天"
         },
         "level": 1
       },
       {
-        "num": 16,
+        "num": 23,
         "row": 6,
-        "col": 3,
+        "col": 0,
         "clue": {
-          "en": "A necessary commodity, a staple requirement.",
-          "zh": "基本的"
+          "en": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+          "zh": "标签"
         },
-        "level": 1
+        "level": 5
       },
       {
-        "num": 19,
+        "num": 26,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "An elongated round shape resembling an egg or ellipse.",
-          "zh": "椭圆形"
+          "en": "The digit/figure 2.",
+          "zh": "二"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 20,
+        "num": 27,
         "row": 7,
-        "col": 5,
+        "col": 4,
         "clue": {
-          "en": "To perceive the truth or factuality of; to be certain of or that.",
-          "zh": "知道"
+          "en": "A group of vessels or vehicles.",
+          "zh": "舰队"
         },
-        "level": 6
+        "level": 5
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "A denomination of Buddhism.",
-          "zh": "禅"
+          "en": "(with on or upon, formerly also with in) to trust; to have confidence in; to depend.",
+          "zh": "依靠"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 2,
         "row": 0,
-        "col": 5,
+        "col": 6,
         "clue": {
-          "en": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
-          "zh": "场地"
+          "en": "To choose; select.",
+          "zh": "选择"
         },
-        "level": 7
+        "level": 5
       },
       {
         "num": 3,
         "row": 0,
-        "col": 7,
-        "clue": {
-          "en": "An article of jewelry that is worn around the neck, most often made of a string of precious metal, pearls, gems, beads or shells, and sometimes having a pendant attached.",
-          "zh": "项链"
-        },
-        "level": 4
-      },
-      {
-        "num": 4,
-        "row": 0,
         "col": 8,
         "clue": {
-          "en": "The unconscious impulsive component of the personality in the Freudian psychoanalytic model.",
-          "zh": "id"
+          "en": "Regardless; anyhow.",
+          "zh": "反正"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A device for moving or compressing a liquid or gas.",
+          "zh": "泵"
+        },
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "Someone in the same family; someone connected by blood, marriage, or adoption.",
-          "zh": "相对的"
+          "en": "(reflexive pronoun) Her; the female object of a verb or preposition that also appears as the subject.",
+          "zh": "她自己"
         },
         "level": 1
       },
       {
-        "num": 10,
-        "row": 3,
-        "col": 3,
+        "num": 8,
+        "row": 1,
+        "col": 7,
         "clue": {
-          "en": "Twice the number, amount, size, etc.",
-          "zh": "双倍的"
+          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "zh": "艺术"
         },
         "level": 1
       },
       {
-        "num": 15,
-        "row": 6,
-        "col": 0,
+        "num": 11,
+        "row": 2,
+        "col": 5,
         "clue": {
-          "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
-          "zh": "锅"
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
         },
         "level": 4
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A plea by a defendant who does not contest a charge.",
+          "zh": "有罪的"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
       },
       {
         "num": 17,
-        "row": 6,
-        "col": 5,
-        "clue": {
-          "en": "One of a pair of long flat runners designed for gliding over snow or water",
-          "zh": "滑雪"
-        },
-        "level": 4
-      },
-      {
-        "num": 18,
-        "row": 6,
+        "row": 4,
         "col": 6,
         "clue": {
-          "en": "A position of power or influence, or a way to get it.",
-          "zh": "插入"
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+          "zh": "锯"
+        },
+        "level": 5
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.",
+          "zh": "弓"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "toefl"
+  "exam": "senior_high"
 }

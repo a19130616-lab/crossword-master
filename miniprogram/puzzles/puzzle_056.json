@@ -1,85 +1,225 @@
 {
   "id": "puzzle_056",
-  "title": "Easy #2",
-  "rows": 5,
-  "cols": 5,
+  "title": "Hard #6",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
-      "D",
-      "R",
-      "U",
-      "M"
-    ],
-    [
-      "C",
       null,
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      "A",
-      "G",
-      "R",
+      "P",
+      "I",
       "E",
-      "E"
+      null,
+      null,
+      null,
+      "S"
     ],
     [
       "S",
-      "E",
-      "A",
+      "I",
+      "R",
       null,
+      "A",
+      "S",
+      "S",
+      "E",
       "T"
     ],
     [
+      null,
+      "N",
+      "O",
+      "I",
+      "S",
+      "E",
+      null,
+      "X",
+      "R"
+    ],
+    [
+      "E",
+      "I",
+      null,
+      "M",
+      "E",
+      "N",
+      null,
+      "T",
+      "E"
+    ],
+    [
+      "S",
       "T",
       "O",
+      "P",
+      null,
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "C",
+      "I",
+      null,
+      "A",
+      "C",
+      "T",
+      null,
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      null,
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      null
+    ],
+    [
+      "P",
       "L",
+      "A",
+      "T",
+      "E",
+      null,
       "L",
+      "E",
+      "G"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "W",
+      "I",
+      "T",
+      null,
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        1
-      ],
-      [
         2,
         1
-      ],
-      [
-        2,
-        2
-      ],
-      [
-        4,
-        0
       ],
       [
         3,
+        7
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
         2
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        3
       ]
     ],
     "medium": [
       [
-        0,
-        1
-      ],
-      [
         2,
         1
       ],
       [
-        2,
+        3,
+        7
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        4,
         2
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        8,
+        6
       ]
     ],
     "hard": [
       [
-        0,
+        2,
+        1
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
         1
       ]
     ]
@@ -89,108 +229,228 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone.",
-          "zh": "鼓"
+          "en": "A type of pastry that consists of an outer crust and a filling.",
+          "zh": "馅饼"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
         },
         "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "zh": "资产"
         },
-        "level": 1
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
-          "zh": "同意"
-        },
-        "level": 1
+        "level": 5
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 1,
         "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
+          "en": "Various sounds, usually unwanted or unpleasant.",
+          "zh": "噪音"
         },
         "level": 1
       },
       {
-        "num": 10,
+        "num": 13,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "Loss or damage incurred through a disaster.",
-          "zh": "收费"
+          "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+          "zh": "停止"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 5,
+        "clue": {
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
+        },
+        "level": 4
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 3,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The butterfat/milkfat part of milk which rises to the top; this part when separated from the remainder.",
+          "zh": "奶油"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
+          "zh": "盘子"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 7,
+        "col": 6,
+        "clue": {
+          "en": "A limb or appendage that an animal uses for support or locomotion.",
+          "zh": "腿"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 8,
+        "col": 4,
+        "clue": {
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
+        },
+        "level": 4
       }
     ],
     "down": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A person from the countryside; a rustic.",
-          "zh": "乡村的"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         },
         "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
+        },
+        "level": 4
       },
       {
         "num": 3,
         "row": 0,
-        "col": 3,
+        "col": 8,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        },
-        "level": 1
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "To come into the presence of someone by arrangement or by chance.",
-          "zh": "见面"
+          "en": "A paved part of road, usually in a village or a town.",
+          "zh": "街道"
         },
         "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "An act of throwing.",
-          "zh": "投掷"
+          "en": "The first letter of a word or a name.",
+          "zh": "最初的"
         },
         "level": 4
       },
       {
-        "num": 8,
-        "row": 2,
-        "col": 1,
+        "num": 7,
+        "row": 1,
+        "col": 5,
         "clue": {
-          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
-          "zh": "地理"
+          "en": "In some bicameral legislative systems, the upper house or chamber.",
+          "zh": "参议院"
         },
-        "level": 6
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The greatest or utmost point, degree or condition.",
+          "zh": "极端"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The striking of one body against another; collision.",
+          "zh": "影响"
+        },
+        "level": 5
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The act of leaving a dangerous or unpleasant situation.",
+          "zh": "逃脱"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
+          "zh": "全体人员"
+        },
+        "level": 4
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "High pitch, of a voice or instrument; especially, the octave above the top line of the treble stave.",
+          "zh": "替代"
+        },
+        "level": 5
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "sat"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "senior_high"
 }

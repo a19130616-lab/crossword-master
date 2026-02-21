@@ -1,0 +1,292 @@
+{
+  "id": "puzzle_136",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      null,
+      "I",
+      "N",
+      "N",
+      null,
+      "M"
+    ],
+    [
+      "F",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      null,
+      "N",
+      "E",
+      null,
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "S",
+      "G",
+      null,
+      null,
+      null,
+      "R",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      null,
+      "A",
+      "A",
+      null
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "I",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "Y",
+      null,
+      "E",
+      "Y",
+      "E",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        6
+      ],
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A trading establishment, especially set up by merchants working in a foreign country.",
+          "zh": "工厂"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A hard-shelled seed.",
+          "zh": "坚果"
+        },
+        "level": 4
+      },
+      {
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A piece of nonfictional writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, dictionary, encyclopedia, etc.",
+          "zh": "文章"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A traditional story which embodies a belief regarding some fact or phenomenon of experience, and in which often the forces of nature and of the soul are personified; a sacred narrative regarding a god, a hero, the origin of the world or of a people, etc.",
+          "zh": "神话"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+          "zh": "愤怒"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A person from the countryside; a rustic.",
+          "zh": "乡村的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "停留"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

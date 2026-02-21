@@ -1,142 +1,86 @@
 {
   "id": "puzzle_006",
-  "title": "Medium #3",
-  "rows": 7,
-  "cols": 7,
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
       null,
-      null,
-      "C",
-      "O",
-      "W",
-      null,
-      "T"
-    ],
-    [
-      "T",
-      "R",
-      "A",
-      "G",
-      "E",
-      "D",
-      "Y"
-    ],
-    [
-      null,
-      "E",
-      "R",
-      null,
-      "T",
-      "O",
-      "P"
-    ],
-    [
-      "K",
-      "A",
-      null,
-      null,
-      null,
       "U",
-      "E"
+      "S",
+      "E",
+      "D"
     ],
     [
-      "I",
-      "C",
-      "E",
-      null,
-      "A",
       "B",
-      null
-    ],
-    [
+      null,
       "C",
-      "H",
       "A",
-      "R",
-      "I",
-      "T",
-      "Y"
+      "R"
     ],
     [
-      "K",
-      null,
-      "R",
+      "O",
+      "P",
       "E",
-      "D",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "U",
+      "N",
       null,
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "P",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        2
-      ],
-      [
         2,
-        2
-      ],
-      [
-        1,
         1
       ],
       [
-        2,
-        5
+        4,
+        2
       ],
       [
-        1,
+        3,
         0
       ],
       [
         2,
-        1
+        3
       ],
       [
-        1,
-        5
-      ],
-      [
-        5,
-        6
-      ],
-      [
-        2,
+        0,
         4
       ]
     ],
     "medium": [
       [
-        5,
-        2
-      ],
-      [
         2,
-        2
-      ],
-      [
-        1,
         1
       ],
       [
-        2,
-        5
+        4,
+        2
       ],
       [
-        1,
+        3,
         0
       ]
     ],
     "hard": [
       [
-        5,
-        2
-      ],
-      [
         2,
-        2
+        1
       ]
     ]
   },
@@ -145,68 +89,16 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 1,
         "clue": {
-          "en": "(properly) An adult female of the species Bos taurus, especially one that has calved.",
-          "zh": "奶牛"
+          "en": "To utilize or employ.",
+          "zh": "用过的"
         },
         "level": 1
       },
       {
-        "num": 5,
+        "num": 6,
         "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
-          "zh": "悲剧"
-        },
-        "level": 1
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "The highest or uppermost part of something.",
-          "zh": "顶部"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
-        "row": 5,
-        "col": 0,
-        "clue": {
-          "en": "An organization, the objective of which is to carry out a charitable purpose.",
-          "zh": "慈善事业"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
-          "zh": "红色的"
-        },
-        "level": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "row": 0,
         "col": 2,
         "clue": {
           "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
@@ -215,59 +107,51 @@
         "level": 1
       },
       {
-        "num": 3,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "Liquid or moisture.",
-          "zh": "湿的"
-        },
-        "level": 1
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A grouping based on shared characteristics; a class.",
-          "zh": "类型"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "The act of stretching or extending; extension.",
-          "zh": "抵达"
-        },
-        "level": 1
-      },
-      {
         "num": 7,
-        "row": 1,
-        "col": 5,
+        "row": 2,
+        "col": 0,
         "clue": {
-          "en": "Disbelief or uncertainty (about something); a particular instance of such disbelief or uncertainty.",
-          "zh": "怀疑"
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A star, especially when seen as the centre of any single solar system.",
+          "zh": "太阳"
         },
         "level": 1
       },
       {
         "num": 10,
-        "row": 3,
+        "row": 4,
         "col": 0,
         "clue": {
-          "en": "A hit or strike with the leg, foot or knee.",
-          "zh": "踢"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The location of an event that attracts attention.",
+          "zh": "场景"
         },
         "level": 1
       },
       {
-        "num": 13,
-        "row": 4,
-        "col": 2,
+        "num": 3,
+        "row": 0,
+        "col": 3,
         "clue": {
           "en": "The organ on either side of the head used for hearing.",
           "zh": "耳朵"
@@ -275,18 +159,38 @@
         "level": 1
       },
       {
-        "num": 14,
-        "row": 4,
+        "num": 4,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "Help; assistance; succor, relief.",
-          "zh": "援助"
+          "en": "The result of a contest that neither side has won; a tie.",
+          "zh": "画"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A person who oversees and directs the work of others; a supervisor.",
+          "zh": "老板"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To move something to a particular position or place.",
+          "zh": "放"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

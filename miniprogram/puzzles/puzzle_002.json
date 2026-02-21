@@ -5,96 +5,106 @@
   "cols": 5,
   "solution": [
     [
-      "P",
       null,
-      null,
-      null,
-      "S"
+      "B",
+      "Y",
+      "E",
+      null
     ],
     [
+      "I",
+      "R",
+      null,
       "L",
-      "U",
-      "N",
+      "E"
+    ],
+    [
       "C",
-      "H"
-    ],
-    [
       "A",
-      null,
-      "O",
-      null,
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "W",
-      "E",
-      "R"
+      "N",
+      "D",
+      "Y"
     ],
     [
       "E",
+      "V",
       null,
+      "E",
+      "E"
+    ],
+    [
       null,
-      null,
-      "T"
+      "E",
+      "A",
+      "R",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
+        0,
+        1
+      ],
+      [
         3,
-        0
+        3
+      ],
+      [
+        3,
+        4
       ],
       [
         4,
-        0
-      ],
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        3
+        2
       ]
     ],
     "medium": [
       [
-        3,
-        0
+        0,
+        1
       ],
       [
-        4,
-        0
+        3,
+        3
       ]
     ],
     "hard": [
       [
-        3,
-        0
+        0,
+        1
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
-        "row": 1,
-        "col": 0,
+        "num": 1,
+        "row": 0,
+        "col": 1,
         "clue": {
-          "en": "A light meal usually eaten around midday, notably when not as main meal of the day.",
-          "zh": "午餐"
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
         },
         "level": 1
       },
       {
-        "num": 5,
-        "row": 3,
+        "num": 6,
+        "row": 2,
         "col": 0,
         "clue": {
-          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
-          "zh": "塔"
+          "en": "Edible, sweet-tasting confectionery containing sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate, nuts, herbs and spices, or artificial flavors.",
+          "zh": "糖果"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
         },
         "level": 1
       }
@@ -103,30 +113,40 @@
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A slightly curved but almost flat dish from which food is served or eaten.",
-          "zh": "盘子"
+          "en": "A Native American warrior.",
+          "zh": "勇敢的"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
-          "zh": "衬衫"
+          "en": "An older person or an older member, usually a leader, of some community.",
+          "zh": "长老"
         },
         "level": 1
       },
       {
-        "num": 4,
+        "num": 3,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The present time.",
-          "zh": "现在"
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         },
         "level": 1
       }

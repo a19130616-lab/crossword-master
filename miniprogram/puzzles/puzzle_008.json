@@ -1,310 +1,138 @@
 {
   "id": "puzzle_008",
-  "title": "Hard #2",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      "C",
-      null,
-      null,
-      null,
-      null,
-      "U",
-      null,
-      "M"
-    ],
-    [
-      "P",
-      "I",
+      "E",
       "L",
-      "O",
-      "T",
-      null,
       "S",
       "E",
-      "A"
-    ],
-    [
-      null,
-      "T",
-      "A",
-      null,
-      "O",
-      "C",
-      "E",
-      "A",
-      "N"
-    ],
-    [
-      "G",
-      "Y",
-      "M",
-      null,
-      "N",
-      "O",
-      null,
-      "R",
-      "A"
-    ],
-    [
-      "A",
-      null,
-      "P",
-      "A",
-      "I",
-      "N",
-      "T",
-      null,
-      "G"
-    ],
-    [
-      "R",
-      "L",
-      null,
-      "R",
-      "G",
-      null,
-      "I",
-      "C",
-      "E"
-    ],
-    [
-      "D",
-      "E",
-      "A",
-      "T",
-      "H",
-      null,
-      "R",
-      "H",
       null
     ],
     [
-      "E",
-      "G",
-      "G",
+      "L",
+      "O",
+      "W",
       null,
-      "T",
-      "R",
+      "S"
+    ],
+    [
+      "S",
+      "W",
       "E",
-      "A",
+      "E",
       "T"
     ],
     [
-      "N",
-      null,
       "E",
       null,
+      "E",
+      "Y",
+      "E"
+    ],
+    [
       null,
-      null,
-      null,
+      "S",
       "T",
-      null
+      "E",
+      "P"
     ]
   ],
   "prefilled": {
     "easy": [
       [
         2,
-        5
-      ],
-      [
-        2,
         4
       ],
       [
-        2,
-        7
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        5,
+        0,
         3
       ],
       [
-        2,
-        6
-      ],
-      [
-        4,
-        5
-      ],
-      [
-        7,
-        7
-      ],
-      [
         1,
-        4
-      ],
-      [
-        5,
         0
       ],
       [
-        4,
+        0,
+        0
+      ],
+      [
+        3,
         0
       ]
     ],
     "medium": [
       [
         2,
-        5
-      ],
-      [
-        2,
         4
       ],
       [
-        2,
-        7
-      ],
-      [
-        5,
-        8
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        1,
-        6
-      ],
-      [
-        5,
+        0,
         3
+      ],
+      [
+        1,
+        0
       ]
     ],
     "hard": [
       [
         2,
-        5
-      ],
-      [
-        2,
         4
-      ],
-      [
-        2,
-        7
-      ],
-      [
-        5,
-        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        },
+        "level": 1
+      },
+      {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A person who steers a ship, a helmsman.",
-          "zh": "飞行员"
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
         },
         "level": 1
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
+        "num": 6,
         "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "One of the large bodies of water separating the continents.",
-          "zh": "海洋"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
         "col": 0,
         "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
+          "en": "The basic taste sensation induced by sugar.",
+          "zh": "甜的"
         },
         "level": 1
       },
       {
-        "num": 15,
-        "row": 4,
+        "num": 8,
+        "row": 3,
         "col": 2,
         "clue": {
-          "en": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
-          "zh": "画"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         },
         "level": 1
       },
       {
-        "num": 21,
-        "row": 5,
-        "col": 6,
+        "num": 9,
+        "row": 4,
+        "col": 1,
         "clue": {
-          "en": "Water in frozen (solid) form.",
-          "zh": "冰"
-        },
-        "level": 1
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 0,
-        "clue": {
-          "en": "The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.",
-          "zh": "死亡"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
-        },
-        "level": 1
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
-          "zh": "对待"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         },
         "level": 1
       }
@@ -313,136 +141,56 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
-          "zh": "城市"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 6,
+        "col": 1,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "Of less than average height from top to bottom or to the top from the ground.",
+          "zh": "低的"
         },
         "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 2,
         "clue": {
-          "en": "The act of managing or controlling something.",
-          "zh": "管理"
+          "en": "The basic taste sensation induced by sugar.",
+          "zh": "甜的"
         },
         "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A device that generates heat, light or other radiation. Especially an electric light bulb.",
-          "zh": "灯"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
         "col": 4,
         "clue": {
-          "en": "The nighttime of the current day or date; this night.",
-          "zh": "今晚"
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
         },
         "level": 1
       },
       {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
+        "num": 7,
         "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
-          "zh": "骗局"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
-          "zh": "花园"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
         "col": 3,
         "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "To become sleepy or weary.",
-          "zh": "胎"
-        },
-        "level": 1
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 1,
-        "clue": {
-          "en": "A limb or appendage that an animal uses for support or locomotion.",
-          "zh": "腿"
-        },
-        "level": 1
-      },
-      {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "Informal conversation.",
-          "zh": "聊天"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

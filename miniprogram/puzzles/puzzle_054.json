@@ -1,105 +1,105 @@
 {
   "id": "puzzle_054",
-  "title": "Hard #3",
+  "title": "Hard #4",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
       null,
-      "G",
+      "P",
       null,
       null,
-      "B",
+      "S",
       null,
       null,
-      "K"
+      "M"
     ],
     [
-      "D",
+      "B",
+      "A",
       "R",
-      "Y",
+      null,
+      "R",
+      "A",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      null,
+      "N",
+      "O",
+      "V",
+      "E",
+      "L",
+      null,
+      "N",
+      "M"
+    ],
+    [
+      "A",
+      "X",
+      null,
+      "E",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "G",
+      "H",
+      "T",
       null,
       "P",
       "E",
-      "A",
-      "C",
-      "E"
-    ],
-    [
-      null,
-      "E",
-      "M",
-      "A",
-      "I",
-      "L",
-      null,
-      "L",
-      "R"
-    ],
-    [
-      "M",
-      "U",
-      null,
-      "N",
-      "O",
-      "T",
-      "I",
-      "O",
       "N"
     ],
     [
-      "U",
-      "N",
-      "I",
-      "O",
-      "N",
-      null,
-      "A",
-      "T",
-      "E"
-    ],
-    [
-      "S",
-      "I",
-      "S",
-      "T",
+      "P",
       "E",
       "R",
+      "I",
+      "O",
+      "D",
       null,
-      "H",
-      "L"
+      "N",
+      "T"
     ],
     [
       "E",
-      "O",
+      "T",
       null,
-      "H",
-      "E",
-      "N",
       "C",
-      "E",
+      "R",
+      "O",
+      "S",
+      "S",
       null
     ],
     [
-      "U",
-      "N",
-      "D",
+      "C",
+      "Y",
+      "C",
+      "L",
       "E",
-      "R",
       null,
-      "A",
-      "S",
-      "H"
+      "K",
+      "E",
+      "Y"
     ],
     [
-      "M",
+      "T",
       null,
       null,
-      "R",
+      "E",
       null,
       null,
-      "R",
+      "Y",
       null,
       null
     ]
@@ -107,19 +107,31 @@
   "prefilled": {
     "easy": [
       [
+        7,
+        4
+      ],
+      [
         3,
-        5
+        3
+      ],
+      [
+        3,
+        7
       ],
       [
         3,
         1
       ],
       [
-        4,
-        3
+        5,
+        7
       ],
       [
-        4,
+        2,
+        5
+      ],
+      [
+        6,
         0
       ],
       [
@@ -128,60 +140,60 @@
       ],
       [
         5,
+        5
+      ],
+      [
+        0,
         8
+      ],
+      [
+        1,
+        2
       ],
       [
         7,
         3
       ],
       [
-        7,
-        2
-      ],
-      [
-        2,
-        1
-      ],
-      [
-        7,
-        1
-      ],
-      [
         1,
-        5
+        0
       ],
       [
-        0,
-        2
-      ],
-      [
-        0,
-        8
+        6,
+        7
       ],
       [
         3,
-        6
-      ],
-      [
-        7,
-        7
+        5
       ]
     ],
     "medium": [
       [
+        7,
+        4
+      ],
+      [
         3,
-        5
+        3
+      ],
+      [
+        3,
+        7
       ],
       [
         3,
         1
       ],
       [
-        4,
-        3
+        5,
+        7
       ],
       [
-        4,
+        2,
+        5
+      ],
+      [
+        6,
         0
       ],
       [
@@ -190,37 +202,25 @@
       ],
       [
         5,
-        8
-      ],
-      [
-        7,
-        3
-      ],
-      [
-        7,
-        2
-      ],
-      [
-        2,
-        1
+        5
       ]
     ],
     "hard": [
       [
+        7,
+        4
+      ],
+      [
         3,
-        5
+        3
+      ],
+      [
+        3,
+        7
       ],
       [
         3,
         1
-      ],
-      [
-        4,
-        3
-      ],
-      [
-        4,
-        0
       ]
     ]
   },
@@ -231,38 +231,38 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The process by which something is dried.",
-          "zh": "干燥"
+          "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+          "zh": "酒吧"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.",
-          "zh": "和平"
+          "en": "A number representing a comparison between two named things.",
+          "zh": "比率"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 8,
         "row": 2,
         "col": 1,
         "clue": {
-          "en": "A system for transferring messages from one computer to another, usually through a network.",
-          "zh": "电子邮件"
+          "en": "Newly made, formed or evolved; having no precedent; of recent origin; new.",
+          "zh": "小说"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 12,
         "row": 3,
         "col": 3,
         "clue": {
-          "en": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
-          "zh": "概念"
+          "en": "The collective property and liabilities of someone, especially a deceased person.",
+          "zh": "财产"
         },
         "level": 5
       },
@@ -271,28 +271,28 @@
         "row": 4,
         "col": 0,
         "clue": {
-          "en": "The act of uniting or joining two or more things into one.",
-          "zh": "联盟"
+          "en": "(in the singular) The ability to see.",
+          "zh": "视线"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 16,
         "row": 4,
         "col": 6,
         "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 17,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A daughter of the same parents as another person; a female sibling.",
-          "zh": "姐姐"
+          "en": "A length of time.",
+          "zh": "时期"
         },
         "level": 1
       },
@@ -301,30 +301,30 @@
         "row": 6,
         "col": 3,
         "clue": {
-          "en": "From here, from this place, away",
-          "zh": "因此"
+          "en": "A geometrical figure consisting of two straight lines or bars intersecting each other such that at least one of them is bisected by the other.",
+          "zh": "叉"
         },
-        "level": 5
+        "level": 1
       },
       {
         "num": 23,
         "row": 7,
         "col": 0,
         "clue": {
-          "en": "Being lower; being beneath something.",
-          "zh": "在下面"
+          "en": "An interval of space or time in which one set of events or phenomena is completed.",
+          "zh": "循环"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 24,
         "row": 7,
         "col": 6,
         "clue": {
-          "en": "The solid remains of a fire.",
-          "zh": "灰"
+          "en": "An object designed to open and close a lock.",
+          "zh": "钥匙"
         },
-        "level": 4
+        "level": 1
       }
     ],
     "down": [
@@ -333,8 +333,8 @@
         "row": 0,
         "col": 2,
         "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
         },
         "level": 1
       },
@@ -343,8 +343,8 @@
         "row": 0,
         "col": 5,
         "clue": {
-          "en": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
-          "zh": "腰带"
+          "en": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
+          "zh": "盐"
         },
         "level": 1
       },
@@ -353,48 +353,48 @@
         "row": 0,
         "col": 8,
         "clue": {
-          "en": "The core, center, or essence of an object or system.",
-          "zh": "核心"
+          "en": "A brief, unspecified amount of time.",
+          "zh": "片刻"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
         "col": 1,
         "clue": {
-          "en": "The process or act of reuniting.",
-          "zh": "团圆"
+          "en": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+          "zh": "焦虑"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 6,
         "row": 1,
         "col": 4,
         "clue": {
-          "en": "One who goes before, as into the wilderness, preparing the way for others to follow.",
-          "zh": "先锋"
+          "en": "The act of recovering data or a system from a backup.",
+          "zh": "恢复"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 7,
         "row": 1,
         "col": 7,
         "clue": {
-          "en": "A woven fabric such as used in dressing, decorating, cleaning or other practical use.",
-          "zh": "衣服"
+          "en": "Strained; tightly drawn.",
+          "zh": "激烈的"
         },
-        "level": 1
+        "level": 5
       },
       {
         "num": 9,
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "An additional one of the same kind.",
-          "zh": "其他"
+          "en": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
+          "zh": "车辆"
         },
         "level": 1
       },
@@ -403,18 +403,18 @@
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value.",
-          "zh": "博物馆"
+          "en": "Any specific feature, part, or element of something.",
+          "zh": "方面"
         },
-        "level": 1
+        "level": 4
       },
       {
         "num": 22,
         "row": 6,
         "col": 6,
         "clue": {
-          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
-          "zh": "车"
+          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+          "zh": "天空"
         },
         "level": 1
       }
@@ -422,5 +422,5 @@
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "toefl"
+  "exam": "senior_high"
 }

@@ -1,0 +1,386 @@
+{
+  "id": "puzzle_173",
+  "title": "Hard #3",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "H",
+      null,
+      null,
+      null,
+      "B",
+      null,
+      null,
+      "P"
+    ],
+    [
+      "P",
+      "O",
+      "N",
+      "D",
+      null,
+      "E",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "U",
+      null,
+      "E",
+      "D",
+      "G",
+      "E",
+      null,
+      "O"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "T",
+      "E",
+      "I",
+      "N",
+      null,
+      "P"
+    ],
+    [
+      "U",
+      null,
+      "F",
+      "A",
+      null,
+      "N",
+      "U",
+      null,
+      "O"
+    ],
+    [
+      "L",
+      null,
+      "F",
+      "I",
+      "T",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      null,
+      "E",
+      "L",
+      "S",
+      "E",
+      null,
+      "H",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "E",
+      null,
+      "R",
+      "A",
+      "I",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      null,
+      "P",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An inland body of standing water, either natural or man-made, that is smaller than a lake.",
+          "zh": "池塘"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "The boundary line of a surface.",
+          "zh": "边缘"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds.",
+          "zh": "蛋白质"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "The condition of being fit, suitable or appropriate.",
+          "zh": "健康"
+        },
+        "level": 5
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To become sleepy or weary.",
+          "zh": "胎"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A quick hostile or predatory incursion or invasion in a battle.",
+          "zh": "袭击"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A time period of sixty minutes; one twenty-fourth of a day.",
+          "zh": "小时"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Someone who is just starting at something, or has only recently started.",
+          "zh": "初学者"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To suggest a plan, course of action, etc.",
+          "zh": "建议的"
+        }
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To supply with inhabitants; to people.",
+          "zh": "填充"
+        },
+        "level": 7
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "To explain in detail.",
+          "zh": "详细的"
+        }
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+          "zh": "场地"
+        },
+        "level": 7
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "To present or proffer something for someone to accept or reject.",
+          "zh": "提供"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A water-borne vessel generally larger than a boat.",
+          "zh": "船"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_181",
+  "title": "Easy #1",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "U",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      null,
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      null,
+      "W"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "W",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A dip on a mountain ridge between two peaks.",
+          "zh": "坳"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "To perceive the truth or factuality of; to be certain of or that.",
+          "zh": "知道"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A ladder; a series of steps; a means of ascending.",
+          "zh": "规模"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To move or develop something.",
+          "zh": "画了"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A defect or failing; moral or spiritual degeneracy.",
+          "zh": "缺少"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "韩元"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

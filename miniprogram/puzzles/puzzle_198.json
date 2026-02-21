@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_198",
+  "title": "Medium #8",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "S",
+      null,
+      null,
+      "L",
+      null,
+      null,
+      "C"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      "N",
+      "N",
+      "A"
+    ],
+    [
+      "T",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "P"
+    ],
+    [
+      "I",
+      "N",
+      "K",
+      null,
+      "V",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      null,
+      "E",
+      "Y",
+      "E",
+      null,
+      "B"
+    ],
+    [
+      "F",
+      "U",
+      "N",
+      "E",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "Y",
+      null,
+      null,
+      "N",
+      null,
+      null,
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A feeler organ on the head of an insect, crab, or other animal.",
+          "zh": "天线"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Traveling through a place on the way to a destination; by way of.",
+          "zh": "通过"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A ceremony to honour and remember a deceased person. Often distinguished from a memorial service by the presence of the body of the deceased.",
+          "zh": "葬礼"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+          "zh": "满足"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The allowing of possession of a property etc. in exchange for rent.",
+          "zh": "让"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+          "zh": "有能力的"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To get into one's hands, possession or control, with or without force.",
+          "zh": "采取"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "At no time; on no occasion; in no circumstance.",
+          "zh": "绝不"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "sat"
+}

@@ -1,0 +1,176 @@
+{
+  "id": "puzzle_064",
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "E",
+      null,
+      "W",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      null,
+      "C",
+      "V"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      "E",
+      "N",
+      null,
+      "R"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "韩元"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.",
+          "zh": "脊柱"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "(frequency) One and only one time.",
+          "zh": "一次"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "At no time; on no occasion; in no circumstance.",
+          "zh": "绝不"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "One of the many pieces of paper bound together within a book or similar document.",
+          "zh": "页"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
+}

@@ -1,112 +1,195 @@
 {
   "id": "puzzle_019",
-  "title": "Easy #1",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #9",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
       null,
-      "R",
-      "O",
-      "W",
-      null
-    ],
-    [
-      "B",
-      "O",
+      "T",
       null,
-      "O",
-      "G"
+      "F",
+      null,
+      null,
+      "T"
     ],
     [
-      "I",
-      "V",
+      "S",
       "O",
-      "R",
+      "C",
+      "I",
+      "E",
+      "T",
       "Y"
     ],
     [
-      "D",
-      "E",
       null,
-      "L",
-      "M"
+      "M",
+      "E",
+      "N",
+      null,
+      "U",
+      "P"
     ],
     [
+      "P",
+      "A",
       null,
-      "R",
-      "I",
       "D",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "T",
+      null,
+      "I",
+      "N",
+      "K",
+      null
+    ],
+    [
+      "P",
+      "O",
+      "I",
+      "N",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "G",
+      null,
+      "Y",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        2
+        1,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
       ],
       [
         3,
         0
       ],
       [
-        3,
+        1,
+        0
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        2,
         1
       ],
       [
         1,
-        3
+        5
+      ],
+      [
+        5,
+        4
       ]
     ],
     "medium": [
       [
-        4,
-        2
+        1,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        0,
+        3
       ],
       [
         3,
+        0
+      ],
+      [
+        1,
         0
       ]
     ],
     "hard": [
       [
-        4,
-        2
+        1,
+        6
+      ],
+      [
+        6,
+        5
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
+        "num": 4,
+        "row": 1,
+        "col": 0,
         "clue": {
-          "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
-          "zh": "排"
+          "en": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",
+          "zh": "社会"
         },
         "level": 1
       },
       {
-        "num": 6,
+        "num": 7,
         "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "The hard white form of dentin which forms the tusks of elephants, walruses and other animals.",
-          "zh": "象牙"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
-        "row": 4,
         "col": 1,
         "clue": {
-          "en": "To free (something) from a hindrance or annoyance.",
-          "zh": "摆脱"
+          "en": "An adult male human.",
+          "zh": "男人"
         },
-        "level": 4
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A challenge to prove courage.",
+          "zh": "敢"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A pigment (or dye)-based fluid used for writing, printing etc.",
+          "zh": "墨水"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "zh": "尖"
+        }
       }
     ],
     "down": [
@@ -115,44 +198,63 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "(usually in the plural) A randomly selected target.",
-          "zh": "漫游者"
+          "en": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
+          "zh": "番茄"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "(with \"the\") Human collective existence; existence in general.",
-          "zh": "世界"
+          "en": "To encounter or discover by accident; to happen upon.",
+          "zh": "发现"
+        }
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
         },
         "level": 1
       },
       {
-        "num": 3,
+        "num": 6,
         "row": 1,
-        "col": 0,
+        "col": 5,
         "clue": {
-          "en": "To issue a command; to tell.",
-          "zh": "出价"
+          "en": "The guinea fowl (family Numididae).",
+          "zh": "火鸡"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 5,
-        "row": 1,
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An honorary title of the Roman Catholic bishop of Rome as father and head of his church, a sovereign of the Vatican city state.",
+          "zh": "教皇"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
         "col": 4,
         "clue": {
-          "en": "A sports facility specialized for lifting weights and exercise.",
-          "zh": "健身房"
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "cet4"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

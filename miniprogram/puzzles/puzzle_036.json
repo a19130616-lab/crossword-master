@@ -1,225 +1,85 @@
 {
   "id": "puzzle_036",
-  "title": "Hard #3",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
-      null,
-      null,
-      "P",
-      "A",
       "T",
-      null,
-      null,
-      null,
-      "S"
+      "A",
+      "S",
+      "K",
+      null
     ],
     [
+      "W",
+      "I",
       "T",
-      "E",
-      "A",
       null,
-      "A",
-      "R",
-      "R",
-      "A",
-      "Y"
-    ],
-    [
-      null,
-      "C",
-      "Y",
-      "C",
-      "L",
-      "E",
-      null,
-      "L",
       "N"
     ],
     [
+      "I",
+      "M",
       "A",
-      "L",
-      null,
-      "R",
-      "E",
-      "V",
-      null,
       "G",
-      "T"
+      "E"
     ],
     [
-      "B",
-      "I",
-      "K",
-      "E",
+      "N",
       null,
-      "I",
-      "D",
-      "E",
-      "A"
-    ],
-    [
-      "S",
-      "P",
-      null,
-      "A",
       "T",
-      "E",
-      null,
-      "B",
+      "A",
       "X"
     ],
     [
-      "O",
-      "S",
       null,
-      "T",
-      "O",
       "W",
       "E",
-      "R",
-      null
-    ],
-    [
-      "R",
-      "E",
-      "B",
-      "E",
-      "L",
-      null,
-      "G",
-      "A",
-      "P"
-    ],
-    [
-      "B",
-      null,
-      null,
-      null,
-      "D",
-      "O",
-      "G",
-      null,
-      null
+      "S",
+      "T"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        8,
-        4
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        7,
+        4,
         1
       ],
       [
-        1,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        7,
-        6
-      ],
-      [
         0,
+        1
+      ],
+      [
+        4,
         4
       ],
       [
-        5,
-        3
+        2,
+        2
       ],
       [
-        6,
-        7
-      ],
+        2,
+        1
+      ]
+    ],
+    "medium": [
       [
         4,
         1
       ],
       [
-        6,
-        3
-      ],
-      [
-        8,
-        5
-      ]
-    ],
-    "medium": [
-      [
-        8,
-        4
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        7,
+        0,
         1
       ],
       [
-        1,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        1,
-        8
-      ],
-      [
-        7,
-        8
-      ],
-      [
-        7,
-        6
+        4,
+        4
       ]
     ],
     "hard": [
       [
-        8,
-        4
-      ],
-      [
-        7,
-        7
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        7,
+        4,
         1
       ]
     ]
@@ -229,120 +89,50 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "The sound of a light slap or tap with a soft flat object, especially of a footstep",
-          "zh": "拍"
+          "en": "A piece of work done as part of one’s duties.",
+          "zh": "任务"
         },
-        "level": 5
+        "level": 1
       },
       {
         "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
-        },
-        "level": 1
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "Clothing and ornamentation.",
-          "zh": "大批"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An interval of space or time in which one set of events or phenomena is completed.",
-          "zh": "循环"
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
         },
         "level": 4
       },
       {
-        "num": 13,
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
         "row": 3,
-        "col": 3,
+        "col": 2,
         "clue": {
-          "en": "To increase the speed of a motor, or to operate at a higher speed.",
-          "zh": "转速"
+          "en": "Money paid to the government other than for transaction-specific goods and services.",
+          "zh": "税"
         },
-        "level": 6
+        "level": 4
       },
       {
-        "num": 15,
+        "num": 9,
         "row": 4,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
-          "zh": "自行车"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 5,
-        "clue": {
-          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
-          "zh": "主意"
-        },
-        "level": 1
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 3,
-        "clue": {
-          "en": "To ingest; to be ingested.",
-          "zh": "吃了"
-        },
-        "level": 6
-      },
-      {
-        "num": 22,
-        "row": 6,
-        "col": 3,
-        "clue": {
-          "en": "A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.",
-          "zh": "塔"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "A person who resists an established authority, often violently",
-          "zh": "反叛"
-        },
-        "level": 5
-      },
-      {
-        "num": 25,
-        "row": 7,
-        "col": 6,
-        "clue": {
-          "en": "An opening in anything made by breaking or parting.",
-          "zh": "差距"
-        },
-        "level": 5
-      },
-      {
-        "num": 26,
-        "row": 8,
-        "col": 4,
-        "clue": {
-          "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
-          "zh": "狗"
+          "en": "One of the four principal compass points, specifically 270°, conventionally directed to the left on maps; the direction of the setting sun at an equinox, abbreviated as W.",
+          "zh": "西方"
         },
         "level": 1
       }
@@ -351,106 +141,56 @@
       {
         "num": 1,
         "row": 0,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "To give someone money owed for work done, goods received, or a debt incurred.",
-          "zh": "支付"
+          "en": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling.",
+          "zh": "双"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 1,
         "clue": {
-          "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
-          "zh": "故事"
+          "en": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "zh": "目的"
         },
         "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 2,
         "clue": {
-          "en": "A set of rules that govern how words are combined to form phrases and sentences.",
-          "zh": "句法"
+          "en": "A condition; a set of circumstances applying at any given time.",
+          "zh": "状态"
         },
-        "level": 7
+        "level": 1
       },
       {
         "num": 5,
         "row": 1,
-        "col": 1,
+        "col": 4,
         "clue": {
-          "en": "An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter.",
-          "zh": "蚀"
+          "en": "The one that follows after this one.",
+          "zh": "下一个"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 7,
-        "row": 1,
-        "col": 5,
-        "clue": {
-          "en": "A second or subsequent reading of a text or artifact in an attempt to gain new insights.",
-          "zh": "审查"
-        },
-        "level": 1
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
-          "zh": "代数"
-        },
-        "level": 4
-      },
-      {
-        "num": 10,
         "row": 2,
         "col": 3,
         "clue": {
-          "en": "To bring into existence; (sometimes in particular:)",
-          "zh": "创造"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
-          "zh": "吸收"
+          "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
+          "zh": "气体"
         },
         "level": 4
-      },
-      {
-        "num": 19,
-        "row": 5,
-        "col": 4,
-        "clue": {
-          "en": "Past tense of tell; communicated information to someone.",
-          "zh": "告诉了"
-        },
-        "level": 6
-      },
-      {
-        "num": 23,
-        "row": 6,
-        "col": 6,
-        "clue": {
-          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
-          "zh": "蛋"
-        },
-        "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
-  "exam": "cet6"
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "senior_high"
 }

@@ -1,54 +1,118 @@
 {
   "id": "puzzle_030",
-  "title": "Easy #3",
-  "rows": 5,
-  "cols": 5,
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
-      "A",
-      "S",
-      "K",
-      "S"
-    ],
-    [
-      "U",
+      "E",
       null,
-      "H",
+      "O",
+      "L",
+      "D",
+      null,
+      null,
+      "B"
+    ],
+    [
+      "C",
+      "L",
+      "O",
+      "N",
+      "E",
+      null,
+      "S",
       "I",
-      "T"
+      "R"
+    ],
+    [
+      null,
+      "S",
+      "P",
+      null,
+      "A",
+      "C",
+      "T",
+      null,
+      "I"
     ],
     [
       "S",
-      "T",
+      "E",
+      "E",
+      null,
+      "F",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "O",
+      null,
+      "R",
+      "I",
+      null,
+      "N",
+      "D",
+      null,
+      "G"
+    ],
+    [
+      "C",
+      "O",
       "A",
-      "T",
+      "C",
+      "H",
+      null,
+      "E",
+      "Y",
       "E"
     ],
     [
+      "I",
+      null,
+      "T",
       "E",
       "A",
-      "R",
       null,
-      "P"
+      "N",
+      "E",
+      null
     ],
     [
-      "D",
-      "R",
+      "A",
+      "G",
       "E",
-      "W",
+      null,
+      "T",
+      "O",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "L",
+      null,
+      null,
+      "K",
+      "E",
+      "Y",
+      null,
+      "H",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
-        3
+        7,
+        7
       ],
       [
-        2,
-        2
+        7,
+        0
       ],
       [
         3,
@@ -56,115 +120,119 @@
       ],
       [
         1,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        3,
         0
       ],
       [
-        1,
-        4
+        2,
+        2
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        5
       ]
     ],
     "medium": [
       [
-        1,
-        3
+        7,
+        7
       ],
       [
-        2,
-        2
+        7,
+        0
       ],
       [
         3,
         4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        6
       ]
     ],
     "hard": [
       [
+        7,
+        7
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
         1,
-        3
+        4
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 1,
-        "row": 0,
-        "col": 1,
-        "clue": {
-          "en": "To request (information, or an answer to a question).",
-          "zh": "询问"
-        },
-        "level": 6
-      },
-      {
-        "num": 6,
-        "row": 1,
-        "col": 2,
-        "clue": {
-          "en": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything.",
-          "zh": "打"
-        },
-        "level": 1
-      },
-      {
-        "num": 7,
-        "row": 2,
-        "col": 0,
-        "clue": {
-          "en": "A condition; a set of circumstances applying at any given time.",
-          "zh": "状态"
-        },
-        "level": 1
-      },
-      {
-        "num": 9,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 4,
-        "col": 0,
-        "clue": {
-          "en": "To move or develop something.",
-          "zh": "画了"
-        },
-        "level": 6
-      }
-    ],
-    "down": [
-      {
         "num": 2,
-        "row": 0,
-        "col": 2,
-        "clue": {
-          "en": "A part or portion of a larger amount that is divided among a number of people.",
-          "zh": "分享"
-        },
-        "level": 1
-      },
-      {
-        "num": 3,
         "row": 0,
         "col": 3,
         "clue": {
-          "en": "A circular wooden vessel, made of hooped staves.",
-          "zh": "成套工具"
-        },
-        "level": 6
-      },
-      {
-        "num": 4,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "An advance or movement made from one foot to the other; a pace.",
-          "zh": "步"
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
         },
         "level": 1
       },
@@ -173,24 +241,216 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A living organism (originally a plant) produced asexually from a single ancestor, to which it is genetically identical.",
+          "zh": "克隆"
         },
         "level": 1
       },
       {
-        "num": 8,
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A man of a higher rank or position.",
+          "zh": "先生"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
         "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "Something done, a deed.",
+          "zh": "行为"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "To establish or originate an institution or organization.",
+          "zh": "成立"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A wheeled vehicle, generally drawn by horse power.",
+          "zh": "教练"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The entire amount; comprising the whole number or quantity.",
+          "zh": "全部的"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "An object designed to open and close a lock.",
+          "zh": "钥匙"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
         "col": 1,
         "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The usually green and flat organ that represents the most prominent feature of most vegetative plants.",
+          "zh": "叶子"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A construction or natural feature that spans a divide.",
+          "zh": "桥"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+          "zh": "操作"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A person who studies or learns about a particular subject.",
+          "zh": "学生"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+          "zh": "骗局"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A festive gathering to foster introductions.",
+          "zh": "社会的"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "An object of hatred.",
+          "zh": "恨"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Expressing joy, celebration, glee, etc.",
+          "zh": "是的"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "cet6"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "junior_high"
 }

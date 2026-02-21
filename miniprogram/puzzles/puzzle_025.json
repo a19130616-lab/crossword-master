@@ -1,121 +1,113 @@
 {
   "id": "puzzle_025",
-  "title": "Hard #1",
+  "title": "Hard #5",
   "rows": 9,
   "cols": 9,
   "solution": [
     [
       null,
-      "F",
+      "T",
       null,
-      "D",
-      "U",
+      null,
+      null,
+      null,
       "I",
       null,
-      null,
-      "B"
+      "S"
     ],
     [
-      "B",
-      "L",
-      "E",
-      "S",
-      "S",
+      "P",
+      "I",
+      "A",
+      "N",
+      "O",
       null,
-      "T",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "N",
+      "R",
+      null,
+      "P",
+      "O",
+      "L",
       "A",
       "R"
     ],
     [
-      null,
-      "I",
-      "X",
+      "E",
+      "Y",
+      "E",
       null,
       "E",
-      "A",
-      "R",
-      null,
-      "O"
-    ],
-    [
-      "S",
-      "P",
-      "A",
-      null,
-      "D",
-      "R",
-      "U",
       "N",
-      "K"
+      null,
+      "K",
+      "E"
     ],
     [
-      "I",
-      null,
-      "M",
-      "G",
-      null,
-      "M",
       "S",
+      null,
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
       null,
       "E"
     ],
     [
-      "G",
+      "C",
       "A",
-      "I",
-      "N",
-      "S",
       null,
-      "T",
-      "O",
-      "N"
+      "U",
+      "A",
+      null,
+      "A",
+      "C",
+      "T"
     ],
     [
+      "A",
+      "G",
+      "E",
       "N",
-      null,
-      "N",
-      "U",
       "T",
       null,
-      "E",
-      "V",
+      "S",
+      "O",
       null
     ],
     [
-      "A",
-      "G",
+      "P",
       "E",
+      "N",
       null,
-      "O",
-      "C",
       "E",
-      "A",
-      "N"
+      "X",
+      "T",
+      "R",
+      "A"
     ],
     [
-      "L",
+      "E",
+      null,
+      "D",
       null,
       null,
-      "O",
-      "P",
-      "T",
       null,
-      "L",
+      null,
+      "N",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        6,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        0,
+        7,
         1
       ],
       [
@@ -123,61 +115,57 @@
         6
       ],
       [
-        6,
-        3
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        0,
+        1,
         4
-      ],
-      [
-        8,
-        4
-      ],
-      [
-        7,
-        0
       ],
       [
         4,
         8
       ],
       [
-        1,
-        2
-      ],
-      [
-        8,
-        3
-      ],
-      [
         7,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
         4
       ],
       [
+        7,
+        2
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
         1,
-        7
+        0
+      ],
+      [
+        2,
+        1
       ]
     ],
     "medium": [
       [
-        6,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        0,
+        7,
         1
       ],
       [
@@ -185,166 +173,140 @@
         6
       ],
       [
-        6,
-        3
+        1,
+        4
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        7,
+        5
       ],
       [
         5,
-        3
+        6
       ],
       [
-        3,
-        1
-      ],
-      [
-        0,
+        6,
         4
       ],
       [
-        8,
-        4
+        7,
+        2
       ]
     ],
     "hard": [
       [
-        6,
-        2
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        0,
+        7,
         1
       ],
       [
         2,
         6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        4,
+        8
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 2,
-        "row": 0,
-        "col": 3,
-        "clue": {
-          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
-          "zh": "酒驾"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "To make something holy by religious rite, sanctify.",
-          "zh": "保佑"
+          "en": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings",
+          "zh": "钢琴"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 7,
         "row": 1,
         "col": 6,
         "clue": {
-          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
-          "zh": "焦油"
-        },
-        "level": 6
-      },
-      {
-        "num": 9,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "The organ on either side of the head used for hearing.",
-          "zh": "耳朵"
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
         },
         "level": 1
       },
       {
-        "num": 11,
-        "row": 3,
-        "col": 0,
+        "num": 10,
+        "row": 2,
+        "col": 4,
         "clue": {
-          "en": "A health resort near a mineral spring or hot spring.",
-          "zh": "温泉"
+          "en": "The line joining the points of contact of tangents drawn to meet a curve from a point called the pole of the line.",
+          "zh": "极性"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 12,
         "row": 3,
-        "col": 4,
-        "clue": {
-          "en": "To consume (a liquid) through the mouth.",
-          "zh": "醉"
-        },
-        "level": 4
-      },
-      {
-        "num": 16,
-        "row": 5,
         "col": 0,
         "clue": {
-          "en": "The act of gaining; acquisition.",
-          "zh": "收获"
-        },
-        "level": 6
-      },
-      {
-        "num": 18,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "A unit of weight equal to 2,000 pounds (about 907 kilograms).",
-          "zh": "吨"
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
         },
         "level": 1
       },
       {
-        "num": 20,
-        "row": 6,
+        "num": 15,
+        "row": 4,
         "col": 2,
         "clue": {
-          "en": "A hard-shelled seed.",
-          "zh": "坚果"
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 22,
-        "row": 7,
-        "col": 0,
+        "num": 21,
+        "row": 5,
+        "col": 6,
         "clue": {
-          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-          "zh": "年龄"
+          "en": "Something done, a deed.",
+          "zh": "行为"
         },
         "level": 1
       },
       {
         "num": 23,
-        "row": 7,
-        "col": 4,
+        "row": 6,
+        "col": 0,
         "clue": {
-          "en": "One of the large bodies of water separating the continents.",
-          "zh": "海洋"
+          "en": "One who exerts power, or has the power to act",
+          "zh": "代理人"
         },
         "level": 1
       },
       {
-        "num": 25,
-        "row": 8,
-        "col": 3,
+        "num": 26,
+        "row": 7,
+        "col": 0,
         "clue": {
-          "en": "To choose; select.",
-          "zh": "选择"
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
         },
-        "level": 5
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
+          "zh": "额外的"
+        },
+        "level": 1
       }
     ],
     "down": [
@@ -353,104 +315,134 @@
         "row": 0,
         "col": 1,
         "clue": {
-          "en": "A maneuver which rotates an object end over end.",
-          "zh": "翻动"
+          "en": "A small child; an infant.",
+          "zh": "微小的"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        },
+        "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 4,
+        "col": 8,
         "clue": {
-          "en": "To utilize or employ.",
-          "zh": "用过的"
+          "en": "A paved part of road, usually in a village or a town.",
+          "zh": "街道"
         },
         "level": 1
       },
       {
-        "num": 4,
-        "row": 0,
-        "col": 8,
+        "num": 5,
+        "row": 1,
+        "col": 2,
         "clue": {
-          "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
-          "zh": "破碎的"
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 2,
+        "col": 4,
         "clue": {
-          "en": "To observe or inspect carefully or critically",
-          "zh": "检查"
+          "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+          "zh": "操作"
         },
         "level": 1
       },
       {
-        "num": 7,
+        "num": 8,
         "row": 1,
-        "col": 6,
+        "col": 7,
         "clue": {
-          "en": "A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals, or for public uses; one who is intrusted with property for the benefit of another.",
-          "zh": "受托人"
-        },
-        "level": 6
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
-          "zh": "手臂"
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
         },
         "level": 1
       },
       {
         "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "A sequence of states representing an encoded message in a communication channel.",
-          "zh": "信号"
+          "en": "The act of leaving a dangerous or unpleasant situation.",
+          "zh": "逃脱"
         },
-        "level": 4
+        "level": 1
       },
       {
-        "num": 14,
+        "num": 16,
         "row": 4,
         "col": 3,
         "clue": {
-          "en": "A large antelope of the genus Connochaetes, native to Africa, having curved horns.",
-          "zh": "格努"
+          "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+          "zh": "枪"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 17,
-        "row": 5,
-        "col": 4,
+        "row": 4,
+        "col": 6,
         "clue": {
-          "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
-          "zh": "停止"
+          "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+          "zh": "东方"
         },
         "level": 1
       },
       {
         "num": 19,
         "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
         "col": 7,
         "clue": {
-          "en": "An elongated round shape resembling an egg or ellipse.",
-          "zh": "椭圆形"
+          "en": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales.",
+          "zh": "玉米"
         },
-        "level": 4
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
       }
     ]
   },
   "difficulty": "hard",
   "gridSize": 9,
-  "exam": "cet4"
+  "exam": "junior_high"
 }

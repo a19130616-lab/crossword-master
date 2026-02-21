@@ -1,0 +1,387 @@
+{
+  "id": "puzzle_119",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "M",
+      null,
+      "G",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      null,
+      "E",
+      "V",
+      "E",
+      "R",
+      null,
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "D",
+      "I",
+      "N",
+      "G",
+      null,
+      "I"
+    ],
+    [
+      "E",
+      null,
+      "W",
+      "I",
+      null,
+      "C",
+      "U",
+      null,
+      "D"
+    ],
+    [
+      "R",
+      null,
+      "A",
+      "C",
+      "H",
+      "I",
+      "E",
+      "V",
+      "E"
+    ],
+    [
+      "I",
+      null,
+      "R",
+      "I",
+      "S",
+      "E",
+      null,
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "N",
+      null,
+      "S",
+      "U",
+      "I",
+      "T"
+    ],
+    [
+      "R",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      null,
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        8,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A distinct physical object.",
+          "zh": "物品"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "To sing; charm; enchant.",
+          "zh": "大风"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To engage in trade.",
+          "zh": "贸易"
+        }
+      },
+      {
+        "num": 15,
+        "row": 5,
+        "col": 2,
+        "clue": {
+          "en": "To succeed in something, now especially in academic performance.",
+          "zh": "达到"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "To move, or appear to move, physically upwards relative to the ground.",
+          "zh": "上升"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A set of outer clothes made of the same fabric, consisting of a jacket and trousers or a skirt.",
+          "zh": "套装"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The capacity, condition, or state of acting or of exerting power.",
+          "zh": "机构"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A person, animal or plant living at a certain location or in a certain area.",
+          "zh": "居民"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The inside of a building, container, cavern, or other enclosed structure.",
+          "zh": "内部的"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "A substance which specifically promotes healing when ingested or consumed in some way.",
+          "zh": "药品"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "To show grounds for concluding (that); to indicate, imply.",
+          "zh": "争论"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "An empty space; a vacuum.",
+          "zh": "空白"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

@@ -1,0 +1,272 @@
+{
+  "id": "puzzle_135",
+  "title": "Medium #5",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      "U",
+      null,
+      null,
+      "R"
+    ],
+    [
+      "C",
+      "L",
+      "O",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      null,
+      "M",
+      "E",
+      "N",
+      null,
+      "P"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      null,
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "B",
+      null,
+      "G",
+      "O",
+      "T",
+      null,
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "L",
+      "Y",
+      "Z",
+      "E"
+    ],
+    [
+      "T",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "S"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An event or occurrence that signifies an ending.",
+          "zh": "关闭"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 2,
+        "clue": {
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The digit or figure 1.",
+          "zh": "一"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "(ditransitive) To obtain; to acquire.",
+          "zh": "得到"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To subject to analysis.",
+          "zh": "分析"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "An athlete who performs acts requiring skill, agility and coordination.",
+          "zh": "杂技演员"
+        },
+        "level": 7
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A written or spoken response; part of a conversation.",
+          "zh": "回复"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Oneness; the state or fact of being one undivided entity.",
+          "zh": "统一"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "graduate"
+}

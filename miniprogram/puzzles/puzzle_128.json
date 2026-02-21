@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_128",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "A",
+      null,
+      null,
+      null,
+      "B"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      null,
+      "U",
+      null,
+      "A"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A method of detecting distant objects and determining their position, velocity, or other characteristics by analysis of sent radio waves (usually microwaves) reflected from their surfaces",
+          "zh": "雷达"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A sudden, heavy impact.",
+          "zh": "震惊"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To come up from a lower to a higher position.",
+          "zh": "出现"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A fern; bracken.",
+          "zh": "制动"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+          "zh": "二人组"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

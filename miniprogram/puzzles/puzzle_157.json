@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_157",
+  "title": "Easy #7",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "B",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "D",
+      null,
+      "S",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "S",
+      "U",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      null,
+      "P"
+    ],
+    [
+      "Y",
+      "A",
+      "L",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A woody plant distinguished from a tree by its multiple stems and lower height, being usually less than six metres tall; a horticultural rather than strictly botanical category.",
+          "zh": "衬套"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goat-like four-legged creature with large horns that it can swivel in any direction.",
+          "zh": "耶鲁大学"
+        },
+        "level": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The typical state of something, or something that is typical.",
+          "zh": "通常"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "Action given to provide assistance; aid.",
+          "zh": "帮助"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "That which one is morally or legally obligated to do.",
+          "zh": "责任"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

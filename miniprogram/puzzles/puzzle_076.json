@@ -1,0 +1,286 @@
+{
+  "id": "puzzle_076",
+  "title": "Medium #6",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "F",
+      "I",
+      "N",
+      null,
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      null,
+      "N",
+      "E",
+      "W",
+      "L",
+      "Y"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "U",
+      null,
+      "D",
+      "S"
+    ],
+    [
+      "E",
+      "N",
+      null,
+      "T",
+      null,
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "T",
+      null,
+      "R",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "A",
+      "T",
+      null,
+      "M"
+    ],
+    [
+      "E",
+      "Y",
+      null,
+      "L",
+      "E",
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "One of the appendages of a fish, used to propel itself and to manoeuvre/maneuver.",
+          "zh": "鳍"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "Very recently; in the immediate past.",
+          "zh": "新"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The details of the food to be served at a banquet; a bill of fare.",
+          "zh": "菜单"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A scarce or uncommon item.",
+          "zh": "稀有的"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A person of major significance, accomplishment or acclaim.",
+          "zh": "伟大的"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "(heading) To guide or conduct.",
+          "zh": "带领了"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Any establishment where travellers can procure lodging, food, and drink.",
+          "zh": "客栈"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A nonaligned state, or a member of such a state.",
+          "zh": "中性的"
+        },
+        "level": 5
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An older person or an older member, usually a leader, of some community.",
+          "zh": "长老"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A collection of organized things; a whole composed of relationships among its members.",
+          "zh": "系统"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To come into view.",
+          "zh": "出现"
+        },
+        "level": 5
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "The act of entering.",
+          "zh": "入口"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet4"
+}

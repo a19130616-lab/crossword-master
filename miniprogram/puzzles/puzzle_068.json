@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_068",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "T",
+      null,
+      null,
+      null,
+      "S"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      "T",
+      null,
+      "U"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      null,
+      null,
+      null,
+      "Y"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+          "zh": "心"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An inclination in a particular direction.",
+          "zh": "趋势"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The eighth letter of the Modern Greek alphabet, ninth in Old Greek: Θ, θ.",
+          "zh": "希腊字母θ"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+          "zh": "学习"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet4"
+}

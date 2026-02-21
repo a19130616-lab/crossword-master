@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_094",
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      null
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      null,
+      "T"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "C",
+      null,
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      null,
+      "L",
+      "A",
+      "C",
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "The frozen, crystalline state of water that falls as precipitation.",
+          "zh": "雪"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+          "zh": "敌人"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A sharp blow with something hard.",
+          "zh": "说唱"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A light fabric containing patterns of holes, usually built up from a single thread. Wp",
+          "zh": "蕾丝"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A detailed description of the design and materials used to make something.",
+          "zh": "规格"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+          "zh": "歌剧"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A grouping based on shared characteristics; a class.",
+          "zh": "类型"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

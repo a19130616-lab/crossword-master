@@ -1,0 +1,276 @@
+{
+  "id": "puzzle_104",
+  "title": "Medium #4",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "S",
+      null,
+      null,
+      "F",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "Y",
+      "T",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      null,
+      "R",
+      "R",
+      null,
+      "A"
+    ],
+    [
+      "O",
+      "P",
+      "T",
+      "I",
+      "M",
+      "A",
+      "L"
+    ],
+    [
+      "U",
+      null,
+      "U",
+      "E",
+      null,
+      "C",
+      "T"
+    ],
+    [
+      "N",
+      "U",
+      "R",
+      "S",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      null,
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The hairy coat of various mammal species, especially when fine, soft and thick.",
+          "zh": "毛皮"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Suitable for any time; not associated with any particular time.",
+          "zh": "随时"
+        },
+        "level": 7
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The best of its kind",
+          "zh": "最佳的"
+        },
+        "level": 7
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A place where nursing or the raising of children is carried on.",
+          "zh": "苗圃"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A university professor, particularly one at Oxford or Cambridge.",
+          "zh": "大学教师"
+        },
+        "level": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A quick breaking or cracking sound or the action of producing such a sound.",
+          "zh": "折断"
+        },
+        "level": 5
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "A business partnership; the name under which it trades.",
+          "zh": "公司"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Real estate; a piece of real property; land.",
+          "zh": "房地产"
+        },
+        "level": 6
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "(with the verb \"to be\") Present in the vicinity.",
+          "zh": "大约"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 3,
+        "clue": {
+          "en": "An ordered tree data structure that is used to store an associative array where the keys are usually strings.",
+          "zh": "尝试"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 5,
+        "clue": {
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

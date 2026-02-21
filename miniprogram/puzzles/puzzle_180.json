@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_180",
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "H",
+      null,
+      null,
+      null,
+      null,
+      "E",
+      null,
+      "T"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "T",
+      "A",
+      null,
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      null,
+      "R",
+      "O",
+      null,
+      "B",
+      "E",
+      "G",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "B",
+      "S",
+      null,
+      "S",
+      "Y",
+      null,
+      "R",
+      "G"
+    ],
+    [
+      "N",
+      null,
+      "S",
+      "P",
+      "E",
+      "E",
+      "D",
+      null,
+      "U"
+    ],
+    [
+      "I",
+      "M",
+      null,
+      "H",
+      "N",
+      null,
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "I",
+      "C",
+      null,
+      "E",
+      "O",
+      null
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      null,
+      "E",
+      "N",
+      "T",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      null,
+      "M",
+      null,
+      null,
+      null,
+      null,
+      "N",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        8,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        1,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The fourth letter of the modern Greek alphabet Δ, δ.",
+          "zh": "三角洲"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "(Caithness) An inlet, gully or cleft in the face of a cliff.",
+          "zh": "地理"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "To start, to initiate or take the first step into something.",
+          "zh": "开始"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The state of moving quickly or the capacity for rapid motion; rapidity.",
+          "zh": "速度"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+          "zh": "魔法"
+        },
+        "level": 1
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "The act of entering.",
+          "zh": "入口"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "Any green, leafy plant, or parts thereof, used to flavour or season food.",
+          "zh": "草本植物"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+          "zh": "蛋"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds in speech.",
+          "zh": "舌头"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+          "zh": "损失"
+        },
+        "level": 4
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+          "zh": "缺席"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
+          "zh": "动物"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Φ, the 21st letter of the Euclidean and modern Greek alphabet, usually romanized as \"ph\".",
+          "zh": "菲"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "The food and beverage a person or animal consumes.",
+          "zh": "饮食"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A waterproof long coat made of rubberized cloth.",
+          "zh": "防水外套"
+        },
+        "level": 6
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales.",
+          "zh": "玉米"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
+          "zh": "宝石"
+        },
+        "level": 7
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

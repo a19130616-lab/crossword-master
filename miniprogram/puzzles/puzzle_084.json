@@ -1,0 +1,447 @@
+{
+  "id": "puzzle_084",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "V",
+      null,
+      null,
+      null,
+      null,
+      "T",
+      null,
+      "L"
+    ],
+    [
+      "S",
+      "I",
+      "G",
+      "M",
+      "A",
+      null,
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "S",
+      "U",
+      null,
+      "D",
+      "E",
+      "B",
+      "U",
+      "G"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      null,
+      "A",
+      "Y",
+      null,
+      "Y",
+      "E"
+    ],
+    [
+      "O",
+      null,
+      "U",
+      "P",
+      "P",
+      "E",
+      "R",
+      null,
+      "N"
+    ],
+    [
+      "M",
+      "T",
+      null,
+      "A",
+      "T",
+      null,
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "R",
+      "E",
+      null,
+      "S",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "O",
+      "P",
+      null,
+      "D",
+      "A",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      null,
+      "T",
+      null,
+      null,
+      null,
+      null,
+      "D",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.",
+          "zh": "希腊字母σ"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "The action, or a session, of reviewing source code to find and eliminate errors.",
+          "zh": "调试"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "(usually uncountable) A black, oily, sticky, viscous substance, consisting mainly of hydrocarbons derived from organic materials such as wood, peat, or coal.",
+          "zh": "焦油"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
+          "zh": "上"
+        },
+        "level": 4
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Vigilant or on one's guard against danger or difficulty.",
+          "zh": "意识到的"
+        },
+        "level": 4
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The highest or uppermost part of something.",
+          "zh": "顶部"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+          "zh": "过时的"
+        }
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
+          "zh": "签证"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A small flap or strip of material attached to something, for holding, manipulation, identification, opening etc.",
+          "zh": "标签"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "An unrealistic story depicting past events.",
+          "zh": "传奇"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A Hindu or Sikh spiritual teacher.",
+          "zh": "大师"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To make suitable; to make to correspond; to fit or suit",
+          "zh": "改编的"
+        },
+        "level": 6
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
+          "zh": "家伙"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
+          "zh": "番茄"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+          "zh": "休息"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Suitable; appropriate; fit or fitted; suited.",
+          "zh": "合适的"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

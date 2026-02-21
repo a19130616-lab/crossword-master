@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_149",
+  "title": "Hard #9",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "J",
+      null,
+      null,
+      "M",
+      null,
+      "W",
+      "W"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      null,
+      "E",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      null,
+      "U",
+      "T",
+      null,
+      null,
+      "T",
+      null,
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "R",
+      null,
+      "S",
+      "H",
+      "A",
+      "F",
+      "T",
+      null
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      null,
+      "L",
+      null,
+      "E",
+      null
+    ],
+    [
+      null,
+      "T",
+      "U",
+      "R",
+      "N",
+      null,
+      null,
+      "V",
+      null
+    ],
+    [
+      "O",
+      "I",
+      null,
+      "O",
+      "Z",
+      "O",
+      "N",
+      "E",
+      null
+    ],
+    [
+      "W",
+      "O",
+      "R",
+      "K",
+      null,
+      "P",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "N",
+      "N",
+      null,
+      "E",
+      null,
+      "T",
+      "N",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        8
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        8
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        8
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        7
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "The entire body of a long weapon, such as an arrow.",
+          "zh": "轴"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "An act of throwing.",
+          "zh": "投掷"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "(heading) to make a non-linear physical movement.",
+          "zh": "转动"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An allotrope of oxygen (symbol O₃) having three atoms in the molecule instead of the usual two; it is a blue gas, generated from oxygen by electrical discharge.",
+          "zh": "臭氧"
+        },
+        "level": 6
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "(heading) Employment.",
+          "zh": "工作"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "The meat of a pig; swineflesh.",
+          "zh": "猪肉"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
+          "zh": "喷气式飞机"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "(heading) Chemical elements or alloys, and the mines where their ores come from.",
+          "zh": "金属"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "Unexceptional or unimportant; blah.",
+          "zh": "任何"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "韩元"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An amount of time or a particular time interval.",
+          "zh": "期间"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "An act of stroking (moving one's hand over a surface).",
+          "zh": "中风"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "zh": "自己的"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "To no extent, in no way.",
+          "zh": "非"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

@@ -1,138 +1,261 @@
 {
   "id": "puzzle_012",
-  "title": "Easy #3",
-  "rows": 5,
-  "cols": 5,
+  "title": "Medium #2",
+  "rows": 7,
+  "cols": 7,
   "solution": [
     [
-      "A",
+      null,
+      "R",
+      null,
+      "C",
       null,
       null,
-      null,
-      "S"
+      "K"
     ],
     [
-      "D",
+      "B",
       "E",
+      "C",
+      "A",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "U",
       "P",
+      null,
+      "P",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      null,
       "T",
-      "H"
+      "W",
+      "I",
+      "N"
     ],
     [
       "U",
+      "P",
       null,
-      "U",
-      null,
-      "I"
-    ],
-    [
-      "L",
       "A",
-      "T",
-      "E",
-      "R"
+      "I",
+      "D",
+      null
     ],
     [
-      "T",
+      "R",
+      "E",
+      "F",
+      "I",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "F",
       null,
       null,
+      "N",
       null,
-      "T"
+      "R",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        0,
-        4
+        1,
+        0
       ],
       [
         3,
-        4
+        6
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
       ],
       [
         2,
         2
       ],
       [
-        3,
-        2
+        6,
+        0
       ]
     ],
     "medium": [
       [
-        0,
-        4
+        1,
+        0
       ],
       [
         3,
-        4
+        6
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        5,
+        2
       ]
     ],
     "hard": [
       [
-        0,
-        4
+        1,
+        0
+      ],
+      [
+        3,
+        6
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The vertical distance below a surface; the degree to which something is deep",
-          "zh": "深度"
-        },
-        "level": 4
-      },
-      {
-        "num": 5,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "Near the end of a period of time.",
-          "zh": "之后"
+          "en": "For the reason (that).",
+          "zh": "因为"
         },
         "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
+          "zh": "杯子"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling.",
+          "zh": "双"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "Help; assistance; succor, relief.",
+          "zh": "援助"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+          "zh": "精制"
+        }
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A fully grown human or animal.",
-          "zh": "成人"
+          "en": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions.",
+          "zh": "食谱"
         },
         "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
-          "zh": "衬衫"
+          "en": "A chief or leader.",
+          "zh": "队长"
         },
         "level": 1
       },
       {
-        "num": 4,
-        "row": 1,
-        "col": 2,
+        "num": 3,
+        "row": 0,
+        "col": 6,
         "clue": {
-          "en": "To move something to a particular position or place.",
-          "zh": "放"
+          "en": "To make cold, to sharpen.",
+          "zh": "敏锐的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "Any of various eight-legged, predatory arthropods, of the order Araneae, most of which spin webs to catch prey.",
+          "zh": "蜘蛛"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "Waves that break on an ocean shoreline.",
+          "zh": "冲浪"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "To conquer, defeat.",
+          "zh": "赢"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "senior_high"
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "junior_high"
 }

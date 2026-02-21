@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_175",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "S",
+      null,
+      "B",
+      "O"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "A",
+      null,
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      null,
+      "V",
+      "H",
+      null,
+      null,
+      "R",
+      null,
+      "A",
+      "D"
+    ],
+    [
+      null,
+      "E",
+      null,
+      "D",
+      "E",
+      "V",
+      "O",
+      "N",
+      null
+    ],
+    [
+      "U",
+      "R",
+      "G",
+      "E",
+      null,
+      "E",
+      null,
+      "C",
+      null
+    ],
+    [
+      null,
+      "Y",
+      "A",
+      "N",
+      "G",
+      null,
+      null,
+      "H",
+      null
+    ],
+    [
+      "I",
+      "D",
+      null,
+      "I",
+      "N",
+      "D",
+      "I",
+      "E",
+      null
+    ],
+    [
+      "N",
+      "A",
+      "M",
+      "E",
+      null,
+      "E",
+      "L",
+      "S",
+      "E"
+    ],
+    [
+      "G",
+      "Y",
+      null,
+      "D",
+      null,
+      "R",
+      "L",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        5
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+          "zh": "台面"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "(Eastern Australia) A type of processed meat sausage.",
+          "zh": "德文郡"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A strong desire; an itch to do something.",
+          "zh": "敦促"
+        },
+        "level": 4
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A principle in Chinese and related East Asian philosophies associated with bright, hot, masculine, etc. elements of the natural world.",
+          "zh": "阳"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "An independent publisher.",
+          "zh": "独立"
+        },
+        "level": 6
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+          "zh": "姓名"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+          "zh": "别的"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
+        },
+        "level": 4
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "An act of putting the ball or shuttlecock in play in various games.",
+          "zh": "服务"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "The woody part of a tree arising from the trunk and usually dividing.",
+          "zh": "分支机构"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "(rare) the ordinary or routine day or occasion",
+          "zh": "每天"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To disallow or reject.",
+          "zh": "被拒绝"
+        },
+        "level": 6
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
+        },
+        "level": 5
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+          "zh": "患病的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "toefl"
+}

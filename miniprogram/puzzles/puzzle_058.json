@@ -1,129 +1,225 @@
 {
   "id": "puzzle_058",
-  "title": "Medium #1",
-  "rows": 7,
-  "cols": 7,
+  "title": "Hard #8",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
       null,
+      "C",
+      null,
+      "G",
+      "A",
+      "Y",
       null,
       null,
-      "D",
-      null,
-      null,
-      "R"
+      "M"
     ],
     [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W",
       null,
-      "V",
-      null,
-      "E",
-      "C",
-      "H",
+      "T",
+      "W",
       "O"
     ],
     [
       null,
       "A",
-      "R",
-      "C",
+      "I",
+      null,
+      "A",
+      "S",
       "H",
       null,
-      "S"
+      "T"
     ],
     [
+      "G",
+      "Y",
+      "M",
+      null,
+      "Y",
+      "O",
       "U",
       "T",
+      "H"
+    ],
+    [
+      "A",
+      null,
       "I",
-      "L",
-      "I",
-      "Z",
+      "W",
+      null,
+      "N",
+      "N",
+      null,
       "E"
     ],
     [
-      "S",
-      null,
-      "C",
+      "T",
+      "O",
+      "T",
       "A",
-      "P",
+      "L",
+      null,
+      "D",
       "E",
-      null
+      "R"
     ],
     [
+      "H",
+      null,
+      "E",
+      "Y",
+      "E",
+      null,
       "E",
       "V",
-      "E",
-      "R",
-      null,
-      "N",
       null
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      null,
+      "A",
+      "G",
+      "R",
+      "E",
+      "E"
     ],
     [
       "R",
       null,
       null,
-      "E",
+      "A",
+      "N",
+      "T",
       null,
-      null,
+      "R",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        5,
-        2
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        2,
-        1
-      ],
-      [
         3,
-        1
+        6
       ],
       [
-        5,
-        5
+        7,
+        4
+      ],
+      [
+        8,
+        0
       ],
       [
         6,
         3
       ],
       [
-        3,
-        5
-      ]
-    ],
-    "medium": [
-      [
         5,
-        2
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        0
       ],
       [
         5,
         3
       ],
       [
-        2,
-        1
+        7,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        8,
+        4
       ],
       [
         3,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
         1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        0
       ]
     ],
     "hard": [
       [
-        5,
-        2
+        3,
+        6
       ],
       [
-        5,
+        7,
+        4
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        6,
         3
       ]
     ]
@@ -131,52 +227,122 @@
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
+        "num": 2,
+        "row": 0,
         "col": 3,
         "clue": {
-          "en": "A reflected sound that is heard again by its initial observer.",
-          "zh": "回声"
-        },
-        "level": 5
-      },
-      {
-        "num": 6,
-        "row": 2,
-        "col": 1,
-        "clue": {
-          "en": "An inverted U shape.",
-          "zh": "拱"
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
         },
         "level": 4
       },
       {
-        "num": 8,
-        "row": 3,
+        "num": 5,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "To make use of; to use.",
-          "zh": "利用"
+          "en": "To grant, give, admit, accord, afford, or yield; to let one have.",
+          "zh": "允许"
         },
-        "level": 5
+        "level": 1
       },
       {
-        "num": 10,
-        "row": 4,
-        "col": 2,
+        "num": 7,
+        "row": 1,
+        "col": 6,
         "clue": {
-          "en": "A piece or point of land, extending beyond the adjacent coast into a sea or lake; a promontory; a headland.",
-          "zh": "岬"
+          "en": "The digit/figure 2.",
+          "zh": "二"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "The solid remains of a fire.",
+          "zh": "灰"
         },
         "level": 4
       },
       {
         "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "The quality or state of being young.",
+          "zh": "青年"
+        },
+        "level": 4
+      },
+      {
+        "num": 16,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "Occurring at any time, occurring even but once during a timespan.",
-          "zh": "曾经"
+          "en": "The entire amount; comprising the whole number or quantity.",
+          "zh": "全部的"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Disdainful indication that something is obvious.",
+          "zh": "德"
+        },
+        "level": 5
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
         },
         "level": 1
       }
@@ -185,76 +351,105 @@
       {
         "num": 1,
         "row": 0,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "To make clear, explain, interpret.",
-          "zh": "宣布"
+          "en": "A mineral substance made up of small crystals of silica and alumina, that is ductile when moist; the material of pre-fired ceramics.",
+          "zh": "黏土"
         },
         "level": 4
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A shrub of the genus Rosa, with red, pink, white or yellow flowers.",
-          "zh": "玫瑰"
-        },
-        "level": 1
       },
       {
         "num": 3,
-        "row": 1,
-        "col": 1,
-        "clue": {
-          "en": "A large tub, such as is used for making wine or for tanning.",
-          "zh": "大桶"
-        },
-        "level": 6
-      },
-      {
-        "num": 5,
-        "row": 1,
+        "row": 0,
         "col": 4,
         "clue": {
-          "en": "A small piece broken from a larger piece of solid material.",
-          "zh": "芯片"
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
         },
         "level": 1
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A (human) female who has given birth to a baby",
+          "zh": "母亲"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "To restrict; not to allow to go beyond a certain bound, to set boundaries.",
+          "zh": "有限的"
+        }
       },
       {
         "num": 7,
-        "row": 2,
-        "col": 2,
+        "row": 1,
+        "col": 6,
         "clue": {
-          "en": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
-          "zh": "米"
-        },
-        "level": 1
-      },
-      {
-        "num": 8,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A person who uses or operates something, especially a computer or service.",
-          "zh": "用户"
+          "en": "The loud rumbling, cracking, or crashing sound caused by expansion of rapidly heated air around a lightning bolt.",
+          "zh": "雷"
         },
         "level": 4
       },
       {
-        "num": 9,
-        "row": 3,
+        "num": 10,
+        "row": 2,
         "col": 5,
         "clue": {
-          "en": "A denomination of Buddhism.",
-          "zh": "禅"
+          "en": "One's male offspring.",
+          "zh": "儿子"
         },
-        "level": 6
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A plait or fold in cloth, made by drawing a thread through it; a pucker.",
+          "zh": "收集"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A method, style, or manner of doing something; a road or path.",
+          "zh": "方式"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "(of an object taller than its width and depth) An inclination away from the vertical.",
+          "zh": "倾斜"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "medium",
-  "gridSize": 7,
-  "exam": "sat"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "senior_high"
 }

@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_125",
+  "title": "Easy #5",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "U",
+      "S",
+      "E",
+      "R",
+      null
+    ],
+    [
+      "S",
+      "O",
+      "X",
+      null,
+      "L"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      null,
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      null,
+      "L",
+      "A",
+      "D",
+      "Y"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "A person who uses or operates something, especially a computer or service.",
+          "zh": "用户"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜队"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
+          "zh": "额外的"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "To free (something) from a hindrance or annoyance.",
+          "zh": "摆脱"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+          "zh": "女士"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "To utilize or employ.",
+          "zh": "用过的"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A knitted or woven covering for the foot.",
+          "zh": "袜队"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
+          "zh": "额外的"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+          "zh": "女士"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To free (something) from a hindrance or annoyance.",
+          "zh": "摆脱"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "graduate"
+}

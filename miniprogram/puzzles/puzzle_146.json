@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_146",
+  "title": "Hard #6",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "C",
+      null,
+      null,
+      "S",
+      null,
+      "F",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "M",
+      null,
+      "C",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      null,
+      "X",
+      "T",
+      null,
+      null,
+      "E",
+      null,
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "P",
+      null,
+      "C",
+      "O",
+      "N",
+      "S",
+      "T",
+      null
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "O",
+      null,
+      "E",
+      null,
+      "W",
+      null
+    ],
+    [
+      null,
+      "S",
+      "O",
+      "L",
+      "O",
+      null,
+      null,
+      "E",
+      null
+    ],
+    [
+      "W",
+      "U",
+      null,
+      "O",
+      "M",
+      "E",
+      "G",
+      "A",
+      null
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "N",
+      null,
+      "Y",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "T",
+      "E",
+      null,
+      "Y",
+      null,
+      "E",
+      "Y",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        6,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Any large piece of timber or iron long in proportion to its thickness, and prepared for use.",
+          "zh": "光束"
+        },
+        "level": 4
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A plant, especially a cereal, grown to be harvested as food, livestock fodder or fuel or for any other economic purpose.",
+          "zh": "庄稼"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A variable whose value cannot be changed directly.",
+          "zh": "常量"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal.",
+          "zh": "马球"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A piece of music for one performer.",
+          "zh": "独奏"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.",
+          "zh": "欧米茄"
+        },
+        "level": 6
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+          "zh": "铁"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+          "zh": "院子"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "An animal of the family Felidae:",
+          "zh": "猫"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "The location of an event that attracts attention.",
+          "zh": "场景"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "Items or an item of clothing that is worn on the foot; a shoe, sandal, etc.",
+          "zh": "鞋类"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "The condition of being exposed, uncovered, or unprotected.",
+          "zh": "接触"
+        },
+        "level": 5
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A governmental unit created on land of another country owned by colonists from a country.",
+          "zh": "殖民地"
+        },
+        "level": 5
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "(now usually in the plural) Sanity.",
+          "zh": "智慧"
+        },
+        "level": 4
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "(chiefly in plural or attributive) A homosexual, especially a male homosexual; see also lesbian.",
+          "zh": "同性恋"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}

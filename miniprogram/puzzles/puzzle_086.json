@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_086",
+  "title": "Hard #6",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "H",
+      null,
+      null,
+      null,
+      null,
+      "P",
+      null,
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "I",
+      "C",
+      null,
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      null,
+      "L",
+      "E",
+      null,
+      "L",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      null,
+      "O",
+      "L",
+      null,
+      "E",
+      "F"
+    ],
+    [
+      "U",
+      null,
+      "T",
+      "I",
+      "T",
+      "L",
+      "E",
+      null,
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      null,
+      "N",
+      "H",
+      null,
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      null,
+      "H",
+      "Q",
+      null
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      null,
+      "S",
+      "C",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      null,
+      "D",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        6,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A necessary commodity, a staple requirement.",
+          "zh": "基本的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen.",
+          "zh": "长矛"
+        },
+        "level": 6
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A loud, sharp sound as of a cork coming out of a bottle.",
+          "zh": "流行音乐"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The name of a book, composition, or other artistic work.",
+          "zh": "标题"
+        },
+        "level": 4
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+          "zh": "车"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A sudden transient rush, flood or increase.",
+          "zh": "涌"
+        },
+        "level": 5
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A person sent out to gain and bring in tidings; especially, one employed in war to gain information about the enemy and ground.",
+          "zh": "侦察"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.",
+          "zh": "晕"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To be in the habit of choosing something rather than something else; to favor; to like better.",
+          "zh": "更喜欢"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A clan, tribe, or family, proceeding from a common progenitor (used especially of the ancient clans in Ireland).",
+          "zh": "九月"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A woven fabric such as used in dressing, decorating, cleaning or other practical use.",
+          "zh": "衣服"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To follow urgently, originally with intent to capture or harm; to chase.",
+          "zh": "追求"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A meadow, especially a low meadow near a river; water meadow.",
+          "zh": "英"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
+        },
+        "level": 5
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A motor vehicle for transporting large numbers of people along roads.",
+          "zh": "公共汽车"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "The compound water.",
+          "zh": "水蓝色"
+        },
+        "level": 6
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

@@ -1,272 +1,276 @@
 {
   "id": "puzzle_050",
-  "title": "Medium #2",
+  "title": "Medium #10",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
-      "C",
+      null,
+      "B",
       null,
       null,
-      "Y",
-      null,
-      null,
-      "S"
-    ],
-    [
-      "R",
-      "E",
-      "C",
-      "E",
-      "I",
-      "P",
-      "T"
-    ],
-    [
-      "I",
-      null,
-      "H",
-      "A",
-      "M",
-      null,
-      "O"
-    ],
-    [
-      "T",
-      "E",
-      "A",
-      null,
-      "A",
-      "I",
-      "R"
-    ],
-    [
-      "I",
-      null,
-      "R",
+      "D",
       "U",
-      "G",
+      "E"
+    ],
+    [
+      "H",
+      "U",
+      "S",
+      "B",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "E",
+      "R",
+      null,
+      "R",
+      "T",
       null,
       "I"
     ],
     [
+      "A",
+      "N",
       "C",
-      "O",
-      "M",
-      "P",
+      "I",
       "E",
-      "T",
-      "E"
+      "N",
+      "T"
     ],
     [
-      "S",
+      "L",
+      null,
+      "H",
+      "N",
+      null,
+      "E",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "G",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "H",
+      "I",
+      "P",
       null,
       null,
-      "S",
-      null,
-      null,
-      "S"
+      "D",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        4
-      ],
-      [
-        2,
-        3
-      ],
-      [
         3,
-        0
+        2
       ],
       [
         6,
-        3
+        0
       ],
       [
-        1,
+        5,
+        2
+      ],
+      [
+        2,
         1
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        0
       ],
       [
         3,
         5
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        0,
-        6
       ]
     ],
     "medium": [
       [
-        4,
-        4
-      ],
-      [
-        2,
-        3
-      ],
-      [
         3,
-        0
+        2
       ],
       [
         6,
-        3
+        0
       ],
       [
-        1,
+        5,
+        2
+      ],
+      [
+        2,
         1
+      ],
+      [
+        6,
+        5
       ]
     ],
     "hard": [
       [
-        4,
-        4
+        3,
+        2
       ],
       [
-        2,
-        3
+        6,
+        0
+      ],
+      [
+        5,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
-        "row": 1,
-        "col": 0,
+        "num": 2,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "The act of receiving, or the fact of having been received.",
-          "zh": "收据"
+          "en": "Expected at or planned for at a certain time.",
+          "zh": "到期的"
         },
         "level": 4
       },
       {
-        "num": 7,
-        "row": 2,
-        "col": 2,
-        "clue": {
-          "en": "The region back of the knee joint; the popliteal space; the hock.",
-          "zh": "火腿"
-        },
-        "level": 1
-      },
-      {
-        "num": 8,
-        "row": 3,
+        "num": 5,
+        "row": 1,
         "col": 0,
         "clue": {
-          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
-          "zh": "茶"
+          "en": "The master of a house; the head of a family; a householder.",
+          "zh": "丈夫"
         },
         "level": 1
       },
       {
         "num": 9,
         "row": 3,
-        "col": 4,
+        "col": 0,
         "clue": {
-          "en": "The substance constituting earth's atmosphere, particularly:",
-          "zh": "空气"
+          "en": "A person who is very old.",
+          "zh": "古老的"
         },
         "level": 1
       },
       {
-        "num": 10,
-        "row": 4,
-        "col": 2,
+        "num": 14,
+        "row": 5,
+        "col": 0,
         "clue": {
-          "en": "A partial covering for a floor.",
-          "zh": "地毯"
+          "en": "A finger-operated lever used to fire a gun.",
+          "zh": "扳机"
         },
         "level": 5
       },
       {
-        "num": 12,
-        "row": 5,
+        "num": 16,
+        "row": 6,
         "col": 0,
         "clue": {
-          "en": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
-          "zh": "竞争"
+          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
+          "zh": "臀部"
         },
-        "level": 4
+        "level": 5
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "A person who appraises the works of others.",
-          "zh": "批评家"
+          "en": "A physical injury caused by heat, cold, electricity, radiation or caustic chemicals.",
+          "zh": "烧伤"
         },
-        "level": 6
+        "level": 1
       },
       {
         "num": 2,
         "row": 0,
-        "col": 3,
+        "col": 4,
         "clue": {
-          "en": "An affirmative vote, usually but not always spoken",
-          "zh": "是的"
+          "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
+          "zh": "日期"
         },
-        "level": 6
+        "level": 1
       },
       {
-        "num": 3,
+        "num": 4,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A building; an edifice.",
-          "zh": "故事"
+          "en": "A person who edits or makes changes to documents.",
+          "zh": "编辑"
         },
-        "level": 6
+        "level": 4
       },
       {
         "num": 5,
         "row": 1,
-        "col": 2,
+        "col": 0,
         "clue": {
-          "en": "An object, act or words believed to have magic power (usually carries a positive connotation).",
-          "zh": "魅力"
+          "en": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+          "zh": "健康"
         },
-        "level": 5
+        "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
+        "col": 3,
         "clue": {
-          "en": "An optical or other representation of a real object; a graphic; a picture.",
-          "zh": "图像"
+          "en": "(ditransitive) To transport toward somebody/somewhere.",
+          "zh": "带来"
         },
-        "level": 5
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "A small piece broken from a larger piece of solid material.",
+          "zh": "芯片"
+        },
+        "level": 1
       },
       {
         "num": 11,
-        "row": 4,
-        "col": 3,
+        "row": 3,
+        "col": 5,
         "clue": {
-          "en": "The direction opposed to the pull of gravity.",
-          "zh": "不间断电源"
+          "en": "To require something because it is essential or very important.",
+          "zh": "需要"
         },
-        "level": 6
+        "level": 1
       }
     ]
   },
   "difficulty": "medium",
   "gridSize": 7,
-  "exam": "toefl"
+  "exam": "senior_high"
 }

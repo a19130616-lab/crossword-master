@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_156",
+  "title": "Easy #6",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      "T",
+      "A",
+      "Y",
+      null
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      null,
+      "T"
+    ],
+    [
+      "A",
+      "B",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      null,
+      "S",
+      "I",
+      "X"
+    ],
+    [
+      null,
+      "K",
+      "E",
+      "P",
+      "T"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        4
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+          "zh": "停留"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A small flap or strip of material attached to something, for holding, manipulation, identification, opening etc.",
+          "zh": "标签"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
+        },
+        "level": 4
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "The digit or figure 6.",
+          "zh": "六"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "To continue in (a course or mode of action); not to intermit or fall from; to uphold or maintain.",
+          "zh": "保留"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+          "zh": "星星"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A small flap or strip of material attached to something, for holding, manipulation, identification, opening etc.",
+          "zh": "标签"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "zh": "虐待"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "A writing consisting of multiple glyphs, characters, symbols or sentences.",
+          "zh": "文本"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "To drink slowly, taking small mouthfuls.",
+          "zh": "小口喝"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

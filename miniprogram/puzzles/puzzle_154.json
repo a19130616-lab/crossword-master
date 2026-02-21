@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_154",
+  "title": "Easy #4",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "S",
+      "O",
+      "M",
+      "A"
+    ],
+    [
+      "P",
+      null,
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      null,
+      "M"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "The whole axial portion of an animal, including the head, neck, trunk, and tail.",
+          "zh": "索马"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "A large quantity or number; a great deal.",
+          "zh": "很多"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The amine functional group.",
+          "zh": "氨基"
+        },
+        "level": 7
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "To increase the speed of a motor, or to operate at a higher speed.",
+          "zh": "转速"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank.",
+          "zh": "膝盖"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A tree, Olea europaea, cultivated since ancient times in the Mediterranean for its fruit and the oil obtained from it.",
+          "zh": "橄榄"
+        },
+        "level": 6
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The former currency of Japan until 1870, before the yen.",
+          "zh": "周一"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "An area of land set aside for environment preservation or recreation.",
+          "zh": "公园"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "An adult male human.",
+          "zh": "男人"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

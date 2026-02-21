@@ -1,0 +1,138 @@
+{
+  "id": "puzzle_158",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "I",
+      null,
+      null,
+      null,
+      "N"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      null,
+      "E",
+      null,
+      "V"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      null,
+      null,
+      null,
+      "R"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        4,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A tree of the Acer genus, characterised by its usually palmate leaves and winged seeds.",
+          "zh": "枫"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+          "zh": "类型"
+        },
+        "level": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "An optical or other representation of a real object; a graphic; a picture.",
+          "zh": "图像"
+        },
+        "level": 5
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "At no time; on no occasion; in no circumstance.",
+          "zh": "绝不"
+        },
+        "level": 1
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+          "zh": "钢笔"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "toefl"
+}

@@ -1,138 +1,447 @@
 {
   "id": "puzzle_057",
-  "title": "Easy #3",
-  "rows": 5,
-  "cols": 5,
+  "title": "Hard #7",
+  "rows": 9,
+  "cols": 9,
   "solution": [
     [
-      "F",
+      null,
+      "P",
       null,
       null,
       null,
-      "F"
+      null,
+      "A",
+      null,
+      "O"
     ],
     [
+      "P",
+      "R",
       "I",
+      "O",
+      "R",
+      null,
+      "B",
+      "O",
+      "X"
+    ],
+    [
+      null,
+      "A",
+      "D",
+      null,
+      "E",
       "S",
       "S",
+      "A",
+      "Y"
+    ],
+    [
+      "B",
+      "Y",
+      "E",
+      null,
+      "T",
+      "E",
+      null,
+      "K",
+      "G"
+    ],
+    [
       "U",
+      null,
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      null,
       "E"
     ],
     [
+      "N",
+      "P",
+      null,
+      "Y",
+      "E",
+      null,
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
+      "A",
+      null,
+      "E",
+      "R",
+      null
+    ],
+    [
+      "L",
+      "O",
       "G",
       null,
-      "U",
-      null,
-      "R"
-    ],
-    [
-      "H",
-      "U",
-      "M",
-      "O",
-      "R"
-    ],
-    [
       "T",
+      "I",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      null,
+      "E",
       null,
       null,
       null,
-      "Y"
+      null,
+      "A",
+      null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        1,
+        4,
+        2
+      ],
+      [
+        8,
         0
       ],
       [
-        2,
-        0
+        5,
+        6
+      ],
+      [
+        1,
+        2
       ],
       [
         3,
+        2
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        6,
         4
       ],
       [
-        0,
+        4,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
         0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        7,
+        4
       ]
     ],
     "medium": [
       [
-        1,
+        4,
+        2
+      ],
+      [
+        8,
         0
       ],
       [
+        5,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
         2,
-        0
+        6
       ]
     ],
     "hard": [
       [
-        1,
+        4,
+        2
+      ],
+      [
+        8,
         0
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        1,
+        2
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 3,
+        "num": 4,
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "An important topic or problem for debate or discussion.",
-          "zh": "问题"
+          "en": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
+          "zh": "事先的"
         },
         "level": 5
       },
       {
-        "num": 5,
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "Senses relating to a three-dimensional object or space.",
+          "zh": "盒子"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A short piece of writing on a particular subject.",
+          "zh": "散文"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
         "row": 3,
         "col": 0,
         "clue": {
-          "en": "The quality of being amusing, comical, funny.",
-          "zh": "幽默"
+          "en": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+          "zh": "再见"
         },
         "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "zh": "同意"
+        },
+        "level": 1
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
+        },
+        "level": 5
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A composition, normally in prose, telling a story and intended to be represented by actors impersonating the characters and speaking the dialogue",
+          "zh": "戏剧"
+        },
+        "level": 5
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "A part of the trunk or a large branch of a tree that has fallen or been cut off.",
+          "zh": "日志"
+        },
+        "level": 5
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To become sleepy or weary.",
+          "zh": "疲劳的"
+        }
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 0,
+        "col": 1,
         "clue": {
-          "en": "To contend in physical conflict, either singly or in war, battle etc.",
-          "zh": "斗争"
-        },
-        "level": 1
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 4,
-        "clue": {
-          "en": "A ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule.",
-          "zh": "渡船"
+          "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+          "zh": "祈祷"
         },
         "level": 4
       },
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Abdominal muscle.",
+          "zh": "腹肌"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "The chemical element (symbol O) with an atomic number of 8 and relative atomic mass of 15.9994. It is a colorless and odorless gas.",
+          "zh": "氧"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
         "row": 1,
         "col": 2,
         "clue": {
-          "en": "A quantity obtained by addition or aggregation.",
-          "zh": "和"
+          "en": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+          "zh": "主意"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "The act of pulling back or withdrawing, as from something dangerous, or unpleasant.",
+          "zh": "撤退"
         },
         "level": 5
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.",
+          "zh": "橡树"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A group of objects held together by wrapping or tying.",
+          "zh": "捆"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "Occurring at any time, occurring even but once during a timespan.",
+          "zh": "曾经"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A measure of the extent of a surface; it is measured in square units.",
+          "zh": "区域"
+        },
+        "level": 1
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
       }
     ]
   },
-  "difficulty": "easy",
-  "gridSize": 5,
-  "exam": "sat"
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "senior_high"
 }

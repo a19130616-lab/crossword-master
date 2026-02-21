@@ -1,0 +1,448 @@
+{
+  "id": "puzzle_114",
+  "title": "Hard #4",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "C",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      null,
+      "E"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      null,
+      "G",
+      "E",
+      "M"
+    ],
+    [
+      null,
+      "T",
+      "T",
+      null,
+      "P",
+      "H",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      "T",
+      "A",
+      null,
+      "D",
+      "R"
+    ],
+    [
+      "X",
+      null,
+      "P",
+      "R",
+      "I",
+      "M",
+      "E",
+      null,
+      "G"
+    ],
+    [
+      "E",
+      "P",
+      null,
+      "U",
+      "C",
+      null,
+      "D",
+      "O",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "G",
+      "A",
+      null,
+      "I",
+      "V",
+      null
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      null,
+      "L",
+      "A",
+      "T",
+      "E",
+      "X"
+    ],
+    [
+      "T",
+      null,
+      "W",
+      null,
+      null,
+      null,
+      null,
+      "N",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        7
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A genre of dance music that was popular in the 1970s, characterized by elements of soul music with a strong Latin-American beat and often accompanied by pulsating lights.",
+          "zh": "迪斯科"
+        },
+        "level": 7
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A precious stone, usually of substantial monetary value or prized for its beauty or shine.",
+          "zh": "宝石"
+        },
+        "level": 7
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+          "zh": "电话"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "The first hour of daylight; the first canonical hour.",
+          "zh": "主要的"
+        },
+        "level": 5
+      },
+      {
+        "num": 21,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "A female deer; also used of similar animals such as antelope, (less commonly goat as nanny is also used).",
+          "zh": "母鹿"
+        },
+        "level": 6
+      },
+      {
+        "num": 23,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A comic originating in Japan.",
+          "zh": "漫画"
+        },
+        "level": 6
+      },
+      {
+        "num": 26,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+          "zh": "专业人士"
+        },
+        "level": 1
+      },
+      {
+        "num": 27,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "A clear liquid believed to be a component of a humour or other bodily fluid (esp. plasma and lymph)",
+          "zh": "乳胶"
+        },
+        "level": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+          "zh": "城市"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To come into view.",
+          "zh": "出现"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "An advance or movement made from one foot to the other; a pace.",
+          "zh": "步"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "Of, or relating to sight; visual.",
+          "zh": "光学的"
+        },
+        "level": 5
+      },
+      {
+        "num": 8,
+        "row": 1,
+        "col": 7,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The region back of the knee joint; the popliteal space; the hock.",
+          "zh": "火腿"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "One who has been released from something.",
+          "zh": "豁免"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "A partial covering for a floor.",
+          "zh": "地毯"
+        },
+        "level": 5
+      },
+      {
+        "num": 17,
+        "row": 4,
+        "col": 6,
+        "clue": {
+          "en": "A change to the text of a document.",
+          "zh": "编辑"
+        },
+        "level": 6
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+          "zh": "标杆"
+        },
+        "level": 4
+      },
+      {
+        "num": 22,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "A chamber used for baking or heating.",
+          "zh": "烤箱"
+        },
+        "level": 5
+      },
+      {
+        "num": 24,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "The present time.",
+          "zh": "现在"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet6"
+}

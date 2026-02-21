@@ -1,226 +1,114 @@
 {
   "id": "puzzle_007",
-  "title": "Hard #1",
-  "rows": 9,
-  "cols": 9,
+  "title": "Easy #7",
+  "rows": 5,
+  "cols": 5,
   "solution": [
     [
+      "S",
       null,
+      "A",
       "G",
-      null,
-      null,
-      null,
-      null,
+      "E"
+    ],
+    [
+      "O",
       "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "O",
       null,
-      "P"
+      "T",
+      "J"
     ],
     [
       "V",
       "I",
       "D",
       "E",
-      "O",
-      null,
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "V",
-      "A",
-      null,
-      "P",
-      "A",
-      "P",
-      "E",
-      "R"
-    ],
-    [
-      "S",
-      "E",
-      "T",
-      null,
-      "E",
-      "R",
-      null,
-      "A",
-      "S"
-    ],
-    [
-      "E",
-      null,
-      "E",
-      "A",
-      "R",
-      "T",
-      "H",
-      null,
       "O"
     ],
     [
-      "C",
-      "J",
-      null,
-      "G",
-      "A",
-      null,
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "R",
-      "O",
-      "B",
-      "O",
-      "T",
-      null,
-      "S",
-      "O",
-      null
-    ],
-    [
       "E",
-      "Y",
-      "E",
+      "N",
+      "D",
       null,
-      "E",
-      "X",
-      "T",
-      "R",
-      "A"
-    ],
-    [
-      "T",
-      null,
-      "E",
-      null,
-      null,
-      null,
-      null,
-      "K",
-      null
+      "Y"
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        4,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        1,
-        7
+        3,
+        0
       ],
       [
         1,
         2
       ],
       [
-        8,
-        7
-      ],
-      [
-        5,
-        3
-      ],
-      [
-        4,
+        2,
         0
       ],
       [
-        2,
-        6
-      ],
-      [
         4,
-        6
-      ],
-      [
-        4,
-        5
+        4
       ],
       [
         0,
-        1
-      ],
-      [
-        2,
-        4
+        2
       ]
     ],
     "medium": [
       [
-        4,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        5,
-        7
-      ],
-      [
-        1,
-        7
+        3,
+        0
       ],
       [
         1,
         2
       ],
       [
-        8,
-        7
-      ],
-      [
-        5,
-        3
+        2,
+        0
       ]
     ],
     "hard": [
       [
-        4,
-        4
-      ],
-      [
-        6,
-        4
-      ],
-      [
-        6,
-        1
-      ],
-      [
-        5,
-        7
+        3,
+        0
       ]
     ]
   },
   "clues": {
     "across": [
       {
-        "num": 4,
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 5,
         "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "One of the large bodies of water separating the continents.",
+          "zh": "海洋"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 3,
         "col": 0,
         "clue": {
           "en": "Television, television show, movie.",
@@ -229,82 +117,12 @@
         "level": 1
       },
       {
-        "num": 7,
-        "row": 1,
-        "col": 6,
-        "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
-        },
-        "level": 1
-      },
-      {
-        "num": 10,
-        "row": 2,
-        "col": 4,
-        "clue": {
-          "en": "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
-          "zh": "纸"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "To put (something) down, to rest.",
-          "zh": "放"
-        },
-        "level": 1
-      },
-      {
-        "num": 15,
+        "num": 11,
         "row": 4,
-        "col": 2,
-        "clue": {
-          "en": "The third planet of the Solar System; the world upon which humans live.",
-          "zh": "地球"
-        },
-        "level": 1
-      },
-      {
-        "num": 21,
-        "row": 5,
-        "col": 6,
-        "clue": {
-          "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-          "zh": "自己的"
-        },
-        "level": 1
-      },
-      {
-        "num": 23,
-        "row": 6,
         "col": 0,
         "clue": {
-          "en": "A machine built to carry out some complex task or group of tasks by physically moving, especially one which can be programmed.",
-          "zh": "机器人"
-        },
-        "level": 1
-      },
-      {
-        "num": 26,
-        "row": 7,
-        "col": 0,
-        "clue": {
-          "en": "An organ through which animals see (perceive surroundings via light).",
-          "zh": "眼睛"
-        },
-        "level": 1
-      },
-      {
-        "num": 27,
-        "row": 7,
-        "col": 4,
-        "clue": {
-          "en": "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill.",
-          "zh": "额外的"
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
         },
         "level": 1
       }
@@ -313,136 +131,46 @@
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 0,
         "clue": {
-          "en": "To freely transfer the possession of something to someone.",
-          "zh": "给"
-        },
-        "level": 1
-      },
-      {
-        "num": 2,
-        "row": 0,
-        "col": 6,
-        "clue": {
-          "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
-          "zh": "杯子"
+          "en": "(chiefly law enforcement) A solution; an explanation.",
+          "zh": "解决"
         },
         "level": 1
       },
       {
         "num": 3,
         "row": 0,
-        "col": 8,
+        "col": 3,
         "clue": {
-          "en": "An individual; usually a human being.",
-          "zh": "人"
+          "en": "A doorlike structure outside a house.",
+          "zh": "门"
         },
         "level": 1
       },
       {
-        "num": 5,
-        "row": 1,
-        "col": 2,
+        "num": 4,
+        "row": 0,
+        "col": 4,
         "clue": {
-          "en": "The day of the month or year as specified by a number; a social appointment with a romantic interest.",
-          "zh": "日期"
+          "en": "To receive pleasure or satisfaction from something",
+          "zh": "享受"
         },
         "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 4,
-        "clue": {
-          "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
-          "zh": "操作"
-        },
-        "level": 1
-      },
-      {
-        "num": 8,
-        "row": 1,
-        "col": 7,
-        "clue": {
-          "en": "A large body of salt water.",
-          "zh": "海"
-        },
-        "level": 1
-      },
-      {
-        "num": 11,
-        "row": 2,
-        "col": 5,
-        "clue": {
-          "en": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
-          "zh": "艺术"
-        },
-        "level": 1
-      },
-      {
-        "num": 12,
-        "row": 3,
-        "col": 0,
-        "clue": {
-          "en": "A piece of knowledge that is hidden and intended to be kept hidden.",
-          "zh": "秘密"
-        },
-        "level": 1
-      },
-      {
-        "num": 16,
-        "row": 4,
-        "col": 3,
-        "clue": {
-          "en": "Gone; gone by; gone away; passed; passed away.",
-          "zh": "前"
-        },
-        "level": 1
-      },
-      {
-        "num": 17,
-        "row": 4,
-        "col": 6,
-        "clue": {
-          "en": "One which receives or entertains a guest, socially, commercially, or officially.",
-          "zh": "主持人"
-        },
-        "level": 1
-      },
-      {
-        "num": 19,
-        "row": 5,
         "col": 1,
         "clue": {
-          "en": "A feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good.",
-          "zh": "喜悦"
-        },
-        "level": 1
-      },
-      {
-        "num": 22,
-        "row": 5,
-        "col": 7,
-        "clue": {
-          "en": "(heading) Employment.",
-          "zh": "工作"
-        },
-        "level": 1
-      },
-      {
-        "num": 24,
-        "row": 6,
-        "col": 2,
-        "clue": {
-          "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-          "zh": "蜜蜂"
+          "en": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",
+          "zh": "硬币"
         },
         "level": 1
       }
     ]
   },
-  "difficulty": "hard",
-  "gridSize": 9,
+  "difficulty": "easy",
+  "gridSize": 5,
   "exam": "junior_high"
 }

@@ -1,0 +1,176 @@
+{
+  "id": "puzzle_098",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "S",
+      null,
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "T",
+      "H"
+    ],
+    [
+      "U",
+      "A",
+      null,
+      "O",
+      "R"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "Y",
+      null,
+      "E"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "medium": [
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "hard": [
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A piece of protective or decorative floor covering, typically placed at a doorway.",
+          "zh": "垫"
+        },
+        "level": 4
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "The ability to be enforced, or to be enforced to any useful effect.",
+          "zh": "牙齿"
+        },
+        "level": 6
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The structural elements of a building or other constructed object.",
+          "zh": "框架"
+        },
+        "level": 5
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "zh": "飞"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Miscellaneous items or objects; (with possessive) personal effects.",
+          "zh": "东西"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "The digit/figure 3.",
+          "zh": "三"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "(nobility) A British or Irish nobleman next in rank above a viscount and below a marquess; equivalent to a European count. A female using the style is termed a countess.",
+          "zh": "伯爵"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "cet6"
+}

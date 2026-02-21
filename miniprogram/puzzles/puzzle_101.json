@@ -1,0 +1,262 @@
+{
+  "id": "puzzle_101",
+  "title": "Medium #1",
+  "rows": 7,
+  "cols": 7,
+  "solution": [
+    [
+      null,
+      "L",
+      null,
+      "S",
+      null,
+      null,
+      "G"
+    ],
+    [
+      "R",
+      "E",
+      "Q",
+      "U",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      null,
+      "T",
+      "A",
+      "B",
+      null,
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "T",
+      null,
+      "J",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      null,
+      "E",
+      "N",
+      "D",
+      null
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "H",
+      null,
+      null,
+      "T",
+      null,
+      "M",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "medium": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "hard": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To ask (someone) for something; to request.",
+          "zh": "要求"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 1,
+        "clue": {
+          "en": "A small flap or strip of material attached to something, for holding, manipulation, identification, opening etc.",
+          "zh": "标签"
+        },
+        "level": 6
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "A silver Genovese coin, first used in England in the 14th century.",
+          "zh": "简"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "A vehicle used in farms e.g. for pulling farm equipment and preparing the fields.",
+          "zh": "拖拉机"
+        },
+        "level": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A symbol in an alphabet.",
+          "zh": "信"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "Likely to be affected by or to experience something.",
+          "zh": "主题"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 6,
+        "clue": {
+          "en": "A unit of heredity transferred from parent to offspring, determining a characteristic of that offspring.",
+          "zh": "基因"
+        },
+        "level": 5
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A roving motion; course without definite direction; lack of rule or method; chance.",
+          "zh": "随机的"
+        },
+        "level": 4
+      },
+      {
+        "num": 9,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A mowing; what is gathered from mowing.",
+          "zh": "数学"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females.",
+          "zh": "蚂蚁"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "medium",
+  "gridSize": 7,
+  "exam": "cet6"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "puzzle_188",
+  "title": "Easy #8",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      null,
+      "G",
+      "Y",
+      "M",
+      null
+    ],
+    [
+      "O",
+      "R",
+      null,
+      "I",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "T",
+      "V",
+      null,
+      "O",
+      "E"
+    ],
+    [
+      null,
+      "E",
+      "A",
+      "R",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        3,
+        1
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A sports facility specialized for lifting weights and exercise.",
+          "zh": "健身房"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "The sharp, tapered end of a tool, weapon, or other object; a particular spot or location.",
+          "zh": "观点"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "The organ on either side of the head used for hearing.",
+          "zh": "耳朵"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "A small forest.",
+          "zh": "树林"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.",
+          "zh": "次要的"
+        },
+        "level": 5
+      },
+      {
+        "num": 3,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "To choose; select.",
+          "zh": "选择"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To ingest; to be ingested.",
+          "zh": "吃了"
+        },
+        "level": 6
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_205",
+  "title": "Hard #5",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "K",
+      null,
+      null,
+      "T",
+      null,
+      "S",
+      "P"
+    ],
+    [
+      "T",
+      "H",
+      "I",
+      "N",
+      null,
+      "R",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      null,
+      "O",
+      "T",
+      null,
+      null,
+      "A",
+      null,
+      "R",
+      "T"
+    ],
+    [
+      null,
+      "M",
+      null,
+      "A",
+      "R",
+      "I",
+      "S",
+      "E",
+      null
+    ],
+    [
+      "F",
+      "E",
+      "E",
+      "L",
+      null,
+      "N",
+      null,
+      "N",
+      null
+    ],
+    [
+      null,
+      "T",
+      "O",
+      "W",
+      "N",
+      null,
+      null,
+      "G",
+      null
+    ],
+    [
+      "D",
+      "O",
+      null,
+      "A",
+      "D",
+      "M",
+      "I",
+      "T",
+      null
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "Y",
+      null,
+      "E",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      "N",
+      "N",
+      null,
+      "S",
+      null,
+      "T",
+      "E",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        6
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+          "zh": "薄的"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "A measure, quantity, or frequency measured against some other quantity or measure.",
+          "zh": "速度"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "To come up from a lower to a higher position.",
+          "zh": "出现"
+        },
+        "level": 4
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "A quality of an object experienced by touch.",
+          "zh": "感觉"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city.",
+          "zh": "镇"
+        },
+        "level": 1
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+          "zh": "承认"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "To depart; to go to another place.",
+          "zh": "离开"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "A reflected sound that is heard again by its initial observer.",
+          "zh": "回声"
+        },
+        "level": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A circular wooden vessel, made of hooped staves.",
+          "zh": "成套工具"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "Elongated portion.",
+          "zh": "火车"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "The quality or degree of being strong.",
+          "zh": "力量"
+        },
+        "level": 4
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "An animal kept as a companion.",
+          "zh": "宠物"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "An individual’s place of birth, childhood home, or place of main residence.",
+          "zh": "家乡"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "At all times; throughout all time; since the beginning.",
+          "zh": "总是"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "A title of honour similar to \"master\" or \"father\", used of historical and legendary figures of the past.",
+          "zh": "担"
+        },
+        "level": 6
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "Water in frozen (solid) form.",
+          "zh": "冰"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "sat"
+}

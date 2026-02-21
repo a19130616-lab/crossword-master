@@ -1,0 +1,196 @@
+{
+  "id": "puzzle_183",
+  "title": "Easy #3",
+  "rows": 5,
+  "cols": 5,
+  "solution": [
+    [
+      "L",
+      "A",
+      "I",
+      "D",
+      null
+    ],
+    [
+      "O",
+      "L",
+      "D",
+      null,
+      "G"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "K",
+      null,
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "F",
+      "L",
+      "O",
+      "W"
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        0,
+        3
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "(of paper) Marked with parallel lines, as if ribbed, from wires in the mould.",
+          "zh": "铺设"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "Having lived for a long time; no longer young.",
+          "zh": "老的"
+        },
+        "level": 1
+      },
+      {
+        "num": 6,
+        "row": 2,
+        "col": 0,
+        "clue": {
+          "en": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+          "zh": "清除"
+        },
+        "level": 1
+      },
+      {
+        "num": 8,
+        "row": 3,
+        "col": 2,
+        "clue": {
+          "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+          "zh": "年龄"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 4,
+        "col": 1,
+        "clue": {
+          "en": "A movement in people or things with a particular way in large numbers or amounts",
+          "zh": "流动"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 0,
+        "clue": {
+          "en": "Something used for fastening, which can only be opened with a key or combination.",
+          "zh": "锁"
+        },
+        "level": 1
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+          "zh": "理想的"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 4,
+        "clue": {
+          "en": "To become larger, to increase in magnitude.",
+          "zh": "长大了"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 2,
+        "col": 3,
+        "clue": {
+          "en": "Gone; gone by; gone away; passed; passed away.",
+          "zh": "前"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "easy",
+  "gridSize": 5,
+  "exam": "sat"
+}

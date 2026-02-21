@@ -1,0 +1,456 @@
+{
+  "id": "puzzle_090",
+  "title": "Hard #10",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      "T",
+      null,
+      "V",
+      "A",
+      "N",
+      null,
+      null,
+      "W"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "N",
+      "G",
+      null,
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      null,
+      "U",
+      "B",
+      null,
+      "E",
+      "Y",
+      "E",
+      null,
+      "R"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      null,
+      "D",
+      "E",
+      "V",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      null,
+      "S",
+      "S",
+      null,
+      "N",
+      "E",
+      null,
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "I",
+      "E",
+      "D",
+      null,
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      null,
+      "T",
+      "E",
+      "A",
+      null,
+      "A",
+      "A",
+      null
+    ],
+    [
+      "T",
+      "O",
+      "Y",
+      null,
+      "W",
+      "E",
+      "L",
+      "S",
+      "H"
+    ],
+    [
+      "E",
+      null,
+      null,
+      "E",
+      "N",
+      "D",
+      null,
+      "E",
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        7,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "medium": [
+      [
+        7,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "hard": [
+      [
+        7,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        8
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 2,
+        "row": 0,
+        "col": 3,
+        "clue": {
+          "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+          "zh": "面包车"
+        },
+        "level": 5
+      },
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A strip of leather.",
+          "zh": "丁字裤"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "A large body of salt water.",
+          "zh": "海"
+        },
+        "level": 1
+      },
+      {
+        "num": 9,
+        "row": 2,
+        "col": 4,
+        "clue": {
+          "en": "An organ through which animals see (perceive surroundings via light).",
+          "zh": "眼睛"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
+        },
+        "level": 1
+      },
+      {
+        "num": 12,
+        "row": 3,
+        "col": 4,
+        "clue": {
+          "en": "(Eastern Australia) A type of processed meat sausage.",
+          "zh": "德文郡"
+        },
+        "level": 6
+      },
+      {
+        "num": 16,
+        "row": 5,
+        "col": 0,
+        "clue": {
+          "en": "Without water or moisture, said of something that has previously been wet or moist; resulting from the process of drying.",
+          "zh": "干的"
+        },
+        "level": 6
+      },
+      {
+        "num": 18,
+        "row": 5,
+        "col": 6,
+        "clue": {
+          "en": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+          "zh": "红色的"
+        },
+        "level": 1
+      },
+      {
+        "num": 20,
+        "row": 6,
+        "col": 2,
+        "clue": {
+          "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+          "zh": "茶"
+        },
+        "level": 1
+      },
+      {
+        "num": 22,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "Something to play with, especially as intended for use by a child.",
+          "zh": "玩具"
+        },
+        "level": 1
+      },
+      {
+        "num": 23,
+        "row": 7,
+        "col": 4,
+        "clue": {
+          "en": "To swindle someone by not paying a debt, especially a gambling debt.",
+          "zh": "威尔士语"
+        },
+        "level": 6
+      },
+      {
+        "num": 25,
+        "row": 8,
+        "col": 3,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 1,
+        "clue": {
+          "en": "(manner) In this way or manner.",
+          "zh": "因此"
+        },
+        "level": 4
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 4,
+        "clue": {
+          "en": "To cause to grow old; to impart the characteristics of age to.",
+          "zh": "老年的"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "To make (someone) aware of (something impending); especially:",
+          "zh": "警告"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 2,
+        "clue": {
+          "en": "The state of being obese due to an excess of body fat.",
+          "zh": "肥胖"
+        },
+        "level": 6
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 6,
+        "clue": {
+          "en": "An area of land in private ownership (as opposed to common land).",
+          "zh": "一些"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 2,
+        "col": 5,
+        "clue": {
+          "en": "The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+          "zh": "日元"
+        },
+        "level": 6
+      },
+      {
+        "num": 11,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "An advisement providing more up-to-date information than currently known.",
+          "zh": "更新"
+        },
+        "level": 4
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 3,
+        "clue": {
+          "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+          "zh": "看"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 5,
+        "col": 4,
+        "clue": {
+          "en": "The morning twilight period immediately before sunrise.",
+          "zh": "黎明"
+        },
+        "level": 4
+      },
+      {
+        "num": 19,
+        "row": 5,
+        "col": 7,
+        "clue": {
+          "en": "Ability, the means to do something, particularly:",
+          "zh": "舒适"
+        },
+        "level": 4
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "cet4"
+}

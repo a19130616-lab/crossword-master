@@ -1,145 +1,141 @@
 {
   "id": "puzzle_015",
-  "title": "Medium #3",
+  "title": "Medium #5",
   "rows": 7,
   "cols": 7,
   "solution": [
     [
       null,
-      "B",
       null,
+      "A",
+      "L",
+      "L",
       null,
-      "U",
+      "T"
+    ],
+    [
       "S",
+      "U",
+      "R",
+      "F",
+      "A",
+      "C",
       "E"
     ],
     [
-      "H",
-      "U",
+      null,
       "N",
-      "D",
-      "R",
+      "M",
+      null,
+      "W",
+      "A",
+      "R"
+    ],
+    [
+      "B",
+      "T",
+      null,
+      null,
+      null,
+      "U",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "M",
+      null,
+      "U",
+      "S",
+      null
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
       "E",
       "D"
     ],
     [
-      "E",
-      "R",
-      null,
       "Y",
-      "G",
       null,
-      "I"
-    ],
-    [
-      "A",
-      "N",
-      "C",
-      "I",
-      "E",
-      "N",
-      "T"
-    ],
-    [
-      "L",
-      null,
-      "H",
-      "N",
-      null,
-      "E",
-      "O"
-    ],
-    [
       "T",
-      "R",
       "I",
-      "G",
-      "G",
       "E",
-      "R"
-    ],
-    [
-      "H",
-      "I",
-      "P",
       null,
-      null,
-      "D",
       null
     ]
   ],
   "prefilled": {
     "easy": [
       [
-        3,
-        6
+        4,
+        1
       ],
       [
-        5,
-        6
-      ],
-      [
-        5,
+        6,
         2
       ],
       [
-        5,
-        0
-      ],
-      [
-        5,
+        2,
         4
       ],
       [
-        2,
-        3
+        4,
+        2
       ],
       [
-        5,
+        4,
         5
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        3
       ],
       [
         1,
         3
       ],
       [
-        2,
+        1,
         4
       ]
     ],
     "medium": [
       [
-        3,
-        6
+        4,
+        1
       ],
       [
-        5,
-        6
-      ],
-      [
-        5,
+        6,
         2
       ],
       [
-        5,
-        0
+        2,
+        4
       ],
       [
-        5,
-        4
+        4,
+        2
+      ],
+      [
+        4,
+        5
       ]
     ],
     "hard": [
       [
-        3,
-        6
+        4,
+        1
       ],
       [
-        5,
-        6
-      ],
-      [
-        5,
+        6,
         2
       ]
     ]
@@ -147,12 +143,12 @@
   "clues": {
     "across": [
       {
-        "num": 2,
+        "num": 1,
         "row": 0,
-        "col": 4,
+        "col": 2,
         "clue": {
-          "en": "The act of using.",
-          "zh": "使用"
+          "en": "(with a possessive pronoun) Everything that one is capable of.",
+          "zh": "全部"
         },
         "level": 1
       },
@@ -161,110 +157,129 @@
         "row": 1,
         "col": 0,
         "clue": {
-          "en": "The number equivalent to ten times ten; 100.",
-          "zh": "百"
+          "en": "The overside or up-side of a flat object such as a table, or of a liquid.",
+          "zh": "表面"
         },
         "level": 1
       },
       {
         "num": 9,
-        "row": 3,
-        "col": 0,
+        "row": 2,
+        "col": 4,
         "clue": {
-          "en": "A person who is very old.",
-          "zh": "古老的"
+          "en": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces.",
+          "zh": "战争"
         },
         "level": 1
       },
       {
-        "num": 14,
+        "num": 12,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "zh": "目的"
+        },
+        "level": 1
+      },
+      {
+        "num": 15,
         "row": 5,
         "col": 0,
         "clue": {
-          "en": "A finger-operated lever used to fire a gun.",
-          "zh": "扳机"
-        },
-        "level": 5
+          "en": "To make something holy by religious rite, sanctify.",
+          "zh": "有福的"
+        }
       },
       {
-        "num": 16,
+        "num": 17,
         "row": 6,
-        "col": 0,
+        "col": 2,
         "clue": {
-          "en": "The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.",
-          "zh": "臀部"
+          "en": "A strip of cloth worn around the collar and tied in a knot at the front; a necktie.",
+          "zh": "领带"
         },
-        "level": 5
+        "level": 1
       }
     ],
     "down": [
       {
         "num": 1,
         "row": 0,
-        "col": 1,
+        "col": 2,
         "clue": {
-          "en": "A physical injury caused by heat, cold, electricity, radiation or caustic chemicals.",
-          "zh": "烧伤"
+          "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "zh": "手臂"
         },
         "level": 1
       },
       {
-        "num": 2,
+        "num": 3,
         "row": 0,
         "col": 4,
         "clue": {
-          "en": "A strong desire; an itch to do something.",
-          "zh": "敦促"
+          "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+          "zh": "法律"
         },
-        "level": 4
+        "level": 1
       },
       {
         "num": 4,
         "row": 0,
         "col": 6,
         "clue": {
-          "en": "A person who edits or makes changes to documents.",
-          "zh": "编辑"
-        },
-        "level": 4
-      },
-      {
-        "num": 5,
-        "row": 1,
-        "col": 0,
-        "clue": {
-          "en": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
-          "zh": "健康"
+          "en": "A word or phrase used to describe a thing or express a concept; a fixed period of time.",
+          "zh": "学期"
         },
         "level": 1
       },
       {
         "num": 6,
         "row": 1,
-        "col": 3,
+        "col": 1,
         "clue": {
-          "en": "To stop living; to become dead; to undergo death.",
-          "zh": "垂死"
-        },
-        "level": 5
-      },
-      {
-        "num": 10,
-        "row": 3,
-        "col": 2,
-        "clue": {
-          "en": "A small piece broken from a larger piece of solid material.",
-          "zh": "芯片"
+          "en": "Up to the time of (something happening).",
+          "zh": "直到"
         },
         "level": 1
       },
       {
-        "num": 11,
-        "row": 3,
+        "num": 7,
+        "row": 1,
         "col": 5,
         "clue": {
-          "en": "To require something because it is essential or very important.",
-          "zh": "需要"
+          "en": "(often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+          "zh": "原因"
+        },
+        "level": 1
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 0,
+        "clue": {
+          "en": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.",
+          "zh": "婴儿"
+        },
+        "level": 1
+      },
+      {
+        "num": 13,
+        "row": 4,
+        "col": 2,
+        "clue": {
+          "en": "To make contact (with) while in proximity.",
+          "zh": "遇见"
+        },
+        "level": 1
+      },
+      {
+        "num": 14,
+        "row": 4,
+        "col": 4,
+        "clue": {
+          "en": "The act of using.",
+          "zh": "使用"
         },
         "level": 1
       }
@@ -272,5 +287,5 @@
   },
   "difficulty": "medium",
   "gridSize": 7,
-  "exam": "senior_high"
+  "exam": "junior_high"
 }

@@ -1,0 +1,394 @@
+{
+  "id": "puzzle_142",
+  "title": "Hard #2",
+  "rows": 9,
+  "cols": 9,
+  "solution": [
+    [
+      null,
+      null,
+      "A",
+      null,
+      null,
+      "S",
+      null,
+      "B",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "H",
+      null,
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      null,
+      "O",
+      "E",
+      null,
+      null,
+      "L",
+      null,
+      "U",
+      "E"
+    ],
+    [
+      null,
+      "B",
+      null,
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      null
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      null,
+      "D",
+      null,
+      "E",
+      null
+    ],
+    [
+      null,
+      "L",
+      "O",
+      "A",
+      "N",
+      null,
+      null,
+      "T",
+      null
+    ],
+    [
+      "P",
+      "I",
+      null,
+      "U",
+      "P",
+      "S",
+      "E",
+      "T",
+      null
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "M",
+      null,
+      "K",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      "Y",
+      null,
+      "A",
+      null,
+      "Y",
+      "D",
+      null,
+      null
+    ]
+  ],
+  "prefilled": {
+    "easy": [
+      [
+        6,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "medium": [
+      [
+        6,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "hard": [
+      [
+        6,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ]
+    ]
+  },
+  "clues": {
+    "across": [
+      {
+        "num": 5,
+        "row": 1,
+        "col": 0,
+        "clue": {
+          "en": "A unit of length equal to one twelfth of a foot, or exactly 2.54 centimetres.",
+          "zh": "英寸"
+        },
+        "level": 1
+      },
+      {
+        "num": 7,
+        "row": 1,
+        "col": 5,
+        "clue": {
+          "en": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+          "zh": "英亩"
+        },
+        "level": 4
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Elongated portion.",
+          "zh": "火车"
+        },
+        "level": 1
+      },
+      {
+        "num": 11,
+        "row": 4,
+        "col": 0,
+        "clue": {
+          "en": "One who ties (knots, etc).",
+          "zh": "层"
+        },
+        "level": 6
+      },
+      {
+        "num": 13,
+        "row": 5,
+        "col": 1,
+        "clue": {
+          "en": "An act or instance of lending, an act or instance of granting something for temporary use.",
+          "zh": "贷款"
+        },
+        "level": 5
+      },
+      {
+        "num": 16,
+        "row": 6,
+        "col": 3,
+        "clue": {
+          "en": "Disturbance or disruption.",
+          "zh": "沮丧的"
+        },
+        "level": 1
+      },
+      {
+        "num": 19,
+        "row": 7,
+        "col": 0,
+        "clue": {
+          "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+          "zh": "原子"
+        },
+        "level": 4
+      },
+      {
+        "num": 20,
+        "row": 7,
+        "col": 5,
+        "clue": {
+          "en": "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank.",
+          "zh": "膝盖"
+        },
+        "level": 1
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "row": 0,
+        "col": 2,
+        "clue": {
+          "en": "A playing card with a single pip on it, ranked as the highest card in most games.",
+          "zh": "高手"
+        },
+        "level": 6
+      },
+      {
+        "num": 2,
+        "row": 0,
+        "col": 5,
+        "clue": {
+          "en": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.",
+          "zh": "沙拉"
+        },
+        "level": 1
+      },
+      {
+        "num": 3,
+        "row": 0,
+        "col": 7,
+        "clue": {
+          "en": "A person, especially female, with brown or black hair and, often, dark eyes and darkish or olive skin.",
+          "zh": "黑发"
+        },
+        "level": 6
+      },
+      {
+        "num": 4,
+        "row": 0,
+        "col": 8,
+        "clue": {
+          "en": "A small peg placed in the ground to support a golf ball before it is struck.",
+          "zh": "球座"
+        },
+        "level": 6
+      },
+      {
+        "num": 6,
+        "row": 1,
+        "col": 1,
+        "clue": {
+          "en": "A noble or privileged social class, historically accompanied by a hereditary title; aristocracy.",
+          "zh": "贵族"
+        },
+        "level": 7
+      },
+      {
+        "num": 10,
+        "row": 3,
+        "col": 3,
+        "clue": {
+          "en": "Any serious injury to the body, often resulting from violence or an accident.",
+          "zh": "创伤"
+        },
+        "level": 7
+      },
+      {
+        "num": 15,
+        "row": 6,
+        "col": 0,
+        "clue": {
+          "en": "To give someone money owed for work done, goods received, or a debt incurred.",
+          "zh": "支付"
+        },
+        "level": 1
+      },
+      {
+        "num": 17,
+        "row": 6,
+        "col": 5,
+        "clue": {
+          "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+          "zh": "天空"
+        },
+        "level": 1
+      },
+      {
+        "num": 18,
+        "row": 6,
+        "col": 6,
+        "clue": {
+          "en": "The terminal point of something in space or time.",
+          "zh": "结尾"
+        },
+        "level": 1
+      }
+    ]
+  },
+  "difficulty": "hard",
+  "gridSize": 9,
+  "exam": "graduate"
+}
